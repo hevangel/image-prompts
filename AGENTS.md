@@ -3,7 +3,15 @@
 This repo is a static website (GitHub Pages, served from the repo root) that
 collects image generation prompts and shows what each prompt does to sample
 photos. There is no build step. `index.html` fetches `index.json` and renders
-everything from it — never hardcode entries into the HTML.
+everything from it — never hardcode entries into the HTML. The page has two
+tabs: Samples (left = original photos, right = generated images, filterable
+by keyword and by the model recorded in each sample's `generations.json`,
+which the page also fetches) and Prompts (card catalog with a keyword
+search; clicking a card opens a detail view with the prompt text extracted
+from its `prompt.md` — the `## The prompt` section — plus a copy button on
+the left, and the post images + samples for that prompt on the right). Keep
+those data flows working when editing the page: manifest-driven, plain
+static files, no frameworks.
 
 ## Structure
 

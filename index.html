@@ -5,113 +5,407 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Image Prompts — a collection of photo-transformation prompts</title>
 <style>
-  :root { color-scheme: light dark; --fg:#1c1e21; --muted:#5f6368; --card:#f4f4f2; --line:#ddd; }
-  @media (prefers-color-scheme: dark) { :root { --fg:#e8eaed; --muted:#9aa0a6; --card:#1f2124; --line:#3a3d40; } }
+  :root { color-scheme: light dark; --fg:#1c1e21; --muted:#5f6368; --card:#f4f4f2; --line:#ddd; --accent:#0b57d0; }
+  @media (prefers-color-scheme: dark) { :root { --fg:#e8eaed; --muted:#9aa0a6; --card:#1f2124; --line:#3a3d40; --accent:#a8c7fa; } }
   * { box-sizing: border-box; }
   body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color:var(--fg); line-height:1.55; }
-  header, main, footer { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
-  header { padding-top: 48px; }
+  header, main, footer { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+  header { padding-top: 40px; }
   h1 { font-size: 2rem; margin: 0 0 8px; letter-spacing: .02em; }
-  header p { color: var(--muted); max-width: 60ch; margin: 0; }
-  h2 { font-size: 1.3rem; margin: 44px 0 16px; }
+  header p { color: var(--muted); max-width: 65ch; margin: 0; }
+  h2 { font-size: 1.25rem; margin: 0 0 14px; }
+  h3 { font-size: 1.05rem; margin: 0 0 8px; }
+  a { color: inherit; }
+  button { font: inherit; cursor: pointer; }
+
+  /* Tabs */
+  .tabs { display: flex; gap: 8px; margin: 28px 0 22px; border-bottom: 1px solid var(--line); }
+  .tab-btn { background: none; border: none; border-bottom: 3px solid transparent; padding: 10px 18px; font-size: 1.05rem; color: var(--muted); }
+  .tab-btn[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--accent); font-weight: 600; }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* Filters */
+  .filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 18px; }
+  .filters input[type="search"], .filters select {
+    font: inherit; padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px;
+    background: var(--card); color: var(--fg); min-width: 200px;
+  }
+  .filters input[type="search"] { flex: 1 1 240px; }
+  .empty { color: var(--muted); padding: 24px 0; }
+
+  /* Samples tab: left list + right grid */
+  .samples-layout { display: grid; grid-template-columns: 260px 1fr; gap: 24px; align-items: start; }
+  @media (max-width: 760px) { .samples-layout { grid-template-columns: 1fr; } }
+  .input-list { display: flex; flex-direction: column; gap: 10px; }
+  .input-item { display: flex; gap: 10px; align-items: center; text-align: left; width: 100%;
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 8px; color: var(--fg); }
+  .input-item[aria-pressed="true"] { outline: 2px solid var(--accent); }
+  .input-item img { width: 56px; height: 56px; object-fit: cover; border-radius: 6px; display: block; }
+  .input-item .t { font-size: .92rem; font-weight: 600; }
+  .input-item .n { font-size: .8rem; color: var(--muted); }
+  .gen-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 18px; }
+  .gen-card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .gen-card img { width: 100%; display: block; aspect-ratio: 4/3; object-fit: cover; }
+  .gen-card .body { padding: 10px 14px 14px; }
+  .gen-card .body .p { font-weight: 600; }
+  .meta { color: var(--muted); font-size: .83rem; }
+
+  /* Prompts tab: catalog cards */
   .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
-  .card img { width: 100%; display: block; aspect-ratio: 3/4; object-fit: cover; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; cursor: pointer; }
+  .card:hover { outline: 2px solid var(--accent); }
+  .card > img { width: 100%; display: block; aspect-ratio: 3/4; object-fit: cover; }
   .card .body { padding: 14px 16px 16px; }
   .card h3 { margin: 0 0 4px; font-size: 1.05rem; }
-  .card .meta { color: var(--muted); font-size: .85rem; margin-bottom: 8px; }
+  .card .meta { margin-bottom: 8px; }
   .card p { margin: 0 0 10px; font-size: .92rem; }
-  .card a { color: inherit; }
   .thumbs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding: 0 16px 16px; }
-  .thumbs a { display: block; }
-  .thumbs img { aspect-ratio: 3/4; object-fit: cover; border-radius: 6px; }
-  .sample { margin-bottom: 36px; }
-  .stack { display: grid; grid-template-columns: 1fr; gap: 20px; max-width: 720px; }
-  figure { margin: 0; }
-  figure img { width: 100%; display: block; border-radius: 12px; border: 1px solid var(--line); }
-  figcaption { color: var(--muted); font-size: .85rem; margin-top: 6px; }
-  footer { color: var(--muted); font-size: .85rem; padding-top: 12px; padding-bottom: 40px; }
+  .thumbs img { width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 6px; display: block; }
+
+  /* Prompt detail */
+  .detail { display: none; }
+  .detail.active { display: block; }
+  .detail-head { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 16px; }
+  .back-btn, .copy-btn { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 7px 14px; color: var(--fg); }
+  .detail-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start; }
+  @media (max-width: 860px) { .detail-layout { grid-template-columns: 1fr; } }
+  .prompt-text { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px;
+    white-space: pre-wrap; word-wrap: break-word; font-size: .93rem; max-height: 70vh; overflow: auto; }
+  .detail-actions { display: flex; gap: 10px; align-items: center; margin: 12px 0 4px; flex-wrap: wrap; }
+  .ref-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; margin-bottom: 22px; }
+  .ref-grid img { width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 8px; border: 1px solid var(--line); display: block; }
+  .sample-pair { margin-bottom: 18px; }
+  .sample-pair img.out { width: 100%; border-radius: 12px; border: 1px solid var(--line); display: block; }
+  .sample-pair .in-row { display: flex; gap: 10px; align-items: center; margin-bottom: 8px; }
+  .sample-pair .in-row img { width: 64px; height: 64px; object-fit: cover; border-radius: 6px; display: block; }
+
+  footer { color: var(--muted); font-size: .85rem; padding-top: 28px; padding-bottom: 40px; }
 </style>
 </head>
 <body>
 <header>
   <h1>Image Prompts</h1>
-  <p>A collection of image generation prompts shared by creators — each with its
-     original reference, and samples generated from our own photos.</p>
+  <p>A collection of image generation prompts shared by creators — each with all
+     of its original post images, and samples generated from our own photos.</p>
 </header>
 <main>
-  <h2>Prompts</h2>
-  <div id="prompts" class="grid"></div>
-  <h2>Samples</h2>
-  <div id="samples"></div>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button class="tab-btn" role="tab" id="tabbtn-samples" aria-controls="tab-samples" aria-selected="true">Samples</button>
+    <button class="tab-btn" role="tab" id="tabbtn-prompts" aria-controls="tab-prompts" aria-selected="false">Prompts</button>
+  </nav>
+
+  <!-- Samples tab -->
+  <section class="tab-panel active" id="tab-samples" role="tabpanel" aria-labelledby="tabbtn-samples">
+    <div class="filters">
+      <input type="search" id="sample-keyword" placeholder="Filter generated images by keyword — prompt, photo, notes…" aria-label="Keyword filter for generated images">
+      <select id="sample-model" aria-label="Filter by image model">
+        <option value="">All models</option>
+      </select>
+    </div>
+    <div class="samples-layout">
+      <div>
+        <h2>Original photos</h2>
+        <div class="input-list" id="input-list"></div>
+      </div>
+      <div>
+        <h2>Generated images</h2>
+        <div class="gen-grid" id="gen-grid"></div>
+        <p class="empty" id="gen-empty" hidden>No generated images match the current selection and filters.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Prompts tab -->
+  <section class="tab-panel" id="tab-prompts" role="tabpanel" aria-labelledby="tabbtn-prompts">
+    <div id="catalog-view">
+      <div class="filters">
+        <input type="search" id="prompt-keyword" placeholder="Search prompts by name, style, creator, description…" aria-label="Search prompts">
+      </div>
+      <div class="grid" id="prompts"></div>
+      <p class="empty" id="prompts-empty" hidden>No prompts match your search.</p>
+    </div>
+
+    <div class="detail" id="prompt-detail">
+      <div class="detail-head">
+        <button class="back-btn" id="detail-back">← Back to catalog</button>
+        <h2 id="detail-title" style="margin:0"></h2>
+        <span class="meta" id="detail-meta"></span>
+      </div>
+      <div class="detail-layout">
+        <div>
+          <h3>The prompt</h3>
+          <div class="prompt-text" id="detail-text">Loading…</div>
+          <div class="detail-actions">
+            <button class="copy-btn" id="detail-copy">Copy prompt text</button>
+            <span class="meta" id="copy-status"></span>
+          </div>
+          <p class="meta" id="detail-source"></p>
+        </div>
+        <div>
+          <h3>From the post</h3>
+          <div class="ref-grid" id="detail-refs"></div>
+          <h3>Samples with this prompt</h3>
+          <div id="detail-samples"></div>
+        </div>
+      </div>
+    </div>
+  </section>
 </main>
 <footer>
   Prompts belong to their original creators; every entry links to its source post.
-  Sample outputs are generated locally from our own photos.
+  Sample outputs are generated locally from our own photos, full-frame — the
+  original photo is always shown separately.
 </footer>
 
 <script>
 const REPO = "https://github.com/hevangel/image-prompts/blob/main/";
+let MANIFEST = null;
+const GEN = {};   // sample slug -> { promptSlug: generation record (current) }
+let selectedInput = "all";
+let currentDetailText = "";
 
-function promptName(manifest, slug) {
-  const p = manifest.prompts.find(p => p.slug === slug);
-  return p ? p.name : slug;
-}
+function promptBySlug(slug) { return MANIFEST.prompts.find(p => p.slug === slug); }
+function promptName(slug) { const p = promptBySlug(slug); return p ? p.name : slug; }
+function esc(s) { return String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c])); }
 
-function renderPrompts(manifest) {
-  const el = document.getElementById("prompts");
-  for (const p of manifest.prompts) {
-    const card = document.createElement("article");
-    card.className = "card";
-    const original = p.name_original ? ` · ${p.name_original}` : "";
-    const images = p.reference_images && p.reference_images.length
-      ? p.reference_images
-      : (p.reference_image ? [p.reference_image] : []);
-    const thumbs = images.length > 1 ? `
-      <div class="thumbs">${images.map((src, i) => `
-        <a href="${src}" target="_blank" rel="noopener"><img src="${src}" alt="${p.name} post image ${i + 1} of ${images.length}" loading="lazy"></a>`).join("")}
-      </div>` : "";
-    card.innerHTML = `
-      ${images[0] ? `<img src="${images[0]}" alt="${p.name} reference image">` : ""}
-      <div class="body">
-        <h3>${p.name}${original}</h3>
-        <div class="meta">by ${p.author} · <a href="${p.source_url}" target="_blank" rel="noopener">source post</a></div>
-        <p>${p.summary}</p>
-        <p class="meta">${images.length} image${images.length === 1 ? "" : "s"} from the post</p>
-        <a href="${REPO}${p.prompt_file}" target="_blank" rel="noopener">Read the prompt</a>
-      </div>
-      ${thumbs}`;
-    el.appendChild(card);
+/* ---------- tabs ---------- */
+function showTab(name) {
+  for (const n of ["samples", "prompts"]) {
+    document.getElementById("tab-" + n).classList.toggle("active", n === name);
+    document.getElementById("tabbtn-" + n).setAttribute("aria-selected", n === name ? "true" : "false");
   }
 }
+document.getElementById("tabbtn-samples").addEventListener("click", () => showTab("samples"));
+document.getElementById("tabbtn-prompts").addEventListener("click", () => showTab("prompts"));
 
-function renderSamples(manifest) {
-  const el = document.getElementById("samples");
-  for (const s of manifest.samples) {
-    const block = document.createElement("section");
-    block.className = "sample";
-    let figures = `
-      <figure>
-        <img src="${s.input}" alt="Input photo — ${s.title}">
-        <figcaption>Input — ${s.title}</figcaption>
-      </figure>`;
+/* ---------- samples tab ---------- */
+function generationFor(sampleSlug, promptSlug) {
+  const byPrompt = GEN[sampleSlug] || {};
+  return byPrompt[promptSlug] || null;
+}
+
+function renderInputList() {
+  const el = document.getElementById("input-list");
+  el.innerHTML = "";
+  const mk = (slug, title, img, count) => {
+    const b = document.createElement("button");
+    b.className = "input-item";
+    b.setAttribute("aria-pressed", selectedInput === slug ? "true" : "false");
+    b.innerHTML = `${img ? `<img src="${esc(img)}" alt="">` : ""}<span><span class="t">${esc(title)}</span><br><span class="n">${count} generated</span></span>`;
+    b.addEventListener("click", () => { selectedInput = slug; renderInputList(); renderGenGrid(); });
+    el.appendChild(b);
+  };
+  const total = MANIFEST.samples.reduce((n, s) => n + Object.keys(s.outputs).length, 0);
+  mk("all", "All original photos", null, total);
+  for (const s of MANIFEST.samples) mk(s.slug, s.title, s.input, Object.keys(s.outputs).length);
+}
+
+function allGenerations() {
+  const rows = [];
+  for (const s of MANIFEST.samples) {
+    if (selectedInput !== "all" && s.slug !== selectedInput) continue;
     for (const [slug, path] of Object.entries(s.outputs)) {
-      figures += `
-      <figure>
-        <img src="${path}" alt="Output — ${promptName(manifest, slug)}">
-        <figcaption>Output — ${promptName(manifest, slug)}</figcaption>
-      </figure>`;
+      const g = generationFor(s.slug, slug);
+      rows.push({ sample: s, slug, path, gen: g });
     }
-    block.innerHTML = `<h3>${s.title}</h3><div class="stack">${figures}</div>`;
-    el.appendChild(block);
+  }
+  return rows;
+}
+
+function renderGenGrid() {
+  const kw = document.getElementById("sample-keyword").value.trim().toLowerCase();
+  const model = document.getElementById("sample-model").value;
+  const grid = document.getElementById("gen-grid");
+  grid.innerHTML = "";
+  let shown = 0;
+  for (const r of allGenerations()) {
+    const p = promptBySlug(r.slug);
+    const modelName = r.gen ? r.gen.model : "";
+    const hay = [promptName(r.slug), p ? p.name_original : "", r.slug, r.sample.title, r.sample.slug,
+                 modelName, r.gen ? r.gen.notes : ""].join(" ").toLowerCase();
+    if (kw && !hay.includes(kw)) continue;
+    if (model && modelName !== model) continue;
+    shown++;
+    const card = document.createElement("article");
+    card.className = "gen-card";
+    const when = r.gen && r.gen.generated_at ? new Date(r.gen.generated_at).toLocaleString() : "";
+    card.innerHTML = `
+      <a href="${esc(r.path)}" target="_blank" rel="noopener"><img src="${esc(r.path)}" alt="Generated — ${esc(promptName(r.slug))} from ${esc(r.sample.title)}" loading="lazy"></a>
+      <div class="body">
+        <div class="p">${esc(promptName(r.slug))}${p && p.name_original ? ` · ${esc(p.name_original)}` : ""}</div>
+        <div class="meta">from “${esc(r.sample.title)}”</div>
+        ${modelName ? `<div class="meta">Model: ${esc(modelName)}</div>` : ""}
+        ${when ? `<div class="meta">${esc(when)}</div>` : ""}
+        ${r.gen && r.gen.tokens_used != null ? `<div class="meta">Tokens: ${esc(r.gen.tokens_used)}</div>` : ""}
+      </div>`;
+    grid.appendChild(card);
+  }
+  document.getElementById("gen-empty").hidden = shown > 0;
+}
+document.getElementById("sample-keyword").addEventListener("input", renderGenGrid);
+document.getElementById("sample-model").addEventListener("change", renderGenGrid);
+
+/* ---------- prompts tab: catalog ---------- */
+function promptImages(p) {
+  return p.reference_images && p.reference_images.length ? p.reference_images
+       : (p.reference_image ? [p.reference_image] : []);
+}
+
+function renderPrompts() {
+  const kw = document.getElementById("prompt-keyword").value.trim().toLowerCase();
+  const el = document.getElementById("prompts");
+  el.innerHTML = "";
+  let shown = 0;
+  for (const p of MANIFEST.prompts) {
+    const hay = [p.name, p.name_original, p.author, p.summary, p.slug].join(" ").toLowerCase();
+    if (kw && !kw.split(/\s+/).every(w => hay.includes(w))) continue;
+    shown++;
+    const images = promptImages(p);
+    const card = document.createElement("article");
+    card.className = "card";
+    card.tabIndex = 0;
+    card.setAttribute("role", "button");
+    card.setAttribute("aria-label", `Open ${p.name}`);
+    const thumbs = images.length > 1 ? `
+      <div class="thumbs">${images.map((src, i) => `<img src="${esc(src)}" alt="${esc(p.name)} post image ${i + 1} of ${images.length}" loading="lazy">`).join("")}</div>` : "";
+    card.innerHTML = `
+      ${images[0] ? `<img src="${esc(images[0])}" alt="${esc(p.name)} reference image">` : ""}
+      <div class="body">
+        <h3>${esc(p.name)}${p.name_original ? ` · ${esc(p.name_original)}` : ""}</h3>
+        <div class="meta">by ${esc(p.author)} · <a href="${esc(p.source_url)}" target="_blank" rel="noopener" class="src-link">source post</a></div>
+        <p>${esc(p.summary)}</p>
+        <p class="meta">${images.length} image${images.length === 1 ? "" : "s"} from the post — click card to open</p>
+      </div>
+      ${thumbs}`;
+    card.addEventListener("click", e => { if (e.target.closest("a")) return; openDetail(p.slug); });
+    card.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openDetail(p.slug); } });
+    el.appendChild(card);
+  }
+  document.getElementById("prompts-empty").hidden = shown > 0;
+}
+document.getElementById("prompt-keyword").addEventListener("input", renderPrompts);
+
+/* ---------- prompts tab: detail ---------- */
+function extractPromptText(md) {
+  // Show the "## The prompt" section of prompt.md as plain text.
+  const m = md.match(/##\s+The prompt\s*\n([\s\S]*?)(?=\n##\s+|$)/i);
+  let t = m ? m[1] : md;
+  t = t.replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+       .replace(/^>\s?/gm, "")
+       .replace(/\*\*([^*]+)\*\*/g, "$1")
+       .replace(/`([^`]+)`/g, "$1")
+       .replace(/\n{3,}/g, "\n\n")
+       .trim();
+  return t;
+}
+
+async function openDetail(slug) {
+  const p = promptBySlug(slug);
+  if (!p) return;
+  document.getElementById("catalog-view").style.display = "none";
+  const detail = document.getElementById("prompt-detail");
+  detail.classList.add("active");
+  document.getElementById("detail-title").textContent =
+    `${p.name}${p.name_original ? " · " + p.name_original : ""}`;
+  document.getElementById("detail-meta").textContent = `by ${p.author}`;
+  document.getElementById("detail-source").innerHTML =
+    `<a href="${esc(p.source_url)}" target="_blank" rel="noopener">Source post</a> · ` +
+    `<a href="${esc(REPO + p.prompt_file)}" target="_blank" rel="noopener">Full entry (prompt.md)</a>`;
+  const textEl = document.getElementById("detail-text");
+  textEl.textContent = "Loading…";
+  document.getElementById("copy-status").textContent = "";
+  currentDetailText = "";
+  try {
+    const r = await fetch(p.prompt_file);
+    const md = await r.text();
+    currentDetailText = extractPromptText(md);
+    textEl.textContent = currentDetailText;
+  } catch (err) {
+    textEl.textContent = "Could not load the prompt text.";
+    console.error(err);
+  }
+  const refs = document.getElementById("detail-refs");
+  refs.innerHTML = promptImages(p).map((src, i) =>
+    `<a href="${esc(src)}" target="_blank" rel="noopener"><img src="${esc(src)}" alt="${esc(p.name)} post image ${i + 1}" loading="lazy"></a>`).join("");
+  const box = document.getElementById("detail-samples");
+  box.innerHTML = "";
+  let any = false;
+  for (const s of MANIFEST.samples) {
+    const out = s.outputs[slug];
+    if (!out) continue;
+    any = true;
+    const g = generationFor(s.slug, slug);
+    const div = document.createElement("div");
+    div.className = "sample-pair";
+    div.innerHTML = `
+      <div class="in-row">
+        <img src="${esc(s.input)}" alt="Input — ${esc(s.title)}">
+        <span class="meta">Original — ${esc(s.title)}${g ? `<br>Model: ${esc(g.model)}${g.generated_at ? " · " + esc(new Date(g.generated_at).toLocaleString()) : ""}` : ""}</span>
+      </div>
+      <a href="${esc(out)}" target="_blank" rel="noopener"><img class="out" src="${esc(out)}" alt="Generated with ${esc(p.name)} — ${esc(s.title)}" loading="lazy"></a>`;
+    box.appendChild(div);
+  }
+  if (!any) box.innerHTML = `<p class="meta">No samples generated with this prompt yet.</p>`;
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function closeDetail() {
+  document.getElementById("prompt-detail").classList.remove("active");
+  document.getElementById("catalog-view").style.display = "";
+}
+document.getElementById("detail-back").addEventListener("click", closeDetail);
+document.getElementById("detail-copy").addEventListener("click", async () => {
+  const status = document.getElementById("copy-status");
+  if (!currentDetailText) { status.textContent = "Nothing to copy yet."; return; }
+  try {
+    await navigator.clipboard.writeText(currentDetailText);
+    status.textContent = "Copied.";
+  } catch (err) {
+    const ta = document.createElement("textarea");
+    ta.value = currentDetailText;
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand("copy"); status.textContent = "Copied."; }
+    catch (e2) { status.textContent = "Copy failed — select the text and copy manually."; }
+    ta.remove();
+  }
+});
+
+/* ---------- init ---------- */
+async function loadGenerations() {
+  const models = new Set();
+  await Promise.all(MANIFEST.samples.map(async s => {
+    GEN[s.slug] = {};
+    if (!s.generations_file) return;
+    try {
+      const r = await fetch(s.generations_file);
+      const data = await r.json();
+      for (const g of data.generations || []) {
+        if (g.current) GEN[s.slug][g.prompt_slug] = g;
+        if (g.model) models.add(g.model);
+      }
+    } catch (err) { console.error("generations load failed", s.slug, err); }
+  }));
+  const sel = document.getElementById("sample-model");
+  for (const m of [...models].sort()) {
+    const o = document.createElement("option");
+    o.value = m; o.textContent = m;
+    sel.appendChild(o);
   }
 }
 
 fetch("index.json")
   .then(r => r.json())
-  .then(manifest => { renderPrompts(manifest); renderSamples(manifest); })
+  .then(async manifest => {
+    MANIFEST = manifest;
+    await loadGenerations();
+    renderInputList();
+    renderGenGrid();
+    renderPrompts();
+  })
   .catch(err => {
-    document.getElementById("prompts").textContent = "Could not load index.json.";
+    document.getElementById("gen-grid").textContent = "Could not load index.json.";
     console.error(err);
   });
 </script>
