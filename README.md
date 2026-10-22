@@ -22,11 +22,16 @@ index.html                  the website (repo root, served by GitHub Pages)
 index.json                  manifest the website renders from
 reference/<style-slug>/     one folder per prompt
     prompt.md               source, attribution, the prompt, English translation
-    post.<ext>              the source post's example image
+    post-01.<ext> …         ALL of the source post's example images, in set order
 samples/<input-slug>/       one folder per input photo
     input.<ext>             the input photo
     <style-slug>.<ext>      the generated output for each prompt applied to it
+    generations.json        model, timestamp and tokens for every generation
 ```
+
+Sample outputs are generated full-frame — the original photo is shown
+separately on the site, stacked on top of the outputs, not baked into the
+generated image as a split poster.
 
 Style slugs are kebab-case, at most three words (e.g. `frosted-glass`,
 `notebook-hand-drawn`).

@@ -22,8 +22,11 @@
   .card .meta { color: var(--muted); font-size: .85rem; margin-bottom: 8px; }
   .card p { margin: 0 0 10px; font-size: .92rem; }
   .card a { color: inherit; }
+  .thumbs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding: 0 16px 16px; }
+  .thumbs a { display: block; }
+  .thumbs img { aspect-ratio: 3/4; object-fit: cover; border-radius: 6px; }
   .sample { margin-bottom: 36px; }
-  .pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+  .stack { display: grid; grid-template-columns: 1fr; gap: 20px; max-width: 720px; }
   figure { margin: 0; }
   figure img { width: 100%; display: block; border-radius: 12px; border: 1px solid var(--line); }
   figcaption { color: var(--muted); font-size: .85rem; margin-top: 6px; }
@@ -61,14 +64,23 @@ function renderPrompts(manifest) {
     const card = document.createElement("article");
     card.className = "card";
     const original = p.name_original ? ` · ${p.name_original}` : "";
+    const images = p.reference_images && p.reference_images.length
+      ? p.reference_images
+      : (p.reference_image ? [p.reference_image] : []);
+    const thumbs = images.length > 1 ? `
+      <div class="thumbs">${images.map((src, i) => `
+        <a href="${src}" target="_blank" rel="noopener"><img src="${src}" alt="${p.name} post image ${i + 1} of ${images.length}" loading="lazy"></a>`).join("")}
+      </div>` : "";
     card.innerHTML = `
-      ${p.reference_image ? `<img src="${p.reference_image}" alt="${p.name} reference image">` : ""}
+      ${images[0] ? `<img src="${images[0]}" alt="${p.name} reference image">` : ""}
       <div class="body">
         <h3>${p.name}${original}</h3>
         <div class="meta">by ${p.author} · <a href="${p.source_url}" target="_blank" rel="noopener">source post</a></div>
         <p>${p.summary}</p>
+        <p class="meta">${images.length} image${images.length === 1 ? "" : "s"} from the post</p>
         <a href="${REPO}${p.prompt_file}" target="_blank" rel="noopener">Read the prompt</a>
-      </div>`;
+      </div>
+      ${thumbs}`;
     el.appendChild(card);
   }
 }
@@ -90,7 +102,7 @@ function renderSamples(manifest) {
         <figcaption>Output — ${promptName(manifest, slug)}</figcaption>
       </figure>`;
     }
-    block.innerHTML = `<div class="pair">${figures}</div>`;
+    block.innerHTML = `<h3>${s.title}</h3><div class="stack">${figures}</div>`;
     el.appendChild(block);
   }
 }
