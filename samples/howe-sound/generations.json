@@ -44,6 +44,33 @@
       "output": "impasto-oil-painting.webp",
       "prompt_slug": "impasto-oil-painting",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T14:34:04-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame flat silhouette still life: deep blue-green dark ground, dusty gray-blue layered ridge/water/tree cluster, single warm off-white peak focal point, dry-gouache grain, no split, no embedded original, no title word.",
+      "output": "flat-silhouette.webp",
+      "prompt_slug": "flat-silhouette",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T14:34:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame bright minimalist illustration: geometric flat color blocks (sky blue, turquoise, fresh green, warm yellow, coral) on airy warm white, no split, no embedded original, no text.",
+      "output": "bright-illustration.webp",
+      "prompt_slug": "bright-illustration",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T14:34:54-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame small spot illustration: tiny charcoal dry-media fjord sketch with two rust-red accent touches on a large warm off-white paper field, no split, no embedded original, no text.",
+      "output": "small-illustration.webp",
+      "prompt_slug": "small-illustration",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

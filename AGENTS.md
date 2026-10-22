@@ -177,6 +177,65 @@ and #3, and "hydrangeas" is the reel's audio title ("I love
 hydrangeas" · BlueSKY/Suno AI). When looping the catalog, de-duplicate
 by set ID / reel ID before counting a post as new.
 
+### flat-silhouette — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Flat Silhouette · 平面剪影 ("Flat Silhouette Still Life on
+  a Dark Ground"), posted **Oct 19, 2026**.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122157583593032634/
+  — set ID `pcb.122157583593032634`; observed: 231 likes, 11 comments,
+  37 shares. First comment carries the full GPT prompt;
+  `reference/flat-silhouette/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/956300350882889 ("Better
+  Days · soonflow", 0:28) — mostly the same set images, but its final
+  frame shows one extra poster, "BEND" (winding forest road), NOT in
+  the photo set and not archived as an image here.
+- **Images:** exactly **11** (grid suggested 12; viewer cycle confirms
+  11), saved as `reference/flat-silhouette/post-01.jpg` … `post-11.jpg`.
+  Subjects with printed titles: 1 wedding couple "VEIL", 2 portrait
+  "BREATHE", 3 lighthouse "BEACON", 4 woman with camera "MOMENT",
+  5 still life "PALM", 6 cabin "CABIN", 7 swans "SWANS", 8 coffee
+  grinder "GRINDER", 9 dried flowers "STEMS", 10 attic room "ATTIC",
+  11 waterfall "WATERFALL".
+
+### bright-illustration — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Bright Illustration · 明亮插畫, posted **Oct 16, 2026**
+  (marked AI content; example photos credited to Pexels).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122157304473032634/
+  — set ID `pcb.122157304473032634`; observed: 648 likes, 28 comments,
+  183 shares. First comment carries the full GPT prompt;
+  `reference/bright-illustration/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1696345812014944 — cycles
+  the same set images; no distinct video-only image.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/bright-illustration/post-01.jpg` … `post-10.jpg`.
+  Subjects with printed titles: 1 puddle reflection "AFTER THE RAIN"
+  No. 12, 2 maple leaves on windshield "AFTER THE RAIN" No. 18,
+  3 skyscrapers "INDER SKY" (as printed), 4 riverside "RIVERSIDE TOWN"
+  No. 34, 5 running track "AFTER RAIN" No. 07, 6 roof drips "AFTER THE
+  RAIN" No. 27, 7 underpass "PASSAGE", 8 LPG inspection "INSPECTION",
+  9 night-market cook "Night Craft" No. 01, 10 brick wall "SURFACE
+  MEMORY".
+
+### small-illustration — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Small Illustration · 小插畫, posted **Oct 16, 2026** as a
+  **reel-only** post — https://www.facebook.com/reel/2140751013477384
+  (0:14; observed: 437 likes, 15 comments, 57 shares). The author's
+  comment on the reel carries the full GPT prompt;
+  `reference/small-illustration/prompt.md` keeps a structural summary.
+- **No photo set exists for this style** (verified by feed adjacency),
+  so this entry has no `post-NN` images; the reel's frames (coastal
+  city with Guishan Island, matcha tea scene, two women at a
+  waterfront, a road through green hills, a coastal train) are video
+  stills, not downloads.
+- The creator calls this a fine-tuned variant of an earlier 插畫
+  prompt style further down the feed — that earlier style is a
+  separate catalog entry, still to be read.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

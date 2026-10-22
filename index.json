@@ -91,6 +91,62 @@
       "slug": "impasto-oil-painting",
       "source_url": "https://www.facebook.com/61580979040009/posts/122157436305032634/",
       "summary": "Repaints a photo's strongest subject in thick, sculptural impasto oil paint — palette-knife ridges and vivid saturated color — against generous warm-white negative space. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Flat Silhouette",
+      "name_original": "平面剪影",
+      "prompt_file": "reference/flat-silhouette/prompt.md",
+      "reference_image": "reference/flat-silhouette/post-01.jpg",
+      "reference_images": [
+        "reference/flat-silhouette/post-01.jpg",
+        "reference/flat-silhouette/post-02.jpg",
+        "reference/flat-silhouette/post-03.jpg",
+        "reference/flat-silhouette/post-04.jpg",
+        "reference/flat-silhouette/post-05.jpg",
+        "reference/flat-silhouette/post-06.jpg",
+        "reference/flat-silhouette/post-07.jpg",
+        "reference/flat-silhouette/post-08.jpg",
+        "reference/flat-silhouette/post-09.jpg",
+        "reference/flat-silhouette/post-10.jpg",
+        "reference/flat-silhouette/post-11.jpg"
+      ],
+      "slug": "flat-silhouette",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122157583593032634/",
+      "summary": "Re-edits a photo into flat, outline-free silhouettes clustered on a deep dark ground — dusty pastel-gray shapes with exactly one bright warm off-white focal silhouette and a dry-gouache grain. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Bright Illustration",
+      "name_original": "明亮插畫",
+      "prompt_file": "reference/bright-illustration/prompt.md",
+      "reference_image": "reference/bright-illustration/post-01.jpg",
+      "reference_images": [
+        "reference/bright-illustration/post-01.jpg",
+        "reference/bright-illustration/post-02.jpg",
+        "reference/bright-illustration/post-03.jpg",
+        "reference/bright-illustration/post-04.jpg",
+        "reference/bright-illustration/post-05.jpg",
+        "reference/bright-illustration/post-06.jpg",
+        "reference/bright-illustration/post-07.jpg",
+        "reference/bright-illustration/post-08.jpg",
+        "reference/bright-illustration/post-09.jpg",
+        "reference/bright-illustration/post-10.jpg"
+      ],
+      "slug": "bright-illustration",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122157304473032634/",
+      "summary": "Recomposes a photo as a bright minimalist illustration — geometric shapes and flat color blocks in the photo's freshest colors on airy warm white, like sunlight coming in. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Small Illustration",
+      "name_original": "小插畫",
+      "prompt_file": "reference/small-illustration/prompt.md",
+      "reference_image": null,
+      "reference_images": [],
+      "slug": "small-illustration",
+      "source_url": "https://www.facebook.com/reel/2140751013477384",
+      "summary": "Shrinks a photo's most recognizable subject into a tiny charcoal-and-rust-red spot illustration on a huge field of warm off-white paper — beauty in what is not drawn. Reel-only post: it has no photo set, so this entry has no reference images."
     }
   ],
   "samples": [
@@ -99,9 +155,12 @@
       "input": "samples/howe-sound/input.jpg",
       "outputs": {
         "blue-red-risograph": "samples/howe-sound/blue-red-risograph.webp",
+        "bright-illustration": "samples/howe-sound/bright-illustration.webp",
+        "flat-silhouette": "samples/howe-sound/flat-silhouette.webp",
         "frosted-glass": "samples/howe-sound/frosted-glass.webp",
         "impasto-oil-painting": "samples/howe-sound/impasto-oil-painting.webp",
-        "notebook-hand-drawn": "samples/howe-sound/notebook-hand-drawn.webp"
+        "notebook-hand-drawn": "samples/howe-sound/notebook-hand-drawn.webp",
+        "small-illustration": "samples/howe-sound/small-illustration.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
