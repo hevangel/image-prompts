@@ -303,6 +303,72 @@ by set ID / reel ID before counting a post as new.
   12 flower bouquet "HANDLE GENTLY". Each also has a vertical
   micro-caption on its right edge.
 
+### woodcut-print — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Woodcut Print · 木刻版畫, posted **Oct 12, 2026**
+  (marked AI content; photos credited to Pexels).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122156706693032634/
+  — set ID `pcb.122156706693032634`; observed: 313 likes, 18 comments,
+  58 shares. First comment carries the full GPT prompt;
+  `reference/woodcut-print/prompt.md` keeps a structural summary.
+- **Companion videos:** reel https://www.facebook.com/reel/2076539576310270
+  and a companion permalink post whose player resolves to the same
+  reel — both cycle set posters; no distinct video-only example.
+- **Images:** exactly **11** (grid suggested 12; viewer cycle confirms
+  11), saved as `reference/woodcut-print/post-01.jpg` … `post-11.jpg`.
+  Subjects with printed titles: 1 vinyl tonearm "Vinyl Moments",
+  2 screen-repair workers "Working Days", 3 sign-painting shop "Sign
+  Painting", 4 cold-noodle stall 涼麵, 5 scooter alley "Alley Days",
+  6 father and daughter "Together Always", 7 snowy forest "Winter
+  Path", 8 street-food stall 豆簽, 9 red umbrella couple "Rainy Day",
+  10 newsstand 報紙, 11 Vietnamese bookstore "Hiệu Sách".
+
+### paper-cut — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** High-Saturation Paper-Cut · 高彩度剪紙, posted **Oct 11,
+  2026** (marked AI content; photos credited to Pexels).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122156514825032634/
+  — set ID `pcb.122156514825032634`; observed: 187 likes, 17 comments,
+  32 shares. First comment carries the full GPT prompt;
+  `reference/paper-cut/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/2615756965524682 ("Cozy ·
+  Elgafar") — this style's companion reel (earlier presumed a
+  non-prompt music video; it is not). Its frames duplicate set
+  posters; no distinct video-only example.
+- **Images:** exactly **10** (grid suggested ~11; viewer cycle
+  confirms 10), saved as `reference/paper-cut/post-01.jpg` …
+  `post-10.jpg`. Subjects: 1 woman with polka-dot mug, 2 bald cypress
+  in water, 3 salon reader, 4 rice paddies at sunset, 5 Malaysian post
+  boxes, 6 fencers, 7 saxophone busker, 8 tractor aerial, 9 forest
+  stream, 10 wheel cakes on a griddle. No printed titles (the prompt
+  forbids text).
+
+### retro-film — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Retro Film · 復古膠片 (CMYK halftone editorial poster),
+  posted **Oct 10, 2026** (marked AI content). **Posted twice:** the
+  11:40 PM posting (set `pcb.122156406711032634`,
+  https://www.facebook.com/61580979040009/posts/122156406711032634/)
+  and a duplicate 11:36 PM posting (set `pcb.122156405523032634`,
+  https://www.facebook.com/61580979040009/posts/122156405523032634/)
+  carry the same 11 posters in different order — archived once, from
+  the 11:40 PM posting.
+- **Reel:** https://www.facebook.com/reel/1980843825941127 ("Warm Bowl
+  · Lofi") — this style's companion reel and itself a prompt post
+  (earlier presumed a non-prompt music video; it is not). Its frames
+  duplicate set posters; no distinct video-only example.
+- **Images:** exactly **11** (viewer cycle), 9:16 posters, saved as
+  `reference/retro-film/post-01.jpg` … `post-11.jpg`. Subjects with
+  printed titles: 1 mother and daughter "Brighter Days", 2 tea set
+  "Tea Moments", 3 woman with cat "Same Companions", 4 family meal
+  "Good Meals", 5 colorful street "COLOR ALLEY", 6 camper van "DRIFT",
+  7 metro stairs "HIGHER THINGS AHEAD", 8 forest steps "HIGHER THINGS
+  AHEAD", 9 boiling kettle "GOOD BOIL", 10 red-sail ship "DRIFT",
+  11 tea-hill road "WINDING ROAD".
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

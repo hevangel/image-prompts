@@ -214,6 +214,74 @@
       "slug": "rough-brushed-lines",
       "source_url": "https://www.facebook.com/61580979040009/posts/122156855169032634/",
       "summary": "Redraws a photo's dominant subject as a large hollow contour in one signature accent color on pure black, with worn dry-marker strokes — the photograph chooses the color. The source post shows 12 examples; all 12 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Woodcut Print",
+      "name_original": "木刻版畫",
+      "prompt_file": "reference/woodcut-print/prompt.md",
+      "reference_image": "reference/woodcut-print/post-01.jpg",
+      "reference_images": [
+        "reference/woodcut-print/post-01.jpg",
+        "reference/woodcut-print/post-02.jpg",
+        "reference/woodcut-print/post-03.jpg",
+        "reference/woodcut-print/post-04.jpg",
+        "reference/woodcut-print/post-05.jpg",
+        "reference/woodcut-print/post-06.jpg",
+        "reference/woodcut-print/post-07.jpg",
+        "reference/woodcut-print/post-08.jpg",
+        "reference/woodcut-print/post-09.jpg",
+        "reference/woodcut-print/post-10.jpg",
+        "reference/woodcut-print/post-11.jpg"
+      ],
+      "slug": "woodcut-print",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122156706693032634/",
+      "summary": "Re-carves a photo as a limited-color woodcut on warm paper — hand-cut marks, breaks and missing ink, in a soft bright palette of cream, mist green, light blue and coral. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "High-Saturation Paper-Cut",
+      "name_original": "高彩度剪紙",
+      "prompt_file": "reference/paper-cut/prompt.md",
+      "reference_image": "reference/paper-cut/post-01.jpg",
+      "reference_images": [
+        "reference/paper-cut/post-01.jpg",
+        "reference/paper-cut/post-02.jpg",
+        "reference/paper-cut/post-03.jpg",
+        "reference/paper-cut/post-04.jpg",
+        "reference/paper-cut/post-05.jpg",
+        "reference/paper-cut/post-06.jpg",
+        "reference/paper-cut/post-07.jpg",
+        "reference/paper-cut/post-08.jpg",
+        "reference/paper-cut/post-09.jpg",
+        "reference/paper-cut/post-10.jpg"
+      ],
+      "slug": "paper-cut",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122156514825032634/",
+      "summary": "Rebuilds a photo from large bold shapes of saturated colored paper on warm cream — geometric cut-paper illustration with mid-century character, details simplified, emotion more vivid. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Retro Film (CMYK Halftone)",
+      "name_original": "復古膠片",
+      "prompt_file": "reference/retro-film/prompt.md",
+      "reference_image": "reference/retro-film/post-01.jpg",
+      "reference_images": [
+        "reference/retro-film/post-01.jpg",
+        "reference/retro-film/post-02.jpg",
+        "reference/retro-film/post-03.jpg",
+        "reference/retro-film/post-04.jpg",
+        "reference/retro-film/post-05.jpg",
+        "reference/retro-film/post-06.jpg",
+        "reference/retro-film/post-07.jpg",
+        "reference/retro-film/post-08.jpg",
+        "reference/retro-film/post-09.jpg",
+        "reference/retro-film/post-10.jpg",
+        "reference/retro-film/post-11.jpg"
+      ],
+      "slug": "retro-film",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122156406711032634/",
+      "summary": "Reprints a photo as a bold CMYK halftone editorial poster — visible print dots and rosettes in hot yellow, orange and red, nothing faded. The source post (posted twice; same 11 posters) shows 11 examples; all 11 are archived here."
     }
   ],
   "samples": [
