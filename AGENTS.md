@@ -124,6 +124,59 @@ Instead:
   through a brick archway, 8 galloping horse, 9 toucan, 10 lemons on
   the branch, 11 fishing boat at sea.
 
+### blue-red-risograph — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Blue-Red Risograph · 藍紅色印刷瑕疵感 (two-color Risograph
+  with print-misregistration feel), posted **Oct 20, 2026**.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122157723243032634/
+  — multi-photo set, set ID `pcb.122157723243032634`; observed at fetch
+  time: ~113 likes. Its first comment carries the full GPT prompt;
+  `reference/blue-red-risograph/prompt.md` keeps a structural summary
+  plus this link. **No companion reel** was found for this post (the
+  same-day "Fresh energy anthem" video is a separate non-prompt post).
+- **Images:** exactly **12** photos, all downloaded at 1086×1448 and
+  saved as `reference/blue-red-risograph/post-01.jpg` … `post-12.jpg`.
+  Subjects, in order: 1 skateboarders at sunset, 2 woman with umbrella
+  on a rainy night street, 3 orange tabby cat, 4 lone tree at sunset,
+  5 spiral staircase, 6 woman on a round table by a window, 7 white
+  wall with blue flower pots, 8 industrial ventilation fans, 9 bearded
+  man on a balcony, 10 green bicycle, 11 fisherman in a stormy sea,
+  12 man reading a burning newspaper.
+
+### impasto-oil-painting — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Impasto Oil Painting · 厚塗油畫, posted **Oct 17, 2026**.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122157436305032634/
+  — multi-photo set, set ID `pcb.122157436305032634`; observed at fetch
+  time: ~405 likes, 61 shares. Its pinned comment (7:15 PM) carries
+  the full GPT prompt; `reference/impasto-oil-painting/prompt.md`
+  keeps a structural summary plus this link.
+- **Reel:** https://www.facebook.com/reel/1368785928438401 (637 likes,
+  89 shares) — a slideshow of the same set images; no distinct
+  video-only image.
+- **Images:** exactly **9** photos (the post grid suggested 10 — the
+  viewer's Next cycle and a gap-free fbid run confirm 9), all
+  downloaded at 1086×1448 and saved as
+  `reference/impasto-oil-painting/post-01.jpg` … `post-09.jpg`.
+  Subjects with their printed titles, in order: 1 alley crossing
+  ("In Between"), 2 blue roadside-stall tables ("Quiet Corners"),
+  3 savanna sunset ("GOLDEN HORIZON"), 4 lifeguard tower ("HORIZON"),
+  5 tree-lined path ("Passage"), 6 green-door wall ("STILLNESS"),
+  7 red convertible at fairy chimneys ("OPEN TERRAIN"), 8 kimono with
+  red parasol ("PASSING LIGHT"), 9 black dog with a ball ("FETCH").
+
+### Catalog reconciliation note (2026-10-22)
+
+The profile catalog phase counted the Oct 22 "globe-amaranth /
+trolley" set and an "Oct 22 hydrangeas video" as separate unarchived
+posts. Both are the **notebook-hand-drawn** post/reel pair already
+archived above: globe amaranth and the trolley are its set photos #2
+and #3, and "hydrangeas" is the reel's audio title ("I love
+hydrangeas" · BlueSKY/Suno AI). When looping the catalog, de-duplicate
+by set ID / reel ID before counting a post as new.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

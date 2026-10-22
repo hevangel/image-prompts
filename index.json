@@ -46,6 +46,51 @@
       "slug": "notebook-hand-drawn",
       "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid029Kh69s6qeKzC6MRYN6JPtJUQMFHiP7cY5xE4obf2hWXU1yBzRN1zHDEMqWm2AtfTl&id=61580979040009",
       "summary": "Redraws a photo as a fineliner ink illustration on warm-white notebook paper — restrained hatching, deliberate blank space, and just three of the photo's own colors laid down as loose abstract blocks behind the linework. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Blue-Red Risograph",
+      "name_original": "藍紅色印刷瑕疵感",
+      "prompt_file": "reference/blue-red-risograph/prompt.md",
+      "reference_image": "reference/blue-red-risograph/post-01.jpg",
+      "reference_images": [
+        "reference/blue-red-risograph/post-01.jpg",
+        "reference/blue-red-risograph/post-02.jpg",
+        "reference/blue-red-risograph/post-03.jpg",
+        "reference/blue-red-risograph/post-04.jpg",
+        "reference/blue-red-risograph/post-05.jpg",
+        "reference/blue-red-risograph/post-06.jpg",
+        "reference/blue-red-risograph/post-07.jpg",
+        "reference/blue-red-risograph/post-08.jpg",
+        "reference/blue-red-risograph/post-09.jpg",
+        "reference/blue-red-risograph/post-10.jpg",
+        "reference/blue-red-risograph/post-11.jpg",
+        "reference/blue-red-risograph/post-12.jpg"
+      ],
+      "slug": "blue-red-risograph",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122157723243032634/",
+      "summary": "Recomposes a photo as a two-color Risograph editorial illustration — only deep ultramarine blue and warm coral red on ivory paper, with print grain, halftone and slight registration offsets. The source post shows 12 examples; all 12 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Impasto Oil Painting",
+      "name_original": "厚塗油畫",
+      "prompt_file": "reference/impasto-oil-painting/prompt.md",
+      "reference_image": "reference/impasto-oil-painting/post-01.jpg",
+      "reference_images": [
+        "reference/impasto-oil-painting/post-01.jpg",
+        "reference/impasto-oil-painting/post-02.jpg",
+        "reference/impasto-oil-painting/post-03.jpg",
+        "reference/impasto-oil-painting/post-04.jpg",
+        "reference/impasto-oil-painting/post-05.jpg",
+        "reference/impasto-oil-painting/post-06.jpg",
+        "reference/impasto-oil-painting/post-07.jpg",
+        "reference/impasto-oil-painting/post-08.jpg",
+        "reference/impasto-oil-painting/post-09.jpg"
+      ],
+      "slug": "impasto-oil-painting",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122157436305032634/",
+      "summary": "Repaints a photo's strongest subject in thick, sculptural impasto oil paint — palette-knife ridges and vivid saturated color — against generous warm-white negative space. The source post shows 9 examples; all 9 are archived here."
     }
   ],
   "samples": [
@@ -53,7 +98,9 @@
       "generations_file": "samples/howe-sound/generations.json",
       "input": "samples/howe-sound/input.jpg",
       "outputs": {
+        "blue-red-risograph": "samples/howe-sound/blue-red-risograph.webp",
         "frosted-glass": "samples/howe-sound/frosted-glass.webp",
+        "impasto-oil-painting": "samples/howe-sound/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/howe-sound/notebook-hand-drawn.webp"
       },
       "slug": "howe-sound",
