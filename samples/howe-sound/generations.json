@@ -1,1 +1,32 @@
-{"generations":[{"current":false,"generated_at":"2026-10-22T07:09:26-07:00","model":"Muse Image (Meta)","notes":"Original split-poster version: top half preserved the photo, bottom half was the frosted-glass abstraction, with a title. Superseded on 2026-10-22 by the full-frame version — the site shows the original separately, so the generated image no longer embeds it.","output":"frosted-glass.webp","prompt_slug":"frosted-glass","tokens_used":null},{"current":true,"generated_at":"2026-10-22T09:19:29-07:00","model":"Muse Image (Meta)","notes":"Full-frame frosted-glass transformation, edge to edge, no top/bottom split, no embedded original photo, no text.","output":"frosted-glass.webp","prompt_slug":"frosted-glass","tokens_used":null}],"input":"input.jpg"}
+{
+  "generations": [
+    {
+      "current": false,
+      "generated_at": "2026-10-22T07:09:26-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Original split-poster version: top half preserved the photo, bottom half was the frosted-glass abstraction, with a title. Superseded on 2026-10-22 by the full-frame version — the site shows the original separately, so the generated image no longer embeds it.",
+      "output": "frosted-glass.webp",
+      "prompt_slug": "frosted-glass",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T09:19:29-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame frosted-glass transformation, edge to edge, no top/bottom split, no embedded original photo, no text.",
+      "output": "frosted-glass.webp",
+      "prompt_slug": "frosted-glass",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T10:36:34-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame notebook hand-drawn transformation: fineliner ink and hatching on warm-white paper, sea-blue / evergreen / sunlight-gold color blocks behind the linework, no top/bottom split, no embedded original photo, no text.",
+      "output": "notebook-hand-drawn.webp",
+      "prompt_slug": "notebook-hand-drawn",
+      "tokens_used": null
+    }
+  ],
+  "input": "input.jpg"
+}

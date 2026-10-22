@@ -92,6 +92,30 @@ Instead:
 - **No other Oct 21 frosted-glass post exists** on the creator's feed —
   that day carried only this photo set and the reel.
 
+### notebook-hand-drawn — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as frosted-glass above).
+- **Style:** Notebook Hand-Drawn · 筆記本手繪感, posted **Oct 22, 2026**.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid029Kh69s6qeKzC6MRYN6JPtJUQMFHiP7cY5xE4obf2hWXU1yBzRN1zHDEMqWm2AtfTl&id=61580979040009
+  — multi-photo set, set ID `pcb.122158056891032634`; observed at fetch
+  time: 187 likes, 14 comments, 31 shares. Its pinned first comment
+  (Oct 22, 1:09 AM) carries the full GPT prompt in English with a
+  Chinese intro/outro; `reference/notebook-hand-drawn/prompt.md` keeps a
+  structural summary plus this link. Example photos credited to Pexels
+  in the post.
+- **Reel:** https://www.facebook.com/reel/791805547361304 — opens on the
+  fishing-boat example, then cycles the same set images; the fishing
+  boat is set photo #11, so there is no distinct video-only image.
+- **Images:** the set contains exactly **11** photos (the feed preview
+  suggested 10 — stepping Next through the viewer cycled back only
+  after 11), all downloaded at 1086×1448 and saved as
+  `reference/notebook-hand-drawn/post-01.jpg` … `post-11.jpg`.
+  Subjects, in order: 1 girl in a wheat field at sunset, 2 path between
+  rice fields, 3 red tram by the National Theatre (Prague), 4 koi fish,
+  5 spiral staircase from above, 6 produce market stall, 7 woman in red
+  through a brick archway, 8 galloping horse, 9 toucan, 10 lemons on
+  the branch, 11 fishing boat at sea.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create
