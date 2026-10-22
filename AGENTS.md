@@ -236,6 +236,73 @@ by set ID / reel ID before counting a post as new.
   prompt style further down the feed — that earlier style is a
   separate catalog entry, still to be read.
 
+### blueprint-cyanotype — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Blueprint · 藍圖 (cyanotype 藍曬), posted **Oct 16,
+  2026** (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122157207279032634/
+  — set ID `pcb.122157207279032634`; observed: 103 likes, 2 comments,
+  13 shares. First comment (4:47 AM) carries the full GPT prompt;
+  `reference/blueprint-cyanotype/prompt.md` keeps a structural summary.
+- **Companion videos:** reel https://www.facebook.com/reel/1094442029872722
+  ("Brew · Luminary Lofi & Jazz Cafe") cycles the set posters; a short
+  "dog" video post (photo-form permalink, fbid 122157208755032634)
+  shows only set photo #1's poster. No distinct video-only example.
+- **Images:** exactly **10** (grid suggested 11; viewer cycle confirms
+  10), saved as `reference/blueprint-cyanotype/post-01.jpg` …
+  `post-10.jpg`. Subjects: 1 hands cradling a Labrador, 2 Taichung
+  Station canopy, 3 rainy bench through wet glass, 4 boat on a calm
+  lake, 5 angle grinder sparks, 6 scaffolding workers, 7 butterfly on
+  blossoms, 8 cat on a fence, 9 bearded profile at a window,
+  10 Parthenon under scaffolding. No printed titles (the prompt
+  forbids lettering). Note: an earlier side reading mis-recorded this
+  style as reel-only; it has a full photo set, archived here.
+
+### woven-tapestry — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Woven Tapestry · 織 ("Visual Memory Extraction × Minimal
+  Jacquard Tapestry"), photo set posted **Oct 14, 2026**, companion
+  reel **Oct 15, 2026** (marked AI content; photos credited to Pexels).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122157012969032634/
+  — set ID `pcb.122157012969032634`; observed: 144 likes, 10 comments,
+  19 shares. First comment carries the full GPT prompt (same caption
+  and prompt as the reel); `reference/woven-tapestry/prompt.md` keeps
+  a structural summary.
+- **Reel:** https://www.facebook.com/reel/2279102152936318 — its 4
+  examples all duplicate set photos; no distinct video-only example.
+- **Images:** exactly **9** (feed grid suggested 7; viewer cycle
+  confirms 9), saved as `reference/woven-tapestry/post-01.jpg` …
+  `post-09.jpg`. Subjects: 1 fisherman with net and coracle boat,
+  2 angle grinder sparks, 3 mountain sunset behind a fence, 4 foggy
+  night street from a car, 5 socket-wrench set, 6 workers painting
+  steel pipes, 7 night intersection with cyclists, 8 Coca-Cola bottle
+  in dry leaves, 9 vintage sofa before baled cardboard. No titles.
+
+### rough-brushed-lines — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Rough Brushed Lines · 粗糙手抹線條, posted **Oct 14,
+  2026** (marked AI content; photos credited to Pexels).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122156855169032634/
+  — set ID `pcb.122156855169032634`; observed: 139 likes, 3 comments,
+  22 shares. First comment carries the full GPT prompt;
+  `reference/rough-brushed-lines/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1940504943576247 — its 9
+  examples all appear in the set. Title variant: the aurora poster
+  reads "STAY VISIBLE" in the set but "STAY FREE" in the reel.
+- **Images:** exactly **12** (grid suggested 13; viewer cycle confirms
+  12), saved as `reference/rough-brushed-lines/post-01.jpg` …
+  `post-12.jpg`. Subjects with printed titles: 1 tape dispenser "PACK
+  WITH CARE", 2 armchair "SIT LATER", 3 pink-streaked portrait "BE
+  BOLD", 4 rock climber "KEEP CLIMBING", 5 tennis ball "STAY IN",
+  6 iced coffee "SIP SLOW", 7 yellow Fiat 500 "PARK CAREFULLY",
+  8 sailboat "KEEP SAILING", 9 rotary telephone "STAY IN TOUCH",
+  10 aurora shore "STAY VISIBLE", 11 pour-over coffee "FRESH COFFEE",
+  12 flower bouquet "HANDLE GENTLY". Each also has a vertical
+  micro-caption on its right edge.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

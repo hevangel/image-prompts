@@ -71,6 +71,15 @@
       "output": "small-illustration.webp",
       "prompt_slug": "small-illustration",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T15:38:13-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame handmade cyanotype: deep Prussian-blue ground, fjord/ridges/evergreens in luminous pale ivory, paper fibers and uneven exposure, no split, no embedded original, no lettering.",
+      "output": "blueprint-cyanotype.webp",
+      "prompt_slug": "blueprint-cyanotype",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

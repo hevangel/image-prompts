@@ -147,6 +147,73 @@
       "slug": "small-illustration",
       "source_url": "https://www.facebook.com/reel/2140751013477384",
       "summary": "Shrinks a photo's most recognizable subject into a tiny charcoal-and-rust-red spot illustration on a huge field of warm off-white paper — beauty in what is not drawn. Reel-only post: it has no photo set, so this entry has no reference images."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Blueprint (Cyanotype)",
+      "name_original": "藍圖",
+      "prompt_file": "reference/blueprint-cyanotype/prompt.md",
+      "reference_image": "reference/blueprint-cyanotype/post-01.jpg",
+      "reference_images": [
+        "reference/blueprint-cyanotype/post-01.jpg",
+        "reference/blueprint-cyanotype/post-02.jpg",
+        "reference/blueprint-cyanotype/post-03.jpg",
+        "reference/blueprint-cyanotype/post-04.jpg",
+        "reference/blueprint-cyanotype/post-05.jpg",
+        "reference/blueprint-cyanotype/post-06.jpg",
+        "reference/blueprint-cyanotype/post-07.jpg",
+        "reference/blueprint-cyanotype/post-08.jpg",
+        "reference/blueprint-cyanotype/post-09.jpg",
+        "reference/blueprint-cyanotype/post-10.jpg"
+      ],
+      "slug": "blueprint-cyanotype",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122157207279032634/",
+      "summary": "Re-exposes a photo as a handmade cyanotype: deep Prussian-blue paper, the subject in luminous pale ivory, fibers and uneven exposure kept — and a strict rule against inventing decorative botanicals. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Woven Tapestry",
+      "name_original": "織",
+      "prompt_file": "reference/woven-tapestry/prompt.md",
+      "reference_image": "reference/woven-tapestry/post-01.jpg",
+      "reference_images": [
+        "reference/woven-tapestry/post-01.jpg",
+        "reference/woven-tapestry/post-02.jpg",
+        "reference/woven-tapestry/post-03.jpg",
+        "reference/woven-tapestry/post-04.jpg",
+        "reference/woven-tapestry/post-05.jpg",
+        "reference/woven-tapestry/post-06.jpg",
+        "reference/woven-tapestry/post-07.jpg",
+        "reference/woven-tapestry/post-08.jpg",
+        "reference/woven-tapestry/post-09.jpg"
+      ],
+      "slug": "woven-tapestry",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122157012969032634/",
+      "summary": "Re-weaves a photo as a minimal jacquard tapestry: extract its 2–5 strongest memory points, remove 70–90% of the rest, and rebuild what remains from warp-and-weft yarn in 6–8 colors. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Rough Brushed Lines",
+      "name_original": "粗糙手抹線條",
+      "prompt_file": "reference/rough-brushed-lines/prompt.md",
+      "reference_image": "reference/rough-brushed-lines/post-01.jpg",
+      "reference_images": [
+        "reference/rough-brushed-lines/post-01.jpg",
+        "reference/rough-brushed-lines/post-02.jpg",
+        "reference/rough-brushed-lines/post-03.jpg",
+        "reference/rough-brushed-lines/post-04.jpg",
+        "reference/rough-brushed-lines/post-05.jpg",
+        "reference/rough-brushed-lines/post-06.jpg",
+        "reference/rough-brushed-lines/post-07.jpg",
+        "reference/rough-brushed-lines/post-08.jpg",
+        "reference/rough-brushed-lines/post-09.jpg",
+        "reference/rough-brushed-lines/post-10.jpg",
+        "reference/rough-brushed-lines/post-11.jpg",
+        "reference/rough-brushed-lines/post-12.jpg"
+      ],
+      "slug": "rough-brushed-lines",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122156855169032634/",
+      "summary": "Redraws a photo's dominant subject as a large hollow contour in one signature accent color on pure black, with worn dry-marker strokes — the photograph chooses the color. The source post shows 12 examples; all 12 are archived here."
     }
   ],
   "samples": [
@@ -155,6 +222,7 @@
       "input": "samples/howe-sound/input.jpg",
       "outputs": {
         "blue-red-risograph": "samples/howe-sound/blue-red-risograph.webp",
+        "blueprint-cyanotype": "samples/howe-sound/blueprint-cyanotype.webp",
         "bright-illustration": "samples/howe-sound/bright-illustration.webp",
         "flat-silhouette": "samples/howe-sound/flat-silhouette.webp",
         "frosted-glass": "samples/howe-sound/frosted-glass.webp",
