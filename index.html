@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Image Prompts — a collection of photo-transformation prompts</title>
+<style>
+  :root { color-scheme: light dark; --fg:#1c1e21; --muted:#5f6368; --card:#f4f4f2; --line:#ddd; }
+  @media (prefers-color-scheme: dark) { :root { --fg:#e8eaed; --muted:#9aa0a6; --card:#1f2124; --line:#3a3d40; } }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color:var(--fg); line-height:1.55; }
+  header, main, footer { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+  header { padding-top: 48px; }
+  h1 { font-size: 2rem; margin: 0 0 8px; letter-spacing: .02em; }
+  header p { color: var(--muted); max-width: 60ch; margin: 0; }
+  h2 { font-size: 1.3rem; margin: 44px 0 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .card img { width: 100%; display: block; aspect-ratio: 3/4; object-fit: cover; }
+  .card .body { padding: 14px 16px 16px; }
+  .card h3 { margin: 0 0 4px; font-size: 1.05rem; }
+  .card .meta { color: var(--muted); font-size: .85rem; margin-bottom: 8px; }
+  .card p { margin: 0 0 10px; font-size: .92rem; }
+  .card a { color: inherit; }
+  .sample { margin-bottom: 36px; }
+  .pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+  figure { margin: 0; }
+  figure img { width: 100%; display: block; border-radius: 12px; border: 1px solid var(--line); }
+  figcaption { color: var(--muted); font-size: .85rem; margin-top: 6px; }
+  footer { color: var(--muted); font-size: .85rem; padding-top: 12px; padding-bottom: 40px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Image Prompts</h1>
+  <p>A collection of image generation prompts shared by creators — each with its
+     original reference, and samples generated from our own photos.</p>
+</header>
+<main>
+  <h2>Prompts</h2>
+  <div id="prompts" class="grid"></div>
+  <h2>Samples</h2>
+  <div id="samples"></div>
+</main>
+<footer>
+  Prompts belong to their original creators; every entry links to its source post.
+  Sample outputs are generated locally from our own photos.
+</footer>
+
+<script>
+const REPO = "https://github.com/hevangel/image-prompts/blob/main/";
+
+function promptName(manifest, slug) {
+  const p = manifest.prompts.find(p => p.slug === slug);
+  return p ? p.name : slug;
+}
+
+function renderPrompts(manifest) {
+  const el = document.getElementById("prompts");
+  for (const p of manifest.prompts) {
+    const card = document.createElement("article");
+    card.className = "card";
+    const original = p.name_original ? ` · ${p.name_original}` : "";
+    card.innerHTML = `
+      ${p.reference_image ? `<img src="${p.reference_image}" alt="${p.name} reference image">` : ""}
+      <div class="body">
+        <h3>${p.name}${original}</h3>
+        <div class="meta">by ${p.author} · <a href="${p.source_url}" target="_blank" rel="noopener">source post</a></div>
+        <p>${p.summary}</p>
+        <a href="${REPO}${p.prompt_file}" target="_blank" rel="noopener">Read the prompt</a>
+      </div>`;
+    el.appendChild(card);
+  }
+}
+
+function renderSamples(manifest) {
+  const el = document.getElementById("samples");
+  for (const s of manifest.samples) {
+    const block = document.createElement("section");
+    block.className = "sample";
+    let figures = `
+      <figure>
+        <img src="${s.input}" alt="Input photo — ${s.title}">
+        <figcaption>Input — ${s.title}</figcaption>
+      </figure>`;
+    for (const [slug, path] of Object.entries(s.outputs)) {
+      figures += `
+      <figure>
+        <img src="${path}" alt="Output — ${promptName(manifest, slug)}">
+        <figcaption>Output — ${promptName(manifest, slug)}</figcaption>
+      </figure>`;
+    }
+    block.innerHTML = `<div class="pair">${figures}</div>`;
+    el.appendChild(block);
+  }
+}
+
+fetch("index.json")
+  .then(r => r.json())
+  .then(manifest => { renderPrompts(manifest); renderSamples(manifest); })
+  .catch(err => {
+    document.getElementById("prompts").textContent = "Could not load index.json.";
+    console.error(err);
+  });
+</script>
+</body>
+</html>
