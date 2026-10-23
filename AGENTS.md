@@ -715,6 +715,93 @@ by set ID / reel ID before counting a post as new.
   7 "MALDIVES", 8 "VIENNA", 9 "A WALK IN LIGHT", 10 "OCEAN
   MEMORIES", 11 "RADIANT HORIZON", 12 "RURAL HORIZON".
 
+### bento-box — Emerson post (fetched 2026-10-22 via signed-in browser; catch-up from the Sep 26–29 range)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Japanese Bento · 日式便當 (Bento-fication ／飯盒化）, photo
+  set posted **Sep 28, 2026, 10:21 PM** (marked AI content). No
+  companion reel observed. **Correction to the batch 9 record:** the
+  Sep 26–29 "high-end design poster" family is FOUR distinct styles
+  (ink-rubbing, paper-collage-lines, white-model, paper-carving) plus
+  this one — it was missed by that batch and caught up here.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122154223575032634/
+  — set ID `pcb.122154223575032634`; observed: 28 likes, 1 comment,
+  5 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/bento-box/prompt.md` keeps a structural summary.
+- **Images:** exactly **6** (viewer cycle), saved as
+  `reference/bento-box/post-01.jpg` … `post-06.jpg`. All six examples
+  apply the treatment to company logos / products: 1 NVIDIA,
+  2 TSMC, 3 Cathay Financial Holdings, 4 Samsung 990 SSD,
+  5 MediaTek, 6 Novo Nordisk.
+
+### perler-beads — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Perler Beads · 拼豆， photo set posted **Sep 25, 2026,
+  7:13 PM in the public group 快樂學習AI** (no profile-timeline twin
+  posting exists); reel on the profile Sep 25, 7:36 PM. The set-only
+  rule's first application: the video alone would have been skipped,
+  but a companion set exists (in a group), so it is archived.
+- **Photo set:** https://www.facebook.com/groups/346855692144727/?multi_permalinks=3526097814220483
+  — set ID `pcb.3526097814220483`; observed: 48 likes, 4 comments,
+  14 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/perler-beads/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1065929642975962 — frame
+  check: the reel ADDS ONE distinct example not in the set (a vintage
+  train-window poster titled 「舊窗」); 9 of 11 set posters also
+  sighted.
+- **Layout:** this style's posters are LEFT/RIGHT panels (photo left,
+  bead version right), not top/bottom.
+- **Images:** exactly **11** (viewer cycle), saved as
+  `reference/perler-beads/post-01.jpg` … `post-11.jpg`. Titles:
+  1「窗邊閱讀」, 2「柔色步調」, 3「城市節奏」, 4「午后片刻」,
+  5「剛好的日常」, 6「夕照逐浪」, 7「暖光相伴」, 8「復古慢行」,
+  9「窗邊橘貓」, 10「雨中亮色」, 11「紅色身影」.
+
+### soft-focus — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Blurry Soft Focus · 模糊柔焦， photo set posted **Sep 24,
+  2026, 7:51 PM** (marked AI content); the set never rendered in any
+  feed pass and was found via a profile search for 模糊柔焦. The same
+  set was cross-posted the same evening to several public AI groups
+  (noted, not processed). Its reel 2318064765624333 was posted TWICE
+  on the profile: Sep 24, 7:54 PM and again 11:53 PM.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122153440779032634/
+  — set ID `pcb.122153440779032634`; observed: 80 likes, 3 comments,
+  8 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/soft-focus/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/2318064765624333 — sampled
+  frames all duplicate set posters.
+- **Images:** exactly **9** (viewer cycle), saved as
+  `reference/soft-focus/post-01.jpg` … `post-09.jpg`.
+
+### colored-paper-collage — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Colored-Paper Collage · 色紙拼接， photo set posted
+  **Sep 24, 2026, 2:06 AM** (marked AI content), reel 2:09 AM.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122153271177032634/
+  — set ID `pcb.122153271177032634`; observed: 145 likes, 5 comments,
+  28 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/colored-paper-collage/prompt.md` keeps a structural
+  summary.
+- **Reel:** https://www.facebook.com/reel/1090167963421267 — plays
+  the 11 set posters in set order; no distinct example.
+- **Images:** exactly **11** (viewer cycle), saved as
+  `reference/colored-paper-collage/post-01.jpg` … `post-11.jpg`.
+  Every poster carries the tagline "SAME PLACES DIFFERENT STORIES."
+  Titles: 1 "City Moments", 2 "Everyday Routes", 3 "Colors Bring
+  Closer", 4 "On the Move", 5 "Hot Pot", 6 "On New Roads",
+  7 "Coffee Moments", 8 "Everyday Journeys", 9 "Urban Geometry",
+  10 "Waiting Moments", 11 "Plants Brighten Days".
+- **Set-check note:** nothing in this batch was skipped under the
+  set-only rule — every candidate checked (perler video, both
+  "Espresso at 2:17" posts, the "August Through the Arcade" video,
+  the Sep 22 videos) turned out to have an image set. The batch-9
+  "watercolor-travel posters" sighting is resolved: it is the
+  already-archived impasto-oil-painting set.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

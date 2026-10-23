@@ -615,6 +615,91 @@
       "slug": "paper-carving",
       "source_url": "https://www.facebook.com/61580979040009/posts/122153853081032634/",
       "summary": "Remakes a photo's world as a layered paper-carving relief — cut, stacked and hollowed paper with real depth, in the photo's brightest colors. The source post shows 12 examples; all 12 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Japanese Bento",
+      "name_original": "日式便當",
+      "prompt_file": "reference/bento-box/prompt.md",
+      "reference_image": "reference/bento-box/post-01.jpg",
+      "reference_images": [
+        "reference/bento-box/post-01.jpg",
+        "reference/bento-box/post-02.jpg",
+        "reference/bento-box/post-03.jpg",
+        "reference/bento-box/post-04.jpg",
+        "reference/bento-box/post-05.jpg",
+        "reference/bento-box/post-06.jpg"
+      ],
+      "slug": "bento-box",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122154223575032634/",
+      "summary": "Rebuilds an image inside a clear convenience-store bento box, substituting every element with ingredients while keeping the scene's soul — label, price and barcode included. All 6 set examples apply it to company logos; all 6 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Perler Beads",
+      "name_original": "拼豆",
+      "prompt_file": "reference/perler-beads/prompt.md",
+      "reference_image": "reference/perler-beads/post-01.jpg",
+      "reference_images": [
+        "reference/perler-beads/post-01.jpg",
+        "reference/perler-beads/post-02.jpg",
+        "reference/perler-beads/post-03.jpg",
+        "reference/perler-beads/post-04.jpg",
+        "reference/perler-beads/post-05.jpg",
+        "reference/perler-beads/post-06.jpg",
+        "reference/perler-beads/post-07.jpg",
+        "reference/perler-beads/post-08.jpg",
+        "reference/perler-beads/post-09.jpg",
+        "reference/perler-beads/post-10.jpg",
+        "reference/perler-beads/post-11.jpg"
+      ],
+      "slug": "perler-beads",
+      "source_url": "https://www.facebook.com/groups/346855692144727/?multi_permalinks=3526097814220483",
+      "summary": "Re-assembles a photo's subject from real fuse beads — center holes, thickness and plastic texture — beside the untouched photo, with a 3–5 color card and a poetic Chinese title. The source set shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Blurry Soft Focus",
+      "name_original": "模糊柔焦",
+      "prompt_file": "reference/soft-focus/prompt.md",
+      "reference_image": "reference/soft-focus/post-01.jpg",
+      "reference_images": [
+        "reference/soft-focus/post-01.jpg",
+        "reference/soft-focus/post-02.jpg",
+        "reference/soft-focus/post-03.jpg",
+        "reference/soft-focus/post-04.jpg",
+        "reference/soft-focus/post-05.jpg",
+        "reference/soft-focus/post-06.jpg",
+        "reference/soft-focus/post-07.jpg",
+        "reference/soft-focus/post-08.jpg",
+        "reference/soft-focus/post-09.jpg"
+      ],
+      "slug": "soft-focus",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122153440779032634/",
+      "summary": "Keeps the photo above and turns its lower half into a memory left by light — a tiny blurred silhouette in vast soft negative space. Weak subject, strong atmosphere. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Colored-Paper Collage",
+      "name_original": "色紙拼接",
+      "prompt_file": "reference/colored-paper-collage/prompt.md",
+      "reference_image": "reference/colored-paper-collage/post-01.jpg",
+      "reference_images": [
+        "reference/colored-paper-collage/post-01.jpg",
+        "reference/colored-paper-collage/post-02.jpg",
+        "reference/colored-paper-collage/post-03.jpg",
+        "reference/colored-paper-collage/post-04.jpg",
+        "reference/colored-paper-collage/post-05.jpg",
+        "reference/colored-paper-collage/post-06.jpg",
+        "reference/colored-paper-collage/post-07.jpg",
+        "reference/colored-paper-collage/post-08.jpg",
+        "reference/colored-paper-collage/post-09.jpg",
+        "reference/colored-paper-collage/post-10.jpg",
+        "reference/colored-paper-collage/post-11.jpg"
+      ],
+      "slug": "colored-paper-collage",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122153271177032634/",
+      "summary": "Organizes a complex photo into a few flat geometric color blocks on warm ivory — the real world above, an organized visual memory below. The source post shows 11 examples; all 11 are archived here."
     }
   ],
   "samples": [
