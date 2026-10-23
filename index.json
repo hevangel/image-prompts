@@ -392,6 +392,73 @@
       "slug": "ink-starved-geometry",
       "source_url": "https://www.facebook.com/61580979040009/posts/122155961667032634/",
       "summary": "Declutters a photo to one core motif locked into a rigorous geometric framework, printed with broken ink and worn rubbing texture inside crisp boundaries. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Asymmetric Enlargement",
+      "name_original": "不對稱放大",
+      "prompt_file": "reference/asymmetric-enlargement/prompt.md",
+      "reference_image": "reference/asymmetric-enlargement/post-01.jpg",
+      "reference_images": [
+        "reference/asymmetric-enlargement/post-01.jpg",
+        "reference/asymmetric-enlargement/post-02.jpg",
+        "reference/asymmetric-enlargement/post-03.jpg",
+        "reference/asymmetric-enlargement/post-04.jpg",
+        "reference/asymmetric-enlargement/post-05.jpg",
+        "reference/asymmetric-enlargement/post-06.jpg",
+        "reference/asymmetric-enlargement/post-07.jpg",
+        "reference/asymmetric-enlargement/post-08.jpg",
+        "reference/asymmetric-enlargement/post-09.jpg",
+        "reference/asymmetric-enlargement/post-10.jpg"
+      ],
+      "slug": "asymmetric-enlargement",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122155657089032634/",
+      "summary": "Rebuilds a photo as a flat editorial character poster — smaller heads, longer limbs, big color blocks — with exactly one element enlarged 35–60% to break the original proportions. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Fine-Line Poster",
+      "name_original": "簡單線條",
+      "prompt_file": "reference/fine-line-poster/prompt.md",
+      "reference_image": "reference/fine-line-poster/post-01.jpg",
+      "reference_images": [
+        "reference/fine-line-poster/post-01.jpg",
+        "reference/fine-line-poster/post-02.jpg",
+        "reference/fine-line-poster/post-03.jpg",
+        "reference/fine-line-poster/post-04.jpg",
+        "reference/fine-line-poster/post-05.jpg",
+        "reference/fine-line-poster/post-06.jpg",
+        "reference/fine-line-poster/post-07.jpg",
+        "reference/fine-line-poster/post-08.jpg",
+        "reference/fine-line-poster/post-09.jpg",
+        "reference/fine-line-poster/post-10.jpg",
+        "reference/fine-line-poster/post-11.jpg"
+      ],
+      "slug": "fine-line-poster",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122155501629032634/",
+      "summary": "Leaves a photo with only a few fragile, broken fine lines and one handwritten phrase — the subject tiny in vast warm-white space, the feeling kept rather than the scene. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Vintage Lines",
+      "name_original": "復古線條",
+      "prompt_file": "reference/vintage-lines/prompt.md",
+      "reference_image": "reference/vintage-lines/post-01.jpg",
+      "reference_images": [
+        "reference/vintage-lines/post-01.jpg",
+        "reference/vintage-lines/post-02.jpg",
+        "reference/vintage-lines/post-03.jpg",
+        "reference/vintage-lines/post-04.jpg",
+        "reference/vintage-lines/post-05.jpg",
+        "reference/vintage-lines/post-06.jpg",
+        "reference/vintage-lines/post-07.jpg",
+        "reference/vintage-lines/post-08.jpg",
+        "reference/vintage-lines/post-09.jpg",
+        "reference/vintage-lines/post-10.jpg"
+      ],
+      "slug": "vintage-lines",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122155318635032634/",
+      "summary": "Takes a photo apart into boxes, circles and straight black lines plus two spot colors — a mid-century vernacular diagram, like an old advertising card or product manual. The source post shows 10 examples; all 10 are archived here."
     }
   ],
   "samples": [

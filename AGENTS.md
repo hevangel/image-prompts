@@ -485,6 +485,69 @@ by set ID / reel ID before counting a post as new.
   6 Shinjuku alley 「新宿」, 7 Pamukkale terraces, 8 snowy mountain
   road, 9 Moldovan rock monastery, 10 Manhattan through a fence.
 
+### asymmetric-enlargement — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Asymmetric Enlargement · 不對稱放大 (the prompt's lower
+  half is an "Editorial Character Poster"), photo set posted
+  **Oct 6, 2026, 12:32 AM**, reel 12:42 AM (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122155657089032634/
+  — set ID `pcb.122155657089032634`; observed: 1.4K likes, 73 comments,
+  323 shares. Author comment carries the full GPT prompt;
+  `reference/asymmetric-enlargement/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/964276616156274 — identical
+  prompt in its author comment (verified); its 10 segments are exactly
+  the set's 10 posters.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/asymmetric-enlargement/post-01.jpg` … `post-10.jpg`.
+  Titles: 1 "JUST SHOOT", 2 "HIGHER PERSPECTIVE", 3 "AFTER THE RAIN",
+  4 "SAME ROADS" (night road), 5 "NEXT JOURNEY", 6 "WAIT FOR THE
+  WAVE", 7 "SAME ROADS" (platform — same title, different poster),
+  8 "QUIET WALK", 9 "SAME GROUND", 10 "DRIFT INTO MORNING".
+
+### fine-line-poster — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Fine-Line Poster · 簡單線條 (no coined style title;
+  distinct from `one-line-contour` — fragile broken fine lines, tiny
+  subject in vast warm-white space, one handwritten phrase per
+  poster), photo set posted **Oct 5, 2026, 12:20 AM**, reel ~12:28 AM
+  (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122155501629032634/
+  — set ID `pcb.122155501629032634`; observed: 568 likes, 34 comments,
+  103 shares. Located via the Photos tab. Author comment carries the
+  full GPT prompt; `reference/fine-line-poster/prompt.md` keeps a
+  structural summary.
+- **Reel:** https://www.facebook.com/reel/2512770495865794 — identical
+  prompt in its author comment (verified); sampled frames all
+  duplicate set posters.
+- **Images:** exactly **11** (viewer cycle), saved as
+  `reference/fine-line-poster/post-01.jpg` … `post-11.jpg`. Subjects:
+  Hualien coast road, mother and child, basketball hoop, sunset ship,
+  "NO BALL GAMES" seats, laundromat, myna birds, American diner, park
+  bicycle, night market, harbor fisherman — each with its handwritten
+  phrase quoted in prompt.md.
+
+### vintage-lines — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Vintage Lines · 復古線條 (set caption) = 老廣告插圖
+  (reel caption; same style, two labels), photo set posted
+  **Oct 3, 2026, 10:54 PM**, reel 11:02 PM (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122155318635032634/
+  — set ID `pcb.122155318635032634`; observed: 197 likes, 21 comments,
+  46 shares. Author comment carries the full GPT prompt;
+  `reference/vintage-lines/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1701480021983673 — identical
+  prompt in its author comment (verified); sampled frames all
+  duplicate set posters.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/vintage-lines/post-01.jpg` … `post-10.jpg`. Subjects:
+  dog in a car window, gelato cart, Amsterdam canal bicycle,
+  Taiwanese breakfast shop, salt-and-pepper chicken stall, São Paulo
+  bus stop, fruit-cup stall, espresso machine, mango sticky rice
+  stall, auto repair workshop. No printed poster titles.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create
