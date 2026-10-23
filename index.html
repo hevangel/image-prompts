@@ -219,6 +219,7 @@ function renderGenGrid() {
   const grid = document.getElementById("gen-grid");
   grid.innerHTML = "";
   let shown = 0;
+  const inputsShown = new Set();
   for (const r of allGenerations()) {
     const p = promptBySlug(r.slug);
     const modelName = r.gen ? r.gen.model : "";
@@ -226,6 +227,19 @@ function renderGenGrid() {
                  modelName, r.gen ? r.gen.notes : ""].join(" ").toLowerCase();
     if (kw && !hay.includes(kw)) continue;
     if (model && modelName !== model) continue;
+    // The input (original) photo is always the first picture of its sample.
+    if (!inputsShown.has(r.sample.slug)) {
+      inputsShown.add(r.sample.slug);
+      const inCard = document.createElement("article");
+      inCard.className = "gen-card";
+      inCard.innerHTML = `
+        <a href="${esc(r.sample.input)}" target="_blank" rel="noopener"><img src="${esc(r.sample.input)}" alt="Original photo — ${esc(r.sample.title)}" loading="lazy"></a>
+        <div class="body">
+          <div class="p">Original photo</div>
+          <div class="meta">Input — “${esc(r.sample.title)}”</div>
+        </div>`;
+      grid.appendChild(inCard);
+    }
     shown++;
     const card = document.createElement("article");
     card.className = "gen-card";
