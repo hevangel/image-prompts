@@ -1,0 +1,14 @@
+{
+  "generations": [
+    {
+      "current": true,
+      "generated_at": "2026-10-22T22:23:21-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame frosted-glass transformation, edge to edge, no top/bottom split, no embedded original photo, no text.",
+      "output": "frosted-glass.webp",
+      "prompt_slug": "frosted-glass",
+      "tokens_used": null
+    }
+  ],
+  "input": "input.jpg"
+}

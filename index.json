@@ -794,6 +794,42 @@
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
+    },
+    {
+      "generations_file": "samples/book-fair/generations.json",
+      "input": "samples/book-fair/input.jpg",
+      "outputs": {
+        "frosted-glass": "samples/book-fair/frosted-glass.webp"
+      },
+      "slug": "book-fair",
+      "title": "Book Fair — Young Adult Table"
+    },
+    {
+      "generations_file": "samples/millennium-falcon/generations.json",
+      "input": "samples/millennium-falcon/input.jpg",
+      "outputs": {
+        "frosted-glass": "samples/millennium-falcon/frosted-glass.webp"
+      },
+      "slug": "millennium-falcon",
+      "title": "LEGO Millennium Falcon"
+    },
+    {
+      "generations_file": "samples/concert-stage/generations.json",
+      "input": "samples/concert-stage/input.jpg",
+      "outputs": {
+        "frosted-glass": "samples/concert-stage/frosted-glass.webp"
+      },
+      "slug": "concert-stage",
+      "title": "Concert Stage"
+    },
+    {
+      "generations_file": "samples/taco-truck-dog/generations.json",
+      "input": "samples/taco-truck-dog/input.jpg",
+      "outputs": {
+        "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp"
+      },
+      "slug": "taco-truck-dog",
+      "title": "Dog at the Taco Truck"
     }
   ]
 }
