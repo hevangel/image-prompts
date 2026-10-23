@@ -1080,6 +1080,24 @@
       "slug": "brand-packaging",
       "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02vGKSw97dyEqy4h2eCHK1XzQVxixqw33h6d12CtpYWLXN5PpLPT9HVFD3MAV83FTnl&id=61580979040009",
       "summary": "Develops a photo into a complete brand packaging system — its distilled traits rebuilt as bags, boxes, tags and labels in soft powder-blue tones on premium matte paper. The source post shows 6 examples; all 6 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Cinematic Portraits",
+      "name_original": "電影級形象照",
+      "prompt_file": "reference/cinematic-portraits/prompt.md",
+      "reference_image": "reference/cinematic-portraits/post-01.jpg",
+      "reference_images": [
+        "reference/cinematic-portraits/post-01.jpg",
+        "reference/cinematic-portraits/post-02.jpg",
+        "reference/cinematic-portraits/post-03.jpg",
+        "reference/cinematic-portraits/post-04.jpg",
+        "reference/cinematic-portraits/post-05.jpg",
+        "reference/cinematic-portraits/post-06.jpg"
+      ],
+      "slug": "cinematic-portraits",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0KFELSP6PRSbCugN6YfAe8hxKNBWFF4KwLvbUNcT6cvyHcuvS3AifRvvg5t25i7gMl&id=61580979040009",
+      "summary": "Six cinematic portrait prompts in one post (Google AI Studio / Nano Banana): restyle your own uploaded photo into studio-grade portraits — all-white minimalist, cinematic poster, black-and-white studio, profile, side-gaze, and half-turn brand compositions. All 6 examples from the post are archived here."
     }
   ],
   "samples": [

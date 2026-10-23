@@ -1196,6 +1196,34 @@ by set ID / reel ID before counting a post as new.
 - **Images:** exactly **6** (viewer cycle), saved as
   `reference/brand-packaging/post-01.jpg` … `post-06.jpg`.
 
+### cinematic-portraits — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Cinematic Portraits · 電影級形象照 — **six prompts in
+  one post** (a departure from this catalog's one-style-per-post
+  pattern), photo set posted **Oct 26, 2025**. This is the album the
+  batch-17 survey left unopened; opened at the user's direction it
+  proved to be a prompt post, and the user chose to archive it.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0KFELSP6PRSbCugN6YfAe8hxKNBWFF4KwLvbUNcT6cvyHcuvS3AifRvvg5t25i7gMl&id=61580979040009
+  — set ID `pcb.122109597513032634`; like/share counts were not
+  displayed in the post's render. The caption (headed
+  「6種指令創作電影級形象照！」) prints all six prompts in full —
+  Google AI Studio / Nano Banana recipes that restyle the uploader's
+  own photo; `reference/cinematic-portraits/prompt.md` keeps a
+  structural summary. The post's only comment is the author's own
+  (Oct 26, 2025, 6:22 AM) linking his vocus article
+  (https://vocus.cc/article/68fccd7bfd897800019e3ce6).
+- **Images:** exactly **6** (viewer cycle), 832×1248, saved as
+  `reference/cinematic-portraits/post-01.jpg` … `post-06.jpg`.
+  Subjects: 1 all-white minimalist studio portrait (white suit,
+  DSLR in hand), 2 cinematic poster portrait (pink/purple geometric
+  window light), 3 B&W studio portrait (back to camera, horizontal
+  light beam), 4 profile portrait (warm orange spotlight on deep
+  blue), 5 B&W side-gaze portrait (dark turtleneck), 6 B&W half-turn
+  brand composition.
+- **No samples:** the prompts need a person's own portrait as input;
+  the sample set has none (same exception as `food-poster`).
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
@@ -1226,6 +1254,15 @@ The browser surveyed the rest of the profile to its oldest posts
 - One multi-photo post was not opened: the Oct 26, 2025 album
   (~6 photos) — no prompt indicators in any feed render; it sits
   among personal essay posts.
+- **Correction (2026-10-23):** the Oct 26, 2025 album was opened at
+  the user's direction and IS a prompt post — six Google AI Studio
+  (Nano Banana) cinematic-portrait prompts printed in its caption,
+  with a 6-photo set — and the user chose to archive it as
+  `cinematic-portraits` (bringing the catalog to **51 prompts, 488
+  reference images**). The survey's "no archivable sets below
+  August" finding is corrected accordingly; its other findings
+  stand. Prompt-sharing on this profile therefore reaches back to
+  Oct 2025, ~10 months before the poster era.
 
 ## Adding a prompt
 
