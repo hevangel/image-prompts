@@ -1042,6 +1042,61 @@ by set ID / reel ID before counting a post as new.
 - **Images:** exactly **9** (viewer cycle), saved as
   `reference/out-of-frame/post-01.jpg` … `post-09.jpg`.
 
+### wool-felt — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Wool Felt · 羊毛氈繪本， photo set posted **Sep 12,
+  2026**, companion reel the same day. The set had not rendered
+  adjacent to its video in batch 14's passes; found in batch 15's
+  fuller render. Distinct medium (needle felt); also distinct from
+  woven-tapestry.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid037qCMW8TAwn4AxomnKwhnaUrTx6vXuEx2NzfF6ZgdzyUWz6jvUADMytz75xNkJeAQl&id=61580979040009
+  — set ID `pcb.122151229419032634`; observed: 9 likes, 0 comments,
+  3 shares. The set post has no comments — the canonical prompt
+  comment is on the companion reel (as with paper-cut-collage);
+  `reference/wool-felt/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1403164864606067 (190
+  likes) — plays the set in set order; no distinct example.
+- **Images:** exactly **8** (viewer cycle), saved as
+  `reference/wool-felt/post-01.jpg` … `post-08.jpg`.
+
+### small-illustration (upgraded) — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Upgrade:** first filed (Oct 22, pre-rule) from the Oct 16, 2026
+  reel alone. Batch 15 found the style's ORIGINAL set-bearing
+  posting: photo set **Sep 11, 2026** — the Oct 16 reel is its later
+  fine-tuned variant, exactly as the entry's note anticipated. This
+  resolves the last open reconciliation of the pre-rule entries:
+  only clean-illustration still lacks a known set-bearing posting.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0X733LnQzJ9ZtzqkqHkTqk31SQidqtKpAgKN3btPXdMJQJGJu8LWBybmE7kyVydsDl&id=61580979040009
+  — set ID `pcb.122151038307032634`; observed: 11 likes, 1 comment,
+  2 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/small-illustration/prompt.md` was rewritten from it.
+- **Video:** companion https://www.facebook.com/reel/1625731242232696
+  (Sep 11; 17 likes / 0 comments / 8 shares — a counts correction:
+  the video has no comments) plays the set in order; re-presentation
+  reel https://www.facebook.com/reel/2140751013477384 (Oct 16).
+- **Images:** exactly **8** (viewer cycle), saved as
+  `reference/small-illustration/post-01.jpg` … `post-08.jpg`.
+  Distinct from spot-illustration (Sep 14): strict charcoal + rust-red
+  duotone vs black lines + one pale sampled accent.
+
+### typography-device — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Typography Device · 字體圖形裝置 ("Typography as
+  Image"), photo set posted **Sep 10, 2026**; no companion video
+  observed. Distinct from geometric-poster (shape-driven, per-photo
+  colors) and dot-matrix (halftone system): the lettering itself
+  forms the device's structure, in a FIXED functional palette.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02mcPYzuzZ2HGt5sYJzFtFU5j1tyDjx2aT1czqKKS5HJGnLa26F4XF1JatzTJbKbgAl&id=61580979040009
+  — set ID `pcb.122150928405032634`; observed: 31 likes, 2 comments,
+  7 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/typography-device/prompt.md` keeps a structural summary.
+- **Images:** exactly **8** (viewer cycle), saved as
+  `reference/typography-device/post-01.jpg` … `post-08.jpg`.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

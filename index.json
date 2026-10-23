@@ -142,11 +142,20 @@
       "name": "Small Illustration",
       "name_original": "小插畫",
       "prompt_file": "reference/small-illustration/prompt.md",
-      "reference_image": null,
-      "reference_images": [],
+      "reference_image": "reference/small-illustration/post-01.jpg",
+      "reference_images": [
+        "reference/small-illustration/post-01.jpg",
+        "reference/small-illustration/post-02.jpg",
+        "reference/small-illustration/post-03.jpg",
+        "reference/small-illustration/post-04.jpg",
+        "reference/small-illustration/post-05.jpg",
+        "reference/small-illustration/post-06.jpg",
+        "reference/small-illustration/post-07.jpg",
+        "reference/small-illustration/post-08.jpg"
+      ],
       "slug": "small-illustration",
-      "source_url": "https://www.facebook.com/reel/2140751013477384",
-      "summary": "Shrinks a photo's most recognizable subject into a tiny charcoal-and-rust-red spot illustration on a huge field of warm off-white paper — beauty in what is not drawn. Reel-only post: it has no photo set, so this entry has no reference images."
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0X733LnQzJ9ZtzqkqHkTqk31SQidqtKpAgKN3btPXdMJQJGJu8LWBybmE7kyVydsDl&id=61580979040009",
+      "summary": "Deletes most of a photo and shrinks what remains into a tiny dry-media spot illustration — charcoal black structure, rust-red accents only, on warm paper. Originally filed from the Oct 16 reel; the style's original Sep 11 set (8 photos) is now archived here."
     },
     {
       "author": "Emerson post",
@@ -957,6 +966,46 @@
       "slug": "spot-illustration",
       "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid024p2QPWPw7MQDjHznLarW64BkpY71gBSVZUgYGP5jHBFwu8qVBMgRTjd1RkE8Tiz7l&id=61580979040009",
       "summary": "Condenses a photo into one tiny hand-drawn sticker-like illustration in a sea of white space, with a single pale accent color borrowed from the photo. A near-twin of black-line-drawing (Sep 18), filed separately. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Wool Felt",
+      "name_original": "羊毛氈繪本",
+      "prompt_file": "reference/wool-felt/prompt.md",
+      "reference_image": "reference/wool-felt/post-01.jpg",
+      "reference_images": [
+        "reference/wool-felt/post-01.jpg",
+        "reference/wool-felt/post-02.jpg",
+        "reference/wool-felt/post-03.jpg",
+        "reference/wool-felt/post-04.jpg",
+        "reference/wool-felt/post-05.jpg",
+        "reference/wool-felt/post-06.jpg",
+        "reference/wool-felt/post-07.jpg",
+        "reference/wool-felt/post-08.jpg"
+      ],
+      "slug": "wool-felt",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid037qCMW8TAwn4AxomnKwhnaUrTx6vXuEx2NzfF6ZgdzyUWz6jvUADMytz75xNkJeAQl&id=61580979040009",
+      "summary": "Re-stores a photo's memory as a tiny needle-felt picture-book illustration — soft fuzzy shapes at 20–25% scale in a sea of warm white space. The source post shows 8 examples; all 8 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Typography Device",
+      "name_original": "字體圖形裝置",
+      "prompt_file": "reference/typography-device/prompt.md",
+      "reference_image": "reference/typography-device/post-01.jpg",
+      "reference_images": [
+        "reference/typography-device/post-01.jpg",
+        "reference/typography-device/post-02.jpg",
+        "reference/typography-device/post-03.jpg",
+        "reference/typography-device/post-04.jpg",
+        "reference/typography-device/post-05.jpg",
+        "reference/typography-device/post-06.jpg",
+        "reference/typography-device/post-07.jpg",
+        "reference/typography-device/post-08.jpg"
+      ],
+      "slug": "typography-device",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mcPYzuzZ2HGt5sYJzFtFU5j1tyDjx2aT1czqKKS5HJGnLa26F4XF1JatzTJbKbgAl&id=61580979040009",
+      "summary": "Typography as Image: a photo's subject decomposed into lettering, geometric lines and color blocks forming one small device, in a fixed functional palette (orange structure, cyan info, yellow highlight, magenta accent, black anchor). The source post shows 8 examples; all 8 are archived here."
     }
   ],
   "samples": [
