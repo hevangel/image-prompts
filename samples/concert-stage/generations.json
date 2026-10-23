@@ -269,6 +269,15 @@
       "output": "perler-beads.webp",
       "prompt_slug": "perler-beads",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:16:36-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame blurry soft focus: dreamy diffused glow, colors melting together, no split, no embedded original, no text.",
+      "output": "soft-focus.webp",
+      "prompt_slug": "soft-focus",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
