@@ -649,6 +649,72 @@ by set ID / reel ID before counting a post as new.
   descriptions). Photos 4–8 were downloaded through the set post's
   photo viewer instead; no description text was read or acted on.
 
+### paper-collage-lines — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Paper Collage Lines · 紙張拼貼＆手繪線條 (mixed-media
+  paper collage), photo set posted **Sep 28, 2026, 9:32 PM**, reel
+  9:42 PM (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122154214911032634/
+  — set ID `pcb.122154214911032634`; observed: 227 likes, 16 comments,
+  67 shares. Author comment carries the full GPT prompt;
+  `reference/paper-collage-lines/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1092024906635150 — identical
+  prompt in its author comment (verified). Reel check: the
+  camera-and-roses frame in the reel is set photo #9 (which never
+  rendered in the viewer during the fetch; verified from the
+  downloaded file) — the reel adds no distinct example.
+- **Images:** exactly **11** (viewer cycle), saved as
+  `reference/paper-collage-lines/post-01.jpg` … `post-11.jpg`.
+  Subjects: café window, coffee glasses + Shin-chan, melon truck,
+  woman + Shiba, Yufuin street, rainy-night crossing, cheese hot-dog
+  stall, red boat among icebergs, film camera + Kodak Gold 200 +
+  roses, hay bales, fireworks. No printed titles.
+
+### white-model — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** White Model · 白色模型, photo set posted **Sep 27, 2026,
+  8:28 PM**, reel 8:39 PM (marked AI content). **Posted twice:** an
+  earlier set the same evening (8:18 PM, `pcb.122154006729032634`,
+  Chinese-language prompt) holds 10 photos, all duplicates of this
+  set's posters — archived once, from the 8:28 PM posting.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122154009501032634/
+  — set ID `pcb.122154009501032634`; observed: 106 likes, 13 comments,
+  24 shares. Author comment carries the full GPT prompt;
+  `reference/white-model/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/2175547223391268 — identical
+  prompt in its author comment (verified); sampled frames all
+  duplicate set posters.
+- **Images:** exactly **12** (viewer cycle), saved as
+  `reference/white-model/post-01.jpg` … `post-12.jpg`. Titles:
+  1 "A SINGLE TREE", 2 "A QUIET MELODY", 3 "CONNECTIONS IN THE SKY",
+  4 "TRACE", 5 "PASSAGE", 6 "A LONGER SHORE", 7 "ARCHITECTURE IN
+  TIME", 8 "BRANCH", 9 "THE RIDGE", 10 "MOVING HAPPINESS" (Coca-Cola
+  truck), 11 "BLOOM", 12 "STILL HERE".
+
+### paper-carving — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Paper Carving · 紙雕 (layered paper-cut relief —
+  distinct from `paper-cut`'s flat collage and from
+  `paper-collage-lines`), photo set posted **Sep 26, 2026, 8:17 PM**;
+  companion video posted 8:07 PM, ten minutes BEFORE the set (first
+  such case in this archive).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122153853081032634/
+  — set ID `pcb.122153853081032634`; observed: 322 likes, 30 comments,
+  65 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/paper-carving/prompt.md` keeps a structural summary.
+- **Video:** https://www.facebook.com/reel/1380790400755034 —
+  identical prompt in its author comment (verified); sampled frames
+  all duplicate set posters.
+- **Images:** exactly **12** (viewer cycle), saved as
+  `reference/paper-carving/post-01.jpg` … `post-12.jpg`. Titles:
+  1 "COASTAL SERENITY", 2 "MOUNTAIN RAILWAY", 3 "ISLAND LIGHT",
+  4 "THE SEA AHEAD", 5 "OFFSHORE HORIZON", 6 "POSITANO",
+  7 "MALDIVES", 8 "VIENNA", 9 "A WALK IN LIGHT", 10 "OCEAN
+  MEMORIES", 11 "RADIANT HORIZON", 12 "RURAL HORIZON".
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

@@ -544,6 +544,77 @@
       "slug": "ink-rubbing",
       "source_url": "https://www.facebook.com/61580979040009/posts/122154490767032634/",
       "summary": "Turns a photo into an archaeological ink rubbing — broken ink, missing patches and vast paper whitespace, as if the moment were carved in stone and preserved. The source post shows 8 examples; all 8 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Paper Collage Lines",
+      "name_original": "紙張拼貼＆手繪線條",
+      "prompt_file": "reference/paper-collage-lines/prompt.md",
+      "reference_image": "reference/paper-collage-lines/post-01.jpg",
+      "reference_images": [
+        "reference/paper-collage-lines/post-01.jpg",
+        "reference/paper-collage-lines/post-02.jpg",
+        "reference/paper-collage-lines/post-03.jpg",
+        "reference/paper-collage-lines/post-04.jpg",
+        "reference/paper-collage-lines/post-05.jpg",
+        "reference/paper-collage-lines/post-06.jpg",
+        "reference/paper-collage-lines/post-07.jpg",
+        "reference/paper-collage-lines/post-08.jpg",
+        "reference/paper-collage-lines/post-09.jpg",
+        "reference/paper-collage-lines/post-10.jpg",
+        "reference/paper-collage-lines/post-11.jpg"
+      ],
+      "slug": "paper-collage-lines",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122154214911032634/",
+      "summary": "Re-sorts a photo into torn-paper collage pieces, printed-text fragments and hand-drawn pencil lines — the same photo, rearranged rather than redrawn. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "White Model",
+      "name_original": "白色模型",
+      "prompt_file": "reference/white-model/prompt.md",
+      "reference_image": "reference/white-model/post-01.jpg",
+      "reference_images": [
+        "reference/white-model/post-01.jpg",
+        "reference/white-model/post-02.jpg",
+        "reference/white-model/post-03.jpg",
+        "reference/white-model/post-04.jpg",
+        "reference/white-model/post-05.jpg",
+        "reference/white-model/post-06.jpg",
+        "reference/white-model/post-07.jpg",
+        "reference/white-model/post-08.jpg",
+        "reference/white-model/post-09.jpg",
+        "reference/white-model/post-10.jpg",
+        "reference/white-model/post-11.jpg",
+        "reference/white-model/post-12.jpg"
+      ],
+      "slug": "white-model",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122154009501032634/",
+      "summary": "Deletes a photo's background, color and detail until only its essential form remains, rebuilt as a small white architectural concept model in vast empty space. The source post shows 12 examples; all 12 are archived here (the style was posted twice; archived from the fuller posting)."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Paper Carving",
+      "name_original": "紙雕",
+      "prompt_file": "reference/paper-carving/prompt.md",
+      "reference_image": "reference/paper-carving/post-01.jpg",
+      "reference_images": [
+        "reference/paper-carving/post-01.jpg",
+        "reference/paper-carving/post-02.jpg",
+        "reference/paper-carving/post-03.jpg",
+        "reference/paper-carving/post-04.jpg",
+        "reference/paper-carving/post-05.jpg",
+        "reference/paper-carving/post-06.jpg",
+        "reference/paper-carving/post-07.jpg",
+        "reference/paper-carving/post-08.jpg",
+        "reference/paper-carving/post-09.jpg",
+        "reference/paper-carving/post-10.jpg",
+        "reference/paper-carving/post-11.jpg",
+        "reference/paper-carving/post-12.jpg"
+      ],
+      "slug": "paper-carving",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122153853081032634/",
+      "summary": "Remakes a photo's world as a layered paper-carving relief — cut, stacked and hollowed paper with real depth, in the photo's brightest colors. The source post shows 12 examples; all 12 are archived here."
     }
   ],
   "samples": [
