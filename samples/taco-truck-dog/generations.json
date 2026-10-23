@@ -152,6 +152,15 @@
       "output": "dynamic-field-print.webp",
       "prompt_slug": "dynamic-field-print",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:03:50-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame ink-starved geometric poster: bold shapes, scratchy dry ink edges, bare paper showing through, no split, no embedded original, no text.",
+      "output": "ink-starved-geometry.webp",
+      "prompt_slug": "ink-starved-geometry",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
