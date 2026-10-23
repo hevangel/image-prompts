@@ -107,6 +107,42 @@
       "output": "woodcut-print.webp",
       "prompt_slug": "woodcut-print",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:35:34-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame high-saturation paper-cut artwork: bold flat saturated paper shapes, layered shadows, no split, no embedded original, no text.",
+      "output": "paper-cut.webp",
+      "prompt_slug": "paper-cut",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:35:34-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame retro film artwork: analog grain, CMYK halftone, faded warm colors, soft vignette, no split, no embedded original, no text.",
+      "output": "retro-film.webp",
+      "prompt_slug": "retro-film",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:35:34-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame out-of-frame artwork: scene inside one irregular painted field on warm white paper, contours bleeding past the edge, no split, no embedded original, no text.",
+      "output": "out-of-frame.webp",
+      "prompt_slug": "out-of-frame",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:35:34-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame vintage Mediterranean travel poster: sun-bleached flat lithograph shapes, old film-era travel-poster feel, no split, no embedded original, no text.",
+      "output": "mediterranean-poster.webp",
+      "prompt_slug": "mediterranean-poster",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
