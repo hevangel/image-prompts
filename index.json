@@ -1129,6 +1129,7 @@
         "perler-beads": "samples/book-fair/perler-beads.webp",
         "photocopier-print": "samples/book-fair/photocopier-print.webp",
         "pixel-art": "samples/book-fair/pixel-art.webp",
+        "porcelain-collage": "samples/book-fair/porcelain-collage.webp",
         "retro-film": "samples/book-fair/retro-film.webp",
         "rough-brushed-lines": "samples/book-fair/rough-brushed-lines.webp",
         "soft-focus": "samples/book-fair/soft-focus.webp",
@@ -1147,6 +1148,7 @@
       "outputs": {
         "asymmetric-enlargement": "samples/millennium-falcon/asymmetric-enlargement.webp",
         "bento-box": "samples/millennium-falcon/bento-box.webp",
+        "black-line-drawing": "samples/millennium-falcon/black-line-drawing.webp",
         "blue-red-risograph": "samples/millennium-falcon/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/millennium-falcon/blueprint-cyanotype.webp",
         "bright-illustration": "samples/millennium-falcon/bright-illustration.webp",
@@ -1190,6 +1192,7 @@
       "outputs": {
         "asymmetric-enlargement": "samples/concert-stage/asymmetric-enlargement.webp",
         "bento-box": "samples/concert-stage/bento-box.webp",
+        "black-line-drawing": "samples/concert-stage/black-line-drawing.webp",
         "blue-red-risograph": "samples/concert-stage/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/concert-stage/blueprint-cyanotype.webp",
         "bright-illustration": "samples/concert-stage/bright-illustration.webp",
@@ -1233,6 +1236,7 @@
       "outputs": {
         "asymmetric-enlargement": "samples/taco-truck-dog/asymmetric-enlargement.webp",
         "bento-box": "samples/taco-truck-dog/bento-box.webp",
+        "black-line-drawing": "samples/taco-truck-dog/black-line-drawing.webp",
         "blue-red-risograph": "samples/taco-truck-dog/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/taco-truck-dog/blueprint-cyanotype.webp",
         "bright-illustration": "samples/taco-truck-dog/bright-illustration.webp",
