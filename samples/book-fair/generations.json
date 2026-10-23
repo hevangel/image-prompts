@@ -188,6 +188,15 @@
       "output": "vintage-lines.webp",
       "prompt_slug": "vintage-lines",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:08:45-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame geometric collage poster: simple geometric shapes and flat color blocks, Gestalt reduction, no split, no embedded original, no text.",
+      "output": "storytelling-collage.webp",
+      "prompt_slug": "storytelling-collage",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
