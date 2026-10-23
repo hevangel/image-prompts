@@ -49,6 +49,8 @@
   .gen-card img { width: 100%; display: block; aspect-ratio: 4/3; object-fit: cover; }
   .gen-card .body { padding: 10px 14px 14px; }
   .gen-card .body .p { font-weight: 600; }
+  .p-link { background: none; border: none; padding: 0; font: inherit; color: inherit; cursor: pointer; text-align: left; }
+  .p-link:hover { color: var(--accent); text-decoration: underline; }
   .meta { color: var(--muted); font-size: .83rem; }
 
   /* Prompts tab: catalog cards */
@@ -247,12 +249,13 @@ function renderGenGrid() {
     card.innerHTML = `
       <a href="${esc(r.path)}" target="_blank" rel="noopener"><img src="${esc(r.path)}" alt="Generated — ${esc(promptName(r.slug))} from ${esc(r.sample.title)}" loading="lazy"></a>
       <div class="body">
-        <div class="p">${esc(promptName(r.slug))}${p && p.name_original ? ` · ${esc(p.name_original)}` : ""}</div>
+        <div class="p"><button type="button" class="p-link" title="Open the prompt page for ${esc(promptName(r.slug))}">${esc(promptName(r.slug))}${p && p.name_original ? ` · ${esc(p.name_original)}` : ""}</button></div>
         <div class="meta">from “${esc(r.sample.title)}”</div>
         ${modelName ? `<div class="meta">Model: ${esc(modelName)}</div>` : ""}
         ${when ? `<div class="meta">${esc(when)}</div>` : ""}
         ${r.gen && r.gen.tokens_used != null ? `<div class="meta">Tokens: ${esc(r.gen.tokens_used)}</div>` : ""}
       </div>`;
+    card.querySelector(".p-link").addEventListener("click", () => { showTab("prompts"); openDetail(r.slug); });
     grid.appendChild(card);
   }
   document.getElementById("gen-empty").hidden = shown > 0;
