@@ -431,6 +431,24 @@
       "output": "split-poster.webp",
       "prompt_slug": "split-poster",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:42:05-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame architectural blueprint poster: fine drafting lines, semi-transparent planes, axes and marks on ivory, no split, no embedded original, no readable text.",
+      "output": "blueprint-poster.webp",
+      "prompt_slug": "blueprint-poster",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:42:05-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame brand packaging presentation: scene traits distilled into a matte-paper packaging suite in powder blue/ivory, no split, no embedded original, no readable text.",
+      "output": "brand-packaging.webp",
+      "prompt_slug": "brand-packaging",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
