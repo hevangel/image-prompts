@@ -459,6 +459,71 @@
       "slug": "vintage-lines",
       "source_url": "https://www.facebook.com/61580979040009/posts/122155318635032634/",
       "summary": "Takes a photo apart into boxes, circles and straight black lines plus two spot colors — a mid-century vernacular diagram, like an old advertising card or product manual. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Storytelling Collage",
+      "name_original": null,
+      "prompt_file": "reference/storytelling-collage/prompt.md",
+      "reference_image": "reference/storytelling-collage/post-01.jpg",
+      "reference_images": [
+        "reference/storytelling-collage/post-01.jpg",
+        "reference/storytelling-collage/post-02.jpg",
+        "reference/storytelling-collage/post-03.jpg",
+        "reference/storytelling-collage/post-04.jpg",
+        "reference/storytelling-collage/post-05.jpg",
+        "reference/storytelling-collage/post-06.jpg",
+        "reference/storytelling-collage/post-07.jpg",
+        "reference/storytelling-collage/post-08.jpg",
+        "reference/storytelling-collage/post-09.jpg",
+        "reference/storytelling-collage/post-10.jpg"
+      ],
+      "slug": "storytelling-collage",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122155110993032634/",
+      "summary": "Re-tells an everyday photo's story as a geometric collage of bright shapes and white space — a numbered editorial poster for an ordinary moment. The source post shows 10 examples; all 10 are archived here. A close relative of clean-illustration, but a different prompt."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Atmospheric Pixel Art",
+      "name_original": "像素",
+      "prompt_file": "reference/pixel-art/prompt.md",
+      "reference_image": "reference/pixel-art/post-01.jpg",
+      "reference_images": [
+        "reference/pixel-art/post-01.jpg",
+        "reference/pixel-art/post-02.jpg",
+        "reference/pixel-art/post-03.jpg",
+        "reference/pixel-art/post-04.jpg",
+        "reference/pixel-art/post-05.jpg",
+        "reference/pixel-art/post-06.jpg",
+        "reference/pixel-art/post-07.jpg",
+        "reference/pixel-art/post-08.jpg",
+        "reference/pixel-art/post-09.jpg",
+        "reference/pixel-art/post-10.jpg"
+      ],
+      "slug": "pixel-art",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122154914817032634/",
+      "summary": "Rebuilds a photo as a dreamy retro-RPG pixel scene — small subject, wide sky and mist, pastel palette — preserving the remembered image rather than pixelating it. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Patchwork Embroidery",
+      "name_original": "拼布＋手縫刺繡",
+      "prompt_file": "reference/patchwork-embroidery/prompt.md",
+      "reference_image": "reference/patchwork-embroidery/post-01.jpg",
+      "reference_images": [
+        "reference/patchwork-embroidery/post-01.jpg",
+        "reference/patchwork-embroidery/post-02.jpg",
+        "reference/patchwork-embroidery/post-03.jpg",
+        "reference/patchwork-embroidery/post-04.jpg",
+        "reference/patchwork-embroidery/post-05.jpg",
+        "reference/patchwork-embroidery/post-06.jpg",
+        "reference/patchwork-embroidery/post-07.jpg",
+        "reference/patchwork-embroidery/post-08.jpg",
+        "reference/patchwork-embroidery/post-09.jpg"
+      ],
+      "slug": "patchwork-embroidery",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122154715113032634/",
+      "summary": "Re-sews a photo from fabric patches and thick, frayed hand stitching on a linen ground — imperfect like real handwork, quiet and collectible. The source post shows 9 examples; all 9 are archived here."
     }
   ],
   "samples": [

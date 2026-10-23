@@ -548,6 +548,73 @@ by set ID / reel ID before counting a post as new.
   bus stop, fruit-cup stall, espresso machine, mango sticky rice
   stall, auto repair workshop. No printed poster titles.
 
+### storytelling-collage — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Storytelling Collage (no coined title; the prompt's
+  lower half is an abstract architectural illustration / geometric
+  collage), photo set posted **Oct 2, 2026, 9:58 PM**, reel 10:17 PM
+  (marked AI content). **Never surfaced in any feed render — found
+  via the Photos tab.**
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122155110993032634/
+  — set ID `pcb.122155110993032634`; observed: 407 likes, 29 comments,
+  119 shares. Author comment carries the full GPT prompt;
+  `reference/storytelling-collage/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1614528670210408 — identical
+  prompt in its author comment (verified); every example sampled is
+  one of the 10 set posters.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/storytelling-collage/post-01.jpg` … `post-10.jpg`.
+  Titles/numbers: 1 "EVERYDAY TAIWAN" No. 09 (laundry), 2 "TAIWAN
+  ALLEY STORIES" No. 02, 3 "TAIWAN CITY SCENES" No. 10 (gas station),
+  4 "EVERYDAY TAIWAN" No. 03 (noodle boys), 5 "TAIWAN DAILY SCENES"
+  No. 08 (staircase), 6 "TAIWAN STREET MEMORIES" No. 05, 7 "GOOD
+  DAYS" No. 14 (newspaper), 8 "TAIWAN NEIGHBORHOOD SHOP" No. 01,
+  9 "TAIWAN DAILY SCENES" No. 13 (harbor bench), 10 "TRAVEL FURTHER"
+  No. 07 (Maya temple).
+- **Relation to `clean-illustration`:** closest relative yet (same
+  editorial family, numbered posters, off-white grounds) but the
+  prompts are NOT identical — the Oct 8 original-posting question
+  stays open; do not merge.
+
+### pixel-art — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Atmospheric Pixel Art · 像素, photo set posted
+  **Oct 2, 2026, 12:11 AM**, reel 12:17 AM (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122154914817032634/
+  — set ID `pcb.122154914817032634`; observed: 218 likes, 12 comments,
+  39 shares. Author comment carries the full GPT prompt;
+  `reference/pixel-art/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1481680150675928 — identical
+  prompt in its author comment (verified); its 10 segments are the
+  set's posters, shuffled.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/pixel-art/post-01.jpg` … `post-10.jpg`. Subjects:
+  basketball hoop, child washing dishes, coastal path, sea-wall cart
+  ("PRINCE" boat), central market entrance, waterfront fisherman,
+  red sedan, snowy Korean temple, ramen cook, traffic cones at
+  sunset — each with its printed English title/tagline.
+
+### patchwork-embroidery — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Patchwork Embroidery · 拼布＋手縫刺繡, photo set posted
+  **Sep 30, 2026, 11:50 PM**, reel 11:56 PM (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122154715113032634/
+  — set ID `pcb.122154715113032634`; observed: 112 likes, 9 comments,
+  20 shares. Author comment carries the full GPT prompt;
+  `reference/patchwork-embroidery/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1614923620129429 — identical
+  prompt in its author comment (verified); every frame sampled
+  duplicates a set photo.
+- **Images:** exactly **9** (viewer cycle), saved as
+  `reference/patchwork-embroidery/post-01.jpg` … `post-09.jpg`.
+  Subjects: welder, cardboard cart, scooter crowd, two broken
+  iPhones, four children holding hands, autumn lake, hot-air
+  balloons, autumn road, towed airliner. No printed titles (tiny
+  fabric labels only).
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create
