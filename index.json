@@ -862,7 +862,8 @@
       "generations_file": "samples/book-fair/generations.json",
       "input": "samples/book-fair/input.jpg",
       "outputs": {
-        "frosted-glass": "samples/book-fair/frosted-glass.webp"
+        "frosted-glass": "samples/book-fair/frosted-glass.webp",
+        "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -871,7 +872,8 @@
       "generations_file": "samples/millennium-falcon/generations.json",
       "input": "samples/millennium-falcon/input.jpg",
       "outputs": {
-        "frosted-glass": "samples/millennium-falcon/frosted-glass.webp"
+        "frosted-glass": "samples/millennium-falcon/frosted-glass.webp",
+        "notebook-hand-drawn": "samples/millennium-falcon/notebook-hand-drawn.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -880,7 +882,8 @@
       "generations_file": "samples/concert-stage/generations.json",
       "input": "samples/concert-stage/input.jpg",
       "outputs": {
-        "frosted-glass": "samples/concert-stage/frosted-glass.webp"
+        "frosted-glass": "samples/concert-stage/frosted-glass.webp",
+        "notebook-hand-drawn": "samples/concert-stage/notebook-hand-drawn.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -889,7 +892,8 @@
       "generations_file": "samples/taco-truck-dog/generations.json",
       "input": "samples/taco-truck-dog/input.jpg",
       "outputs": {
-        "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp"
+        "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp",
+        "notebook-hand-drawn": "samples/taco-truck-dog/notebook-hand-drawn.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
