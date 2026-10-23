@@ -1119,6 +1119,7 @@
         "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp",
         "one-line-contour": "samples/book-fair/one-line-contour.webp",
         "out-of-frame": "samples/book-fair/out-of-frame.webp",
+        "paper-collage-lines": "samples/book-fair/paper-collage-lines.webp",
         "paper-cut": "samples/book-fair/paper-cut.webp",
         "patchwork-embroidery": "samples/book-fair/patchwork-embroidery.webp",
         "pixel-art": "samples/book-fair/pixel-art.webp",
@@ -1160,6 +1161,7 @@
         "rough-brushed-lines": "samples/millennium-falcon/rough-brushed-lines.webp",
         "storytelling-collage": "samples/millennium-falcon/storytelling-collage.webp",
         "vintage-lines": "samples/millennium-falcon/vintage-lines.webp",
+        "white-model": "samples/millennium-falcon/white-model.webp",
         "woodcut-print": "samples/millennium-falcon/woodcut-print.webp",
         "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp"
       },
@@ -1194,6 +1196,7 @@
         "rough-brushed-lines": "samples/concert-stage/rough-brushed-lines.webp",
         "storytelling-collage": "samples/concert-stage/storytelling-collage.webp",
         "vintage-lines": "samples/concert-stage/vintage-lines.webp",
+        "white-model": "samples/concert-stage/white-model.webp",
         "woodcut-print": "samples/concert-stage/woodcut-print.webp",
         "woven-tapestry": "samples/concert-stage/woven-tapestry.webp"
       },
@@ -1228,6 +1231,7 @@
         "rough-brushed-lines": "samples/taco-truck-dog/rough-brushed-lines.webp",
         "storytelling-collage": "samples/taco-truck-dog/storytelling-collage.webp",
         "vintage-lines": "samples/taco-truck-dog/vintage-lines.webp",
+        "white-model": "samples/taco-truck-dog/white-model.webp",
         "woodcut-print": "samples/taco-truck-dog/woodcut-print.webp",
         "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp"
       },

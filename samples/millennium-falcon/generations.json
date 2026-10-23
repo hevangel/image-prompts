@@ -233,6 +233,15 @@
       "output": "paper-collage-lines.webp",
       "prompt_slug": "paper-collage-lines",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:12:50-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame white model: scene rebuilt as a pristine white paper-and-foam model, white on white, soft shadows, no split, no embedded original, no text.",
+      "output": "white-model.webp",
+      "prompt_slug": "white-model",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
