@@ -350,6 +350,15 @@
       "output": "paper-cut-collage.webp",
       "prompt_slug": "paper-cut-collage",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:25:20-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame naïve hand-drawn picture-book illustration: empty space, small subject, broad color base, shaky lines, gouache/crayon grain, no split, no embedded original, no text.",
+      "output": "hand-drawn-feel.webp",
+      "prompt_slug": "hand-drawn-feel",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
