@@ -1221,8 +1221,12 @@ by set ID / reel ID before counting a post as new.
   light beam), 4 profile portrait (warm orange spotlight on deep
   blue), 5 B&W side-gaze portrait (dark turtleneck), 6 B&W half-turn
   brand composition.
-- **No samples:** the prompts need a person's own portrait as input;
-  the sample set has none (same exception as `food-poster`).
+- **Samples:** the prompts need a person's own portrait as input, so
+  the scene/object sample photos do not apply — but on 2026-10-23
+  the user uploaded a studio portrait of Jensen Huang, added as
+  `samples/jensen-huang/`, and all six recipes were generated from
+  it (`cinematic-portraits-1.webp` … `-6.webp`, matching 圖1–圖6).
+  The site resolves these recipe-variant output keys to this entry.
 
 ### Loop completion survey (2026-10-23, batch 17)
 

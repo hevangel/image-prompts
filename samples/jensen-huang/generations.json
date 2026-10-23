@@ -1,0 +1,59 @@
+{
+  "generations": [
+    {
+      "current": true,
+      "generated_at": "2026-10-23T14:29:19-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Recipe 圖1 — all-white minimalist studio portrait: frontal seated pose, all-white outfit, hand on chin holding a DSLR, soft window light, identity preserved from the input photo.",
+      "output": "cinematic-portraits-1.webp",
+      "prompt_slug": "cinematic-portraits-1",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T14:29:19-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Recipe 圖2 — cinematic poster portrait: seated 3/4 angle, dark suit, pink/purple geometric window light with rim light, magazine-cover framing, no text.",
+      "output": "cinematic-portraits-2.webp",
+      "prompt_slug": "cinematic-portraits-2",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T14:29:19-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Recipe 圖3 — B/W studio portrait: back to camera, head bowed, horizontal light beam, high-contrast B/W with film grain, identity preserved.",
+      "output": "cinematic-portraits-3.webp",
+      "prompt_slug": "cinematic-portraits-3",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T14:29:19-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Recipe 圖4 — profile portrait: side view, eyes closed, warm orange spotlight on deep blue, 85mm shallow-depth look, identity preserved.",
+      "output": "cinematic-portraits-4.webp",
+      "prompt_slug": "cinematic-portraits-4",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T14:29:19-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Recipe 圖5 — B/W side-gaze portrait: profile, head bowed, hand in pocket, sculptural side light, film grain, identity preserved.",
+      "output": "cinematic-portraits-5.webp",
+      "prompt_slug": "cinematic-portraits-5",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T14:29:19-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Recipe 圖6 — B/W half-turn brand composition: chin raised to a single key light, eyes closed, strong contrast, identity preserved.",
+      "output": "cinematic-portraits-6.webp",
+      "prompt_slug": "cinematic-portraits-6",
+      "tokens_used": null
+    }
+  ],
+  "input": "input.jpg"
+}

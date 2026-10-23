@@ -1385,6 +1385,20 @@
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
+    },
+    {
+      "generations_file": "samples/jensen-huang/generations.json",
+      "input": "samples/jensen-huang/input.jpg",
+      "outputs": {
+        "cinematic-portraits-1": "samples/jensen-huang/cinematic-portraits-1.webp",
+        "cinematic-portraits-2": "samples/jensen-huang/cinematic-portraits-2.webp",
+        "cinematic-portraits-3": "samples/jensen-huang/cinematic-portraits-3.webp",
+        "cinematic-portraits-4": "samples/jensen-huang/cinematic-portraits-4.webp",
+        "cinematic-portraits-5": "samples/jensen-huang/cinematic-portraits-5.webp",
+        "cinematic-portraits-6": "samples/jensen-huang/cinematic-portraits-6.webp"
+      },
+      "slug": "jensen-huang",
+      "title": "Jensen Huang portrait"
     }
   ]
 }

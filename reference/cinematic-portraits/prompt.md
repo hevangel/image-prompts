@@ -38,7 +38,11 @@ longer write-up is linked in the author's comment (vocus).
 
 ## Samples in this repo
 
-- None. These six prompts restyle a person's own portrait photo, and
-  this repo's sample set contains no portrait input — so no sample
-  generation applies to this entry (the same exception as
-  `food-poster`).
+- `samples/jensen-huang/` — a studio portrait of Jensen Huang
+  (uploaded by the repo owner, Oct 23, 2026). All six recipes were
+  generated from it, one output each: `cinematic-portraits-1.webp`
+  … `cinematic-portraits-6.webp`, numbered to match 圖1–圖6 above.
+  Generation details (model, timestamp, tokens) are in that folder's
+  `generations.json`. The other five sample photos are scenes and
+  objects, not portraits, so this entry's samples come from this
+  portrait only.
