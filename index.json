@@ -776,6 +776,69 @@
       "slug": "food-poster",
       "source_url": "https://www.facebook.com/61580979040009/posts/122152798947032634/",
       "summary": "A templated prompt (brand, food, headline, interaction, color, product, price): real food winds around, cracks, drips down or peels open oversized black Chinese characters on warm cream. The source post shows 18 examples; all 18 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Porcelain Collage",
+      "name_original": "青花碎瓷拼貼",
+      "prompt_file": "reference/porcelain-collage/prompt.md",
+      "reference_image": "reference/porcelain-collage/post-01.jpg",
+      "reference_images": [
+        "reference/porcelain-collage/post-01.jpg",
+        "reference/porcelain-collage/post-02.jpg",
+        "reference/porcelain-collage/post-03.jpg",
+        "reference/porcelain-collage/post-04.jpg",
+        "reference/porcelain-collage/post-05.jpg",
+        "reference/porcelain-collage/post-06.jpg",
+        "reference/porcelain-collage/post-07.jpg",
+        "reference/porcelain-collage/post-08.jpg",
+        "reference/porcelain-collage/post-09.jpg",
+        "reference/porcelain-collage/post-10.jpg"
+      ],
+      "slug": "porcelain-collage",
+      "source_url": "https://www.facebook.com/groups/346855692144727/permalink/3519543661542565",
+      "summary": "Shatters a photo's most memorable moment and reassembles it from Chinese porcelain shards — cracks, chips and missing pieces kept on purpose. The source set shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Black Line Drawing",
+      "name_original": "手繪黑色線條",
+      "prompt_file": "reference/black-line-drawing/prompt.md",
+      "reference_image": "reference/black-line-drawing/post-01.jpg",
+      "reference_images": [
+        "reference/black-line-drawing/post-01.jpg",
+        "reference/black-line-drawing/post-02.jpg",
+        "reference/black-line-drawing/post-03.jpg",
+        "reference/black-line-drawing/post-04.jpg",
+        "reference/black-line-drawing/post-05.jpg",
+        "reference/black-line-drawing/post-06.jpg",
+        "reference/black-line-drawing/post-07.jpg",
+        "reference/black-line-drawing/post-08.jpg",
+        "reference/black-line-drawing/post-09.jpg",
+        "reference/black-line-drawing/post-10.jpg",
+        "reference/black-line-drawing/post-11.jpg"
+      ],
+      "slug": "black-line-drawing",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0zrgcVuTDY4yRBeGmF1B74YHycdkHVR46FWYvcASnqdzJdZjtNWmJXb1ieuJjjBkil&id=61580979040009",
+      "summary": "Shrinks a photo's most story-worthy fragment into a tiny black-line and watercolor sketch on xuan paper, with one ice-blue accent drawn from the photo. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Geometric Poster",
+      "name_original": "抽象幾何",
+      "prompt_file": "reference/geometric-poster/prompt.md",
+      "reference_image": "reference/geometric-poster/post-01.jpg",
+      "reference_images": [
+        "reference/geometric-poster/post-01.jpg",
+        "reference/geometric-poster/post-02.jpg",
+        "reference/geometric-poster/post-03.jpg",
+        "reference/geometric-poster/post-04.jpg",
+        "reference/geometric-poster/post-05.jpg",
+        "reference/geometric-poster/post-06.jpg"
+      ],
+      "slug": "geometric-poster",
+      "source_url": "https://www.facebook.com/groups/346855692144727/permalink/3484949911668607",
+      "summary": "Pairs a photo with a flat geometric reinterpretation of the same scene in colors pulled from the photo — an exhibition-poster look with a title and year. The source set shows 6 examples; all 6 are archived here."
     }
   ],
   "samples": [

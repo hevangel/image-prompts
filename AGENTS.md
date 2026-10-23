@@ -862,6 +862,62 @@ by set ID / reel ID before counting a post as new.
   entry are as printed in the archived files (verified at full
   resolution for #10 $8.90 and #11 $3.50).
 
+### porcelain-collage — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Porcelain Collage · 青花碎瓷拼貼， set posted **Sep 20,
+  2026 in the 快樂學習AI group** — the style exists only as group
+  sets (no profile set); profile companions are a reel and a video
+  post the same day. A duplicate set in the AI好好用 group was noted,
+  not downloaded.
+- **Photo set:** https://www.facebook.com/groups/346855692144727/permalink/3519543661542565
+  — set ID `pcb.3519543661542565`; observed: 34 likes, 3 comments,
+  2 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/porcelain-collage/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/908654098734089 — plays set
+  posters shuffled; ADDS at least one distinct example (aerial
+  night-city poster in dark shards with gold marbling), plus an
+  apparently distinct skyline cover frame — noted, not archived.
+- **Resolution of the batch-11 lead:** the Sep 20 video is this NEW
+  style, not a companion of lingering-afterglow / photocopier-print.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/porcelain-collage/post-01.jpg` … `post-10.jpg`.
+
+### black-line-drawing — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Black Line Drawing · 手繪黑色線條， photo set posted
+  **Sep 18, 2026**; a two-zone-family sibling of lingering-afterglow,
+  drawn in black lines + wash on xuan paper with an ice-blue accent.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0zrgcVuTDY4yRBeGmF1B74YHycdkHVR46FWYvcASnqdzJdZjtNWmJXb1ieuJjjBkil&id=61580979040009
+  — set ID `pcb.122152432701032634`; observed: 108 likes, 14 comments,
+  34 shares. The prompt is in the companion reel's author comment;
+  `reference/black-line-drawing/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1110466301373525 — plays
+  the 11 set posters in set order; no distinct example.
+- **Images:** exactly **11** (viewer cycle), saved as
+  `reference/black-line-drawing/post-01.jpg` … `post-11.jpg`.
+
+### geometric-poster — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Geometric Poster · 抽象幾何 (no style name in the
+  caption), set posted **Aug 19, 2026 in the 快樂學習AI group**;
+  presented by a profile reel on Sep 18, 2026. A duplicate set in the
+  AI好好用 group was noted, not downloaded. Unusually, the full
+  prompt is printed in the post **caption** itself (no author
+  comment); the entry keeps a structural summary as usual.
+- **Photo set:** https://www.facebook.com/groups/346855692144727/permalink/3484949911668607
+  — set ID `pcb.3484949911668607`; observed: 12 likes, 0 comments,
+  8 shares.
+- **Reel:** https://www.facebook.com/reel/1458677579407213 — plays
+  set posters shuffled; #6 (Meteora) not observed in samples; no
+  distinct example.
+- **Images:** exactly **6** (viewer cycle), saved as
+  `reference/geometric-poster/post-01.jpg` … `post-06.jpg`. Titles:
+  CHIAYI ART MUSEUM 2025, TAIPEI 2026, TAMSHUI SPAN 2026, HUASHAN
+  CREATIVE PARK 2025, HUAYU LIGHTHOUSE 2024, METEORA ODYSSEY 2026.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create
