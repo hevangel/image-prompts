@@ -17,6 +17,15 @@
       "output": "notebook-hand-drawn.webp",
       "prompt_slug": "notebook-hand-drawn",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T23:21:17-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame two-color risograph: deep ultramarine + warm coral red on ivory, misregistered print grain, no split, no embedded original, no text.",
+      "output": "blue-red-risograph.webp",
+      "prompt_slug": "blue-red-risograph",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

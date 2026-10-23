@@ -927,6 +927,7 @@
       "generations_file": "samples/book-fair/generations.json",
       "input": "samples/book-fair/input.jpg",
       "outputs": {
+        "blue-red-risograph": "samples/book-fair/blue-red-risograph.webp",
         "frosted-glass": "samples/book-fair/frosted-glass.webp",
         "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp"
       },
@@ -939,6 +940,7 @@
       "outputs": {
         "blue-red-risograph": "samples/millennium-falcon/blue-red-risograph.webp",
         "frosted-glass": "samples/millennium-falcon/frosted-glass.webp",
+        "impasto-oil-painting": "samples/millennium-falcon/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/millennium-falcon/notebook-hand-drawn.webp"
       },
       "slug": "millennium-falcon",
@@ -950,6 +952,7 @@
       "outputs": {
         "blue-red-risograph": "samples/concert-stage/blue-red-risograph.webp",
         "frosted-glass": "samples/concert-stage/frosted-glass.webp",
+        "impasto-oil-painting": "samples/concert-stage/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/concert-stage/notebook-hand-drawn.webp"
       },
       "slug": "concert-stage",
@@ -961,6 +964,7 @@
       "outputs": {
         "blue-red-risograph": "samples/taco-truck-dog/blue-red-risograph.webp",
         "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp",
+        "impasto-oil-painting": "samples/taco-truck-dog/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/taco-truck-dog/notebook-hand-drawn.webp"
       },
       "slug": "taco-truck-dog",
