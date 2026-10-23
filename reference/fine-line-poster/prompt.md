@@ -80,9 +80,11 @@ follow for the next prompt.
 
 ## Samples in this repo
 
-- `samples/howe-sound/` — a Howe Sound fjord photo; the
-  fine-line-poster output for it is pending generation and will be
-  logged in that folder's `generations.json` when added. Note: our
-  sample outputs are generated **full-frame**, without the poster's
-  top/bottom split and without the handwritten phrase — the site shows
-  the original separately, on top of the output.
+- Generated outputs for all five sample photos live in the sample
+  folders — `samples/howe-sound/`, `samples/book-fair/`,
+  `samples/millennium-falcon/`, `samples/concert-stage/` and
+  `samples/taco-truck-dog/` — one output file per folder, named after
+  this style. Note: our sample outputs are generated **full-frame** —
+  the site shows the original separately, on top of the output.
+  Generation details (model, timestamp, tokens) are in each folder's
+  `generations.json`.

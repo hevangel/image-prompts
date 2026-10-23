@@ -89,9 +89,11 @@ all suit it.
 
 ## Samples in this repo
 
-- `samples/howe-sound/` — a Howe Sound fjord photo; the perler-beads
-  output for it is pending generation and will be logged in that
-  folder's `generations.json` when added. Note: our sample outputs are
-  generated **full-frame**, without the poster's left/right split and
-  without the color card or title — the site shows the original
-  separately.
+- Generated outputs for all five sample photos live in the sample
+  folders — `samples/howe-sound/`, `samples/book-fair/`,
+  `samples/millennium-falcon/`, `samples/concert-stage/` and
+  `samples/taco-truck-dog/` — one output file per folder, named after
+  this style. Note: our sample outputs are generated **full-frame** —
+  the site shows the original separately, on top of the output.
+  Generation details (model, timestamp, tokens) are in each folder's
+  `generations.json`.

@@ -82,9 +82,11 @@ next prompt. Photo source: Pexels.
 
 ## Samples in this repo
 
-- `samples/howe-sound/` — a Howe Sound fjord photo, with the
-  notebook-hand-drawn output generated from it. Note: our sample outputs
-  are generated **full-frame**, without the poster's top/bottom split —
+- Generated outputs for all five sample photos live in the sample
+  folders — `samples/howe-sound/`, `samples/book-fair/`,
+  `samples/millennium-falcon/`, `samples/concert-stage/` and
+  `samples/taco-truck-dog/` — one output file per folder, named after
+  this style. Note: our sample outputs are generated **full-frame** —
   the site shows the original separately, on top of the output.
-  Generation details (model, timestamp, tokens) are in that folder's
+  Generation details (model, timestamp, tokens) are in each folder's
   `generations.json`.
