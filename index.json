@@ -1111,6 +1111,7 @@
         "flat-silhouette": "samples/book-fair/flat-silhouette.webp",
         "frosted-glass": "samples/book-fair/frosted-glass.webp",
         "impasto-oil-painting": "samples/book-fair/impasto-oil-painting.webp",
+        "ink-starved-geometry": "samples/book-fair/ink-starved-geometry.webp",
         "mediterranean-poster": "samples/book-fair/mediterranean-poster.webp",
         "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp",
         "one-line-contour": "samples/book-fair/one-line-contour.webp",
@@ -1128,6 +1129,7 @@
       "generations_file": "samples/millennium-falcon/generations.json",
       "input": "samples/millennium-falcon/input.jpg",
       "outputs": {
+        "asymmetric-enlargement": "samples/millennium-falcon/asymmetric-enlargement.webp",
         "blue-red-risograph": "samples/millennium-falcon/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/millennium-falcon/blueprint-cyanotype.webp",
         "bright-illustration": "samples/millennium-falcon/bright-illustration.webp",
@@ -1154,6 +1156,7 @@
       "generations_file": "samples/concert-stage/generations.json",
       "input": "samples/concert-stage/input.jpg",
       "outputs": {
+        "asymmetric-enlargement": "samples/concert-stage/asymmetric-enlargement.webp",
         "blue-red-risograph": "samples/concert-stage/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/concert-stage/blueprint-cyanotype.webp",
         "bright-illustration": "samples/concert-stage/bright-illustration.webp",
@@ -1180,6 +1183,7 @@
       "generations_file": "samples/taco-truck-dog/generations.json",
       "input": "samples/taco-truck-dog/input.jpg",
       "outputs": {
+        "asymmetric-enlargement": "samples/taco-truck-dog/asymmetric-enlargement.webp",
         "blue-red-risograph": "samples/taco-truck-dog/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/taco-truck-dog/blueprint-cyanotype.webp",
         "bright-illustration": "samples/taco-truck-dog/bright-illustration.webp",
