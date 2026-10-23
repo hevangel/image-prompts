@@ -839,6 +839,49 @@
       "slug": "geometric-poster",
       "source_url": "https://www.facebook.com/groups/346855692144727/permalink/3484949911668607",
       "summary": "Pairs a photo with a flat geometric reinterpretation of the same scene in colors pulled from the photo — an exhibition-poster look with a title and year. The source set shows 6 examples; all 6 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Passport Ticket",
+      "name_original": "復古護照 × 登機證 × 旅行紀念票券",
+      "prompt_file": "reference/passport-ticket/prompt.md",
+      "reference_image": "reference/passport-ticket/post-01.jpg",
+      "reference_images": [
+        "reference/passport-ticket/post-01.jpg",
+        "reference/passport-ticket/post-02.jpg",
+        "reference/passport-ticket/post-03.jpg",
+        "reference/passport-ticket/post-04.jpg",
+        "reference/passport-ticket/post-05.jpg",
+        "reference/passport-ticket/post-06.jpg",
+        "reference/passport-ticket/post-07.jpg",
+        "reference/passport-ticket/post-08.jpg",
+        "reference/passport-ticket/post-09.jpg"
+      ],
+      "slug": "passport-ticket",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02msTfpt9T8s8xx3eN71sj55vVyNG4KC96WwLrdmfeFPztuNgokH4z2Ppk8Z1aM6KNl&id=61580979040009",
+      "summary": "Condenses a travel photo into a vintage passport / boarding-pass souvenir ticket on old paper — flag, postmark, gate and seat included. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Paper-Cut Collage",
+      "name_original": "剪紙拼貼",
+      "prompt_file": "reference/paper-cut-collage/prompt.md",
+      "reference_image": "reference/paper-cut-collage/post-01.jpg",
+      "reference_images": [
+        "reference/paper-cut-collage/post-01.jpg",
+        "reference/paper-cut-collage/post-02.jpg",
+        "reference/paper-cut-collage/post-03.jpg",
+        "reference/paper-cut-collage/post-04.jpg",
+        "reference/paper-cut-collage/post-05.jpg",
+        "reference/paper-cut-collage/post-06.jpg",
+        "reference/paper-cut-collage/post-07.jpg",
+        "reference/paper-cut-collage/post-08.jpg",
+        "reference/paper-cut-collage/post-09.jpg",
+        "reference/paper-cut-collage/post-10.jpg"
+      ],
+      "slug": "paper-cut-collage",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0iRwAuq9NSKbz5QnJanqWTbg1T6goQ7dJEPUSc118Ka9ybs1SKojZociQJNPBxPNhl&id=61580979040009",
+      "summary": "Rebuilds a photo's key subject as cut-paper shapes on a split color field — white space above, one solid color band below, the subject at the boundary. The source post shows 10 examples; all 10 are archived here."
     }
   ],
   "samples": [

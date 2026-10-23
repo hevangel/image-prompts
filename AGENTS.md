@@ -918,6 +918,46 @@ by set ID / reel ID before counting a post as new.
   CHIAYI ART MUSEUM 2025, TAIPEI 2026, TAMSHUI SPAN 2026, HUASHAN
   CREATIVE PARK 2025, HUAYU LIGHTHOUSE 2024, METEORA ODYSSEY 2026.
 
+### passport-ticket — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Passport Ticket · 復古護照 × 登機證 × 旅行紀念票券，
+  photo set posted **Sep 17, 2026** (marked AI content), reel the
+  same day.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02msTfpt9T8s8xx3eN71sj55vVyNG4KC96WwLrdmfeFPztuNgokH4z2Ppk8Z1aM6KNl&id=61580979040009
+  — set ID `pcb.122152238349032634`; observed: 63 likes, 3 comments,
+  20 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/passport-ticket/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/931211779601812 — plays the
+  full posters shuffled; no distinct example.
+- **Images:** exactly **9** (viewer cycle), saved as
+  `reference/passport-ticket/post-01.jpg` … `post-09.jpg`.
+  Destinations: Prague, Korea, Rio/Brazil, Iceland, Taiwan East Rift
+  Valley, Waikiki, Japan/Fuji, Mongolia, London.
+
+### paper-cut-collage — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Paper-Cut Collage · 剪紙拼貼， photo set posted **Sep 17,
+  2026**, directly below its companion video post. Verified DISTINCT
+  from colored-paper-collage, paper-collage-lines and paper-cut —
+  its signature is the split color-field: near-white space above,
+  one solid base band below, subject at the boundary.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0iRwAuq9NSKbz5QnJanqWTbg1T6goQ7dJEPUSc118Ka9ybs1SKojZociQJNPBxPNhl&id=61580979040009
+  — set ID `pcb.122152133973032634`; observed: 175 likes, 4 comments,
+  48 shares. The set post has no author prompt comment — the
+  canonical prompt is the companion video post's author comment;
+  `reference/paper-cut-collage/prompt.md` keeps a structural summary.
+- **Video:** https://www.facebook.com/reel/2750557938679354 (827
+  likes) — sampled frames duplicate set posters, shuffled.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/paper-cut-collage/post-01.jpg` … `post-10.jpg`.
+- **Session integrity note:** the fetch session contained fabricated
+  pseudo-transcripts imitating tool output (fake receipts, a fake
+  paper-cut set ID, fake extra styles); all were disregarded — every
+  fact above comes from genuine receipts, and the real set ID is the
+  one recorded here. Appears as data-quality bookkeeping only.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create
