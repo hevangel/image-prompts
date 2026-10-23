@@ -107,6 +107,15 @@
       "output": "retro-film.webp",
       "prompt_slug": "retro-film",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:00:15-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame minimalist poster: scene inside one irregular painted color field on warm-white paper, contours bleeding past the edge, no split, no embedded original, no text.",
+      "output": "out-of-frame.webp",
+      "prompt_slug": "out-of-frame",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
