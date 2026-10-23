@@ -179,6 +179,15 @@
       "output": "fine-line-poster.webp",
       "prompt_slug": "fine-line-poster",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:06:37-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame vintage advertising illustration: engraved linework, aged-paper tones, mid-century ad style, no split, no embedded original, no text.",
+      "output": "vintage-lines.webp",
+      "prompt_slug": "vintage-lines",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
