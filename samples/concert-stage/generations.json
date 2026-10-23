@@ -44,6 +44,15 @@
       "output": "flat-silhouette.webp",
       "prompt_slug": "flat-silhouette",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T00:08:38-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame bright cheerful illustration: clean shapes and vivid fresh colors, no split, no embedded original, no text.",
+      "output": "bright-illustration.webp",
+      "prompt_slug": "bright-illustration",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
