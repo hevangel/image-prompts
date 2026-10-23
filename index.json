@@ -915,6 +915,7 @@
       "generations_file": "samples/millennium-falcon/generations.json",
       "input": "samples/millennium-falcon/input.jpg",
       "outputs": {
+        "blue-red-risograph": "samples/millennium-falcon/blue-red-risograph.webp",
         "frosted-glass": "samples/millennium-falcon/frosted-glass.webp",
         "notebook-hand-drawn": "samples/millennium-falcon/notebook-hand-drawn.webp"
       },
@@ -925,6 +926,7 @@
       "generations_file": "samples/concert-stage/generations.json",
       "input": "samples/concert-stage/input.jpg",
       "outputs": {
+        "blue-red-risograph": "samples/concert-stage/blue-red-risograph.webp",
         "frosted-glass": "samples/concert-stage/frosted-glass.webp",
         "notebook-hand-drawn": "samples/concert-stage/notebook-hand-drawn.webp"
       },
@@ -935,6 +937,7 @@
       "generations_file": "samples/taco-truck-dog/generations.json",
       "input": "samples/taco-truck-dog/input.jpg",
       "outputs": {
+        "blue-red-risograph": "samples/taco-truck-dog/blue-red-risograph.webp",
         "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp",
         "notebook-hand-drawn": "samples/taco-truck-dog/notebook-hand-drawn.webp"
       },
