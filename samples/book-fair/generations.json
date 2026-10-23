@@ -323,6 +323,15 @@
       "output": "black-line-drawing.webp",
       "prompt_slug": "black-line-drawing",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:23:26-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame abstract geometric poster: flat geometric shapes, tones from the photo, modernist composition, no split, no embedded original, no text.",
+      "output": "geometric-poster.webp",
+      "prompt_slug": "geometric-poster",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

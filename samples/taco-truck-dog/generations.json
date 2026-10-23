@@ -332,6 +332,15 @@
       "output": "geometric-poster.webp",
       "prompt_slug": "geometric-poster",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:23:26-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame vintage travel souvenir artwork: passport/boarding-pass collage on aged paper, postmark stamps, no split, no embedded original, no readable text.",
+      "output": "passport-ticket.webp",
+      "prompt_slug": "passport-ticket",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
