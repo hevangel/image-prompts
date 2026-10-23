@@ -278,6 +278,15 @@
       "output": "soft-focus.webp",
       "prompt_slug": "soft-focus",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:18:31-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame colored-paper collage: flat geometric paper blocks, clean cut edges, colors from the photo, no split, no embedded original, no text.",
+      "output": "colored-paper-collage.webp",
+      "prompt_slug": "colored-paper-collage",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
