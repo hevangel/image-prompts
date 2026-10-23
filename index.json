@@ -1110,6 +1110,7 @@
         "frosted-glass": "samples/book-fair/frosted-glass.webp",
         "impasto-oil-painting": "samples/book-fair/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp",
+        "paper-cut": "samples/book-fair/paper-cut.webp",
         "rough-brushed-lines": "samples/book-fair/rough-brushed-lines.webp",
         "woodcut-print": "samples/book-fair/woodcut-print.webp",
         "woven-tapestry": "samples/book-fair/woven-tapestry.webp"
@@ -1129,6 +1130,7 @@
         "impasto-oil-painting": "samples/millennium-falcon/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/millennium-falcon/notebook-hand-drawn.webp",
         "paper-cut": "samples/millennium-falcon/paper-cut.webp",
+        "retro-film": "samples/millennium-falcon/retro-film.webp",
         "rough-brushed-lines": "samples/millennium-falcon/rough-brushed-lines.webp",
         "woodcut-print": "samples/millennium-falcon/woodcut-print.webp",
         "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp"
@@ -1148,6 +1150,7 @@
         "impasto-oil-painting": "samples/concert-stage/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/concert-stage/notebook-hand-drawn.webp",
         "paper-cut": "samples/concert-stage/paper-cut.webp",
+        "retro-film": "samples/concert-stage/retro-film.webp",
         "rough-brushed-lines": "samples/concert-stage/rough-brushed-lines.webp",
         "woodcut-print": "samples/concert-stage/woodcut-print.webp",
         "woven-tapestry": "samples/concert-stage/woven-tapestry.webp"
@@ -1167,6 +1170,7 @@
         "impasto-oil-painting": "samples/taco-truck-dog/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/taco-truck-dog/notebook-hand-drawn.webp",
         "paper-cut": "samples/taco-truck-dog/paper-cut.webp",
+        "retro-film": "samples/taco-truck-dog/retro-film.webp",
         "rough-brushed-lines": "samples/taco-truck-dog/rough-brushed-lines.webp",
         "woodcut-print": "samples/taco-truck-dog/woodcut-print.webp",
         "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp"
