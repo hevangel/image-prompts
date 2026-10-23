@@ -1157,6 +1157,57 @@ by set ID / reel ID before counting a post as new.
   tiles), saved as `reference/blueprint-poster/post-01.jpg` …
   `post-06.jpg`.
 
+### brand-packaging — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Brand Packaging · 品牌包裝海報， posted **Aug 27, 2026**
+  as TWO sets (EN + ZH captions) + a companion video the same day.
+  SET ZH holds the same six examples as separate uploads
+  (cycle-verified, not re-downloaded).
+- **SET EN:** https://www.facebook.com/permalink.php?story_fbid=pfbid02vGKSw97dyEqy4h2eCHK1XzQVxixqw33h6d12CtpYWLXN5PpLPT9HVFD3MAV83FTnl&id=61580979040009
+  — set ID `pcb.122148639075032634`; observed: 4 likes, 1 comment,
+  4 shares. Archived from here.
+- **SET ZH:** https://www.facebook.com/permalink.php?story_fbid=pfbid02FHzpTm1HM1jphJP4MNfuAs6J3H1G6jzUHUvdHKZYa4nY23L2BwohD1axkzmCNeThl&id=61580979040009
+  — set ID `pcb.122148636447032634`; 3 likes, 1 comment, 3 shares;
+  its author comment carries the full Chinese prompt.
+- **Video:** https://www.facebook.com/reel/1775461006940270 — plays
+  the six posters in set order; no distinct example; its author
+  comment carries the English prompt.
+  `reference/brand-packaging/prompt.md` keeps a structural summary.
+- **Images:** exactly **6** (viewer cycle), saved as
+  `reference/brand-packaging/post-01.jpg` … `post-06.jpg`.
+
+### Loop completion survey (2026-10-23, batch 17)
+
+The browser surveyed the rest of the profile to its oldest posts
+(Sep 23, 2025). Findings:
+
+- The set-bearing photo-transformation prompt era runs **Aug 19,
+  2026 (geometric-poster group set) → Oct 22, 2026** and is now fully
+  archived: **50 prompts, 482 reference images**.
+- Duplicates resolved without downloads: an **Aug 21, 2026 紙雕 set**
+  (`pcb.122147928831032634`) is an earlier posting of the archived
+  paper-carving style (different examples — Paris, Venice, waterfall —
+  not downloaded, per the duplicate rule); an **Aug 19, 2026 profile
+  posting** duplicates the geometric-poster group set.
+- Below August: July layout/font-catalog posts (text-brief templates,
+  not photo transformations), June–March essays and doodle explainers,
+  a February product-ad post — no archivable sets.
+- Prompt posts WITHOUT a multi-photo set (not archived under the
+  set-only rule; flagged for a possible directed follow-up): Apr 24,
+  2026 JSON style-template post (photo-graffiti-doodle, 2 photos);
+  Jan 24, 2026 "Porcelain Luminous Skin prompt" (2 photos); Jan 20,
+  2026 "Tea Style / No-Makeup Makeup prompt" (2 photos); Jan 19, 2026
+  interior time-lapse video prompt; Jan 16, 2026 cinematic-style video
+  prompt.
+- **clean-illustration reconciliation closed negatively:** no earlier
+  set-bearing posting of the Oct 8, 2026 reel-only style exists
+  anywhere on the profile. It remains the catalog's only reel-only
+  entry.
+- One multi-photo post was not opened: the Oct 26, 2025 album
+  (~6 photos) — no prompt indicators in any feed render; it sits
+  among personal essay posts.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

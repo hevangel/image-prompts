@@ -1062,6 +1062,24 @@
       "slug": "blueprint-poster",
       "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02XfMskKH1pXf3p4T6pwBCKU3uHrNgfi7EwS4jpqJoiwTdRHjvPyhQmBrzRPuMyoU8l&id=61580979040009",
       "summary": "Real photo × architectural blueprint: the scene's outlines extended into a drafting drawing with axes, callouts and a drawing number. The creator's architecture-oriented successor to the abstract-geometric posters. The source post shows 6 examples; all 6 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Brand Packaging",
+      "name_original": "品牌包裝海報",
+      "prompt_file": "reference/brand-packaging/prompt.md",
+      "reference_image": "reference/brand-packaging/post-01.jpg",
+      "reference_images": [
+        "reference/brand-packaging/post-01.jpg",
+        "reference/brand-packaging/post-02.jpg",
+        "reference/brand-packaging/post-03.jpg",
+        "reference/brand-packaging/post-04.jpg",
+        "reference/brand-packaging/post-05.jpg",
+        "reference/brand-packaging/post-06.jpg"
+      ],
+      "slug": "brand-packaging",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02vGKSw97dyEqy4h2eCHK1XzQVxixqw33h6d12CtpYWLXN5PpLPT9HVFD3MAV83FTnl&id=61580979040009",
+      "summary": "Develops a photo into a complete brand packaging system — its distilled traits rebuilt as bags, boxes, tags and labels in soft powder-blue tones on premium matte paper. The source post shows 6 examples; all 6 are archived here."
     }
   ],
   "samples": [
