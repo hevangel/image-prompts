@@ -2,62 +2,78 @@
 
 - **Style slug:** `out-of-frame`
 - **Creator:** Emerson post (Facebook)
-- **Source post:** reel only — https://www.facebook.com/reel/1089769483661199 (posted Oct 10, 2026; ~2K likes, 121 comments, 379 shares). **Verified reel-only**: no photo set exists — the surrounding feed and the profile Photos tab for Oct 10–11 were checked, and those uploads are the retro-film posters only. The reel's frames are video stills, not downloadable set images, so this entry has no `post-NN` reference images.
-- **Reel example frames observed (in playback order):** 1 rainy night through a wet window, orange bokeh; 2 red rain-wet bench; 3 red and green Taiwan post boxes ("LET GOOD THINGS FIND YOU"); 4 feet in blue Crocs in shallow surf ("A QUIETER FLOW"); 5 alley with a yellow scooter ("A SLOWER ALLEY"); 6 cable-stayed bridge at night, black field with gold flecks; 7 beef noodle bowl ("A Bowl of Comfort"); 8 pour-over coffee in a red mug ("Good Coffee").
-- **Collected:** Oct 22, 2026 (via a signed-in browser — see the Source post log in [AGENTS.md](../../AGENTS.md))
+- **Source posts:** photo post https://www.facebook.com/permalink.php?story_fbid=pfbid0237JGu4Ua2VJWgtxc3mVVvFEavkUkWiNem27ebU8PkQoTNKAqBc1n4hNGwS11CWvAl&id=61580979040009 (set ID `pcb.122151367809032634`, posted **Sep 12, 2026** — the style's original, set-bearing posting) and its companion reel https://www.facebook.com/reel/1112178171455668 (Sep 12, 2026; plays set posters shuffled). The style was **re-presented** a month later as reel https://www.facebook.com/reel/1089769483661199 (Oct 10, 2026; ~2K likes, 121 comments, 379 shares) — this entry was first filed from that reel alone (before the set-only rule), and is now upgraded with the original set.
+- **Reference images:** all 9 images from the Sep 12 photo post, `post-01.jpg` … `post-09.jpg` in this folder. The Oct 10 reel additionally shows two frames not in the set (feet in blue Crocs in shallow surf, "A QUIETER FLOW"; an alley with a yellow scooter, "A SLOWER ALLEY") — noted here, not archived. Fetched 2026-10-22 via a signed-in browser — see the Source post log in [AGENTS.md](../../AGENTS.md).
+- **Collected:** Oct 22, 2026
+
+## The 9 post images, in set order (with printed titles)
+
+1. `post-01.jpg` — rain-covered windshield view of blurred city lights at dusk — "AFTER RAIN"
+2. `post-02.jpg` — pair of Taiwan postboxes (red airmail + green local) — "LET GOOD THINGS FIND YOU"
+3. `post-03.jpg` — rain-wet red wooden bench slats, close-up — "RAIN IN ORDINARY DAYS"
+4. `post-04.jpg` — white cable-stayed pedestrian bridge (Puente de la Mujer, Buenos Aires) at night — "A BRIGHTER CITY / A KINDER TOMORROW"
+5. `post-05.jpg` — red cup of pour-over coffee with cookies — "Good Coffee"
+6. `post-06.jpg` — aerial night view of the Love River, Kaohsiung — "A BRIGHTER NIGHT"
+7. `post-07.jpg` — white hydrangea close-up — "GOOD THINGS TAKE TIME"
+8. `post-08.jpg` — bowl of beef noodle soup with bok choy — "A Bowl of Comfort"
+9. `post-09.jpg` — conical salt piles in flooded salt pans at sunset — "SALT LIGHT"
+
+Each image in the post is itself a poster in the style's original layout:
+the source photo on top and a watercolor color-field version below whose
+elements bleed across the field's edges.
 
 ## The prompt
 
-The reel's author comment ("完整 Prompt 分享") carries the creator's
-full GPT prompt in English. The creator publishes it for followers to
-copy. The full text lives in that comment, linked above; what follows
-is a structural summary.
+The set post's author comment carries the creator's full GPT prompt
+(written in Chinese, with a Chinese introduction; the Oct 10 reel's
+author comment carries an English version of the same prompt). The
+creator publishes it for followers to copy. The full text lives in
+those comments, linked above; what follows is a structural summary.
 
-The prompt asks for one independent premium poster per photo, on a 3:4
-canvas in two equal halves. The top half preserves the original
-photograph faithfully with only subtle refined grading. The bottom half
-is a fresh artistic interpretation: extract only the most recognizable
-subjects, silhouettes, structures, poses and narrative relationships,
-removing most background and irrelevant detail, and place them in a
-framed color-field composition — an irregular rectangular handmade
-painted color field on generous blank off-white paper, like a second
-canvas laid on a white sheet. The field never fills its panel: wide
-paper margins, brushed edges, watery bleeding, broken contours,
-irregular brush marks. Most of the subject sits inside the field, but
-a few significant contours, leaves, branches, lines, dots or fragments
-extend naturally beyond its boundaries — the "boundary-crossing"
-effect that names the style. The subject stays relatively small
-against expansive negative space, placed freely (asymmetrical,
-edge-hugging, suspended, partially cropped). The medium is a simplified
-hand-drawn reinterpretation: concise color blocks, minimal outlines,
-delicate marks, moderate abstraction, in the photo's 2–4 most vibrant
-memorable colors with brightness, clarity and saturation raised and
-muddiness reduced. Typography is minimal editorial — a few words or a
-short phrase from the subject, location, movement, emotion or metaphor,
-placed quietly in the negative space or along the field's edge.
-Excluded: literal copying, excessive background detail, overcrowding,
-rigid composition, clutter, overly hard edges, formulaic template
-treatment.
+The shared two-zone template applies (3:4; zones strictly 1:1; top =
+original photo preserved with slight high-end grading for an
+art-magazine/exhibition feel). The BOTTOM zone extracts only the most
+recognizable subject, contours, structure, pose and narrative and
+re-judges it artistically — no copying the original scene, keeping all
+objects, or redrawing item by item; most background and irrelevant
+detail is actively deleted; full re-direction rights (delete,
+recombine, crop, scale changes, white space). Composition = framed
+color-field logic （框景式色場邏輯）: within a large area of paper
+white space, ONE irregular rectangular hand-made color-field carrier
+zone, like a second canvas on white paper. The color field must NOT
+cover the whole frame — large white margins on all sides; its edges
+carry light water-brush marks, bleeding （暈染）, broken edges and
+irregular brush strokes. The subject is organized mostly INSIDE the
+color field, but a few key contours, branches/leaves, lines, speckles
+or local elements may naturally CROSS OUT of the field's boundary,
+forming the "break the frame" （越界） composition that names the
+style. Small-scale subject + super-large white space; placement free
+per the subject's own direction, proportion and visual center. Style:
+generalized hand-drawn reconstruction — simple color blocks, few drawn
+lines, light detailing, moderate abstraction; no realistic redraw.
+Color: 2–4 of the photo's most vital, most memorable colors, re-mixed
+brighter, purer and de-grayed; the paper ground stays ivory, warm
+white or light paper color. Text: minimal editorial intervention only.
+Exclusions: object-by-object copying, keeping too much background,
+filled frames, stiff composition, information pile-up, over-hard
+edges, templated treatment.
 
-> Full prompt text: see the source reel's author comment (linked above).
+> Full prompt text: see the source posts' author comments (linked above).
 
 ## English translation of the introduction
 
-The caption (Traditional Chinese) introduces a prompt that makes a
-photo produce a "visual boundary-crossing" effect. Everyday
-photography keeps everything neatly inside the frame; this playful
-alternative lets elements cross the boundary a little. The top half
-keeps the original photo; in the bottom half the AI re-reads the photo,
-keeping only the most important subject, colors and outlines and
-gradually removing unimportant detail — on a large white ground, a
-small irregular block of color rearranges the protagonist, some
-elements enlarged, cropped or moved, some colors bleeding as if they
-touched water, even spilling slightly past the original frame. He loves
-that this un-complicates the photo and refocuses attention, and
-suggests subjects like a pair of post boxes, an everyday night scene,
-an ordinary rain-wet bench. Readers are invited to copy the prompt
-from the first comment, share their results, save the post, and follow
-for the next prompt.
+The set post's caption (Traditional Chinese) asks: when we take photos
+we stay obediently inside the frame, hoping to keep the complete
+picture — but have you tried letting it slightly exceed the frame? The
+top keeps the original photo; the bottom does not just redraw it and
+let it cross directly. The prompt re-reads the photo: keep the theme,
+colors and contours, remove the rest, keep the reason it was memorable
+at first sight. Then, on a large sheet of white paper, brush out one
+small irregular color block — a bowl of noodles, a pair of postboxes,
+an aerial view, even rain-wet glass or a bench can be re-enlarged,
+cropped and moved. Some have a water-bloomed, bleeding feel,
+deliberately rendered slightly beyond the frame. An ordinary everyday
+photo gains more worth-looking-at parts that spread outward.
 
 ## Samples in this repo
 

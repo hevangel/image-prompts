@@ -983,6 +983,65 @@ by set ID / reel ID before counting a post as new.
   were downloaded through the set post's photo viewer without reading
   or acting on that text — the summary comes from the author comment.
 
+### dot-matrix — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Dot Matrix · 復古數位點陣圖， photo set posted **Sep 15,
+  2026**, reel the same day. Classified DISTINCT from pixel-art
+  (Oct 2): character/halftone/dither typographic reconstruction on a
+  black/white/gray base + 1–3 accents, vs colored atmospheric pixel
+  illustration. Cross-note: this prompt's text was also embedded in
+  the hand-drawn-feel set's photo descriptions (that set's canonical
+  prompt is its author comment — the entries stay separate).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0WHXfpd72TJsebeBsyicaTsbhFrHzUS7pVusjsnzD8F4ULrw6QjFKUYDKCdexsgLCl&id=61580979040009
+  — set ID `pcb.122151738975032634`; observed: 34 likes, 3 comments,
+  12 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/dot-matrix/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1609959590775169 — plays
+  the set in set order; no distinct example.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/dot-matrix/post-01.jpg` … `post-10.jpg`.
+
+### spot-illustration — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Spot Illustration · 留白插畫， photo set posted **Sep 14,
+  2026**, reel the same day. The set was initially hidden from both
+  the feed and profile search and surfaced on a fuller feed render —
+  a negative set search is not proof of absence (lesson repeated).
+  Near-twin of black-line-drawing (Sep 18): filed separately (earlier
+  posting, different set, any-pale-accent on plain ground vs fixed
+  ice-blue on xuan paper); flagged for reconciliation.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid024p2QPWPw7MQDjHznLarW64BkpY71gBSVZUgYGP5jHBFwu8qVBMgRTjd1RkE8Tiz7l&id=61580979040009
+  — set ID `pcb.122151565809032634`; observed: 85 likes, 3 comments,
+  24 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/spot-illustration/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1837058010786572 — plays
+  the 9 set posters in set order; no distinct example.
+- **Images:** exactly **9** (viewer cycle), saved as
+  `reference/spot-illustration/post-01.jpg` … `post-09.jpg`.
+
+### out-of-frame (upgraded) — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Upgrade:** the entry was first filed (Oct 22, pre-rule) from the
+  Oct 10, 2026 reel alone as a reel-only entry. Batch 14 found the
+  style's ORIGINAL set-bearing posting: photo set **Sep 12, 2026**,
+  whose caption names the style 視覺越界 — the Oct 10 reel is a later
+  re-presentation. The entry now archives the Sep 12 set; this also
+  answers batch 5's open question (a set does exist for this style).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0237JGu4Ua2VJWgtxc3mVVvFEavkUkWiNem27ebU8PkQoTNKAqBc1n4hNGwS11CWvAl&id=61580979040009
+  — set ID `pcb.122151367809032634`; observed: 47 likes, 1 comment,
+  19 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/out-of-frame/prompt.md` was rewritten from it.
+- **Reels:** companion https://www.facebook.com/reel/1112178171455668
+  (Sep 12; plays set posters shuffled) and re-presentation
+  https://www.facebook.com/reel/1089769483661199 (Oct 10; its two
+  extra frames — Crocs in surf, scooter alley — noted in the entry,
+  not archived).
+- **Images:** exactly **9** (viewer cycle), saved as
+  `reference/out-of-frame/post-01.jpg` … `post-09.jpg`.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

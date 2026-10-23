@@ -288,11 +288,21 @@
       "name": "Out of Frame",
       "name_original": "視覺越界",
       "prompt_file": "reference/out-of-frame/prompt.md",
-      "reference_image": null,
-      "reference_images": [],
+      "reference_image": "reference/out-of-frame/post-01.jpg",
+      "reference_images": [
+        "reference/out-of-frame/post-01.jpg",
+        "reference/out-of-frame/post-02.jpg",
+        "reference/out-of-frame/post-03.jpg",
+        "reference/out-of-frame/post-04.jpg",
+        "reference/out-of-frame/post-05.jpg",
+        "reference/out-of-frame/post-06.jpg",
+        "reference/out-of-frame/post-07.jpg",
+        "reference/out-of-frame/post-08.jpg",
+        "reference/out-of-frame/post-09.jpg"
+      ],
       "slug": "out-of-frame",
-      "source_url": "https://www.facebook.com/reel/1089769483661199",
-      "summary": "Lets a photo spill out of its frame: a small irregular painted color field on big white paper, the subject simplified inside it — with a few contours bleeding past the field's edge. Reel-only post: it has no photo set, so this entry has no reference images."
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0237JGu4Ua2VJWgtxc3mVVvFEavkUkWiNem27ebU8PkQoTNKAqBc1n4hNGwS11CWvAl&id=61580979040009",
+      "summary": "Lets a photo spill out of its frame: a small irregular painted color field on big white paper, the subject simplified inside it — with a few contours bleeding past the field's edge. Originally filed from the Oct 10 reel; the style's original Sep 12 set (9 photos) is now archived here."
     },
     {
       "author": "Emerson post",
@@ -904,6 +914,49 @@
       "slug": "hand-drawn-feel",
       "source_url": "https://www.facebook.com/groups/346855692144727/permalink/3515248601972071",
       "summary": "Keeps only the detail that makes you remember the day and redraws it as a loose, naïve picture-book illustration — shaky lines, crayon grain, one broad color field underneath. The source set shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Dot Matrix",
+      "name_original": "復古數位點陣圖",
+      "prompt_file": "reference/dot-matrix/prompt.md",
+      "reference_image": "reference/dot-matrix/post-01.jpg",
+      "reference_images": [
+        "reference/dot-matrix/post-01.jpg",
+        "reference/dot-matrix/post-02.jpg",
+        "reference/dot-matrix/post-03.jpg",
+        "reference/dot-matrix/post-04.jpg",
+        "reference/dot-matrix/post-05.jpg",
+        "reference/dot-matrix/post-06.jpg",
+        "reference/dot-matrix/post-07.jpg",
+        "reference/dot-matrix/post-08.jpg",
+        "reference/dot-matrix/post-09.jpg",
+        "reference/dot-matrix/post-10.jpg"
+      ],
+      "slug": "dot-matrix",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0WHXfpd72TJsebeBsyicaTsbhFrHzUS7pVusjsnzD8F4ULrw6QjFKUYDKCdexsgLCl&id=61580979040009",
+      "summary": "Rebuilds a photo from characters, halftone dots and dithered raster under a big bitmap title — black/white/gray with 1–3 accent colors. Distinct from the Oct 2 pixel-art style. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Spot Illustration",
+      "name_original": "留白插畫",
+      "prompt_file": "reference/spot-illustration/prompt.md",
+      "reference_image": "reference/spot-illustration/post-01.jpg",
+      "reference_images": [
+        "reference/spot-illustration/post-01.jpg",
+        "reference/spot-illustration/post-02.jpg",
+        "reference/spot-illustration/post-03.jpg",
+        "reference/spot-illustration/post-04.jpg",
+        "reference/spot-illustration/post-05.jpg",
+        "reference/spot-illustration/post-06.jpg",
+        "reference/spot-illustration/post-07.jpg",
+        "reference/spot-illustration/post-08.jpg",
+        "reference/spot-illustration/post-09.jpg"
+      ],
+      "slug": "spot-illustration",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid024p2QPWPw7MQDjHznLarW64BkpY71gBSVZUgYGP5jHBFwu8qVBMgRTjd1RkE8Tiz7l&id=61580979040009",
+      "summary": "Condenses a photo into one tiny hand-drawn sticker-like illustration in a sea of white space, with a single pale accent color borrowed from the photo. A near-twin of black-line-drawing (Sep 18), filed separately. The source post shows 9 examples; all 9 are archived here."
     }
   ],
   "samples": [
