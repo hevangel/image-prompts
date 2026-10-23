@@ -251,6 +251,42 @@
       "output": "paper-collage-lines.webp",
       "prompt_slug": "paper-collage-lines",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:38:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame white model: scene as a pristine white paper-and-foam model, soft shadows, no split, no embedded original, no text.",
+      "output": "white-model.webp",
+      "prompt_slug": "white-model",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:38:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame paper carving: stacked carved colored paper layers with depth and shadows, no split, no embedded original, no text.",
+      "output": "paper-carving.webp",
+      "prompt_slug": "paper-carving",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:38:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame bento box: scene elements neatly compartmentalized in tidy sections, no split, no embedded original, no text.",
+      "output": "bento-box.webp",
+      "prompt_slug": "bento-box",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:38:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame perler bead art: visible individual round beads in a limited palette, no split, no embedded original, no text.",
+      "output": "perler-beads.webp",
+      "prompt_slug": "perler-beads",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
