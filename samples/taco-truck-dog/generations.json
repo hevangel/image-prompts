@@ -386,6 +386,15 @@
       "output": "wool-felt.webp",
       "prompt_slug": "wool-felt",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:28:54-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame small illustration: charcoal black + rust red duotone, dry crayon/graphite on warm gray-white paper, no split, no embedded original, no text.",
+      "output": "small-illustration.webp",
+      "prompt_slug": "small-illustration",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
