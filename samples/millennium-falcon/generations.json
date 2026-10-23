@@ -359,6 +359,15 @@
       "output": "hand-drawn-feel.webp",
       "prompt_slug": "hand-drawn-feel",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:26:16-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame retro dot-matrix artwork: halftone dots and dither, black/white/gray plus accent colors, bitmap texture, no split, no embedded original, no text.",
+      "output": "dot-matrix.webp",
+      "prompt_slug": "dot-matrix",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
