@@ -1097,6 +1097,66 @@ by set ID / reel ID before counting a post as new.
 - **Images:** exactly **8** (viewer cycle), saved as
   `reference/typography-device/post-01.jpg` … `post-08.jpg`.
 
+### comparison-poster — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Comparison Poster · 上下對照海報， photo set posted
+  **Aug 31, 2026**, companion reel Sep 1, 2026 (the batch's Sep 1
+  video target is this set's companion, not a reel-only post). The
+  set post has no comments — the full prompt is printed in the reel's
+  caption. Distinct from food-poster (9:16 templated brand posters).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0324MjpkSAZbSa1rG998s2PA7qmj655DCoxZkEreR6uiA7NHEmWHJ8hs8VAyXBnHfjl&id=61580979040009
+  — set ID `pcb.122149259277032634`; observed: 12 likes, 0 comments,
+  2 shares. `reference/comparison-poster/prompt.md` keeps a
+  structural summary.
+- **Reel:** https://www.facebook.com/reel/3348300188682482 — plays
+  the set shuffled; no distinct example.
+- **Images:** exactly **6** (viewer cycle), saved as
+  `reference/comparison-poster/post-01.jpg` … `post-06.jpg`.
+
+### split-poster — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Split Poster · 雙面海報， posted **Aug 30, 2026** as a
+  video + TWO sets the same day. Format break: 7:6 LANDSCAPE,
+  left/right side-by-side (photo left, naïve crayon folk illustration
+  right) — explicitly never top/bottom. SET B shares only part of
+  SET A's examples, so the style's archive is 8 distinct posters,
+  each downloaded once.
+- **Video:** https://www.facebook.com/reel/1077688844743551 — its
+  author comment (Sep 18, 2026) carries the canonical prompt;
+  `reference/split-poster/prompt.md` keeps a structural summary.
+- **SET A:** https://www.facebook.com/permalink.php?story_fbid=pfbid0WMF1QH8GBNR5NmW4Nj2KgNtpPscMCefxVw1zTk16ikfx96q69NJQ5kXxsn4DYjKNl&id=61580979040009
+  — set ID `pcb.122149032573032634`; 9 likes, 0 comments, 4 shares.
+- **SET B:** https://www.facebook.com/permalink.php?story_fbid=pfbid02JZFwRkKcNJwp4Pf81S76DNTPLt1hr69QkJ5u8T1e83SVSXJGJS5n63yMJfw641N3l&id=61580979040009
+  — set ID `pcb.122149029231032634`; 7 reactions, 5 comments,
+  2 shares; 4 of its 6 photos duplicate SET A (not re-downloaded),
+  2 are unique (Amsterdam café, Prague) and were downloaded.
+- **Images:** **8 distinct**, saved as
+  `reference/split-poster/post-01.jpg` … `post-08.jpg` (SET A 1–6,
+  then SET B's two uniques).
+
+### blueprint-poster — Emerson post (fetched 2026-10-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Blueprint Poster · 建築藍圖， photo set posted **Aug 29,
+  2026**; the creator frames it as the architecture-oriented
+  successor to geometric-poster — the graphic half is an architectural
+  drafting drawing (callouts, axes, scale/elevation notations,
+  drawing-number label). The full prompt is printed in the set
+  caption itself. Distinct from blueprint-cyanotype (a cyanotype
+  re-exposure, not a drafting layout).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02XfMskKH1pXf3p4T6pwBCKU3uHrNgfi7EwS4jpqJoiwTdRHjvPyhQmBrzRPuMyoU8l&id=61580979040009
+  — set ID `pcb.122148906435032634`; observed: 9 likes, 1 comment,
+  no share count displayed. `reference/blueprint-poster/prompt.md`
+  keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1647555846944280 — plays
+  set posters shuffled and ADDS two distinct examples (RIVERSIDE
+  CHAPEL, BARCELONA SKYLINE) — noted in the entry, not archived.
+- **Images:** exactly **6** (viewer cycle; the grid showed only 5
+  tiles), saved as `reference/blueprint-poster/post-01.jpg` …
+  `post-06.jpg`.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

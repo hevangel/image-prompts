@@ -1006,6 +1006,62 @@
       "slug": "typography-device",
       "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mcPYzuzZ2HGt5sYJzFtFU5j1tyDjx2aT1czqKKS5HJGnLa26F4XF1JatzTJbKbgAl&id=61580979040009",
       "summary": "Typography as Image: a photo's subject decomposed into lettering, geometric lines and color blocks forming one small device, in a fixed functional palette (orange structure, cyan info, yellow highlight, magenta accent, black anchor). The source post shows 8 examples; all 8 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Comparison Poster",
+      "name_original": "上下對照海報",
+      "prompt_file": "reference/comparison-poster/prompt.md",
+      "reference_image": "reference/comparison-poster/post-01.jpg",
+      "reference_images": [
+        "reference/comparison-poster/post-01.jpg",
+        "reference/comparison-poster/post-02.jpg",
+        "reference/comparison-poster/post-03.jpg",
+        "reference/comparison-poster/post-04.jpg",
+        "reference/comparison-poster/post-05.jpg",
+        "reference/comparison-poster/post-06.jpg"
+      ],
+      "slug": "comparison-poster",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0324MjpkSAZbSa1rG998s2PA7qmj655DCoxZkEreR6uiA7NHEmWHJ8hs8VAyXBnHfjl&id=61580979040009",
+      "summary": "A top-bottom comparison poster: the photo above, a flat simplified illustration of its most memorable subject below, with a numbered title and element legend. The source post shows 6 examples; all 6 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Split Poster",
+      "name_original": "雙面海報",
+      "prompt_file": "reference/split-poster/prompt.md",
+      "reference_image": "reference/split-poster/post-01.jpg",
+      "reference_images": [
+        "reference/split-poster/post-01.jpg",
+        "reference/split-poster/post-02.jpg",
+        "reference/split-poster/post-03.jpg",
+        "reference/split-poster/post-04.jpg",
+        "reference/split-poster/post-05.jpg",
+        "reference/split-poster/post-06.jpg",
+        "reference/split-poster/post-07.jpg",
+        "reference/split-poster/post-08.jpg"
+      ],
+      "slug": "split-poster",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0WMF1QH8GBNR5NmW4Nj2KgNtpPscMCefxVw1zTk16ikfx96q69NJQ5kXxsn4DYjKNl&id=61580979040009",
+      "summary": "Breaks the vertical template: a 7:6 landscape poster, photo on the left, a naïve crayon folk illustration of the same moment on the right. Posted twice the same day with partly different examples — 8 distinct posters are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Blueprint Poster",
+      "name_original": "建築藍圖",
+      "prompt_file": "reference/blueprint-poster/prompt.md",
+      "reference_image": "reference/blueprint-poster/post-01.jpg",
+      "reference_images": [
+        "reference/blueprint-poster/post-01.jpg",
+        "reference/blueprint-poster/post-02.jpg",
+        "reference/blueprint-poster/post-03.jpg",
+        "reference/blueprint-poster/post-04.jpg",
+        "reference/blueprint-poster/post-05.jpg",
+        "reference/blueprint-poster/post-06.jpg"
+      ],
+      "slug": "blueprint-poster",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02XfMskKH1pXf3p4T6pwBCKU3uHrNgfi7EwS4jpqJoiwTdRHjvPyhQmBrzRPuMyoU8l&id=61580979040009",
+      "summary": "Real photo × architectural blueprint: the scene's outlines extended into a drafting drawing with axes, callouts and a drawing number. The creator's architecture-oriented successor to the abstract-geometric posters. The source post shows 6 examples; all 6 are archived here."
     }
   ],
   "samples": [
