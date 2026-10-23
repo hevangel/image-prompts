@@ -143,6 +143,42 @@
       "output": "mediterranean-poster.webp",
       "prompt_slug": "mediterranean-poster",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:13-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame one-line contour: a few continuous black lines on warm white plus one spot color, no split, no embedded original, no text.",
+      "output": "one-line-contour.webp",
+      "prompt_slug": "one-line-contour",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:13-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame clean illustration: subject redrawn in simple clean color blocks, minimal detail, no split, no embedded original, no text.",
+      "output": "clean-illustration.webp",
+      "prompt_slug": "clean-illustration",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:13-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame dynamic field print: sandpaper grain and stipple, bold shapes from the grain, no split, no embedded original, no text.",
+      "output": "dynamic-field-print.webp",
+      "prompt_slug": "dynamic-field-print",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:13-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame ink-starved geometry: bold shapes with dry scratchy edges, bare paper showing, no split, no embedded original, no text.",
+      "output": "ink-starved-geometry.webp",
+      "prompt_slug": "ink-starved-geometry",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
