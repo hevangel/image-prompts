@@ -215,6 +215,15 @@
       "output": "patchwork-embroidery.webp",
       "prompt_slug": "patchwork-embroidery",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:10:56-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame ink rubbing: traditional stone-rubbing texture, black ink on white paper, no split, no embedded original, no text.",
+      "output": "ink-rubbing.webp",
+      "prompt_slug": "ink-rubbing",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

@@ -206,6 +206,15 @@
       "output": "pixel-art.webp",
       "prompt_slug": "pixel-art",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:10:56-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame patchwork embroidery: fabric patches in the photo's colors, visible hand stitching, textile texture, no split, no embedded original, no text.",
+      "output": "patchwork-embroidery.webp",
+      "prompt_slug": "patchwork-embroidery",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
