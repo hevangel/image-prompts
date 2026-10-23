@@ -89,6 +89,15 @@
       "output": "woodcut-print.webp",
       "prompt_slug": "woodcut-print",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T00:57:44-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame paper-cut collage: bold flat saturated paper shapes, cut edges, layered shadows, no split, no embedded original, no text.",
+      "output": "paper-cut.webp",
+      "prompt_slug": "paper-cut",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
