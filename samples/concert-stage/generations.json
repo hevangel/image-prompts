@@ -35,6 +35,15 @@
       "output": "impasto-oil-painting.webp",
       "prompt_slug": "impasto-oil-painting",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-22T23:48:57-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame flat silhouette composition: bold flat color shapes and clean silhouettes, no split, no embedded original, no text.",
+      "output": "flat-silhouette.webp",
+      "prompt_slug": "flat-silhouette",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
