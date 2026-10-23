@@ -524,6 +524,26 @@
       "slug": "patchwork-embroidery",
       "source_url": "https://www.facebook.com/61580979040009/posts/122154715113032634/",
       "summary": "Re-sews a photo from fabric patches and thick, frayed hand stitching on a linen ground — imperfect like real handwork, quiet and collectible. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Ink Rubbing",
+      "name_original": "拓印",
+      "prompt_file": "reference/ink-rubbing/prompt.md",
+      "reference_image": "reference/ink-rubbing/post-01.jpg",
+      "reference_images": [
+        "reference/ink-rubbing/post-01.jpg",
+        "reference/ink-rubbing/post-02.jpg",
+        "reference/ink-rubbing/post-03.jpg",
+        "reference/ink-rubbing/post-04.jpg",
+        "reference/ink-rubbing/post-05.jpg",
+        "reference/ink-rubbing/post-06.jpg",
+        "reference/ink-rubbing/post-07.jpg",
+        "reference/ink-rubbing/post-08.jpg"
+      ],
+      "slug": "ink-rubbing",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122154490767032634/",
+      "summary": "Turns a photo into an archaeological ink rubbing — broken ink, missing patches and vast paper whitespace, as if the moment were carved in stone and preserved. The source post shows 8 examples; all 8 are archived here."
     }
   ],
   "samples": [

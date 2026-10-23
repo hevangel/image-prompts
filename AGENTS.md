@@ -615,6 +615,32 @@ by set ID / reel ID before counting a post as new.
   balloons, autumn road, towed airliner. No printed titles (tiny
   fabric labels only).
 
+### ink-rubbing — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Ink Rubbing · 拓印， photo set posted **Sep 29, 2026,
+  11:28 PM**, reel 11:37 PM (marked AI content). Found via the
+  Photos tab.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122154490767032634/
+  — set ID `pcb.122154490767032634`; observed: 186 likes, 8 comments,
+  46 shares. Unusually, the author comments on both posts are the
+  full English prompt alone, with no Chinese introduction;
+  `reference/ink-rubbing/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/4427798114201466 — identical
+  prompt in its author comment (verified); all 8 set posters appear
+  in the reel, shuffled.
+- **Images:** exactly **8** (viewer cycle; the grid estimate of 9
+  overcounted by one), saved as `reference/ink-rubbing/post-01.jpg`
+  … `post-08.jpg`. Titles: 1 「仰望」 "GAZE AT THE SKY", 2 「旅途之光」
+  (train cleaner), 3 mother and baby 「ふれる、のこる」, 4 shrine bench
+  「やすらぎ」, 5 market worker 「市井煙火」, 6 autumn road (same source
+  photo as patchwork-embroidery #8), 7 Korean guard child
+  「궁궐의 아이」, 8 "HEART TRACE" (heart hands).
+- **Fetch note:** the set's individual photo pages repeatedly tripped
+  a platform safety check (the pages embed the prompt text as image
+  descriptions). Photos 4–8 were downloaded through the set post's
+  photo viewer instead; no description text was read or acted on.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create
