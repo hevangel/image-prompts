@@ -1094,7 +1094,10 @@
         "frosted-glass": "samples/howe-sound/frosted-glass.webp",
         "impasto-oil-painting": "samples/howe-sound/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/howe-sound/notebook-hand-drawn.webp",
-        "small-illustration": "samples/howe-sound/small-illustration.webp"
+        "rough-brushed-lines": "samples/howe-sound/rough-brushed-lines.webp",
+        "small-illustration": "samples/howe-sound/small-illustration.webp",
+        "woodcut-print": "samples/howe-sound/woodcut-print.webp",
+        "woven-tapestry": "samples/howe-sound/woven-tapestry.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1109,6 +1112,7 @@
         "blue-red-risograph": "samples/book-fair/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/book-fair/blueprint-cyanotype.webp",
         "blueprint-poster": "samples/book-fair/blueprint-poster.webp",
+        "brand-packaging": "samples/book-fair/brand-packaging.webp",
         "bright-illustration": "samples/book-fair/bright-illustration.webp",
         "clean-illustration": "samples/book-fair/clean-illustration.webp",
         "colored-paper-collage": "samples/book-fair/colored-paper-collage.webp",

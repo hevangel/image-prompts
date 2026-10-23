@@ -80,6 +80,33 @@
       "output": "blueprint-cyanotype.webp",
       "prompt_slug": "blueprint-cyanotype",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:34:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame woven tapestry: jacquard textile, visible threads, 6-8 yarn colors, no split, no embedded original, no text.",
+      "output": "woven-tapestry.webp",
+      "prompt_slug": "woven-tapestry",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:34:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame rough dry-brushed marker lines on pure black: hollow contour in one vivid accent color, no split, no embedded original, no text.",
+      "output": "rough-brushed-lines.webp",
+      "prompt_slug": "rough-brushed-lines",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:34:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame woodcut print: bold carved black lines, flat accent colors from the photo, wood-grain texture, no split, no embedded original, no text.",
+      "output": "woodcut-print.webp",
+      "prompt_slug": "woodcut-print",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
