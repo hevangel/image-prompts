@@ -71,6 +71,15 @@
       "output": "woven-tapestry.webp",
       "prompt_slug": "woven-tapestry",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T00:55:25-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame rough dry-brushed marker lines on pure black: hollow contour in one vivid accent color, no split, no embedded original, no text.",
+      "output": "rough-brushed-lines.webp",
+      "prompt_slug": "rough-brushed-lines",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

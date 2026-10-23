@@ -1109,7 +1109,8 @@
         "flat-silhouette": "samples/book-fair/flat-silhouette.webp",
         "frosted-glass": "samples/book-fair/frosted-glass.webp",
         "impasto-oil-painting": "samples/book-fair/impasto-oil-painting.webp",
-        "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp"
+        "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp",
+        "woven-tapestry": "samples/book-fair/woven-tapestry.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1125,6 +1126,7 @@
         "frosted-glass": "samples/millennium-falcon/frosted-glass.webp",
         "impasto-oil-painting": "samples/millennium-falcon/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/millennium-falcon/notebook-hand-drawn.webp",
+        "rough-brushed-lines": "samples/millennium-falcon/rough-brushed-lines.webp",
         "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp"
       },
       "slug": "millennium-falcon",
@@ -1141,6 +1143,7 @@
         "frosted-glass": "samples/concert-stage/frosted-glass.webp",
         "impasto-oil-painting": "samples/concert-stage/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/concert-stage/notebook-hand-drawn.webp",
+        "rough-brushed-lines": "samples/concert-stage/rough-brushed-lines.webp",
         "woven-tapestry": "samples/concert-stage/woven-tapestry.webp"
       },
       "slug": "concert-stage",
@@ -1157,6 +1160,7 @@
         "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp",
         "impasto-oil-painting": "samples/taco-truck-dog/impasto-oil-painting.webp",
         "notebook-hand-drawn": "samples/taco-truck-dog/notebook-hand-drawn.webp",
+        "rough-brushed-lines": "samples/taco-truck-dog/rough-brushed-lines.webp",
         "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp"
       },
       "slug": "taco-truck-dog",
