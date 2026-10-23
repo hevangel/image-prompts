@@ -215,6 +215,42 @@
       "output": "storytelling-collage.webp",
       "prompt_slug": "storytelling-collage",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:37:40-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame atmospheric pixel art: moody palette from the photo, fine dithering, no split, no embedded original, no text.",
+      "output": "pixel-art.webp",
+      "prompt_slug": "pixel-art",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:37:40-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame patchwork embroidery: fabric patches with visible hand stitching, textile texture, no split, no embedded original, no text.",
+      "output": "patchwork-embroidery.webp",
+      "prompt_slug": "patchwork-embroidery",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:37:40-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame ink rubbing: textured black ink on white paper, mottled rubbing texture, no split, no embedded original, no text.",
+      "output": "ink-rubbing.webp",
+      "prompt_slug": "ink-rubbing",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:37:40-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame paper collage with hand-drawn lines: torn/cut paper shapes plus loose ink lines, no split, no embedded original, no text.",
+      "output": "paper-collage-lines.webp",
+      "prompt_slug": "paper-collage-lines",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
