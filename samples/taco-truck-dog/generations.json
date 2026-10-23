@@ -125,6 +125,15 @@
       "output": "mediterranean-poster.webp",
       "prompt_slug": "mediterranean-poster",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:01:08-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame minimal line drawing: a few continuous black contour lines on warm white paper plus one small spot color, no split, no embedded original, no text.",
+      "output": "one-line-contour.webp",
+      "prompt_slug": "one-line-contour",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
