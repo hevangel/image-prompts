@@ -802,6 +802,66 @@ by set ID / reel ID before counting a post as new.
   "watercolor-travel posters" sighting is resolved: it is the
   already-archived impasto-oil-painting set.
 
+### lingering-afterglow — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Lingering Afterglow · 餘韻， photo set posted **Sep 22,
+  2026, 11:10 PM** (marked AI content), reel 11:13 PM. The same set
+  was cross-posted the same evening to 快樂學習AI and Gemini AI
+  Google groups (noted, not downloaded).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122153104767032634/
+  — set ID `pcb.122153104767032634`; observed: 81 likes, 1 comment,
+  26 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/lingering-afterglow/prompt.md` keeps a structural
+  summary.
+- **Reel:** https://www.facebook.com/reel/2475457529645335 — plays
+  the 11 set posters in set order; no distinct example.
+- **Images:** exactly **11** (viewer cycle), saved as
+  `reference/lingering-afterglow/post-01.jpg` … `post-11.jpg`.
+
+### photocopier-print — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Photocopier Print · 影印機版畫， photo set posted
+  **Sep 22, 2026, 3:20 AM** (marked AI content); companion video is
+  the "Floral breeze sessions" post (651 likes) — the batch-10
+  set-check that found this set. The set was cross-posted to several
+  public groups (noted, not downloaded).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122152964481032634/
+  — set ID `pcb.122152964481032634`; observed: 139 likes, 3 comments,
+  53 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/photocopier-print/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1584016793522458 — plays
+  set posters in shuffled order; no distinct example.
+- **Set quirk:** photos #4 and #8 are two different posters from the
+  SAME autumn-park source photo (different print text); both are
+  distinct uploads and both are archived.
+- **Images:** exactly **11** (viewer cycle), saved as
+  `reference/photocopier-print/post-01.jpg` … `post-11.jpg`.
+
+### food-poster — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Food Poster · 美食海報 — a **templated** prompt (Brand /
+  Food / Headline / Physical Interaction 纏繞・斷裂・滴流・剝離 /
+  Accent Color / Product Name / Price; 9:16 standalone posters, no
+  source-photo half), photo set posted **Sep 21, 2026**. A group
+  duplicate of the set was noted, not downloaded.
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122152798947032634/
+  — set ID `pcb.122152798947032634`; observed: 83 likes, 5 comments,
+  37 shares. Author comment carries the full templated prompt (in
+  Chinese); `reference/food-poster/prompt.md` keeps a structural
+  summary.
+- **Video:** https://www.facebook.com/reel/4532912850308323 — one
+  asset posted twice on Sep 21 (reel post + 简单的幸福 video post);
+  plays set posters shuffled and ADDS two distinct examples not in
+  the set （海月 SUSHI KAIGETSU nigiri poster; ONIGIRIYA "RICE"
+  onigiri poster) — noted in the entry, not archived.
+- **Images:** exactly **18** (viewer cycle), saved as
+  `reference/food-poster/post-01.jpg` … `post-18.jpg`. Prices in the
+  entry are as printed in the archived files (verified at full
+  resolution for #10 $8.90 and #11 $3.50).
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

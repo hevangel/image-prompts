@@ -700,6 +700,82 @@
       "slug": "colored-paper-collage",
       "source_url": "https://www.facebook.com/61580979040009/posts/122153271177032634/",
       "summary": "Organizes a complex photo into a few flat geometric color blocks on warm ivory — the real world above, an organized visual memory below. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Lingering Afterglow",
+      "name_original": "餘韻",
+      "prompt_file": "reference/lingering-afterglow/prompt.md",
+      "reference_image": "reference/lingering-afterglow/post-01.jpg",
+      "reference_images": [
+        "reference/lingering-afterglow/post-01.jpg",
+        "reference/lingering-afterglow/post-02.jpg",
+        "reference/lingering-afterglow/post-03.jpg",
+        "reference/lingering-afterglow/post-04.jpg",
+        "reference/lingering-afterglow/post-05.jpg",
+        "reference/lingering-afterglow/post-06.jpg",
+        "reference/lingering-afterglow/post-07.jpg",
+        "reference/lingering-afterglow/post-08.jpg",
+        "reference/lingering-afterglow/post-09.jpg",
+        "reference/lingering-afterglow/post-10.jpg",
+        "reference/lingering-afterglow/post-11.jpg"
+      ],
+      "slug": "lingering-afterglow",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122153104767032634/",
+      "summary": "Deletes almost everything from a photo until only a tiny indigo line vignette remains on warm paper — the photo records the day; the drawing records how it felt. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Photocopier Print",
+      "name_original": "影印機版畫",
+      "prompt_file": "reference/photocopier-print/prompt.md",
+      "reference_image": "reference/photocopier-print/post-01.jpg",
+      "reference_images": [
+        "reference/photocopier-print/post-01.jpg",
+        "reference/photocopier-print/post-02.jpg",
+        "reference/photocopier-print/post-03.jpg",
+        "reference/photocopier-print/post-04.jpg",
+        "reference/photocopier-print/post-05.jpg",
+        "reference/photocopier-print/post-06.jpg",
+        "reference/photocopier-print/post-07.jpg",
+        "reference/photocopier-print/post-08.jpg",
+        "reference/photocopier-print/post-09.jpg",
+        "reference/photocopier-print/post-10.jpg",
+        "reference/photocopier-print/post-11.jpg"
+      ],
+      "slug": "photocopier-print",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122152964481032634/",
+      "summary": "Re-prints a photo in two spot colors with deliberate misregistration, ink breaks and grain — a small stamp-like subject in a sea of white. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Food Poster",
+      "name_original": "美食海報",
+      "prompt_file": "reference/food-poster/prompt.md",
+      "reference_image": "reference/food-poster/post-01.jpg",
+      "reference_images": [
+        "reference/food-poster/post-01.jpg",
+        "reference/food-poster/post-02.jpg",
+        "reference/food-poster/post-03.jpg",
+        "reference/food-poster/post-04.jpg",
+        "reference/food-poster/post-05.jpg",
+        "reference/food-poster/post-06.jpg",
+        "reference/food-poster/post-07.jpg",
+        "reference/food-poster/post-08.jpg",
+        "reference/food-poster/post-09.jpg",
+        "reference/food-poster/post-10.jpg",
+        "reference/food-poster/post-11.jpg",
+        "reference/food-poster/post-12.jpg",
+        "reference/food-poster/post-13.jpg",
+        "reference/food-poster/post-14.jpg",
+        "reference/food-poster/post-15.jpg",
+        "reference/food-poster/post-16.jpg",
+        "reference/food-poster/post-17.jpg",
+        "reference/food-poster/post-18.jpg"
+      ],
+      "slug": "food-poster",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122152798947032634/",
+      "summary": "A templated prompt (brand, food, headline, interaction, color, product, price): real food winds around, cracks, drips down or peels open oversized black Chinese characters on warm cream. The source post shows 18 examples; all 18 are archived here."
     }
   ],
   "samples": [
