@@ -395,6 +395,42 @@
       "output": "spot-illustration.webp",
       "prompt_slug": "spot-illustration",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:41:20-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame wool-felt picture-book artwork: simplified scene, small subject in warm white space, needle-felt texture, no split, no embedded original, no text.",
+      "output": "wool-felt.webp",
+      "prompt_slug": "wool-felt",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:41:20-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame typographic artwork: structure built from abstract letterforms, fixed orange/cyan/yellow/magenta/black palette, no split, no embedded original, no readable words.",
+      "output": "typography-device.webp",
+      "prompt_slug": "typography-device",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:41:20-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame flat illustration: most memorable subject in simple color blocks on off-white, brightened colors, no split, no embedded original, no text.",
+      "output": "comparison-poster.webp",
+      "prompt_slug": "comparison-poster",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:41:20-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame naïve folk illustration: flat shapes, crayon/oil-pastel grain on rice-white paper, limited bright palette, no split, no embedded original, no text.",
+      "output": "split-poster.webp",
+      "prompt_slug": "split-poster",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
