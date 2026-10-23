@@ -341,6 +341,15 @@
       "output": "passport-ticket.webp",
       "prompt_slug": "passport-ticket",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:24:27-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame paper-cut collage poster: near-white space above, one solid color band below, cut-paper subject at the boundary, no split, no embedded original, no text.",
+      "output": "paper-cut-collage.webp",
+      "prompt_slug": "paper-cut-collage",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
