@@ -336,6 +336,62 @@
       "slug": "one-line-contour",
       "source_url": "https://www.facebook.com/61580979040009/posts/122156100633032634/",
       "summary": "Keeps a photo's most evocative moment with just a few flowing contour lines and one muted spot color on white — posture and feeling over detail. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Clean Illustration Poster",
+      "name_original": null,
+      "prompt_file": "reference/clean-illustration/prompt.md",
+      "reference_image": null,
+      "reference_images": [],
+      "slug": "clean-illustration",
+      "source_url": "https://www.facebook.com/reel/4442563715996841",
+      "summary": "Reorganizes a photo's most memorable subject into a simple, clean color-block illustration on rice-white — a bespoke poster or travel souvenir card for an everyday photo. Reel-only retrospective roundup: it has no photo set, so this entry has no reference images."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Dynamic Field Print",
+      "name_original": "砂紙顆粒",
+      "prompt_file": "reference/dynamic-field-print/prompt.md",
+      "reference_image": "reference/dynamic-field-print/post-01.jpg",
+      "reference_images": [
+        "reference/dynamic-field-print/post-01.jpg",
+        "reference/dynamic-field-print/post-02.jpg",
+        "reference/dynamic-field-print/post-03.jpg",
+        "reference/dynamic-field-print/post-04.jpg",
+        "reference/dynamic-field-print/post-05.jpg",
+        "reference/dynamic-field-print/post-06.jpg",
+        "reference/dynamic-field-print/post-07.jpg",
+        "reference/dynamic-field-print/post-08.jpg",
+        "reference/dynamic-field-print/post-09.jpg",
+        "reference/dynamic-field-print/post-10.jpg",
+        "reference/dynamic-field-print/post-11.jpg"
+      ],
+      "slug": "dynamic-field-print",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122155818213032634/",
+      "summary": "Dissolves a photo's subject into one dynamic field of fine lines, broken trajectories and sandpaper grain — densest at the core, fragmenting into white space — in a single signature color. The source post shows 11 images (10 distinct posters; 'AHEAD' is uploaded twice); all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Ink-Starved Geometry",
+      "name_original": "缺墨幾何",
+      "prompt_file": "reference/ink-starved-geometry/prompt.md",
+      "reference_image": "reference/ink-starved-geometry/post-01.jpg",
+      "reference_images": [
+        "reference/ink-starved-geometry/post-01.jpg",
+        "reference/ink-starved-geometry/post-02.jpg",
+        "reference/ink-starved-geometry/post-03.jpg",
+        "reference/ink-starved-geometry/post-04.jpg",
+        "reference/ink-starved-geometry/post-05.jpg",
+        "reference/ink-starved-geometry/post-06.jpg",
+        "reference/ink-starved-geometry/post-07.jpg",
+        "reference/ink-starved-geometry/post-08.jpg",
+        "reference/ink-starved-geometry/post-09.jpg",
+        "reference/ink-starved-geometry/post-10.jpg"
+      ],
+      "slug": "ink-starved-geometry",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122155961667032634/",
+      "summary": "Declutters a photo to one core motif locked into a rigorous geometric framework, printed with broken ink and worn rubbing texture inside crisp boundaries. The source post shows 10 examples; all 10 are archived here."
     }
   ],
   "samples": [

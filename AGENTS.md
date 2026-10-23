@@ -427,6 +427,64 @@ by set ID / reel ID before counting a post as new.
   red), 6 surfer (teal), 7 Korean street (red), 8 brick carrier
   (terracotta), 9 laundry lines (orange). No printed titles.
 
+### clean-illustration — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Clean Illustration Poster (no coined title) — a
+  **retrospective roundup** posted **Oct 8, 2026** as a reel-only
+  post: https://www.facebook.com/reel/4442563715996841 (1.1K likes,
+  31 comments, 240 shares). The reel's author comment carries the
+  full GPT prompt (written in Chinese);
+  `reference/clean-illustration/prompt.md` keeps a structural summary.
+- **No photo set was posted with this reel** (feed segment and
+  Photos-tab scan of Oct 8 uploads checked), so this entry has no
+  `post-NN` images. Reel examples: street-food vendor, Taipei alley
+  corner, fabric shop, beef soup, set meal, Taipei 101 sunset,
+  tandoori chicken, shaved ice. **Open question:** the caption says
+  the method is an earlier favorite — if the loop finds its original
+  posting further down the feed, reconcile it with this entry.
+
+### dynamic-field-print — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Dynamic Field Print · 砂紙顆粒 (the prompt's lower half
+  is a "surreal, minimalist printmaking composition"), photo set
+  posted **Oct 6, 2026**, reel **Oct 7, 2026** (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122155818213032634/
+  — set ID `pcb.122155818213032634`; observed: 204 likes, 10 comments,
+  34 shares. Author comment carries the full GPT prompt;
+  `reference/dynamic-field-print/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/1842071343643150 （冷萃） —
+  identical prompt in its author comment (verified); its frames are
+  the set's 10 distinct posters, shuffled.
+- **Images:** **11 slots, 10 distinct posters** (viewer cycle), saved
+  as `reference/dynamic-field-print/post-01.jpg` … `post-11.jpg`.
+  Positions 3 and 9 are the same "AHEAD" poster uploaded twice inside
+  the set (byte-identical, md5-verified). Titles: 1 "DAILY",
+  2 "WAIT", 3 "AHEAD", 4 "FLOW", 5 "STILL", 6 "WALK", 7 "SPAN",
+  8 "PLATFORM", 9 "AHEAD" (duplicate), 10 "JUNCTION", 11 "ONWARD".
+
+### ink-starved-geometry — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Ink-Starved Geometry · 缺墨幾何, photo set posted
+  **Oct 8, 2026, 12:47 AM**, reel 1:27 AM (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122155961667032634/
+  — set ID `pcb.122155961667032634`; observed: 309 likes, 14 comments,
+  82 shares. **This set never appears in the feed render** — found via
+  the Photos tab. Author comments on set and reel carry the identical
+  full GPT prompt (verified);
+  `reference/ink-starved-geometry/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/2311854202993771 — sampled
+  frames all duplicate set posters.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/ink-starved-geometry/post-01.jpg` … `post-10.jpg`.
+  Subjects with titles in each photo's own language: 1 pink salt flat
+  "Sessizlikte", 2 Vietnamese flower sellers, 3 rubble walker (Arabic
+  title), 4 Taipei scooters "CITY LANE", 5 Issyk-Kul larch and cattle,
+  6 Shinjuku alley 「新宿」, 7 Pamukkale terraces, 8 snowy mountain
+  road, 9 Moldovan rock monastery, 10 Manhattan through a fence.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create
