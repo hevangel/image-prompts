@@ -251,6 +251,15 @@
       "output": "paper-carving.webp",
       "prompt_slug": "paper-carving",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:14:40-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame bento-box artwork: scene elements neatly compartmentalized like a bento lunch, playful and orderly, no split, no embedded original, no text.",
+      "output": "bento-box.webp",
+      "prompt_slug": "bento-box",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

@@ -1119,6 +1119,7 @@
         "notebook-hand-drawn": "samples/book-fair/notebook-hand-drawn.webp",
         "one-line-contour": "samples/book-fair/one-line-contour.webp",
         "out-of-frame": "samples/book-fair/out-of-frame.webp",
+        "paper-carving": "samples/book-fair/paper-carving.webp",
         "paper-collage-lines": "samples/book-fair/paper-collage-lines.webp",
         "paper-cut": "samples/book-fair/paper-cut.webp",
         "patchwork-embroidery": "samples/book-fair/patchwork-embroidery.webp",
@@ -1139,6 +1140,7 @@
       "input": "samples/millennium-falcon/input.jpg",
       "outputs": {
         "asymmetric-enlargement": "samples/millennium-falcon/asymmetric-enlargement.webp",
+        "bento-box": "samples/millennium-falcon/bento-box.webp",
         "blue-red-risograph": "samples/millennium-falcon/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/millennium-falcon/blueprint-cyanotype.webp",
         "bright-illustration": "samples/millennium-falcon/bright-illustration.webp",
@@ -1175,6 +1177,7 @@
       "input": "samples/concert-stage/input.jpg",
       "outputs": {
         "asymmetric-enlargement": "samples/concert-stage/asymmetric-enlargement.webp",
+        "bento-box": "samples/concert-stage/bento-box.webp",
         "blue-red-risograph": "samples/concert-stage/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/concert-stage/blueprint-cyanotype.webp",
         "bright-illustration": "samples/concert-stage/bright-illustration.webp",
@@ -1211,6 +1214,7 @@
       "input": "samples/taco-truck-dog/input.jpg",
       "outputs": {
         "asymmetric-enlargement": "samples/taco-truck-dog/asymmetric-enlargement.webp",
+        "bento-box": "samples/taco-truck-dog/bento-box.webp",
         "blue-red-risograph": "samples/taco-truck-dog/blue-red-risograph.webp",
         "blueprint-cyanotype": "samples/taco-truck-dog/blueprint-cyanotype.webp",
         "bright-illustration": "samples/taco-truck-dog/bright-illustration.webp",
