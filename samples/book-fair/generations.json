@@ -404,6 +404,15 @@
       "output": "typography-device.webp",
       "prompt_slug": "typography-device",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:31:54-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame flat illustration: most memorable subject in simple color blocks on off-white, brightened colors, no split, no embedded original, no text.",
+      "output": "comparison-poster.webp",
+      "prompt_slug": "comparison-poster",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
