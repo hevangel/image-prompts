@@ -287,6 +287,42 @@
       "output": "perler-beads.webp",
       "prompt_slug": "perler-beads",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:39:03-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame blurry soft focus: dreamy diffusion, gentle glow, colors melting, no split, no embedded original, no text.",
+      "output": "soft-focus.webp",
+      "prompt_slug": "soft-focus",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:39:03-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame colored paper collage: flat geometric blocks, clean cut edges, colors from the photo, no split, no embedded original, no text.",
+      "output": "colored-paper-collage.webp",
+      "prompt_slug": "colored-paper-collage",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:39:03-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame lingering afterglow: small delicate vignette in fine indigo lines on warm cream paper, generous empty space, no split, no embedded original, no text.",
+      "output": "lingering-afterglow.webp",
+      "prompt_slug": "lingering-afterglow",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:39:03-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame photocopier print: two-ink Risograph style, misregistration, grainy texture, no split, no embedded original, no text.",
+      "output": "photocopier-print.webp",
+      "prompt_slug": "photocopier-print",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
