@@ -368,6 +368,15 @@
       "output": "dot-matrix.webp",
       "prompt_slug": "dot-matrix",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:28:04-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame spot illustration: tiny sticker-like spot graphic on warm white, one pale accent, no split, no embedded original, no text.",
+      "output": "spot-illustration.webp",
+      "prompt_slug": "spot-illustration",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

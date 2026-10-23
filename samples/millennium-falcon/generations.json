@@ -377,6 +377,15 @@
       "output": "spot-illustration.webp",
       "prompt_slug": "spot-illustration",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:28:04-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame wool-felt picture-book artwork: simplified scene, small subject in warm white space, needle-felt texture, no split, no embedded original, no text.",
+      "output": "wool-felt.webp",
+      "prompt_slug": "wool-felt",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
