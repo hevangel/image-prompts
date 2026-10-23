@@ -224,6 +224,15 @@
       "output": "ink-rubbing.webp",
       "prompt_slug": "ink-rubbing",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:11:53-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame paper collage with hand-drawn lines: torn/cut paper shapes plus loose ink lines, no split, no embedded original, no text.",
+      "output": "paper-collage-lines.webp",
+      "prompt_slug": "paper-collage-lines",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
