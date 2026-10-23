@@ -62,6 +62,15 @@
       "output": "blueprint-cyanotype.webp",
       "prompt_slug": "blueprint-cyanotype",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T00:53:58-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame woven tapestry: jacquard textile, visible threads, 6-8 yarn colors, no split, no embedded original, no text.",
+      "output": "woven-tapestry.webp",
+      "prompt_slug": "woven-tapestry",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

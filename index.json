@@ -1104,6 +1104,7 @@
       "input": "samples/book-fair/input.jpg",
       "outputs": {
         "blue-red-risograph": "samples/book-fair/blue-red-risograph.webp",
+        "blueprint-cyanotype": "samples/book-fair/blueprint-cyanotype.webp",
         "bright-illustration": "samples/book-fair/bright-illustration.webp",
         "flat-silhouette": "samples/book-fair/flat-silhouette.webp",
         "frosted-glass": "samples/book-fair/frosted-glass.webp",
@@ -1123,7 +1124,8 @@
         "flat-silhouette": "samples/millennium-falcon/flat-silhouette.webp",
         "frosted-glass": "samples/millennium-falcon/frosted-glass.webp",
         "impasto-oil-painting": "samples/millennium-falcon/impasto-oil-painting.webp",
-        "notebook-hand-drawn": "samples/millennium-falcon/notebook-hand-drawn.webp"
+        "notebook-hand-drawn": "samples/millennium-falcon/notebook-hand-drawn.webp",
+        "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1138,7 +1140,8 @@
         "flat-silhouette": "samples/concert-stage/flat-silhouette.webp",
         "frosted-glass": "samples/concert-stage/frosted-glass.webp",
         "impasto-oil-painting": "samples/concert-stage/impasto-oil-painting.webp",
-        "notebook-hand-drawn": "samples/concert-stage/notebook-hand-drawn.webp"
+        "notebook-hand-drawn": "samples/concert-stage/notebook-hand-drawn.webp",
+        "woven-tapestry": "samples/concert-stage/woven-tapestry.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1153,7 +1156,8 @@
         "flat-silhouette": "samples/taco-truck-dog/flat-silhouette.webp",
         "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp",
         "impasto-oil-painting": "samples/taco-truck-dog/impasto-oil-painting.webp",
-        "notebook-hand-drawn": "samples/taco-truck-dog/notebook-hand-drawn.webp"
+        "notebook-hand-drawn": "samples/taco-truck-dog/notebook-hand-drawn.webp",
+        "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

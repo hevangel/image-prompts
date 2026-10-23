@@ -53,6 +53,15 @@
       "output": "bright-illustration.webp",
       "prompt_slug": "bright-illustration",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T00:53:58-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame handmade cyanotype: Prussian blue with pale ivory subject, sun-print texture, no split, no embedded original, no text.",
+      "output": "blueprint-cyanotype.webp",
+      "prompt_slug": "blueprint-cyanotype",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
