@@ -179,6 +179,42 @@
       "output": "ink-starved-geometry.webp",
       "prompt_slug": "ink-starved-geometry",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:55-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame asymmetric enlargement: one key element dramatically enlarged, rest small and quiet, flat colors, no split, no embedded original, no text.",
+      "output": "asymmetric-enlargement.webp",
+      "prompt_slug": "asymmetric-enlargement",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:55-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame fine-line poster: delicate black lines on warm white, soft color washes, airy, no split, no embedded original, no text.",
+      "output": "fine-line-poster.webp",
+      "prompt_slug": "fine-line-poster",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:55-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame vintage-lines illustration: engraved linework, aged-paper tones, mid-century ad style, no split, no embedded original, no text.",
+      "output": "vintage-lines.webp",
+      "prompt_slug": "vintage-lines",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:36:55-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame storytelling collage: geometric shapes and flat blocks, Gestalt-reduction modernist composition, no split, no embedded original, no text.",
+      "output": "storytelling-collage.webp",
+      "prompt_slug": "storytelling-collage",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
