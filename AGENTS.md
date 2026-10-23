@@ -369,6 +369,64 @@ by set ID / reel ID before counting a post as new.
   AHEAD", 9 boiling kettle "GOOD BOIL", 10 red-sail ship "DRIFT",
   11 tea-hill road "WINDING ROAD".
 
+### out-of-frame — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Out of Frame · 視覺越界 (visual boundary-crossing),
+  posted **Oct 10, 2026** as a **reel-only** post —
+  https://www.facebook.com/reel/1089769483661199 (0:16; observed: ~2K
+  likes, 121 comments, 379 shares — his most-shared post in this
+  stretch). The reel's author comment ("完整 Prompt 分享") carries
+  the full GPT prompt; `reference/out-of-frame/prompt.md` keeps a
+  structural summary.
+- **Verified no photo set exists** (surrounding feed re-rendered and
+  Photos-tab scan of Oct 10–11 uploads, which are the retro-film
+  posters only), so this entry has no `post-NN` images. Reel frames
+  observed: rainy night window, red wet bench, Taiwan post boxes,
+  feet in Crocs in surf, scooter alley, night cable-stayed bridge,
+  beef noodle bowl, pour-over coffee.
+
+### mediterranean-poster — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Mediterranean Travel Poster · 老電影裡地中海旅行海報,
+  posted **Oct 9, 2026** (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122156273619032634/
+  — set ID `pcb.122156273619032634`; observed: 213 likes, 14 comments,
+  50 shares. Author comment carries the full GPT prompt;
+  `reference/mediterranean-poster/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/2700576800401148 — all 10
+  frames duplicate set images (shuffled); no distinct example.
+- **Images:** exactly **10** (viewer cycle), saved as
+  `reference/mediterranean-poster/post-01.jpg` … `post-10.jpg`.
+  Subjects: 1 convertible driver in the rear-view mirror, 2 Jeep with
+  a dog at the rear window, 3 VW camper van, 4 street food stall,
+  5 red café chairs, 6 cliff coast road at sunset, 7 marina,
+  8 colorful old houses, 9 snowy fishing village, 10 aerial tropical
+  beach. No printed titles (the prompt specifies none).
+
+### one-line-contour — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** One-Line Contour · 只用幾條線 (minimal continuous
+  contour), photo set posted **Oct 9, 2026, 12:11 AM**, reel 12:23 AM
+  (marked AI content).
+- **Photo post:** https://www.facebook.com/61580979040009/posts/122156100633032634/
+  — set ID `pcb.122156100633032634`; observed: 110 likes, 2 comments,
+  12 shares. **This set never appears in the profile feed render** —
+  it was found via the profile Photos tab. Author comment carries the
+  full GPT prompt (identical on set and reel);
+  `reference/one-line-contour/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/4488400188140957 — the same
+  9 posters shuffled; no distinct example.
+- **Images:** exactly **9** (viewer cycle), saved as
+  `reference/one-line-contour/post-01.jpg` … `post-09.jpg`. Subjects
+  with their one spot color: 1 beach woman at sunset (soft blue),
+  2 umbrella couple on a mountain road (blue), 3 fisherfolk mending
+  nets (teal), 4 beach couple (pale blue), 5 stairs runner (coral
+  red), 6 surfer (teal), 7 Korean street (red), 8 brick carrier
+  (terracotta), 9 laundry lines (orange). No printed titles.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

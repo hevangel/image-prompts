@@ -282,6 +282,60 @@
       "slug": "retro-film",
       "source_url": "https://www.facebook.com/61580979040009/posts/122156406711032634/",
       "summary": "Reprints a photo as a bold CMYK halftone editorial poster — visible print dots and rosettes in hot yellow, orange and red, nothing faded. The source post (posted twice; same 11 posters) shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Out of Frame",
+      "name_original": "視覺越界",
+      "prompt_file": "reference/out-of-frame/prompt.md",
+      "reference_image": null,
+      "reference_images": [],
+      "slug": "out-of-frame",
+      "source_url": "https://www.facebook.com/reel/1089769483661199",
+      "summary": "Lets a photo spill out of its frame: a small irregular painted color field on big white paper, the subject simplified inside it — with a few contours bleeding past the field's edge. Reel-only post: it has no photo set, so this entry has no reference images."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Mediterranean Travel Poster",
+      "name_original": "老電影裡地中海旅行海報",
+      "prompt_file": "reference/mediterranean-poster/prompt.md",
+      "reference_image": "reference/mediterranean-poster/post-01.jpg",
+      "reference_images": [
+        "reference/mediterranean-poster/post-01.jpg",
+        "reference/mediterranean-poster/post-02.jpg",
+        "reference/mediterranean-poster/post-03.jpg",
+        "reference/mediterranean-poster/post-04.jpg",
+        "reference/mediterranean-poster/post-05.jpg",
+        "reference/mediterranean-poster/post-06.jpg",
+        "reference/mediterranean-poster/post-07.jpg",
+        "reference/mediterranean-poster/post-08.jpg",
+        "reference/mediterranean-poster/post-09.jpg",
+        "reference/mediterranean-poster/post-10.jpg"
+      ],
+      "slug": "mediterranean-poster",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122156273619032634/",
+      "summary": "Reimagines a photo as a 1930s–60s Mediterranean travel poster — big flat fields of cobalt blue, ivory, olive and terracotta, lithograph grain, sunshine and sea breeze. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "One-Line Contour",
+      "name_original": "只用幾條線",
+      "prompt_file": "reference/one-line-contour/prompt.md",
+      "reference_image": "reference/one-line-contour/post-01.jpg",
+      "reference_images": [
+        "reference/one-line-contour/post-01.jpg",
+        "reference/one-line-contour/post-02.jpg",
+        "reference/one-line-contour/post-03.jpg",
+        "reference/one-line-contour/post-04.jpg",
+        "reference/one-line-contour/post-05.jpg",
+        "reference/one-line-contour/post-06.jpg",
+        "reference/one-line-contour/post-07.jpg",
+        "reference/one-line-contour/post-08.jpg",
+        "reference/one-line-contour/post-09.jpg"
+      ],
+      "slug": "one-line-contour",
+      "source_url": "https://www.facebook.com/61580979040009/posts/122156100633032634/",
+      "summary": "Keeps a photo's most evocative moment with just a few flowing contour lines and one muted spot color on white — posture and feeling over detail. The source post shows 9 examples; all 9 are archived here."
     }
   ],
   "samples": [
