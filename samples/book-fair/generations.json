@@ -287,6 +287,15 @@
       "output": "colored-paper-collage.webp",
       "prompt_slug": "colored-paper-collage",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:19:32-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame minimalist artwork: small indigo-line vignette on warm cream paper, generous empty space, no split, no embedded original, no text.",
+      "output": "lingering-afterglow.webp",
+      "prompt_slug": "lingering-afterglow",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

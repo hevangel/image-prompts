@@ -296,6 +296,15 @@
       "output": "lingering-afterglow.webp",
       "prompt_slug": "lingering-afterglow",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:19:32-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame photocopier print: two-spot-color Risograph style, misregistration, grainy copy texture, no split, no embedded original, no text.",
+      "output": "photocopier-print.webp",
+      "prompt_slug": "photocopier-print",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
