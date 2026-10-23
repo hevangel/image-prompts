@@ -242,6 +242,15 @@
       "output": "white-model.webp",
       "prompt_slug": "white-model",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:13:45-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame layered paper carving: stacked carved paper layers with depth and soft shadows, no split, no embedded original, no text.",
+      "output": "paper-carving.webp",
+      "prompt_slug": "paper-carving",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
