@@ -314,6 +314,15 @@
       "output": "porcelain-collage.webp",
       "prompt_slug": "porcelain-collage",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:22:28-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame minimalist drawing: small black hand-drawn fragment on rice-paper white, one pale ice-blue accent, no split, no embedded original, no text.",
+      "output": "black-line-drawing.webp",
+      "prompt_slug": "black-line-drawing",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
