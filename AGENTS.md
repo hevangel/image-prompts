@@ -67,9 +67,12 @@ Instead:
 2026-10-22). A style posted only as a reel/video, with no companion
 photo set, is skipped — do not file an entry for it. Reels still get
 frame-checked when they accompany a set, to catch set-external
-examples. (Three reel-only entries filed before this rule —
-`small-illustration`, `out-of-frame`, `clean-illustration` — remain in
-the repo pending the user's keep/remove decision.)
+examples. (Three reel-only entries were filed before this rule —
+`small-illustration`, `out-of-frame`, `clean-illustration`. The first
+two were later reconciled with set-bearing postings (Sep 11 and
+Sep 12, 2026) and are regular set entries now. `clean-illustration`
+never had a set; the user decided on 2026-10-23 to **keep it as its
+own entry** — it is the catalog's one standing reel-only exception.)
 
 ## Source post log
 
@@ -451,6 +454,22 @@ by set ID / reel ID before counting a post as new.
   tandoori chicken, shaved ice. **Open question:** the caption says
   the method is an earlier favorite — if the loop finds its original
   posting further down the feed, reconcile it with this entry.
+- **Reconciliation (2026-10-23, at the user's request to download the
+  reel's pictures):** frame-by-frame seeking verified the reel holds
+  **9** posters, in this order: STREET KITCHEN No. 09, TAIPEI STREET
+  CORNER No. 01, CHICKEN RICE No. 07, FABRIC STORY No. 01, BEEF SOUP
+  No. 01, BRAISED PORK SET No. 37, TAIPEI CITY SUNSET, TANDOORI
+  CHICKEN No. 07 (not No. 02 as first sampled), PEANUT ICE No. 08.
+  Six of them (all but Street Corner, Fabric Story and City Sunset)
+  are the identical image files of the Aug 31, 2026
+  `comparison-poster` set — downloaded and md5-verified byte-identical
+  to `reference/comparison-poster/post-01.jpg` … `post-06.jpg` — so
+  the roundup re-presents that style and nothing was duplicated into
+  this entry. The other three exist only as video frames; the reel
+  offers no download and frames cannot be saved as files with the
+  browser tools. **User decision (2026-10-23): keep
+  `clean-illustration` as its own entry** — the catalog's one
+  standing reel-only exception to the set-only rule.
 
 ### dynamic-field-print — Emerson post (fetched 2026-10-22 via signed-in browser)
 
