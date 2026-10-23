@@ -161,6 +161,15 @@
       "output": "ink-starved-geometry.webp",
       "prompt_slug": "ink-starved-geometry",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:05:44-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame poster with asymmetric enlargement: one key element hugely enlarged, the rest small and quiet, flat colors, no split, no embedded original, no text.",
+      "output": "asymmetric-enlargement.webp",
+      "prompt_slug": "asymmetric-enlargement",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

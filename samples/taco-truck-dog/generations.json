@@ -170,6 +170,15 @@
       "output": "asymmetric-enlargement.webp",
       "prompt_slug": "asymmetric-enlargement",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-23T01:05:44-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame fine-line poster: delicate simple black lines on warm white paper, small soft color washes, no split, no embedded original, no text.",
+      "output": "fine-line-poster.webp",
+      "prompt_slug": "fine-line-poster",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
