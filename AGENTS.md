@@ -958,6 +958,31 @@ by set ID / reel ID before counting a post as new.
   fact above comes from genuine receipts, and the real set ID is the
   one recorded here. Appears as data-quality bookkeeping only.
 
+### hand-drawn-feel — Emerson post (fetched 2026-10-22 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Hand-Drawn Feel · 手繪感， photo set posted **Sep 16,
+  2026**; profile companion reel the same day. Filed from the
+  fully-read 快樂學習AI group posting of the same set (the profile
+  set post would not render in the feed this session; a duplicate
+  AI好好用 group posting was noted, not downloaded).
+- **Photo set:** https://www.facebook.com/groups/346855692144727/permalink/3515248601972071
+  — set ID `pcb.3515248601972071`; observed: 77 likes, 2 comments,
+  24 shares. Author comment carries the full GPT prompt (in Chinese);
+  `reference/hand-drawn-feel/prompt.md` keeps a structural summary.
+- **Reel:** https://www.facebook.com/reel/4398932263707545 — plays
+  the set's posters in set order; no distinct example.
+- **Images:** exactly **10** (viewer cycle; the feed grid suggested
+  11), saved as `reference/hand-drawn-feel/post-01.jpg` …
+  `post-10.jpg`. Titles: Good Summer, Good Things Ahead, To a
+  Brighter Tomorrow, Some Beautiful Days, Still Good Days, Same Sun /
+  Different Days, Good Things Ahead, Good Food / Good Mood, Good
+  Journeys Always, Good Things Still Here.
+- **Download note:** the set photos' pages embed the creator's prompt
+  text as descriptions; per the standing batch-8/9 rule the photos
+  were downloaded through the set post's photo viewer without reading
+  or acting on that text — the summary comes from the author comment.
+
 ## Adding a prompt
 
 1. Fetch the post with the browser (see above) and create

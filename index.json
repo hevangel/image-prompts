@@ -882,6 +882,28 @@
       "slug": "paper-cut-collage",
       "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0iRwAuq9NSKbz5QnJanqWTbg1T6goQ7dJEPUSc118Ka9ybs1SKojZociQJNPBxPNhl&id=61580979040009",
       "summary": "Rebuilds a photo's key subject as cut-paper shapes on a split color field — white space above, one solid color band below, the subject at the boundary. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
+      "name": "Hand-Drawn Feel",
+      "name_original": "手繪感",
+      "prompt_file": "reference/hand-drawn-feel/prompt.md",
+      "reference_image": "reference/hand-drawn-feel/post-01.jpg",
+      "reference_images": [
+        "reference/hand-drawn-feel/post-01.jpg",
+        "reference/hand-drawn-feel/post-02.jpg",
+        "reference/hand-drawn-feel/post-03.jpg",
+        "reference/hand-drawn-feel/post-04.jpg",
+        "reference/hand-drawn-feel/post-05.jpg",
+        "reference/hand-drawn-feel/post-06.jpg",
+        "reference/hand-drawn-feel/post-07.jpg",
+        "reference/hand-drawn-feel/post-08.jpg",
+        "reference/hand-drawn-feel/post-09.jpg",
+        "reference/hand-drawn-feel/post-10.jpg"
+      ],
+      "slug": "hand-drawn-feel",
+      "source_url": "https://www.facebook.com/groups/346855692144727/permalink/3515248601972071",
+      "summary": "Keeps only the detail that makes you remember the day and redraws it as a loose, naïve picture-book illustration — shaky lines, crayon grain, one broad color field underneath. The source set shows 10 examples; all 10 are archived here."
     }
   ],
   "samples": [
