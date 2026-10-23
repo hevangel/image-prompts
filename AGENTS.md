@@ -63,6 +63,14 @@ Instead:
    ID, image count and order, titles, fetch date, where the prompt text
    lives).
 
+**Only archive posts that have an image set** (rule set by the user
+2026-10-22). A style posted only as a reel/video, with no companion
+photo set, is skipped — do not file an entry for it. Reels still get
+frame-checked when they accompany a set, to catch set-external
+examples. (Three reel-only entries filed before this rule —
+`small-illustration`, `out-of-frame`, `clean-illustration` — remain in
+the repo pending the user's keep/remove decision.)
+
 ## Source post log
 
 ### frosted-glass — Emerson post (fetched 2026-10-22 via signed-in browser)
