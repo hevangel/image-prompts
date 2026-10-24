@@ -449,6 +449,15 @@
       "output": "brand-packaging.webp",
       "prompt_slug": "brand-packaging",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-24T12:40:07-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame version of the fresh-illustration treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration half only, as a standalone full image): only the photo's 3 most memorable elements kept, 70-85% of detail removed, generous negative space, clean black outlines, flat pastel fields from the photo's key colors, minimal cel shading, no text.",
+      "output": "fresh-illustration.webp",
+      "prompt_slug": "fresh-illustration",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

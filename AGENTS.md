@@ -1228,6 +1228,44 @@ by set ID / reel ID before counting a post as new.
   it (`cinematic-portraits-1.webp` … `-6.webp`, matching 圖1–圖6).
   The site resolves these recipe-variant output keys to this entry.
 
+### fresh-illustration — Emerson post (fetched 2026-10-24 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Fresh Illustration · 清爽插畫 — photo set posted
+  **Oct 23, 2026**, the first post newer than the batch-17 survey's
+  Oct 22 cutoff. Caught by the new daily-update routine: the
+  scheduled morning run was blocked on an expired Facebook browser
+  session, so the user approved a fresh sign-in and the update was
+  completed interactively the same day.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0274e7f8hVH9kfxfU3LWAZ9BwqgrXbe3MSnDpQDp13aURPDK94926MjqKbhZAUnKYXl&id=61580979040009
+  — set ID `pcb.122158339647032634`; **105 likes / 10 comments /
+  19 shares** (as displayed Oct 24, 2026). The caption introduces
+  the style and credits the example photos to Pexels; the full
+  English GPT prompt is in the author's pinned first comment,
+  pasted twice identically. `reference/fresh-illustration/prompt.md`
+  keeps a structural summary.
+- **Companion reel:** https://www.facebook.com/reel/1408925374553840
+  (Oct 23, 2026; 97 likes / 8 comments / 18 shares) — same caption,
+  same prompt in its pinned comment; frame-checked: it plays all 12
+  set posters shuffled, **no reel-only examples**.
+- **Images:** exactly **12** (viewer cycle), 1086×1448, saved as
+  `reference/fresh-illustration/post-01.jpg` … `post-12.jpg`.
+  Subjects: 1 brick-wall woman with foreground hand, 2 sunset rice
+  paddy, 3 breakdancer freeze, 4 long-haired woman in dark coat,
+  5 skateboard group with shopping cart, 6 desert highway,
+  7 bare tree by a dirt road, 8 adult-and-child sunset silhouettes,
+  9 coastal city with green island, 10 woman with red backpack
+  before a train, 11 lighthouse at sunset, 12 woman crouching on a
+  skateboard (fisheye). All are untitled top-photo / bottom-
+  illustration posters.
+- **Filed as its OWN entry**, not folded into `clean-illustration`
+  or `comparison-poster`: the prompt forbids text (both earlier
+  entries allow/print titles), specifies an editorial cartoon with
+  black outlines and cel shading (clean-illustration's prompt says
+  "neither realistic nor cartoon"), and pins the 70–85% reduction /
+  50–75% negative-space numbers. The catalog now stands at
+  **52 prompts, 500 reference images**.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
