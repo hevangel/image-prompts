@@ -458,6 +458,15 @@
       "output": "fresh-illustration.webp",
       "prompt_slug": "fresh-illustration",
       "tokens_used": null
+    },
+    {
+      "prompt_slug": "color-block-breakout",
+      "output": "color-block-breakout.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-10-25T09:10:50-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame version of the color-block-breakout treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration treatment only, as a standalone full image): subject simplified into bold silhouettes and flat shapes in at most two inks from the photo on warm-white paper, most of the motif inside one small painted color block, exactly one part of the subject breaking out of the block's edge, no text."
     }
   ],
   "input": "input.jpg"

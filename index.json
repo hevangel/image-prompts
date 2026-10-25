@@ -2,6 +2,31 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Color-Block Breakout",
+      "name_original": null,
+      "prompt_file": "reference/color-block-breakout/prompt.md",
+      "reference_image": "reference/color-block-breakout/post-01.jpg",
+      "reference_images": [
+        "reference/color-block-breakout/post-01.jpg",
+        "reference/color-block-breakout/post-02.jpg",
+        "reference/color-block-breakout/post-03.jpg",
+        "reference/color-block-breakout/post-04.jpg",
+        "reference/color-block-breakout/post-05.jpg",
+        "reference/color-block-breakout/post-06.jpg",
+        "reference/color-block-breakout/post-07.jpg",
+        "reference/color-block-breakout/post-08.jpg",
+        "reference/color-block-breakout/post-09.jpg",
+        "reference/color-block-breakout/post-10.jpg",
+        "reference/color-block-breakout/post-11.jpg",
+        "reference/color-block-breakout/post-12.jpg",
+        "reference/color-block-breakout/post-13.jpg"
+      ],
+      "slug": "color-block-breakout",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02NKTk1cqicR8fVYsgAY7yKRFd9XKEBVMdBU43jFCgXXSy9dPiofNBuemoFL5cJbmHl&id=61580979040009",
+      "summary": "Simplifies a photo to its most memorable subject in at most two inks on warm-white paper: most of the motif sits inside one small painted color block, and exactly one part of the subject breaks out of the block's edge. The source post shows 13 examples; all 13 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Fresh Illustration",
       "name_original": "清爽插畫",
       "prompt_file": "reference/fresh-illustration/prompt.md",
@@ -1178,7 +1203,8 @@
         "white-model": "samples/howe-sound/white-model.webp",
         "woodcut-print": "samples/howe-sound/woodcut-print.webp",
         "wool-felt": "samples/howe-sound/wool-felt.webp",
-        "woven-tapestry": "samples/howe-sound/woven-tapestry.webp"
+        "woven-tapestry": "samples/howe-sound/woven-tapestry.webp",
+        "color-block-breakout": "samples/howe-sound/color-block-breakout.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1236,7 +1262,8 @@
         "white-model": "samples/book-fair/white-model.webp",
         "woodcut-print": "samples/book-fair/woodcut-print.webp",
         "wool-felt": "samples/book-fair/wool-felt.webp",
-        "woven-tapestry": "samples/book-fair/woven-tapestry.webp"
+        "woven-tapestry": "samples/book-fair/woven-tapestry.webp",
+        "color-block-breakout": "samples/book-fair/color-block-breakout.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1294,7 +1321,8 @@
         "white-model": "samples/millennium-falcon/white-model.webp",
         "woodcut-print": "samples/millennium-falcon/woodcut-print.webp",
         "wool-felt": "samples/millennium-falcon/wool-felt.webp",
-        "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp"
+        "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp",
+        "color-block-breakout": "samples/millennium-falcon/color-block-breakout.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1352,7 +1380,8 @@
         "white-model": "samples/concert-stage/white-model.webp",
         "woodcut-print": "samples/concert-stage/woodcut-print.webp",
         "wool-felt": "samples/concert-stage/wool-felt.webp",
-        "woven-tapestry": "samples/concert-stage/woven-tapestry.webp"
+        "woven-tapestry": "samples/concert-stage/woven-tapestry.webp",
+        "color-block-breakout": "samples/concert-stage/color-block-breakout.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1410,7 +1439,8 @@
         "white-model": "samples/taco-truck-dog/white-model.webp",
         "woodcut-print": "samples/taco-truck-dog/woodcut-print.webp",
         "wool-felt": "samples/taco-truck-dog/wool-felt.webp",
-        "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp"
+        "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp",
+        "color-block-breakout": "samples/taco-truck-dog/color-block-breakout.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

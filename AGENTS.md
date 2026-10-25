@@ -1266,6 +1266,63 @@ by set ID / reel ID before counting a post as new.
   50–75% negative-space numbers. The catalog now stands at
   **52 prompts, 500 reference images**.
 
+### color-block-breakout — Emerson post (fetched 2026-10-25 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Color-Block Breakout (no coined title — the caption
+  describes it as letting the main subject extend out of color
+  blocks, 讓主角從色塊裡延伸出來) — photo set posted **Oct 25,
+  2026, 12:05 AM**, the first post newer than the Oct 23
+  fresh-illustration entry. Caught by the daily-update routine
+  (scheduled run, no sign-in wall this time).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02NKTk1cqicR8fVYsgAY7yKRFd9XKEBVMdBU43jFCgXXSy9dPiofNBuemoFL5cJbmHl&id=61580979040009
+  — set ID `pcb.122158453419032634`; **70 likes / 2 comments /
+  14 shares** (as displayed Oct 25, 2026). The caption credits the
+  example photos to Pexels; the full English GPT prompt is in the
+  author's comment. `reference/color-block-breakout/prompt.md`
+  keeps a structural summary.
+- **Companion reel:** https://www.facebook.com/reel/1663483601894843
+  (Oct 25, 2026, 12:13 AM, 0:26; music "Warm Bakery Nights" by
+  Voxaair) — same caption, same prompt in its author comment;
+  frame-checked at several playback positions (about 1, 3, 10, 17
+  and 24 seconds): the sampled frames show set photos 1, 2, 5, 11
+  and 9 — **no reel-only examples** in the sampling (not a
+  frame-by-frame audit of all 26 seconds).
+- **Images:** exactly **13** (viewer cycle), 1086×1448, saved as
+  `reference/color-block-breakout/post-01.jpg` … `post-13.jpg`.
+  Subjects: 1 skateboarder on a road, 2 hilltop church / bell
+  tower, 3 woman balancing on a fence at sunset, 4 cable-stayed
+  bridge, 5 woman with wind-blown hair, 6 street violinist
+  ("CUBE" on the amplifier, both halves), 7 waterfall in green
+  hills, 8 girl hugging a pregnant person's belly, 9 hand gripping
+  a bus seat-back, 10 tabby cat through blinds, 11 ocean sunset
+  with birds, 12 anchor monument on a promenade, 13 inflatable
+  witch kite. All are untitled top-photo / bottom-illustration
+  posters except post-06. Set order (fbids):
+  122158449009032634, 122158450557032634, 122158449471032634,
+  122158450383032634, 122158448949032634, 122158449429032634,
+  122158449933032634, 122158449543032634, 122158448919032634,
+  122158449975032634, 122158450029032634, 122158450521032634,
+  122158450647032634.
+- **Filed as its OWN entry**, not folded into `fresh-illustration`
+  or `comparison-poster`: the lower half is mostly empty
+  warm-white paper with a single small painted color block in at
+  most two inks from the photo, exactly one part of the subject
+  breaks out of that block, and black outlines are forbidden
+  (fresh-illustration requires clean black outlines).
+- **Same-morning dedup note:** the Oct 24, 9:35 PM single-image
+  拓印 post
+  (https://www.facebook.com/permalink.php?story_fbid=pfbid02TuAJ5ZWp8vwPqk4M6Nz7SaGThDvoFcRFFssg3PKunvD2K4woRXd4f99iY1E8UnuYl&id=61580979040009;
+  61 likes / 5 comments / 5 shares) is a **duplicate of the
+  archived `ink-rubbing` prompt** (same two-half poster, original
+  photo on top, ancient-artifact ink rubbing below) and has **no
+  photo set** — one image only, so it is skipped under the
+  set-only rule, not filed. Its author comment links back to the
+  original Sep 29, 2026 ink-rubbing set. The catalog now stands at
+  **53 prompts, 513 reference images**, with 5 new sample outputs
+  for this entry (261 total sample outputs across the six sample
+  inputs).
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
