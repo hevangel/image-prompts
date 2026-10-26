@@ -458,6 +458,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame version of the color-block-breakout treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration treatment only, as a standalone full image): subject simplified into bold silhouettes and flat shapes in at most two inks from the photo on warm-white paper, most of the motif inside one small painted color block, exactly one part of the subject breaking out of the block's edge, no text."
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-26T09:21:22-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame Japanese retro manga treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration treatment only, as a standalone full image): thick black ink outlines, solid black shadows, white highlights, halftone and ink grain, one accent color from the photo with black-and-white contrast, no text.",
+      "output": "japanese-retro-manga.webp",
+      "prompt_slug": "japanese-retro-manga",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

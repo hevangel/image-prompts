@@ -2,6 +2,30 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Japanese Retro Manga",
+      "name_original": "日系復古漫畫",
+      "prompt_file": "reference/japanese-retro-manga/prompt.md",
+      "reference_image": "reference/japanese-retro-manga/post-01.jpg",
+      "reference_images": [
+        "reference/japanese-retro-manga/post-01.jpg",
+        "reference/japanese-retro-manga/post-02.jpg",
+        "reference/japanese-retro-manga/post-03.jpg",
+        "reference/japanese-retro-manga/post-04.jpg",
+        "reference/japanese-retro-manga/post-05.jpg",
+        "reference/japanese-retro-manga/post-06.jpg",
+        "reference/japanese-retro-manga/post-07.jpg",
+        "reference/japanese-retro-manga/post-08.jpg",
+        "reference/japanese-retro-manga/post-09.jpg",
+        "reference/japanese-retro-manga/post-10.jpg",
+        "reference/japanese-retro-manga/post-11.jpg",
+        "reference/japanese-retro-manga/post-12.jpg"
+      ],
+      "slug": "japanese-retro-manga",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0AVWoX7tYnqy7kQPywSCqmVsyqtfoB6M6W6dF7euQLdwDMtefjKeCbRBA8csUrgMzl&id=61580979040009",
+      "summary": "Turns a photo into a Japanese retro manga editorial advertisement poster: the photo preserved on top; below, a bold thick-ink comic illustration with one accent color from the photo and an enormous integrated English headline. The source post shows 12 examples; all 12 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Color-Block Breakout",
       "name_original": null,
       "prompt_file": "reference/color-block-breakout/prompt.md",
@@ -1204,7 +1228,8 @@
         "woodcut-print": "samples/howe-sound/woodcut-print.webp",
         "wool-felt": "samples/howe-sound/wool-felt.webp",
         "woven-tapestry": "samples/howe-sound/woven-tapestry.webp",
-        "color-block-breakout": "samples/howe-sound/color-block-breakout.webp"
+        "color-block-breakout": "samples/howe-sound/color-block-breakout.webp",
+        "japanese-retro-manga": "samples/howe-sound/japanese-retro-manga.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1263,7 +1288,8 @@
         "woodcut-print": "samples/book-fair/woodcut-print.webp",
         "wool-felt": "samples/book-fair/wool-felt.webp",
         "woven-tapestry": "samples/book-fair/woven-tapestry.webp",
-        "color-block-breakout": "samples/book-fair/color-block-breakout.webp"
+        "color-block-breakout": "samples/book-fair/color-block-breakout.webp",
+        "japanese-retro-manga": "samples/book-fair/japanese-retro-manga.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1322,7 +1348,8 @@
         "woodcut-print": "samples/millennium-falcon/woodcut-print.webp",
         "wool-felt": "samples/millennium-falcon/wool-felt.webp",
         "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp",
-        "color-block-breakout": "samples/millennium-falcon/color-block-breakout.webp"
+        "color-block-breakout": "samples/millennium-falcon/color-block-breakout.webp",
+        "japanese-retro-manga": "samples/millennium-falcon/japanese-retro-manga.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1381,7 +1408,8 @@
         "woodcut-print": "samples/concert-stage/woodcut-print.webp",
         "wool-felt": "samples/concert-stage/wool-felt.webp",
         "woven-tapestry": "samples/concert-stage/woven-tapestry.webp",
-        "color-block-breakout": "samples/concert-stage/color-block-breakout.webp"
+        "color-block-breakout": "samples/concert-stage/color-block-breakout.webp",
+        "japanese-retro-manga": "samples/concert-stage/japanese-retro-manga.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1440,7 +1468,8 @@
         "woodcut-print": "samples/taco-truck-dog/woodcut-print.webp",
         "wool-felt": "samples/taco-truck-dog/wool-felt.webp",
         "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp",
-        "color-block-breakout": "samples/taco-truck-dog/color-block-breakout.webp"
+        "color-block-breakout": "samples/taco-truck-dog/color-block-breakout.webp",
+        "japanese-retro-manga": "samples/taco-truck-dog/japanese-retro-manga.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

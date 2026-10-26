@@ -1323,6 +1323,59 @@ by set ID / reel ID before counting a post as new.
   for this entry (261 total sample outputs across the six sample
   inputs).
 
+### japanese-retro-manga — Emerson post (fetched 2026-10-26 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Japanese Retro Manga · 日系復古漫畫 — photo set posted
+  **Oct 25, 2026, evening** (the author's prompt comment is
+  timestamped Oct 25, 2026, 10:59 PM), the first post newer than
+  the Oct 25 color-block-breakout entry. Caught by the daily-update
+  routine. Facebook viewed logged-out shows only relative times,
+  so no exact post clock time is recorded here.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0AVWoX7tYnqy7kQPywSCqmVsyqtfoB6M6W6dF7euQLdwDMtefjKeCbRBA8csUrgMzl&id=61580979040009
+  — set ID `pcb.122158582131032634`; **101 likes / 9 comments /
+  22 shares** (as displayed Oct 26, 2026). The caption credits the
+  example photos to Pexels; the full English GPT prompt is in the
+  author's comment. `reference/japanese-retro-manga/prompt.md`
+  keeps a structural summary.
+- **Companion reel:** https://www.facebook.com/reel/2153615722185489
+  (Oct 25, 2026, 0:24; music "Passing Lights" by Room) — same
+  caption, same prompt in its author comment; frame-checked at
+  several playback positions: the sampled frames show set photos
+  1, 5, 2, 6 and 9 (FESTIVAL, MAKEUP, SUNSET MOOD, CALL, ENERGY) —
+  **no reel-only examples** in the sampling (not a frame-by-frame
+  audit of the whole reel).
+- **Images:** exactly **12** (viewer cycle: stepping Next from
+  photo 1 through photo 12 returned to photo 1), 1086×1448, saved
+  as `reference/japanese-retro-manga/post-01.jpg` …
+  `post-12.jpg`. Subjects with printed headlines: 1 festival woman
+  "FESTIVAL", 2 sunset railing "SUNSET MOOD", 3 cyclist
+  "JOURNEY", 4 city traffic "CITY DRIVE", 5 stage makeup
+  "MAKEUP", 6 payphone "CALL", 7 street piano "STREET MELODY",
+  8 squirrel "AUTUMN MOOD", 9 dancers "ENERGY", 10 leaf bench
+  "AUTUMN SCENE", 11 lemon water "FRESH", 12 friends by the water
+  "FRIENDSHIP". Set order (fbids):
+  122158579065032634, 122158578441032634, 122158579665032634,
+  122158578501032634, 122158579401032634, 122158580229032634,
+  122158578519032634, 122158578981032634, 122158579821032634,
+  122158579041032634, 122158580265032634, 122158579701032634.
+- **Fetch note:** in this run the browser could not save the set
+  images directly into the repo folder (its first download attempt
+  returned an unknown outcome, and a continued window was blocked
+  by a sign-in wall). After a fresh signed-in window, the browser
+  reported the highest-resolution viewer URL for each photo in set
+  order, and the files were saved from those URLs; all 12 verified
+  at 1086×1448 with distinct contents, and posts 1, 4 and 9 were
+  spot-checked visually against the set order (FESTIVAL, CITY
+  DRIVE, ENERGY). The catalog now stands at **54 prompts, 525
+  reference images**, with 5 new sample outputs for this entry
+  (266 total sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into the other
+  comparison-poster entries: its lower half is a bold retro-manga
+  advertisement illustration driven by thick black ink and an
+  enormous integrated English headline, not a clean outline
+  illustration or a small color block with a breakout element.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
