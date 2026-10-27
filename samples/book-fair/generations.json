@@ -467,6 +467,15 @@
       "output": "japanese-retro-manga.webp",
       "prompt_slug": "japanese-retro-manga",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-27T08:59:54-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame abstract gouache treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the gouache treatment only, as a standalone full image): the book-fair scene reduced to a few soft gouache shapes in muted colors from the photo on warm ivory, generous negative space, no text.",
+      "output": "abstract-gouache.webp",
+      "prompt_slug": "abstract-gouache",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

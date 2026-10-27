@@ -1376,6 +1376,65 @@ by set ID / reel ID before counting a post as new.
   enormous integrated English headline, not a clean outline
   illustration or a small color block with a breakout element.
 
+### abstract-gouache — Emerson post (fetched 2026-10-27 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Abstract Gouache · 抽象水粉質感 (also 抽象水粉感覺 in
+  the post introduction) — photo set posted **Oct 27, 2026**
+  (the author's prompt comment is timestamped Oct 27, 2026,
+  1:12 AM), the first post newer than the Oct 25
+  japanese-retro-manga entry. Caught by the daily-update routine.
+  No Oct 26 post exists between the Oct 27 entry and the Oct 25
+  entries — the feed goes straight from Oct 27 to Oct 25.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02Vz4HiPHXXJEDh3UKAC5u8V12MjSU5C5NEYpjHRBDhyhR8Trc76HmUmnLrGhGQFeKl&id=61580979040009
+  — set ID `pcb.122158717869032634`; **80 likes / 1 comment /
+  19 shares** (as displayed Oct 27, 2026). The caption credits the
+  example photos to Pexels; the full English GPT prompt is in the
+  author's comment. `reference/abstract-gouache/prompt.md` keeps a
+  structural summary plus an English translation of the
+  introduction.
+- **Companion video:** a 0:20 video version of the same style on
+  the profile (music "Good Day Energy" by myofeel; author's prompt
+  comment timestamped Oct 27, 2026, 1:14 AM) — same caption, same
+  prompt in its author comment; frame-checked by paused seeks:
+  all 10 set photos appear in the video (shuffled order) —
+  **no video-only examples**.
+- **Images:** exactly **10** (viewer cycle: stepping Next from
+  photo 1 through photo 10 returned to photo 1), 1086×1448, saved
+  as `reference/abstract-gouache/post-01.jpg` …
+  `post-10.jpg`. Subjects: 1 elderly couple with yellow shared
+  bikes under an elevated road, 2 woman seated on a stool by a
+  window, 3 aerial patchwork fields/ponds, 4 aerial port/oil
+  terminal with docked ship and storage tanks, 5 green circuit
+  board close-up, 6 woman in a red dress and child in a white
+  dress in a green field, 7 buffet line with chafing dishes,
+  8 bottles in an ice bucket, 9 hands shaping clay on a pottery
+  wheel, 10 East Asian temple hall. Set order (fbids):
+  122158715031032634, 122158714965032634, 122158715385032634,
+  122158715625032634, 122158715337032634, 122158715001032634,
+  122158715043032634, 122158715313032634, 122158715583032634,
+  122158715613032634.
+- **Fetch note:** in this run the browser could not save the set
+  images directly into the repo folder, so the files were saved
+  from the highest-resolution viewer URLs the browser reported for
+  each photo, in set order. Photo 4's first signed URL failed
+  with "URL signature mismatch" — the viewer had refreshed its
+  signature (new CDN host and new signed parameters for the same
+  image file), and the browser re-captured the fresh URL and
+  downloaded the file, which was copied into the set. All 10
+  verified at 1086×1448 with distinct contents, and post 4 was
+  spot-checked visually against the set order (port/oil terminal
+  photo above, abstract gouache version below). The catalog now
+  stands at **55 prompts, 535 reference images**, with 5 new
+  sample outputs for this entry (271 total sample outputs across
+  the six sample inputs).
+- **Filed as its OWN entry**, not folded into the other
+  comparison-poster entries: its lower half is a minimal abstract
+  gouache reduction — a few soft color blocks and incomplete
+  shapes on warm ivory, with about 95% of detail removed — not a
+  clean outline illustration, a bold retro-manga poster, or a
+  small color block with a breakout element.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

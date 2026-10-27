@@ -2,6 +2,28 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Abstract Gouache",
+      "name_original": "抽象水粉質感",
+      "prompt_file": "reference/abstract-gouache/prompt.md",
+      "reference_image": "reference/abstract-gouache/post-01.jpg",
+      "reference_images": [
+        "reference/abstract-gouache/post-01.jpg",
+        "reference/abstract-gouache/post-02.jpg",
+        "reference/abstract-gouache/post-03.jpg",
+        "reference/abstract-gouache/post-04.jpg",
+        "reference/abstract-gouache/post-05.jpg",
+        "reference/abstract-gouache/post-06.jpg",
+        "reference/abstract-gouache/post-07.jpg",
+        "reference/abstract-gouache/post-08.jpg",
+        "reference/abstract-gouache/post-09.jpg",
+        "reference/abstract-gouache/post-10.jpg"
+      ],
+      "slug": "abstract-gouache",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Vz4HiPHXXJEDh3UKAC5u8V12MjSU5C5NEYpjHRBDhyhR8Trc76HmUmnLrGhGQFeKl&id=61580979040009",
+      "summary": "Turns a photo into a minimalist abstract gouache comparison poster: the photo preserved on top; below, its single most recognizable motif reduced to a few soft gouache color blocks and incomplete shapes on warm ivory, with about 95% of detail removed. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Japanese Retro Manga",
       "name_original": "日系復古漫畫",
       "prompt_file": "reference/japanese-retro-manga/prompt.md",
@@ -1229,7 +1251,8 @@
         "wool-felt": "samples/howe-sound/wool-felt.webp",
         "woven-tapestry": "samples/howe-sound/woven-tapestry.webp",
         "color-block-breakout": "samples/howe-sound/color-block-breakout.webp",
-        "japanese-retro-manga": "samples/howe-sound/japanese-retro-manga.webp"
+        "japanese-retro-manga": "samples/howe-sound/japanese-retro-manga.webp",
+        "abstract-gouache": "samples/howe-sound/abstract-gouache.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1289,7 +1312,8 @@
         "wool-felt": "samples/book-fair/wool-felt.webp",
         "woven-tapestry": "samples/book-fair/woven-tapestry.webp",
         "color-block-breakout": "samples/book-fair/color-block-breakout.webp",
-        "japanese-retro-manga": "samples/book-fair/japanese-retro-manga.webp"
+        "japanese-retro-manga": "samples/book-fair/japanese-retro-manga.webp",
+        "abstract-gouache": "samples/book-fair/abstract-gouache.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1349,7 +1373,8 @@
         "wool-felt": "samples/millennium-falcon/wool-felt.webp",
         "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp",
         "color-block-breakout": "samples/millennium-falcon/color-block-breakout.webp",
-        "japanese-retro-manga": "samples/millennium-falcon/japanese-retro-manga.webp"
+        "japanese-retro-manga": "samples/millennium-falcon/japanese-retro-manga.webp",
+        "abstract-gouache": "samples/millennium-falcon/abstract-gouache.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1409,7 +1434,8 @@
         "wool-felt": "samples/concert-stage/wool-felt.webp",
         "woven-tapestry": "samples/concert-stage/woven-tapestry.webp",
         "color-block-breakout": "samples/concert-stage/color-block-breakout.webp",
-        "japanese-retro-manga": "samples/concert-stage/japanese-retro-manga.webp"
+        "japanese-retro-manga": "samples/concert-stage/japanese-retro-manga.webp",
+        "abstract-gouache": "samples/concert-stage/abstract-gouache.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1469,7 +1495,8 @@
         "wool-felt": "samples/taco-truck-dog/wool-felt.webp",
         "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp",
         "color-block-breakout": "samples/taco-truck-dog/color-block-breakout.webp",
-        "japanese-retro-manga": "samples/taco-truck-dog/japanese-retro-manga.webp"
+        "japanese-retro-manga": "samples/taco-truck-dog/japanese-retro-manga.webp",
+        "abstract-gouache": "samples/taco-truck-dog/abstract-gouache.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
