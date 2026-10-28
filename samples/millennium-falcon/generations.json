@@ -476,6 +476,15 @@
       "output": "abstract-gouache.webp",
       "prompt_slug": "abstract-gouache",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-28T09:05:48-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame neon thick impasto treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the impasto treatment only, as a standalone full image): visible palette-knife marks, broad brush strokes and paint ridges in a neon palette — magenta, hot pink, orange, electric blue, teal, violet — glowing against deep blue and purple shadows, no text.",
+      "output": "neon-thick-impasto.webp",
+      "prompt_slug": "neon-thick-impasto",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

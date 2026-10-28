@@ -2,6 +2,28 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Neon Thick Impasto",
+      "name_original": "霓虹厚塗油畫",
+      "prompt_file": "reference/neon-thick-impasto/prompt.md",
+      "reference_image": "reference/neon-thick-impasto/post-01.jpg",
+      "reference_images": [
+        "reference/neon-thick-impasto/post-01.jpg",
+        "reference/neon-thick-impasto/post-02.jpg",
+        "reference/neon-thick-impasto/post-03.jpg",
+        "reference/neon-thick-impasto/post-04.jpg",
+        "reference/neon-thick-impasto/post-05.jpg",
+        "reference/neon-thick-impasto/post-06.jpg",
+        "reference/neon-thick-impasto/post-07.jpg",
+        "reference/neon-thick-impasto/post-08.jpg",
+        "reference/neon-thick-impasto/post-09.jpg",
+        "reference/neon-thick-impasto/post-10.jpg"
+      ],
+      "slug": "neon-thick-impasto",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0wCATcADVobzMocdWMzpcNF2HcbkfTg4KP4cdGcYCE6MATcGySoXzr6y66DtJJcybl&id=61580979040009",
+      "summary": "Turns a photo into a neon thick impasto comparison poster: the photo preserved on top; below, the same scene repainted in thick palette-knife impasto with a glowing neon palette — magenta, hot pink, orange, electric blue, teal and violet — against deep blue and purple shadows. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Abstract Gouache",
       "name_original": "抽象水粉質感",
       "prompt_file": "reference/abstract-gouache/prompt.md",
@@ -1252,7 +1274,8 @@
         "woven-tapestry": "samples/howe-sound/woven-tapestry.webp",
         "color-block-breakout": "samples/howe-sound/color-block-breakout.webp",
         "japanese-retro-manga": "samples/howe-sound/japanese-retro-manga.webp",
-        "abstract-gouache": "samples/howe-sound/abstract-gouache.webp"
+        "abstract-gouache": "samples/howe-sound/abstract-gouache.webp",
+        "neon-thick-impasto": "samples/howe-sound/neon-thick-impasto.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1313,7 +1336,8 @@
         "woven-tapestry": "samples/book-fair/woven-tapestry.webp",
         "color-block-breakout": "samples/book-fair/color-block-breakout.webp",
         "japanese-retro-manga": "samples/book-fair/japanese-retro-manga.webp",
-        "abstract-gouache": "samples/book-fair/abstract-gouache.webp"
+        "abstract-gouache": "samples/book-fair/abstract-gouache.webp",
+        "neon-thick-impasto": "samples/book-fair/neon-thick-impasto.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1374,7 +1398,8 @@
         "woven-tapestry": "samples/millennium-falcon/woven-tapestry.webp",
         "color-block-breakout": "samples/millennium-falcon/color-block-breakout.webp",
         "japanese-retro-manga": "samples/millennium-falcon/japanese-retro-manga.webp",
-        "abstract-gouache": "samples/millennium-falcon/abstract-gouache.webp"
+        "abstract-gouache": "samples/millennium-falcon/abstract-gouache.webp",
+        "neon-thick-impasto": "samples/millennium-falcon/neon-thick-impasto.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1435,7 +1460,8 @@
         "woven-tapestry": "samples/concert-stage/woven-tapestry.webp",
         "color-block-breakout": "samples/concert-stage/color-block-breakout.webp",
         "japanese-retro-manga": "samples/concert-stage/japanese-retro-manga.webp",
-        "abstract-gouache": "samples/concert-stage/abstract-gouache.webp"
+        "abstract-gouache": "samples/concert-stage/abstract-gouache.webp",
+        "neon-thick-impasto": "samples/concert-stage/neon-thick-impasto.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1496,7 +1522,8 @@
         "woven-tapestry": "samples/taco-truck-dog/woven-tapestry.webp",
         "color-block-breakout": "samples/taco-truck-dog/color-block-breakout.webp",
         "japanese-retro-manga": "samples/taco-truck-dog/japanese-retro-manga.webp",
-        "abstract-gouache": "samples/taco-truck-dog/abstract-gouache.webp"
+        "abstract-gouache": "samples/taco-truck-dog/abstract-gouache.webp",
+        "neon-thick-impasto": "samples/taco-truck-dog/neon-thick-impasto.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

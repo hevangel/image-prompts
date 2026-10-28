@@ -1435,6 +1435,64 @@ by set ID / reel ID before counting a post as new.
   clean outline illustration, a bold retro-manga poster, or a
   small color block with a breakout element.
 
+### neon-thick-impasto — Emerson post (fetched 2026-10-28 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Neon Thick Impasto Oil Painting · 霓虹厚塗油畫 —
+  photo set posted **Oct 28, 2026** (the author's prompt comment
+  is timestamped Oct 28, 2026, 1:17 AM), the first post newer
+  than the Oct 27 abstract-gouache entry. Caught by the
+  daily-update routine. The feed above it holds only this set
+  and its companion reel — no other Oct 28 post exists.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0wCATcADVobzMocdWMzpcNF2HcbkfTg4KP4cdGcYCE6MATcGySoXzr6y66DtJJcybl&id=61580979040009
+  — set ID `pcb.122158913523032634`; **40 likes / 5 shares /
+  3 comments** (as displayed Oct 28, 2026). The caption credits
+  the example photos to Pexels; the full prompt is in the
+  author's comment. `reference/neon-thick-impasto/prompt.md`
+  keeps a structural summary plus an English translation of the
+  introduction.
+- **Companion reel:** https://www.facebook.com/reel/934614192865976
+  (0:18, music "Bright wind runner" by sueyalike; author's
+  prompt comment timestamped Oct 28, 2026, 1:31 AM) — same
+  caption, same prompt in its author comment; frame-checked by
+  sampled seeks across the full timeline: frames matched set
+  photos 1, 2, 4, 5, 7, 8, 9 and 10 — **no reel-only examples**.
+- **Images:** exactly **10** (viewer cycle: stepping Next from
+  photo 1 through photo 10 returned to photo 1), 941×1672
+  (photos 4 and 10 at 940×1672), saved as
+  `reference/neon-thick-impasto/post-01.jpg` …
+  `post-10.jpg`. Every poster is a comparison layout: original
+  photo on top, neon impasto version below, thin white divider,
+  no poster titles (in-scene signage preserved where present).
+  Subjects: 1 aurora over a lake and mountains, 2 rainy city
+  street through a rain-covered window, 3 rocky beach shore
+  with sea, mountains and clouds, 4 looking up through a
+  circular courtyard facade to the sky, 5 five people in a
+  golden grass field before a mountain, 6 round Korean
+  restaurant sign with an octopus at night, 7 couple on a beach
+  at sunset with wet-sand reflections, 8 busy street
+  intersection with bus, cars and Chinese signage,
+  9 firefighters with a hose in water spray (black-and-white
+  original on top, neon version below), 10 winding country road
+  through autumn trees and fields. Set order (fbids):
+  122158912677032634, 122158913001032634, 122158912359032634,
+  122158912377032634, 122158912725032634, 122158912293032634,
+  122158912869032634, 122158912365032634, 122158912605032634,
+  122158912995032634.
+- **Fetch note:** the browser downloaded the 10 set images in
+  set order at viewer resolution and they were copied into the
+  repo folder, verified at 941×1672 (940×1672 for photos 4 and
+  10) with distinct contents matching the reported set order.
+  The catalog now stands at **56 prompts, 545 reference
+  images**, with 5 new sample outputs for this entry (276 total
+  sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into
+  `impasto-oil-painting`: that entry is also thick impasto, but
+  in a vivid saturated palette against warm-white negative space
+  as a standalone poster treatment, while this style is a
+  comparison poster whose lower half uses a neon palette that
+  glows against deep blue and deep purple shadows.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
