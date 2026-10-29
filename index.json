@@ -2,6 +2,31 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Japanese Hand-Drawn",
+      "name_original": "日系手繪線條",
+      "prompt_file": "reference/japanese-hand-drawn/prompt.md",
+      "reference_image": "reference/japanese-hand-drawn/post-01.jpg",
+      "reference_images": [
+        "reference/japanese-hand-drawn/post-01.jpg",
+        "reference/japanese-hand-drawn/post-02.jpg",
+        "reference/japanese-hand-drawn/post-03.jpg",
+        "reference/japanese-hand-drawn/post-04.jpg",
+        "reference/japanese-hand-drawn/post-05.jpg",
+        "reference/japanese-hand-drawn/post-06.jpg",
+        "reference/japanese-hand-drawn/post-07.jpg",
+        "reference/japanese-hand-drawn/post-08.jpg",
+        "reference/japanese-hand-drawn/post-09.jpg",
+        "reference/japanese-hand-drawn/post-10.jpg",
+        "reference/japanese-hand-drawn/post-11.jpg",
+        "reference/japanese-hand-drawn/post-12.jpg",
+        "reference/japanese-hand-drawn/post-13.jpg"
+      ],
+      "slug": "japanese-hand-drawn",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02ZJNs8zHwu9AtaTyWZ7QwveatNUD8R5znQhCEes16L2VaKQHViB6yE8s5SXs4g5oVl&id=61580979040009",
+      "summary": "Turns a photo into a Japanese hand-drawn-line comparison poster: the photo preserved on top; below, its main subject redrawn in varied, uneven manga ink lines with dry-brush and broken strokes, solid black blocks and halftone dots, about 70% blank space, and one or two of the photo's most representative colors. The source post shows 13 examples; all 13 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Neon Thick Impasto",
       "name_original": "霓虹厚塗油畫",
       "prompt_file": "reference/neon-thick-impasto/prompt.md",
@@ -1275,7 +1300,8 @@
         "color-block-breakout": "samples/howe-sound/color-block-breakout.webp",
         "japanese-retro-manga": "samples/howe-sound/japanese-retro-manga.webp",
         "abstract-gouache": "samples/howe-sound/abstract-gouache.webp",
-        "neon-thick-impasto": "samples/howe-sound/neon-thick-impasto.webp"
+        "neon-thick-impasto": "samples/howe-sound/neon-thick-impasto.webp",
+        "japanese-hand-drawn": "samples/howe-sound/japanese-hand-drawn.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1337,7 +1363,8 @@
         "color-block-breakout": "samples/book-fair/color-block-breakout.webp",
         "japanese-retro-manga": "samples/book-fair/japanese-retro-manga.webp",
         "abstract-gouache": "samples/book-fair/abstract-gouache.webp",
-        "neon-thick-impasto": "samples/book-fair/neon-thick-impasto.webp"
+        "neon-thick-impasto": "samples/book-fair/neon-thick-impasto.webp",
+        "japanese-hand-drawn": "samples/book-fair/japanese-hand-drawn.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1399,7 +1426,8 @@
         "color-block-breakout": "samples/millennium-falcon/color-block-breakout.webp",
         "japanese-retro-manga": "samples/millennium-falcon/japanese-retro-manga.webp",
         "abstract-gouache": "samples/millennium-falcon/abstract-gouache.webp",
-        "neon-thick-impasto": "samples/millennium-falcon/neon-thick-impasto.webp"
+        "neon-thick-impasto": "samples/millennium-falcon/neon-thick-impasto.webp",
+        "japanese-hand-drawn": "samples/millennium-falcon/japanese-hand-drawn.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1461,7 +1489,8 @@
         "color-block-breakout": "samples/concert-stage/color-block-breakout.webp",
         "japanese-retro-manga": "samples/concert-stage/japanese-retro-manga.webp",
         "abstract-gouache": "samples/concert-stage/abstract-gouache.webp",
-        "neon-thick-impasto": "samples/concert-stage/neon-thick-impasto.webp"
+        "neon-thick-impasto": "samples/concert-stage/neon-thick-impasto.webp",
+        "japanese-hand-drawn": "samples/concert-stage/japanese-hand-drawn.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1523,7 +1552,8 @@
         "color-block-breakout": "samples/taco-truck-dog/color-block-breakout.webp",
         "japanese-retro-manga": "samples/taco-truck-dog/japanese-retro-manga.webp",
         "abstract-gouache": "samples/taco-truck-dog/abstract-gouache.webp",
-        "neon-thick-impasto": "samples/taco-truck-dog/neon-thick-impasto.webp"
+        "neon-thick-impasto": "samples/taco-truck-dog/neon-thick-impasto.webp",
+        "japanese-hand-drawn": "samples/taco-truck-dog/japanese-hand-drawn.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

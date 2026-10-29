@@ -1493,6 +1493,63 @@ by set ID / reel ID before counting a post as new.
   comparison poster whose lower half uses a neon palette that
   glows against deep blue and deep purple shadows.
 
+### japanese-hand-drawn — Emerson post (fetched 2026-10-29 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Japanese Hand-Drawn · 日系手繪線條 —
+  photo set posted **Oct 29, 2026** (the author's prompt comment
+  is timestamped Oct 29, 2026, 12:20 AM), the first post newer
+  than the Oct 28 neon-thick-impasto entry. Caught by the
+  daily-update routine. The feed above it holds nothing newer;
+  below it sits the Oct 28 neon pair, then the Oct 27
+  abstract-gouache pair — no other Oct 28 or Oct 29 post exists.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02ZJNs8zHwu9AtaTyWZ7QwveatNUD8R5znQhCEes16L2VaKQHViB6yE8s5SXs4g5oVl&id=61580979040009
+  — set ID `pcb.122159159913032634`; **61 reactions / 2 comments /
+  9 shares** (as displayed Oct 29, 2026). The caption credits
+  the example photos to Pexels; the full prompt is in the
+  author's comment. `reference/japanese-hand-drawn/prompt.md`
+  keeps a structural summary plus an English translation of the
+  introduction.
+- **Companion reel:** https://www.facebook.com/reel/1956815949038638
+  (0:26; author's prompt comment timestamped Oct 29, 2026,
+  12:27 AM; 57 likes, 5 comments, 7 shares) — same caption,
+  same prompt in its author comment; frame-checked by scrubbing
+  the full timeline: sampled frames matched set photos 1, 2, 3,
+  4, 5, 7, 8, 9, 12 and 13 — **no reel-only examples**.
+- **Images:** exactly **13** (viewer cycle: stepping Next from
+  photo 13 returned to photo 1; the feed grid's "5 tiles +9"
+  estimate of 14 overcounts by one), all 1086×1448, saved as
+  `reference/japanese-hand-drawn/post-01.jpg` …
+  `post-13.jpg`. Every poster is a comparison layout: original
+  photo on top, hand-drawn version below, no poster titles.
+  Subjects: 1 singer on stage with guitar, 2 tennis /
+  track-and-field athlete, 3 off-road vehicle / jeep,
+  4 bicycle / BMX rider in a skatepark, 5 foundry /
+  glassblowing worker, 6 dancing / breakdancer, 7 woman with a
+  red veil, 8 chef seasoning food, 9 lion roaring, 10 surfing /
+  surfboard, 11 market vendor, 12 dog running on a beach,
+  13 man leading camels. Set order (fbids):
+  122159157267032634, 122159157693032634, 122159157369032634,
+  122159157309032634, 122159158167032634, 122159157621032634,
+  122159157285032634, 122159158197032634, 122159157879032634,
+  122159157915032634, 122159157651032634, 122159157927032634,
+  122159158143032634.
+- **Fetch note:** the browser downloaded the 13 set images in
+  set order at viewer resolution and they were copied into the
+  repo folder, verified at 1086×1448 with distinct contents
+  matching the reported set order (spot-checked: singer #1 and
+  red-veil woman #7 render as comparison posters).
+  The catalog now stands at **57 prompts, 558 reference
+  images**, with 5 new sample outputs for this entry (281 total
+  sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into
+  `fine-line-poster` or `one-line-contour`: those are defined by
+  uniformly fine, neat lines and by a single continuous contour
+  respectively, while this style uses multiple hand-drawn ink
+  strokes of varying thickness with dry-brush and broken
+  passages, solid black blocks, manga halftone dots, about 70%
+  white space, and one or two source-derived colors.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

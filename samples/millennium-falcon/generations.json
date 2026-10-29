@@ -485,6 +485,15 @@
       "output": "neon-thick-impasto.webp",
       "prompt_slug": "neon-thick-impasto",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-10-29T09:15:29-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame Japanese hand-drawn manga ink treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hand-drawn treatment only, as a standalone full image): scene simplified to its main subject with about 70% blank paper-like space, varied uneven ink lines with dry-brush and broken strokes, solid black blocks and halftone dots, recolored with one or two of the photo's most representative colors, no added title text.",
+      "output": "japanese-hand-drawn.webp",
+      "prompt_slug": "japanese-hand-drawn",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
