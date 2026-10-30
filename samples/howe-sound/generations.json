@@ -503,6 +503,15 @@
       "output": "japanese-hand-drawn.webp",
       "prompt_slug": "japanese-hand-drawn",
       "tokens_used": null
+    },
+    {
+      "prompt_slug": "translucent-tracing-paper",
+      "output": "translucent-tracing-paper.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-10-30T09:16:10-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame translucent tracing-paper treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the tracing-paper treatment only, as a standalone full image): scene reduced to its essential memory cues with most secondary background removed, rendered in thin semi-transparent matte tracing-paper layers with fine fibers, softened by layered occlusion rather than blur, over a clean off-white ground with generous negative space, colors from the photo's own palette, no added title text."
     }
   ],
   "input": "input.jpg"

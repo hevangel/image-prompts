@@ -2,6 +2,27 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Translucent Tracing Paper",
+      "name_original": "半透明描圖紙",
+      "prompt_file": "reference/translucent-tracing-paper/prompt.md",
+      "reference_image": "reference/translucent-tracing-paper/post-01.jpg",
+      "reference_images": [
+        "reference/translucent-tracing-paper/post-01.jpg",
+        "reference/translucent-tracing-paper/post-02.jpg",
+        "reference/translucent-tracing-paper/post-03.jpg",
+        "reference/translucent-tracing-paper/post-04.jpg",
+        "reference/translucent-tracing-paper/post-05.jpg",
+        "reference/translucent-tracing-paper/post-06.jpg",
+        "reference/translucent-tracing-paper/post-07.jpg",
+        "reference/translucent-tracing-paper/post-08.jpg",
+        "reference/translucent-tracing-paper/post-09.jpg"
+      ],
+      "slug": "translucent-tracing-paper",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02z2xjfEVSxe7fhmdj6W3zzJ8kYLwb49KJCR4xM6fi92MBveSvsxfTsZwvEyW95ugnl&id=61580979040009",
+      "summary": "Turns a photo into a translucent tracing-paper comparison poster: the photo preserved on top; below, its essential cues re-rendered in 3–5 thin, semi-transparent, matte tracing-paper layers with fine fibers, softened by layered occlusion rather than blur, over a clean off-white ground. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Japanese Hand-Drawn",
       "name_original": "日系手繪線條",
       "prompt_file": "reference/japanese-hand-drawn/prompt.md",
@@ -1301,7 +1322,8 @@
         "japanese-retro-manga": "samples/howe-sound/japanese-retro-manga.webp",
         "abstract-gouache": "samples/howe-sound/abstract-gouache.webp",
         "neon-thick-impasto": "samples/howe-sound/neon-thick-impasto.webp",
-        "japanese-hand-drawn": "samples/howe-sound/japanese-hand-drawn.webp"
+        "japanese-hand-drawn": "samples/howe-sound/japanese-hand-drawn.webp",
+        "translucent-tracing-paper": "samples/howe-sound/translucent-tracing-paper.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1364,7 +1386,8 @@
         "japanese-retro-manga": "samples/book-fair/japanese-retro-manga.webp",
         "abstract-gouache": "samples/book-fair/abstract-gouache.webp",
         "neon-thick-impasto": "samples/book-fair/neon-thick-impasto.webp",
-        "japanese-hand-drawn": "samples/book-fair/japanese-hand-drawn.webp"
+        "japanese-hand-drawn": "samples/book-fair/japanese-hand-drawn.webp",
+        "translucent-tracing-paper": "samples/book-fair/translucent-tracing-paper.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1427,7 +1450,8 @@
         "japanese-retro-manga": "samples/millennium-falcon/japanese-retro-manga.webp",
         "abstract-gouache": "samples/millennium-falcon/abstract-gouache.webp",
         "neon-thick-impasto": "samples/millennium-falcon/neon-thick-impasto.webp",
-        "japanese-hand-drawn": "samples/millennium-falcon/japanese-hand-drawn.webp"
+        "japanese-hand-drawn": "samples/millennium-falcon/japanese-hand-drawn.webp",
+        "translucent-tracing-paper": "samples/millennium-falcon/translucent-tracing-paper.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1490,7 +1514,8 @@
         "japanese-retro-manga": "samples/concert-stage/japanese-retro-manga.webp",
         "abstract-gouache": "samples/concert-stage/abstract-gouache.webp",
         "neon-thick-impasto": "samples/concert-stage/neon-thick-impasto.webp",
-        "japanese-hand-drawn": "samples/concert-stage/japanese-hand-drawn.webp"
+        "japanese-hand-drawn": "samples/concert-stage/japanese-hand-drawn.webp",
+        "translucent-tracing-paper": "samples/concert-stage/translucent-tracing-paper.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1553,7 +1578,8 @@
         "japanese-retro-manga": "samples/taco-truck-dog/japanese-retro-manga.webp",
         "abstract-gouache": "samples/taco-truck-dog/abstract-gouache.webp",
         "neon-thick-impasto": "samples/taco-truck-dog/neon-thick-impasto.webp",
-        "japanese-hand-drawn": "samples/taco-truck-dog/japanese-hand-drawn.webp"
+        "japanese-hand-drawn": "samples/taco-truck-dog/japanese-hand-drawn.webp",
+        "translucent-tracing-paper": "samples/taco-truck-dog/translucent-tracing-paper.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

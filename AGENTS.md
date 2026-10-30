@@ -1550,6 +1550,78 @@ by set ID / reel ID before counting a post as new.
   passages, solid black blocks, manga halftone dots, about 70%
   white space, and one or two source-derived colors.
 
+### translucent-tracing-paper — Emerson post (fetched 2026-10-30 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Translucent Tracing Paper · 半透明描圖紙 —
+  photo set posted **Oct 30, 2026** (the author's prompt comment
+  is timestamped Oct 30, 2026, 1:47 AM), the first post newer
+  than the Oct 29 japanese-hand-drawn entry. Caught by the
+  daily-update routine. The feed above it holds only this set's
+  companion reel and a frosted-glass reel (see below) — no other
+  Oct 30 post exists.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02z2xjfEVSxe7fhmdj6W3zzJ8kYLwb49KJCR4xM6fi92MBveSvsxfTsZwvEyW95ugnl&id=61580979040009
+  — set ID `pcb.122159414949032634`; **71 reactions / 6 comments /
+  10 shares** (as displayed Oct 30, 2026). The caption credits
+  the example photos to Pexels; the full prompt is in the
+  author's comment. `reference/translucent-tracing-paper/prompt.md`
+  keeps a structural summary plus an English translation of the
+  introduction.
+- **Companion reel:** https://www.facebook.com/reel/1175210435182372
+  (0:20; author's prompt comment timestamped Oct 30, 2026,
+  1:57 AM; 65 reactions, 3 comments, 9 shares) — same caption,
+  same prompt in its author comment; frame-checked by scrubbing
+  the timeline: frames matched set photos 1, 4, 5, 8 and 9, plus
+  **one reel-only example: a butterfly on an orange flower
+  against a blue sky**, in the same original-above /
+  tracing-paper-below format, seen near the end of the reel.
+  That frame is noted in prompt.md, not downloaded, per the
+  set-only rule.
+- **Images:** exactly **9** (viewer cycle: stepping Next from
+  photo 9 returned to photo 1; the feed grid's "+5 more"
+  estimate matches), all 1086×1448, saved as
+  `reference/translucent-tracing-paper/post-01.jpg` …
+  `post-09.jpg`. Every poster is a comparison layout: original
+  photo on top, tracing-paper version below, no poster titles.
+  Subjects: 1 forest road with autumn trees and sunbeams,
+  2 person walking on a beach at sunset, 3 yellow cosmos
+  flowers in sunlight, 4 pour-over coffee maker with cups and
+  beans, 5 woman at sunset by a palm trunk overlooking a city,
+  6 autumn trees reflected in a lake, 7 interior window with a
+  sheer lace curtain, 8 desert camel caravan, 9 city skyline
+  at sunset over water. Set order (fbids):
+  122159413803032634, 122159414115032634, 122159413731032634,
+  122159413749032634, 122159414265032634, 122159414061032634,
+  122159413773032634, 122159413995032634, 122159414319032634.
+  (Feed alt text had suggested a La Sagrada Familia photo as
+  #5; the viewer showed the sunset woman instead — no such
+  photo is in the set.)
+- **Fetch note:** the browser downloaded the 9 set images in
+  set order at viewer resolution and they were copied into the
+  repo folder, verified at 1086×1448 with distinct contents
+  matching the reported set order (spot-checked: forest road
+  #1 and sunset skyline #9 render as comparison posters).
+  The catalog now stands at **58 prompts, 567 reference
+  images**, with 5 new sample outputs for this entry (286 total
+  sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into
+  `frosted-glass`: both use translucency, but frosted glass
+  reinterprets the scene as a minimalist abstraction of
+  geometric forms, flat color fields and selective blur, while
+  this style keeps the scene's own forms and re-renders them
+  through layered semi-transparent tracing-paper sheets, with
+  softness from occlusion rather than blur.
+- **Skipped the same morning, per the set-only rule:** the
+  Oct 30 frosted-glass reel
+  (https://www.facebook.com/reel/1142721534909542, 0:18) is a
+  **repost of the already-archived Oct 21 frosted-glass style**,
+  not a distinct prompt — its caption and prompt match the
+  Oct 21 author comment in opening, structure and wording, and
+  one of its frames ("Wishes in the Sunlight") matches the
+  Oct 21 reel. No companion photo set for the Oct 30 reel was
+  found (feed adjacency and Photos-tab top checked), so on
+  Oct 30 it stands reel-only and is not filed as a new entry.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
