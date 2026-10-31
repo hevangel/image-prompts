@@ -512,6 +512,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame translucent tracing-paper treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the tracing-paper treatment only, as a standalone full image): scene reduced to its essential memory cues with most secondary background removed, rendered in thin semi-transparent matte tracing-paper layers with fine fibers, softened by layered occlusion rather than blur, over a clean off-white ground with generous negative space, colors from the photo's own palette, no added title text."
+    },
+    {
+      "prompt_slug": "white-space-illustration",
+      "output": "white-space-illustration.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-10-31T09:13:25-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame white-space line illustration treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the line-illustration treatment only, as a standalone full image): complex background stripped away, only the scene's most memorable meaning kept as a small protagonist in restrained light gray-blue conceptual line work on old-notebook-style paper with paper texture, surrounded by expansive quiet negative space, no added title text."
     }
   ],
   "input": "input.jpg"

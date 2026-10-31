@@ -1622,6 +1622,87 @@ by set ID / reel ID before counting a post as new.
   found (feed adjacency and Photos-tab top checked), so on
   Oct 30 it stands reel-only and is not filed as a new entry.
 
+### white-space-illustration — Emerson post (fetched 2026-10-31 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** White-Space Illustration · 照片留白插畫 —
+  photo set posted **Oct 31, 2026** (the author's prompt comment
+  is timestamped Oct 31, 2026, 1:07 AM), the first post newer
+  than the Oct 30 translucent-tracing-paper entry. Caught by the
+  daily-update routine. The feed above it holds only this set's
+  companion reel — no other Oct 31 post exists.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid04nHPX5FovURGHcodJje2PftPUMg6ofEvVjQCvL1QCVNXiiar7TPJXdKWkacAdwS3l&id=61580979040009
+  — set ID `pcb.122159580045032634`; **96 reactions / 6 comments /
+  23 shares** (as displayed Oct 31, 2026). The full prompt is in the
+  author's comment. `reference/white-space-illustration/prompt.md`
+  keeps a structural summary plus an English translation of the
+  introduction.
+- **Companion reel:** https://www.facebook.com/reel/1278807724438741
+  (0:24; author's prompt comment timestamped Oct 31, 2026,
+  1:21 AM; 79 reactions, 3 comments, 12 shares) — same caption,
+  same prompt in its author comment; frame-checked by scrubbing
+  the timeline: frames matched set photos 1, 2, 4, 6, 7, 8 and 10.
+  No set-external example was observed, so nothing extra is noted.
+- **Images:** exactly **12** (viewer cycle: stepping Next from
+  photo 12 returned to photo 1; the feed grid's "+8" estimate had
+  suggested 13), all 1086×1448, saved as
+  `reference/white-space-illustration/post-01.jpg` …
+  `post-12.jpg`. Every poster is a comparison layout: original
+  photo on top, white-space line illustration below, no poster
+  titles (short scene phrases appear inside a few illustrations).
+  Subjects: 1 night-market worker in a red jacket and black cap
+  crouching at a stall (small cat added in the illustration),
+  2 barista pouring milk ("good coffee brighter days"),
+  3 old shopfront with red door and bicycle with flowers,
+  4 covered sidewalk arcade with parked scooters and Chinese
+  shop signs, 5 elderly man pushing a cardboard-loaded cart
+  on a market street (Korean signs), 6 blonde woman in
+  sunglasses in a car, 7 young woman with red sunglasses
+  against a sunlit wall with leaf shadows, 8 canal beside a
+  Japanese temple wall, 9 man walking past an old two-story
+  Japanese house/shop with bicycles, 10 woman reading on a
+  park bench under a cherry blossom tree ("Some good days
+  still remain"), 11 woman in a black coat on a bench in a
+  modern station/airport hall, 12 woman runner in a pink
+  "Alma Mujer" shirt waving during a road race. Set order
+  (fbids): 122159573049032634, 122159572653032634,
+  122159572113032634, 122159572137032634, 122159572707032634,
+  122159573307032634, 122159572053032634, 122159572155032634,
+  122159572071032634, 122159572677032634, 122159573079032634,
+  122159573121032634.
+- **Fetch note:** the browser downloaded the 12 set images in
+  set order at viewer resolution and they were copied into the
+  repo folder, verified at 1086×1448 with distinct contents
+  matching the reported set order (spot-checked: night-market
+  worker #1 and runner #12 render as comparison posters).
+  The catalog now stands at **59 prompts, 579 reference
+  images**, with 5 new sample outputs for this entry (291 total
+  sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into
+  `japanese-hand-drawn`: both are split posters with a line
+  illustration below the photo, but this style's illustration
+  is restrained light gray-blue conceptual line work with a
+  small protagonist in vast quiet space on notebook paper,
+  while japanese-hand-drawn uses expressive manga ink with
+  dry-brush and broken strokes, solid black blocks and
+  halftone dots in the photo's own representative colors.
+- **Skipped the same morning, per the set-only rule:** the
+  Oct 30 manga reel
+  (https://www.facebook.com/reel/1873845607127714, author's
+  prompt comment Oct 30, 2026, 7:13 PM; 74 reactions,
+  4 comments, 9 shares) presents the japanese-hand-drawn
+  technique as a stroke-by-stroke process reel for a single
+  tennis example (clay-court player mid-swing, clay-orange
+  and dark-blue source colors) — a same-style reuse/variant
+  of the already-archived Oct 29 japanese-hand-drawn set, not
+  a clearly different prompt — and no companion photo set
+  was found for it (feed adjacency and Photos-tab top
+  checked). Reel-only, so it is not filed as a new entry.
+  The Oct 30 frosted-glass reel
+  (https://www.facebook.com/reel/1142721534909542) remains
+  the previously skipped repost of the Oct 21 frosted-glass
+  set.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
