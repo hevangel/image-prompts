@@ -521,6 +521,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame white-space line illustration treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the line-illustration treatment only, as a standalone full image): complex background stripped away, only the scene's most memorable meaning kept as a small protagonist in restrained light gray-blue conceptual line work on old-notebook-style paper with paper texture, surrounded by expansive quiet negative space, no added title text."
+    },
+    {
+      "prompt_slug": "black-white-drawing",
+      "output": "black-white-drawing.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-01T09:56:49-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame black-and-white hand-drawn treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hand-inked illustration treatment only, as a standalone full image): playful minimalist black-ink illustration on pure white, bold irregular marker/brush outlines with hand-drawn wobble, simplified expressive subject, most background detail removed, generous white negative space, no gray tones, no shading, no added title text."
     }
   ],
   "input": "input.jpg"

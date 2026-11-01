@@ -1703,6 +1703,64 @@ by set ID / reel ID before counting a post as new.
   the previously skipped repost of the Oct 21 frosted-glass
   set.
 
+### black-white-drawing — Emerson post (fetched 2026-11-01 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Black-and-White Hand-Drawn · 黑白手繪 —
+  photo set posted **late Oct 31, 2026** (shown as "10h" at the
+  Nov 1 morning check; the companion reel's author comment is
+  dated Oct 31, 2026, 11:27 PM), the first post newer
+  than the Oct 31 white-space-illustration entry. Caught by the
+  daily-update routine. No Nov 1 post was found above it.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0hdk8eAD1erhFtHb5WqrNX1rbXmetfYdJmnKrSky27z14KBPFk6drKmPry3bK6VHSl&id=61580979040009
+  — set ID `pcb.122159807535032634`; **56 reactions / 13 shares**
+  (as displayed Nov 1, 2026). The full prompt is in the set
+  caption itself; the post dialog showed "No comments yet" at
+  check time, so no first-comment prompt on the set post itself
+  could be verified. `reference/black-white-drawing/prompt.md`
+  keeps a structural summary plus an English translation of the
+  introduction. Source photos credited in the caption to Pexels.
+- **Companion reel:** https://www.facebook.com/reel/1503891734885494
+  (0:18; author's prompt comment Oct 31, 2026, 11:27 PM;
+  46 reactions, 1 comment, 8 shares) — same caption,
+  same prompt in its author comment; frame-checked by scrubbing
+  the timeline: frames matched all 9 set photos in set order.
+  No set-external example was observed, so nothing extra is noted.
+- **Images:** exactly **9** (viewer cycle: stepping Next from
+  photo 9 returned to photo 1; the feed grid's "+5" estimate
+  agreed), all 1086×1448, saved as
+  `reference/black-white-drawing/post-01.jpg` …
+  `post-09.jpg`. Every poster is a comparison layout: original
+  photo on top, black-and-white hand-drawn illustration below,
+  no poster titles. Subjects: 1 street musician with guitar,
+  star-pattern drum and bags under string lights, 2 basketball
+  player dunking at an outdoor hoop, 3 black boots splashing
+  through a puddle, 4 woman in a red cap and sunglasses with
+  hands behind her head against a shutter door, 5 dog leaping
+  toward a pink frisbee, 6 man in an orange hoodie vaulting a
+  concrete wall (parkour), 7 pilot boat speeding through waves,
+  8 firefighter spraying water, 9 shattered drinking glass on
+  a red surface. Set order (fbids): 122159800455032634,
+  122159801379032634, 122159800629032634, 122159800347032634,
+  122159800269032634, 122159801289032634, 122159801523032634,
+  122159800497032634, 122159800281032634.
+- **Fetch note:** the browser reported the 9 viewer-resolution
+  CDN URLs in set order and they were downloaded promptly
+  (signed URLs expire); all 9 verified at 1086×1448 with
+  distinct contents matching the reported set order
+  (spot-checked: street musician #1 renders as a comparison
+  poster, photo above, black-ink illustration below).
+  The catalog now stands at **60 prompts, 588 reference
+  images**, with 5 new sample outputs for this entry (296 total
+  sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into
+  `black-line-drawing` or `japanese-hand-drawn`: all three are
+  black-line styles, but this one is a playful marker/brush
+  illustration in pure black on pure white — large rounded
+  heads, dot eyes, mitten hands, chunky limbs — with a warm,
+  spontaneous, handcrafted editorial character, while the other
+  two use finer, more restrained linework.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

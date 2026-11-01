@@ -2,6 +2,27 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Black-and-White Hand-Drawn",
+      "name_original": "黑白手繪",
+      "prompt_file": "reference/black-white-drawing/prompt.md",
+      "reference_image": "reference/black-white-drawing/post-01.jpg",
+      "reference_images": [
+        "reference/black-white-drawing/post-01.jpg",
+        "reference/black-white-drawing/post-02.jpg",
+        "reference/black-white-drawing/post-03.jpg",
+        "reference/black-white-drawing/post-04.jpg",
+        "reference/black-white-drawing/post-05.jpg",
+        "reference/black-white-drawing/post-06.jpg",
+        "reference/black-white-drawing/post-07.jpg",
+        "reference/black-white-drawing/post-08.jpg",
+        "reference/black-white-drawing/post-09.jpg"
+      ],
+      "slug": "black-white-drawing",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0hdk8eAD1erhFtHb5WqrNX1rbXmetfYdJmnKrSky27z14KBPFk6drKmPry3bK6VHSl&id=61580979040009",
+      "summary": "Turns a photo into a warm black-and-white hand-drawn comparison poster: the photo preserved on top; below, its story redrawn as a playful minimalist black-ink illustration — bold irregular marker/brush lines, simplified expressive figures, pure white negative space, no gray tones, no text. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "White-Space Illustration",
       "name_original": "照片留白插畫",
       "prompt_file": "reference/white-space-illustration/prompt.md",
@@ -1348,7 +1369,8 @@
         "neon-thick-impasto": "samples/howe-sound/neon-thick-impasto.webp",
         "japanese-hand-drawn": "samples/howe-sound/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/howe-sound/translucent-tracing-paper.webp",
-        "white-space-illustration": "samples/howe-sound/white-space-illustration.webp"
+        "white-space-illustration": "samples/howe-sound/white-space-illustration.webp",
+        "black-white-drawing": "samples/howe-sound/black-white-drawing.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1413,7 +1435,8 @@
         "neon-thick-impasto": "samples/book-fair/neon-thick-impasto.webp",
         "japanese-hand-drawn": "samples/book-fair/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/book-fair/translucent-tracing-paper.webp",
-        "white-space-illustration": "samples/book-fair/white-space-illustration.webp"
+        "white-space-illustration": "samples/book-fair/white-space-illustration.webp",
+        "black-white-drawing": "samples/book-fair/black-white-drawing.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1478,7 +1501,8 @@
         "neon-thick-impasto": "samples/millennium-falcon/neon-thick-impasto.webp",
         "japanese-hand-drawn": "samples/millennium-falcon/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/millennium-falcon/translucent-tracing-paper.webp",
-        "white-space-illustration": "samples/millennium-falcon/white-space-illustration.webp"
+        "white-space-illustration": "samples/millennium-falcon/white-space-illustration.webp",
+        "black-white-drawing": "samples/millennium-falcon/black-white-drawing.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1543,7 +1567,8 @@
         "neon-thick-impasto": "samples/concert-stage/neon-thick-impasto.webp",
         "japanese-hand-drawn": "samples/concert-stage/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/concert-stage/translucent-tracing-paper.webp",
-        "white-space-illustration": "samples/concert-stage/white-space-illustration.webp"
+        "white-space-illustration": "samples/concert-stage/white-space-illustration.webp",
+        "black-white-drawing": "samples/concert-stage/black-white-drawing.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1608,7 +1633,8 @@
         "neon-thick-impasto": "samples/taco-truck-dog/neon-thick-impasto.webp",
         "japanese-hand-drawn": "samples/taco-truck-dog/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/taco-truck-dog/translucent-tracing-paper.webp",
-        "white-space-illustration": "samples/taco-truck-dog/white-space-illustration.webp"
+        "white-space-illustration": "samples/taco-truck-dog/white-space-illustration.webp",
+        "black-white-drawing": "samples/taco-truck-dog/black-white-drawing.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
