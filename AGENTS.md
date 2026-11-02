@@ -1761,6 +1761,77 @@ by set ID / reel ID before counting a post as new.
   spontaneous, handcrafted editorial character, while the other
   two use finer, more restrained linework.
 
+### european-travel-film — Emerson post (fetched 2026-11-02 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** European Travel Film · 歐洲旅行底片色調 —
+  photo set posted **Nov 2, 2026** (the author's prompt
+  comment is timestamped Nov 2, 2026, 2:16 AM), the first
+  post newer than the Oct 31 black-white-drawing entry.
+  Caught by the daily-update routine. No Nov 1
+  image-prompt set was found above it (the only Nov 1 post
+  is a non-prompt post about ChatGPT's December usage
+  policy).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0me2yJUAk8o3bmDRzCJ4hGgpCtUStdo9M9UTMAL4gYtUDqV54seJAEGadS7WNF8oql&id=61580979040009
+  — set ID `pcb.122160079593032634`. The full prompt is
+  in the author's first comment (Nov 2, 2:16 AM);
+  `reference/european-travel-film/prompt.md` keeps a
+  structural summary plus an English translation of the
+  introduction.
+- **Companion reel:** https://www.facebook.com/reel/1465352465478561
+  (~20–22 seconds; also Nov 2, 2026) — same title, same
+  prompt in its author comment; frame-checked by pausing
+  and scrubbing: frames matched set photos 1, 2, 3, 4, 5,
+  7, 8, 9, 10 and 11. Set photo 6 (Taipei Yongle Market)
+  was not captured in the sampled frames — a sampling
+  gap, not evidence it is absent from the reel. No
+  set-external example was observed, so nothing extra is
+  noted.
+- **Images:** exactly **11** (viewer cycle: stepping Next
+  from photo 11 returned to photo 1; the feed grid's "+7"
+  on the last tile had suggested 12 — the viewer cycle
+  is authoritative). Ten at 1086×1448, photo 8 at
+  1183×1330 (the highest resolutions the viewer served),
+  saved as `reference/european-travel-film/post-01.jpg`
+  … `post-11.jpg`. Every poster is a comparison layout:
+  original photo on top, the same scene re-graded with a
+  vintage-film tone below, with a white English serif
+  location caption in the lower half. Captions, in set
+  order: 1 KAOHSIUNG / Cishan Moon World (lake in
+  badlands terrain, water birds), 2 TAINAN / Sicao Green
+  Tunnel (mangrove-canopied canal, boat), 3 TAIWAN /
+  Liyutan Reservoir (spillway waterfall in green hills),
+  4 TAINAN / Zou Malai Farm (geometric Trojan-horse
+  sculpture), 5 CHIAYI / Lantan Reservoir (aerial lake
+  with curving lakeside road), 6 TAIPEI / Yongle Market
+  (market facade, street, scooters), 7 PENGHU / Bao'an
+  Temple (temple gate, dragon pillars, banyan tree),
+  8 TBILISI / Chronicle of Georgia (hilltop monument,
+  city and lake — the set's only non-Taiwan caption),
+  9 PINGTUNG / Coastal Scenery (lattice-canopy pavilion
+  by the waterfront), 10 TAIWAN / Sunset by the Sea
+  (ocean sunset over water and rocks), 11 AMSTERDAM /
+  Street Piano (woman playing a street piano, crowd).
+  Set order (fbids): 122160077091032634,
+  122160076773032634, 122160077043032634,
+  122160077277032634, 122160077073032634,
+  122160077559032634, 122160077391032634,
+  122160076749032634, 122160077457032634,
+  122160076707032634, 122160076737032634.
+- **Fetch note:** the browser downloaded all 11 at the
+  viewer-served resolutions in viewer order; all 11
+  verified on disk with dimensions matching the report
+  (10 at 1086×1448, photo 8 at 1183×1330) and byte sizes
+  matching the download receipts. The catalog now stands
+  at **61 prompts, 599 reference images**, with 5 new
+  sample outputs for this entry (301 total sample
+  outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into
+  `mediterranean-poster` or `retro-film`: this is a
+  photographic re-grading (the lower half is the same
+  photo, only colour-graded with film tone and grain),
+  not an illustration or a halftone print.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

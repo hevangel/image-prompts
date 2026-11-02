@@ -2,6 +2,29 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "European Travel Film",
+      "name_original": "歐洲旅行底片色調",
+      "prompt_file": "reference/european-travel-film/prompt.md",
+      "reference_image": "reference/european-travel-film/post-01.jpg",
+      "reference_images": [
+        "reference/european-travel-film/post-01.jpg",
+        "reference/european-travel-film/post-02.jpg",
+        "reference/european-travel-film/post-03.jpg",
+        "reference/european-travel-film/post-04.jpg",
+        "reference/european-travel-film/post-05.jpg",
+        "reference/european-travel-film/post-06.jpg",
+        "reference/european-travel-film/post-07.jpg",
+        "reference/european-travel-film/post-08.jpg",
+        "reference/european-travel-film/post-09.jpg",
+        "reference/european-travel-film/post-10.jpg",
+        "reference/european-travel-film/post-11.jpg"
+      ],
+      "slug": "european-travel-film",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0me2yJUAk8o3bmDRzCJ4hGgpCtUStdo9M9UTMAL4gYtUDqV54seJAEGadS7WNF8oql&id=61580979040009",
+      "summary": "Turns a photo into a European vintage travel-film comparison poster: the photo preserved on top; below, the same scene re-graded with muted saturation, softened highlights, deepened shadows and fine film grain, like a photo from an old travel magazine, with a white serif location caption. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Black-and-White Hand-Drawn",
       "name_original": "黑白手繪",
       "prompt_file": "reference/black-white-drawing/prompt.md",
@@ -1370,7 +1393,8 @@
         "japanese-hand-drawn": "samples/howe-sound/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/howe-sound/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/howe-sound/white-space-illustration.webp",
-        "black-white-drawing": "samples/howe-sound/black-white-drawing.webp"
+        "black-white-drawing": "samples/howe-sound/black-white-drawing.webp",
+        "european-travel-film": "samples/howe-sound/european-travel-film.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1436,7 +1460,8 @@
         "japanese-hand-drawn": "samples/book-fair/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/book-fair/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/book-fair/white-space-illustration.webp",
-        "black-white-drawing": "samples/book-fair/black-white-drawing.webp"
+        "black-white-drawing": "samples/book-fair/black-white-drawing.webp",
+        "european-travel-film": "samples/book-fair/european-travel-film.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1502,7 +1527,8 @@
         "japanese-hand-drawn": "samples/millennium-falcon/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/millennium-falcon/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/millennium-falcon/white-space-illustration.webp",
-        "black-white-drawing": "samples/millennium-falcon/black-white-drawing.webp"
+        "black-white-drawing": "samples/millennium-falcon/black-white-drawing.webp",
+        "european-travel-film": "samples/millennium-falcon/european-travel-film.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1568,7 +1594,8 @@
         "japanese-hand-drawn": "samples/concert-stage/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/concert-stage/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/concert-stage/white-space-illustration.webp",
-        "black-white-drawing": "samples/concert-stage/black-white-drawing.webp"
+        "black-white-drawing": "samples/concert-stage/black-white-drawing.webp",
+        "european-travel-film": "samples/concert-stage/european-travel-film.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1634,7 +1661,8 @@
         "japanese-hand-drawn": "samples/taco-truck-dog/japanese-hand-drawn.webp",
         "translucent-tracing-paper": "samples/taco-truck-dog/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/taco-truck-dog/white-space-illustration.webp",
-        "black-white-drawing": "samples/taco-truck-dog/black-white-drawing.webp"
+        "black-white-drawing": "samples/taco-truck-dog/black-white-drawing.webp",
+        "european-travel-film": "samples/taco-truck-dog/european-travel-film.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

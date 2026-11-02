@@ -530,6 +530,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame black-and-white hand-drawn treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hand-inked illustration treatment only, as a standalone full image): playful minimalist black-ink illustration on pure white, bold irregular marker/brush outlines with hand-drawn wobble, simplified expressive subject, most background detail removed, generous white negative space, no gray tones, no shading, no added title text."
+    },
+    {
+      "prompt_slug": "european-travel-film",
+      "output": "european-travel-film.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-02T09:03:48-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame European vintage travel-film grading treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the film-grading treatment only, as a standalone full image): gently muted saturation, softened highlights, deepened shadows, subtle fine film grain, vintage travel-editorial feel, composition and subjects preserved, no added title text."
     }
   ],
   "input": "input.jpg"
