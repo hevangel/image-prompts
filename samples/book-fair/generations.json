@@ -1,1 +1,41 @@
-PLACEHOLDER
+{
+  "generations": [
+    {
+      "current": true,
+      "generated_at": "2026-11-01T18:42:00-07:00",
+      "model": "Grok Imagine",
+      "notes": "Full-frame frosted-glass transformation of book-fair input: layered translucent panes, selective haze, ivory ground, vivid gentle colors from the photo's palette, abstracted but recognizable table arrangement. Generated via Grok Imagine edit.",
+      "output": "frosted-glass.webp",
+      "prompt_slug": "frosted-glass",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-01T18:45:00-07:00",
+      "model": "Grok Imagine",
+      "notes": "Full-frame notebook hand-drawn transformation: fineliner ink outlines and light hatching on warm-white paper with flat color blocks from the photo's palette. Generated via Grok Imagine edit.",
+      "output": "notebook-hand-drawn.webp",
+      "prompt_slug": "notebook-hand-drawn",
+      "tokens_used": null
+    },
+    {
+      "current": false,
+      "generated_at": "2026-10-22T22:23:21-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame frosted-glass transformation, edge to edge, no top/bottom split, no embedded original photo, no text.",
+      "output": "frosted-glass.webp",
+      "prompt_slug": "frosted-glass",
+      "tokens_used": null
+    },
+    {
+      "current": false,
+      "generated_at": "2026-10-22T22:45:26-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame notebook hand-drawn transformation: fineliner ink and hatching on warm-white paper with flat color blocks from the photo's palette, no split, no embedded original, no text.",
+      "output": "notebook-hand-drawn.webp",
+      "prompt_slug": "notebook-hand-drawn",
+      "tokens_used": null
+    }
+  ],
+  "input": "input.jpg"
+}
