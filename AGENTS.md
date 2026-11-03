@@ -1832,6 +1832,83 @@ by set ID / reel ID before counting a post as new.
   photo, only colour-graded with film tone and grain),
   not an illustration or a halftone print.
 
+### reflection-protagonist — Emerson post (fetched 2026-11-03 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Reflection Protagonist ·
+  把照片裡最不起眼的倒影，化成了整張圖的主角 — photo set
+  posted **Nov 3, 2026** (the author's prompt comment is
+  timestamped Nov 3, 2026, 2:12 AM), the first post newer
+  than the Nov 2 european-travel-film entry. Caught by the
+  daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0jazjUo9W3rYJqsW5iYzrJGEgcTMGdZWA4MJWYVJ8tojvfDH3wLRuYYLzMKa7MkQtl&id=61580979040009
+  — set ID `pcb.122160273177032634`; 105 likes, 8
+  comments, 25 shares as displayed Nov 3, 2026. The full
+  prompt is in the author's comment;
+  `reference/reflection-protagonist/prompt.md` keeps a
+  structural summary plus an English translation of the
+  introduction.
+- **Companion reel:** https://www.facebook.com/reel/1023414520154124/
+  (author's prompt comment timestamped Nov 3, 2026,
+  2:23 AM) — same prompt in its author comment;
+  frame-checked by sampled seeks across two loops:
+  frames matched set photos 1, 2, 3, 4, 6, 9 and 10
+  directly, with the remaining set photos falling in the
+  same slideshow sequence between the observed frames —
+  **no set-external example**.
+- **Images:** exactly **10** (viewer cycle: stepping Next
+  from photo 10 returned to photo 1), all 1086×1448,
+  saved as `reference/reflection-protagonist/post-01.jpg`
+  … `post-10.jpg`. Every poster is a comparison layout:
+  original photo on top, the same scene reworked as a
+  dreamy naive abstract painting below, with no text.
+  Subjects, in set order: 1 rainy city street (red
+  umbrella, orange streetlight reflections), 2 car
+  rearview mirror (round gold sunglasses, palm trees),
+  3 two people on a sofa (girl whispering into an older
+  girl/woman's ear), 4 motorcyclist with a red helmet in
+  a tunnel/underpass with a green wave-painted wall,
+  5 waterfall through a cave/arch opening over the sea
+  (large orange sun in the abstract half), 6 Bryce Canyon
+  (twisted tree among orange hoodoos), 7 brown dog
+  looking up at the camera on a patterned floor,
+  8 wedding couple back-to-back by water, 9 person
+  sitting roadside with arms raised in a V at sunset
+  over water and hills, 10 close-up portrait of a woman
+  with a tattooed arm, yellow sleeveless top, red
+  lipstick. Set order (fbids): 122160271665032634,
+  122160271677032634, 122160271167032634,
+  122160271155032634, 122160271227032634,
+  122160271713032634, 122160271137032634,
+  122160271113032634, 122160271641032634,
+  122160271209032634.
+- **Fetch note:** the browser downloaded all 10 at the
+  viewer-served resolution in viewer order; all 10
+  verified on disk at 1086×1448, and a contact sheet
+  confirmed the download order matches the reported set
+  order subject-for-subject. The catalog now stands at
+  **62 prompts, 609 reference images**, with 5 new
+  sample outputs for this entry (306 total sample
+  outputs across the six sample inputs).
+- **Skipped the same morning, per the set-only rule:**
+  a Nov 3 reel-only post, https://www.facebook.com/reel/1684524513088971/
+  (author's comment timestamped Nov 3, 2026, 3:50 AM),
+  titled 霓虹厚塗油畫 / Neon Impasto Painting. It is
+  **not a new style**: frame-checking across a full
+  24-second loop showed only one scene — the five people
+  in a golden grass field before a mountain — which is
+  already archived as `neon-thick-impasto` post-05
+  (Oct 28 set), re-presented here as a title card,
+  original photo, close-up painted views and a
+  before/after comparison. No new entry was filed, and
+  no reel frames were downloaded.
+- **Filed as its OWN entry**, not folded into
+  `neon-thick-impasto` or any other comparison-poster
+  branch: the lower half here is a naive abstract
+  painting, and its defining rule — promoting the
+  scene's reflections to the main subject — is new to
+  the catalog.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

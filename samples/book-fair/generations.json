@@ -44,6 +44,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame European vintage travel-film grading treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the film-grading treatment only, as a standalone full image): gently muted saturation, softened highlights, deepened shadows, subtle fine film grain, vintage travel-editorial feel, composition and subjects preserved, no added title text."
+    },
+    {
+      "prompt_slug": "reflection-protagonist",
+      "output": "reflection-protagonist.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-03T09:06:00-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame dreamy naive hand-drawn abstract treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the abstract treatment only, as a standalone full image): Miró-like irregular shapes, soft defocused edges, gentle glow, screen-print grain, muted Morandi tones from the photo, reflections and highlights enlarged into the main subject, composition and subjects preserved, no added title text."
     }
   ],
   "input": "input.jpg"

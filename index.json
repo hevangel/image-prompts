@@ -2,6 +2,28 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Reflection Protagonist",
+      "name_original": "把照片裡最不起眼的倒影，化成了整張圖的主角",
+      "prompt_file": "reference/reflection-protagonist/prompt.md",
+      "reference_image": "reference/reflection-protagonist/post-01.jpg",
+      "reference_images": [
+        "reference/reflection-protagonist/post-01.jpg",
+        "reference/reflection-protagonist/post-02.jpg",
+        "reference/reflection-protagonist/post-03.jpg",
+        "reference/reflection-protagonist/post-04.jpg",
+        "reference/reflection-protagonist/post-05.jpg",
+        "reference/reflection-protagonist/post-06.jpg",
+        "reference/reflection-protagonist/post-07.jpg",
+        "reference/reflection-protagonist/post-08.jpg",
+        "reference/reflection-protagonist/post-09.jpg",
+        "reference/reflection-protagonist/post-10.jpg"
+      ],
+      "slug": "reflection-protagonist",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0jazjUo9W3rYJqsW5iYzrJGEgcTMGdZWA4MJWYVJ8tojvfDH3wLRuYYLzMKa7MkQtl&id=61580979040009",
+      "summary": "Turns a photo into a dreamy, naive, hand-drawn abstract comparison poster: the photo preserved on top; below, its reflections and highlights enlarged into the main subject in Miró-like irregular shapes, soft edges and muted Morandi tones, with no text. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "European Travel Film",
       "name_original": "歐洲旅行底片色調",
       "prompt_file": "reference/european-travel-film/prompt.md",
@@ -1394,7 +1416,8 @@
         "translucent-tracing-paper": "samples/howe-sound/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/howe-sound/white-space-illustration.webp",
         "black-white-drawing": "samples/howe-sound/black-white-drawing.webp",
-        "european-travel-film": "samples/howe-sound/european-travel-film.webp"
+        "european-travel-film": "samples/howe-sound/european-travel-film.webp",
+        "reflection-protagonist": "samples/howe-sound/reflection-protagonist.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1461,7 +1484,8 @@
         "translucent-tracing-paper": "samples/book-fair/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/book-fair/white-space-illustration.webp",
         "black-white-drawing": "samples/book-fair/black-white-drawing.webp",
-        "european-travel-film": "samples/book-fair/european-travel-film.webp"
+        "european-travel-film": "samples/book-fair/european-travel-film.webp",
+        "reflection-protagonist": "samples/book-fair/reflection-protagonist.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1528,7 +1552,8 @@
         "translucent-tracing-paper": "samples/millennium-falcon/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/millennium-falcon/white-space-illustration.webp",
         "black-white-drawing": "samples/millennium-falcon/black-white-drawing.webp",
-        "european-travel-film": "samples/millennium-falcon/european-travel-film.webp"
+        "european-travel-film": "samples/millennium-falcon/european-travel-film.webp",
+        "reflection-protagonist": "samples/millennium-falcon/reflection-protagonist.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1595,7 +1620,8 @@
         "translucent-tracing-paper": "samples/concert-stage/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/concert-stage/white-space-illustration.webp",
         "black-white-drawing": "samples/concert-stage/black-white-drawing.webp",
-        "european-travel-film": "samples/concert-stage/european-travel-film.webp"
+        "european-travel-film": "samples/concert-stage/european-travel-film.webp",
+        "reflection-protagonist": "samples/concert-stage/reflection-protagonist.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1662,7 +1688,8 @@
         "translucent-tracing-paper": "samples/taco-truck-dog/translucent-tracing-paper.webp",
         "white-space-illustration": "samples/taco-truck-dog/white-space-illustration.webp",
         "black-white-drawing": "samples/taco-truck-dog/black-white-drawing.webp",
-        "european-travel-film": "samples/taco-truck-dog/european-travel-film.webp"
+        "european-travel-film": "samples/taco-truck-dog/european-travel-film.webp",
+        "reflection-protagonist": "samples/taco-truck-dog/reflection-protagonist.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
