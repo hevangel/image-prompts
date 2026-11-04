@@ -2,6 +2,29 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Vintage Hatching Comic",
+      "name_original": "排線",
+      "prompt_file": "reference/vintage-hatching-comic/prompt.md",
+      "reference_image": "reference/vintage-hatching-comic/post-01.jpg",
+      "reference_images": [
+        "reference/vintage-hatching-comic/post-01.jpg",
+        "reference/vintage-hatching-comic/post-02.jpg",
+        "reference/vintage-hatching-comic/post-03.jpg",
+        "reference/vintage-hatching-comic/post-04.jpg",
+        "reference/vintage-hatching-comic/post-05.jpg",
+        "reference/vintage-hatching-comic/post-06.jpg",
+        "reference/vintage-hatching-comic/post-07.jpg",
+        "reference/vintage-hatching-comic/post-08.jpg",
+        "reference/vintage-hatching-comic/post-09.jpg",
+        "reference/vintage-hatching-comic/post-10.jpg",
+        "reference/vintage-hatching-comic/post-11.jpg"
+      ],
+      "slug": "vintage-hatching-comic",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid032m6qSaTuxNgWCwQFRvqEYusJsUADYSe5ARGwTXSweGK6iyXB5Xmd5qKgLJhmceDdl&id=61580979040009",
+      "summary": "Turns a photo into a 1950s–60s European vintage comic comparison poster: the photo preserved on top; below, the same scene redrawn in fine parallel hatching and cross-hatching — bold ink outlines, teal-cyan skies against warm vermilion, orange and golden ochre, with risograph grain. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Reflection Protagonist",
       "name_original": "把照片裡最不起眼的倒影，化成了整張圖的主角",
       "prompt_file": "reference/reflection-protagonist/prompt.md",
@@ -1417,7 +1440,8 @@
         "white-space-illustration": "samples/howe-sound/white-space-illustration.webp",
         "black-white-drawing": "samples/howe-sound/black-white-drawing.webp",
         "european-travel-film": "samples/howe-sound/european-travel-film.webp",
-        "reflection-protagonist": "samples/howe-sound/reflection-protagonist.webp"
+        "reflection-protagonist": "samples/howe-sound/reflection-protagonist.webp",
+        "vintage-hatching-comic": "samples/howe-sound/vintage-hatching-comic.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1485,7 +1509,8 @@
         "white-space-illustration": "samples/book-fair/white-space-illustration.webp",
         "black-white-drawing": "samples/book-fair/black-white-drawing.webp",
         "european-travel-film": "samples/book-fair/european-travel-film.webp",
-        "reflection-protagonist": "samples/book-fair/reflection-protagonist.webp"
+        "reflection-protagonist": "samples/book-fair/reflection-protagonist.webp",
+        "vintage-hatching-comic": "samples/book-fair/vintage-hatching-comic.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1553,7 +1578,8 @@
         "white-space-illustration": "samples/millennium-falcon/white-space-illustration.webp",
         "black-white-drawing": "samples/millennium-falcon/black-white-drawing.webp",
         "european-travel-film": "samples/millennium-falcon/european-travel-film.webp",
-        "reflection-protagonist": "samples/millennium-falcon/reflection-protagonist.webp"
+        "reflection-protagonist": "samples/millennium-falcon/reflection-protagonist.webp",
+        "vintage-hatching-comic": "samples/millennium-falcon/vintage-hatching-comic.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1621,7 +1647,8 @@
         "white-space-illustration": "samples/concert-stage/white-space-illustration.webp",
         "black-white-drawing": "samples/concert-stage/black-white-drawing.webp",
         "european-travel-film": "samples/concert-stage/european-travel-film.webp",
-        "reflection-protagonist": "samples/concert-stage/reflection-protagonist.webp"
+        "reflection-protagonist": "samples/concert-stage/reflection-protagonist.webp",
+        "vintage-hatching-comic": "samples/concert-stage/vintage-hatching-comic.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1689,7 +1716,8 @@
         "white-space-illustration": "samples/taco-truck-dog/white-space-illustration.webp",
         "black-white-drawing": "samples/taco-truck-dog/black-white-drawing.webp",
         "european-travel-film": "samples/taco-truck-dog/european-travel-film.webp",
-        "reflection-protagonist": "samples/taco-truck-dog/reflection-protagonist.webp"
+        "reflection-protagonist": "samples/taco-truck-dog/reflection-protagonist.webp",
+        "vintage-hatching-comic": "samples/taco-truck-dog/vintage-hatching-comic.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

@@ -1909,6 +1909,69 @@ by set ID / reel ID before counting a post as new.
   scene's reflections to the main subject — is new to
   the catalog.
 
+### vintage-hatching-comic — Emerson post (fetched 2026-11-04 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Vintage Hatching Comic · 排線 (hatching) in a
+  1950s–1960s European vintage comic / old picture-book
+  style — photo set posted **Nov 4, 2026** (the author's
+  prompt comment is timestamped Nov 4, 2026, 6:58 AM),
+  the first post newer than the Nov 3
+  reflection-protagonist entry. Caught by the
+  daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid032m6qSaTuxNgWCwQFRvqEYusJsUADYSe5ARGwTXSweGK6iyXB5Xmd5qKgLJhmceDdl&id=61580979040009
+  — set ID `pcb.122160576429032634`; 54 reactions,
+  9 comments, 13 shares as displayed Nov 4, 2026. The
+  caption invites readers to look closely at the lines
+  — especially the lower half's sky and asphalt road,
+  drawn stroke by stroke, and the arched canopies at
+  the Cijin market — and the full prompt is in the
+  author's comment; `reference/vintage-hatching-comic/prompt.md`
+  keeps a structural summary plus an English
+  translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/1443438337596047
+  (0:22, music "What a Day" by kirinmuse; author's
+  prompt comment timestamped Nov 4, 2026, 7:08 AM) —
+  same caption and prompt; frame-checked by sampled
+  seeks: frames matched set photos 1, 2, 8 and 11 in
+  set order — **no set-external example**.
+- **Images:** exactly **11** (viewer cycle: stepping
+  Next from photo 11 returned to photo 1), all
+  1024×1536, saved as
+  `reference/vintage-hatching-comic/post-01.jpg` …
+  `post-11.jpg`. Every poster is a comparison layout:
+  original photo on top, the same scene redrawn as a
+  vintage hatched comic illustration below, separated
+  by a thin white line. Subjects, in set order:
+  1 street intersection at dusk (shops, crosswalk,
+  road marking), 2 market street with arched canopies
+  (Cijin market), 3 corner shop / intersection with
+  scooters and crosswalk under a blue sky, 4 temple
+  with red lanterns and people on the steps, 5 old
+  market street with an archway and banner flags,
+  6 riverside European town with a bridge and
+  half-timbered houses, 7 stilt fishing village /
+  boathouses with boats, 8 lakeside village with a
+  church spire, lake and mountains, 9 large
+  church/cathedral with a rose window and spires,
+  street foreground, 10 coastal breakwater /
+  promenade at sunset with wind turbines on the
+  horizon, 11 large temple hall with wide steps and
+  an ornate roof. Set order (fbids, from the
+  downloaded files): 122160575943032634,
+  122160574449032634, 122160574119032634,
+  122160574071032634, 122160574563032634,
+  122160574341032634, 122160573723032634,
+  122160573789032634, 122160573795032634,
+  122160573801032634, 122160574125032634.
+- **Samples:** 5 full-frame outputs (howe-sound,
+  book-fair, millennium-falcon, concert-stage,
+  taco-truck-dog), registered in each sample's
+  `generations.json` and outputs map. The catalog now
+  stands at **63 prompts, 620 reference images**,
+  with 311 total sample outputs across the six sample
+  inputs.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

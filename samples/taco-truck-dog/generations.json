@@ -539,6 +539,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame dreamy naive hand-drawn abstract treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the abstract treatment only, as a standalone full image): Miró-like irregular shapes, soft defocused edges, gentle glow, screen-print grain, muted Morandi tones from the photo, reflections and highlights enlarged into the main subject, composition and subjects preserved, no added title text."
+    },
+    {
+      "prompt_slug": "vintage-hatching-comic",
+      "output": "vintage-hatching-comic.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-04T09:00:00-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame 1950s–60s European vintage comic treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hatched treatment only, as a standalone full image): bold black ink outlines, fine parallel hatching and cross-hatching, teal-cyan skies and cool shadows against warm vermilion red, orange, golden ochre, cream and sun-yellow, flat printed colors with risograph grain, composition and subjects preserved, no added title text."
     }
   ],
   "input": "input.jpg"
