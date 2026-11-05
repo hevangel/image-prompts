@@ -1972,6 +1972,90 @@ by set ID / reel ID before counting a post as new.
   with 311 total sample outputs across the six sample
   inputs.
 
+### gif-animation — Emerson post (fetched 2026-11-05 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** ChatGPT GIF Animation · GIF 動畫 — an
+  8-second GIF animation prompt for ChatGPT Images 2.6
+  (released Nov 4), photo set posted **Nov 5, 2026,
+  ~1:45 AM**, the first post newer than the Nov 4
+  vintage-hatching-comic entry. Caught by the
+  daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0kK3SjHzw9rTebnAX1hHsdsqisSSVqSDVysQJu7kwz3dnSSxfrYovTevJzGBme3rjl&id=61580979040009
+  — set ID `pcb.122160726621032634`; 36 likes,
+  4 comments, 6 shares as displayed Nov 5, 2026. The
+  caption announces ChatGPT can now make photos move
+  and tries it on the rainy street scene shared
+  before; the full GIF prompt is in the author's
+  pinned comment (Nov 5, 2:02 AM), and a second author
+  comment (Nov 5, 2:05 AM) links the original style
+  post; `reference/gif-animation/prompt.md` keeps a
+  structural summary plus an English translation of
+  the introduction.
+- **Companion reel:** https://www.facebook.com/reel/2141458706449895
+  (0:22, music "Beautyful Day" by LouLink; author's
+  prompt comment Nov 5, 6:12 AM; 38 likes, 6 comments,
+  10 shares as displayed Nov 5, 2026) — unlike the set
+  post, its caption carries both prompts inline, the
+  GIF-animation prompt and the reused abstract-art
+  prompt. Frame-checked by sampled seeks: ~0s a
+  comparison poster combining set photos 1 and 2,
+  ~5s the GIF animation mid-morph, ~9s a title card
+  over the original photo — then a **set-external
+  second example**: ~11–12s a motorcyclist with a red
+  helmet riding through a concrete underpass/tunnel
+  (spiral ramp visible) as a realistic photo, ~17s the
+  same scene as a colorful abstract illustration, ~21s
+  closing cards inviting readers to post their work.
+  The motorcycle example is noted here, not
+  downloaded — it exists only as reel frames.
+- **Images:** the set holds exactly **3 items**
+  (viewer cycle: photo 1 → photo 2 → video → back to
+  photo 1, verified twice): 2 photos, saved as
+  `reference/gif-animation/post-01.jpg`
+  (590×393 — the highest rendition the viewer serves
+  for this photo) and `post-02.jpg` (1536×1024), plus
+  the 8-second GIF animation video itself
+  (id 1668835008244738) as item 3 — a video, not an
+  image, so not downloaded. Subjects, in set order:
+  1 the original rainy-street photo (woman with a red
+  umbrella crossing a wet city street at dusk, tall
+  buildings, streetlights, reflections), 2 the same
+  scene as a teal/red/orange abstract illustration
+  with rough brushstrokes and screen-print texture.
+  Set order (fbids): 122160726027032634,
+  122160726489032634.
+- **Relation to `reflection-protagonist`:** the
+  abstract illustration here IS that Nov 3 style —
+  the set post reuses the previously shared rainy
+  street scene and links back to the
+  reflection-protagonist post as the source of the
+  style instruction. Filed as its own entry because
+  the GIF-animation prompt is new, and it is the
+  catalog's first video/animation prompt.
+- **Samples:** none — the prompt's output is an
+  8-second animated GIF, not a still image, and the
+  repo's sample outputs are still images, so no
+  samples were generated. The endpoint illustration
+  style is already sampled under
+  `reflection-protagonist`. The catalog now stands at
+  **64 prompts, 622 reference images**, with 311
+  total sample outputs across the six sample inputs.
+- **Skipped the same morning, per the set-only rule:**
+  a Nov 4 evening reel-only post,
+  https://www.facebook.com/reel/1127275719883796
+  (author's comment with the full prompt Nov 4, 2026,
+  9:15 PM; 64 likes, 4 comments, 5 shares), titled
+  極簡抽象水粉畫 / Minimal Abstract Gouache
+  ("Photography × Minimal Abstract Gouache ×
+  Modernist Visual Poetry × Eastern Negative Space").
+  No companion photo set exists — the profile Photos
+  tab shows no gouache comparison posters anywhere in
+  the grid, only the Nov 5 GIF set, the Nov 4
+  vintage-hatching-comic set, and Nov 3 and older
+  sets. No new entry was filed, and no reel frames
+  were downloaded.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

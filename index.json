@@ -2,6 +2,20 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "ChatGPT GIF Animation",
+      "name_original": "GIF 動畫",
+      "prompt_file": "reference/gif-animation/prompt.md",
+      "reference_image": "reference/gif-animation/post-01.jpg",
+      "reference_images": [
+        "reference/gif-animation/post-01.jpg",
+        "reference/gif-animation/post-02.jpg"
+      ],
+      "slug": "gif-animation",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0kK3SjHzw9rTebnAX1hHsdsqisSSVqSDVysQJu7kwz3dnSSxfrYovTevJzGBme3rjl&id=61580979040009",
+      "summary": "Turns a photo into an 8-second GIF animation: the subject moves slowly while the scene morphs continuously from real photography into a vivid abstract illustration with rough brushstrokes and screen-print texture, ending on the finished artwork. The set shows the rainy-street photo and its abstract endpoint (the already-archived reflection-protagonist style); the animation itself is the set's third item, a video."
+    },
+    {
+      "author": "Emerson post",
       "name": "Vintage Hatching Comic",
       "name_original": "排線",
       "prompt_file": "reference/vintage-hatching-comic/prompt.md",
