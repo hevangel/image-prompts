@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "vintage-hatching-comic",
+  "output": "vintage-hatching-comic.gpt.png",
+  "sha": "6127b1281382f22c46b970e36a6ff8cac0873786",
+  "generated_at": "2026-11-06T19:00:51.674Z",
+  "prompt": "Style: vintage-hatching-comic. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — transformation.** The exact same scene redrawn as a richly detailed 1950s–1960s European vintage comic and storybook illustration, combining pen-and-ink engraving and woodcut-inspired linework with a hand-printed, nostalgic feel, keeping framing, positions, proportions, poses, perspective, horizon and scene structure. - **Line treatment.** Bold, confident black ink outlines with exceptionally fine parallel hatching and cross-hatching for shadows, depth and texture; dense lines in dark areas, lighter spacing in highlights, directional strokes following buildings, roads, clothing, foliage, clouds and architectural surfaces. - **Colors.** Saturated teal-cyan skies and cool shadows contrasted with warm vermilion red, orange, golden ochre, cream and sun-yellow; olive and emerald greens for vegetation; flat printed colors with subtle risograph grain and vintage ink texture. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "ff0aafa3527c301e907c70e95e9bcbd65b62d274",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
