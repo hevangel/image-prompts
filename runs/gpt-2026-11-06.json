@@ -18,442 +18,757 @@
       "sample": "howe-sound",
       "prompt_slug": "vintage-hatching-comic",
       "status": "completed",
-      "output": "samples/howe-sound/vintage-hatching-comic.gpt.png",
-      "sha": "8174885da3900b840aa84acbc5af730307811215"
+      "output": "samples/howe-sound/vintage-hatching-comic.gpt.webp",
+      "sha": "7c9900248229d32634e158141b1d00dfb13c660b",
+      "raw_output": "samples/howe-sound/vintage-hatching-comic.gpt.png",
+      "source_png_sha": "8174885da3900b840aa84acbc5af730307811215",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 909808
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "reflection-protagonist",
       "status": "completed",
-      "output": "samples/howe-sound/reflection-protagonist.gpt.png",
-      "sha": "f99b1bd3af7e256a6d1342209233e54ad352908b"
+      "output": "samples/howe-sound/reflection-protagonist.gpt.webp",
+      "sha": "5fd2708e58ea07bd3fc0ec947b3a68e651c0e711",
+      "raw_output": "samples/howe-sound/reflection-protagonist.gpt.png",
+      "source_png_sha": "f99b1bd3af7e256a6d1342209233e54ad352908b",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 740470
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "european-travel-film",
       "status": "completed",
-      "output": "samples/howe-sound/european-travel-film.gpt.png",
-      "sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85"
+      "output": "samples/howe-sound/european-travel-film.gpt.webp",
+      "sha": "86ecef4e4fa9b7d81280736e5caa608d00903b49",
+      "raw_output": "samples/howe-sound/european-travel-film.gpt.png",
+      "source_png_sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 548078
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "black-white-drawing",
       "status": "completed",
-      "output": "samples/howe-sound/black-white-drawing.gpt.png",
-      "sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe"
+      "output": "samples/howe-sound/black-white-drawing.gpt.webp",
+      "sha": "120a79170d7d1f6a75db05e7469c9d70b955ae3b",
+      "raw_output": "samples/howe-sound/black-white-drawing.gpt.png",
+      "source_png_sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 275478
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "white-space-illustration",
       "status": "completed",
-      "output": "samples/howe-sound/white-space-illustration.gpt.png",
-      "sha": "7471b4f1ed9be40f875e8aa04f594b4392b783a2"
+      "output": "samples/howe-sound/white-space-illustration.gpt.webp",
+      "sha": "a48b6a7cd3996e36edc32ca7905c2ae132555b6d",
+      "raw_output": "samples/howe-sound/white-space-illustration.gpt.png",
+      "source_png_sha": "7471b4f1ed9be40f875e8aa04f594b4392b783a2",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 622936
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "translucent-tracing-paper",
       "status": "completed",
-      "output": "samples/howe-sound/translucent-tracing-paper.gpt.png",
-      "sha": "42080bbd1272f8ac7c25e87df3eb36868a886249"
+      "output": "samples/howe-sound/translucent-tracing-paper.gpt.webp",
+      "sha": "dd3d1737f59e9319b421de6a9870f98d9713cda1",
+      "raw_output": "samples/howe-sound/translucent-tracing-paper.gpt.png",
+      "source_png_sha": "42080bbd1272f8ac7c25e87df3eb36868a886249",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 315430
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "japanese-hand-drawn",
       "status": "completed",
-      "output": "samples/howe-sound/japanese-hand-drawn.gpt.png",
-      "sha": "b361b563a00cf7a95184d324b28890b15246ffdf"
+      "output": "samples/howe-sound/japanese-hand-drawn.gpt.webp",
+      "sha": "55bdecec180c284e7f0ed9d17d9549ca50d5cf9d",
+      "raw_output": "samples/howe-sound/japanese-hand-drawn.gpt.png",
+      "source_png_sha": "b361b563a00cf7a95184d324b28890b15246ffdf",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 750278
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "neon-thick-impasto",
       "status": "completed",
-      "output": "samples/howe-sound/neon-thick-impasto.gpt.png",
-      "sha": "871f6ea728d68f4a6c5ba40c07b796b6fea87084"
+      "output": "samples/howe-sound/neon-thick-impasto.gpt.webp",
+      "sha": "65db861443925579404e158064e17390011dfd28",
+      "raw_output": "samples/howe-sound/neon-thick-impasto.gpt.png",
+      "source_png_sha": "871f6ea728d68f4a6c5ba40c07b796b6fea87084",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 884904
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "abstract-gouache",
       "status": "completed",
-      "output": "samples/howe-sound/abstract-gouache.gpt.png",
-      "sha": "8e6ca606d42a8cef72352f39e853744859266bb4"
+      "output": "samples/howe-sound/abstract-gouache.gpt.webp",
+      "sha": "b792c781e60dc76226a61a40050b903c3b6fa5e6",
+      "raw_output": "samples/howe-sound/abstract-gouache.gpt.png",
+      "source_png_sha": "8e6ca606d42a8cef72352f39e853744859266bb4",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 119890
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "japanese-retro-manga",
       "status": "completed",
-      "output": "samples/howe-sound/japanese-retro-manga.gpt.png",
-      "sha": "671c18e9ad594edfa94a783fde771437851ee76b"
+      "output": "samples/howe-sound/japanese-retro-manga.gpt.webp",
+      "sha": "783e4231639d49a5ae187a8d4aeea817755a94de",
+      "raw_output": "samples/howe-sound/japanese-retro-manga.gpt.png",
+      "source_png_sha": "671c18e9ad594edfa94a783fde771437851ee76b",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 634426
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "color-block-breakout",
       "status": "completed",
-      "output": "samples/howe-sound/color-block-breakout.gpt.png",
-      "sha": "a1b59872e11e358717b2c546836520bd677a18a2"
+      "output": "samples/howe-sound/color-block-breakout.gpt.webp",
+      "sha": "79b1149f00ff5bffb4f82d133843eaaaf883ec6e",
+      "raw_output": "samples/howe-sound/color-block-breakout.gpt.png",
+      "source_png_sha": "a1b59872e11e358717b2c546836520bd677a18a2",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 373562
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "fresh-illustration",
       "status": "completed",
-      "output": "samples/howe-sound/fresh-illustration.gpt.png",
-      "sha": "2a7cf06a4c1fcb4239ad78eb23bcede1da6b1f7b"
+      "output": "samples/howe-sound/fresh-illustration.gpt.webp",
+      "sha": "72cdb47d8abde04d787f53494ad358797dd11906",
+      "raw_output": "samples/howe-sound/fresh-illustration.gpt.png",
+      "source_png_sha": "2a7cf06a4c1fcb4239ad78eb23bcede1da6b1f7b",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 104180
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "frosted-glass",
       "status": "completed",
-      "output": "samples/howe-sound/frosted-glass.gpt.png",
-      "sha": "3753124dfce797474743d0038436cc65d2873fb8"
+      "output": "samples/howe-sound/frosted-glass.gpt.webp",
+      "sha": "46d2a7da186df2d01749c8842aba509d5672365d",
+      "raw_output": "samples/howe-sound/frosted-glass.gpt.png",
+      "source_png_sha": "3753124dfce797474743d0038436cc65d2873fb8",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 386578
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "notebook-hand-drawn",
       "status": "completed",
-      "output": "samples/howe-sound/notebook-hand-drawn.gpt.png",
-      "sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5"
+      "output": "samples/howe-sound/notebook-hand-drawn.gpt.webp",
+      "sha": "bae0ba7c407bf4248fda56410bae74c8718ff502",
+      "raw_output": "samples/howe-sound/notebook-hand-drawn.gpt.png",
+      "source_png_sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 758460
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "blue-red-risograph",
       "status": "completed",
-      "output": "samples/howe-sound/blue-red-risograph.gpt.png",
-      "sha": "e8ca53757b181e649c711ac38223aa4dc77174ff"
+      "output": "samples/howe-sound/blue-red-risograph.gpt.webp",
+      "sha": "0a03c2554a9754b98cceaca6ae2ed9f40866f510",
+      "raw_output": "samples/howe-sound/blue-red-risograph.gpt.png",
+      "source_png_sha": "e8ca53757b181e649c711ac38223aa4dc77174ff",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 807970
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "impasto-oil-painting",
       "status": "completed",
-      "output": "samples/howe-sound/impasto-oil-painting.gpt.png",
-      "sha": "06546276197b320042aa92967f6fcc98e52c0534"
+      "output": "samples/howe-sound/impasto-oil-painting.gpt.webp",
+      "sha": "96aaa3636b0fc7782669704f19b3af61d46cef10",
+      "raw_output": "samples/howe-sound/impasto-oil-painting.gpt.png",
+      "source_png_sha": "06546276197b320042aa92967f6fcc98e52c0534",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 817806
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "flat-silhouette",
       "status": "completed",
-      "output": "samples/howe-sound/flat-silhouette.gpt.png",
-      "sha": "6d2b3c597311016275fdae8662cbdb9bb650ad4a"
+      "output": "samples/howe-sound/flat-silhouette.gpt.webp",
+      "sha": "eb4944a5ba4392f9d47d88280e554ed62a15f891",
+      "raw_output": "samples/howe-sound/flat-silhouette.gpt.png",
+      "source_png_sha": "6d2b3c597311016275fdae8662cbdb9bb650ad4a",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 440222
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "bright-illustration",
       "status": "completed",
-      "output": "samples/howe-sound/bright-illustration.gpt.png",
-      "sha": "98d0fe93ac4a613e975d327a2b94a5646be43575"
+      "output": "samples/howe-sound/bright-illustration.gpt.webp",
+      "sha": "2392686d6f0a28f4888bfca9149cf64cec6913c6",
+      "raw_output": "samples/howe-sound/bright-illustration.gpt.png",
+      "source_png_sha": "98d0fe93ac4a613e975d327a2b94a5646be43575",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 449522
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "small-illustration",
       "status": "completed",
-      "output": "samples/howe-sound/small-illustration.gpt.png",
-      "sha": "3d3c48a7305dfdf7c5c0f6b6388dd72a1e85477d"
+      "output": "samples/howe-sound/small-illustration.gpt.webp",
+      "sha": "62988763bd5673f3c434937d32adc0c422c79586",
+      "raw_output": "samples/howe-sound/small-illustration.gpt.png",
+      "source_png_sha": "3d3c48a7305dfdf7c5c0f6b6388dd72a1e85477d",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 703178
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "blueprint-cyanotype",
       "status": "completed",
-      "output": "samples/howe-sound/blueprint-cyanotype.gpt.png",
-      "sha": "861b141d36fcb87bd635c2bf140650af3989161a"
+      "output": "samples/howe-sound/blueprint-cyanotype.gpt.webp",
+      "sha": "1b9ba8a2036b1bcf00dd4a0df216e2ec94227ffc",
+      "raw_output": "samples/howe-sound/blueprint-cyanotype.gpt.png",
+      "source_png_sha": "861b141d36fcb87bd635c2bf140650af3989161a",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 821784
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "woven-tapestry",
       "status": "completed",
-      "output": "samples/howe-sound/woven-tapestry.gpt.png",
-      "sha": "31f0457a6d84208219a564b562c3d91c2895e13a"
+      "output": "samples/howe-sound/woven-tapestry.gpt.webp",
+      "sha": "df1baa7b194d4f82d7f8d3444b2593bc4c10c096",
+      "raw_output": "samples/howe-sound/woven-tapestry.gpt.png",
+      "source_png_sha": "31f0457a6d84208219a564b562c3d91c2895e13a",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 944090
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "rough-brushed-lines",
       "status": "completed",
-      "output": "samples/howe-sound/rough-brushed-lines.gpt.png",
-      "sha": "62da40de1b6eb2673237095a5d5d5a05b680e124"
+      "output": "samples/howe-sound/rough-brushed-lines.gpt.webp",
+      "sha": "4db9c05192d4ab66c2c640f99825157db8f92015",
+      "raw_output": "samples/howe-sound/rough-brushed-lines.gpt.png",
+      "source_png_sha": "62da40de1b6eb2673237095a5d5d5a05b680e124",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 311890
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "woodcut-print",
       "status": "completed",
-      "output": "samples/howe-sound/woodcut-print.gpt.png",
-      "sha": "7f2082e18299196b9d7414acdfcd6db7ee02bba1"
+      "output": "samples/howe-sound/woodcut-print.gpt.webp",
+      "sha": "41ffd075565c97dec8038a0908f8327304e51a5c",
+      "raw_output": "samples/howe-sound/woodcut-print.gpt.png",
+      "source_png_sha": "7f2082e18299196b9d7414acdfcd6db7ee02bba1",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 820706
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "paper-cut",
       "status": "completed",
-      "output": "samples/howe-sound/paper-cut.gpt.png",
-      "sha": "143866f2da19cba1402af979f9af6bc0b78bddc6"
+      "output": "samples/howe-sound/paper-cut.gpt.webp",
+      "sha": "21fdddee6ea4df46ddbe6643bc8ec439dbd23823",
+      "raw_output": "samples/howe-sound/paper-cut.gpt.png",
+      "source_png_sha": "143866f2da19cba1402af979f9af6bc0b78bddc6",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 550546
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "retro-film",
       "status": "completed",
-      "output": "samples/howe-sound/retro-film.gpt.png",
-      "sha": "21e0f75570a4754de07af33f4fc01f992e749cf2"
+      "output": "samples/howe-sound/retro-film.gpt.webp",
+      "sha": "555f1fe2ab2bab5f83220a0fc2fd6c28fc53a2d0",
+      "raw_output": "samples/howe-sound/retro-film.gpt.png",
+      "source_png_sha": "21e0f75570a4754de07af33f4fc01f992e749cf2",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1060070
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "out-of-frame",
       "status": "completed",
-      "output": "samples/howe-sound/out-of-frame.gpt.png",
-      "sha": "27762b24e10a327125593ffc47735694239c388b"
+      "output": "samples/howe-sound/out-of-frame.gpt.webp",
+      "sha": "001cc0f87687524a4a2ce943f591fedeeace9b33",
+      "raw_output": "samples/howe-sound/out-of-frame.gpt.png",
+      "source_png_sha": "27762b24e10a327125593ffc47735694239c388b",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 478956
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "mediterranean-poster",
       "status": "completed",
-      "output": "samples/howe-sound/mediterranean-poster.gpt.png",
-      "sha": "5cf7093488d6ab9d3921cb6493aafba29f24d289"
+      "output": "samples/howe-sound/mediterranean-poster.gpt.webp",
+      "sha": "93e232d9dcc4a93783355f7ff1cce267feb01baf",
+      "raw_output": "samples/howe-sound/mediterranean-poster.gpt.png",
+      "source_png_sha": "5cf7093488d6ab9d3921cb6493aafba29f24d289",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 724396
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "one-line-contour",
       "status": "completed",
-      "output": "samples/howe-sound/one-line-contour.gpt.png",
-      "sha": "3ff28f862f00b9a32c9c22edd620f693a8fdcc25"
+      "output": "samples/howe-sound/one-line-contour.gpt.webp",
+      "sha": "9965475c10548af1e757f15c3ec4b6b12c9013ef",
+      "raw_output": "samples/howe-sound/one-line-contour.gpt.png",
+      "source_png_sha": "3ff28f862f00b9a32c9c22edd620f693a8fdcc25",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 248880
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "clean-illustration",
       "status": "completed",
-      "output": "samples/howe-sound/clean-illustration.gpt.png",
-      "sha": "774e6bfd179183178a99786ad9857dc0e4b5f568"
+      "output": "samples/howe-sound/clean-illustration.gpt.webp",
+      "sha": "c8908ae1c78da13af9f72e5955cc6fdb57bcb2ae",
+      "raw_output": "samples/howe-sound/clean-illustration.gpt.png",
+      "source_png_sha": "774e6bfd179183178a99786ad9857dc0e4b5f568",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 236488
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "dynamic-field-print",
       "status": "completed",
-      "output": "samples/howe-sound/dynamic-field-print.gpt.png",
-      "sha": "781644fe1eb01506110d4b3aa684185828ddc69d"
+      "output": "samples/howe-sound/dynamic-field-print.gpt.webp",
+      "sha": "d313163becfffc35628000f44fea4eac2561427d",
+      "raw_output": "samples/howe-sound/dynamic-field-print.gpt.png",
+      "source_png_sha": "781644fe1eb01506110d4b3aa684185828ddc69d",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 903414
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "ink-starved-geometry",
       "status": "completed",
-      "output": "samples/howe-sound/ink-starved-geometry.gpt.png",
-      "sha": "d2d8ba8e02eeaa898fc2a22c9d91baf265ee424c"
+      "output": "samples/howe-sound/ink-starved-geometry.gpt.webp",
+      "sha": "cc31fdd11310d104227db38e68b6faff47bafbf9",
+      "raw_output": "samples/howe-sound/ink-starved-geometry.gpt.png",
+      "source_png_sha": "d2d8ba8e02eeaa898fc2a22c9d91baf265ee424c",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 917552
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "asymmetric-enlargement",
       "status": "completed",
-      "output": "samples/howe-sound/asymmetric-enlargement.gpt.png",
-      "sha": "bbac5b334d4c58a5df541f0cece775eb8f49b87f"
+      "output": "samples/howe-sound/asymmetric-enlargement.gpt.webp",
+      "sha": "d676739d2a5d08fa07e1fb69e3d936e752fc92a2",
+      "raw_output": "samples/howe-sound/asymmetric-enlargement.gpt.png",
+      "source_png_sha": "bbac5b334d4c58a5df541f0cece775eb8f49b87f",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 201512
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "fine-line-poster",
       "status": "completed",
-      "output": "samples/howe-sound/fine-line-poster.gpt.png",
-      "sha": "e202cc7b905dde978d22f6382b68dd499f3ee641"
+      "output": "samples/howe-sound/fine-line-poster.gpt.webp",
+      "sha": "bf5195a4c3d6fc938de6a83974c6a84c4fd34cfa",
+      "raw_output": "samples/howe-sound/fine-line-poster.gpt.png",
+      "source_png_sha": "e202cc7b905dde978d22f6382b68dd499f3ee641",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 206948
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "vintage-lines",
       "status": "completed",
-      "output": "samples/howe-sound/vintage-lines.gpt.png",
-      "sha": "c13afdfa0eb5732b58d666dd7e8438b04e4bc664"
+      "output": "samples/howe-sound/vintage-lines.gpt.webp",
+      "sha": "fe425e8f60526a8705260411e92bd4eb7249dc55",
+      "raw_output": "samples/howe-sound/vintage-lines.gpt.png",
+      "source_png_sha": "c13afdfa0eb5732b58d666dd7e8438b04e4bc664",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 784806
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "storytelling-collage",
       "status": "completed",
-      "output": "samples/howe-sound/storytelling-collage.gpt.png",
-      "sha": "6580215f69f8fb43a159627c35028474a79e4889"
+      "output": "samples/howe-sound/storytelling-collage.gpt.webp",
+      "sha": "f5b6f022576148be41c43df5cc74bdee04d2090a",
+      "raw_output": "samples/howe-sound/storytelling-collage.gpt.png",
+      "source_png_sha": "6580215f69f8fb43a159627c35028474a79e4889",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 547330
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "pixel-art",
       "status": "completed",
-      "output": "samples/howe-sound/pixel-art.gpt.png",
-      "sha": "84fd47854c2e294ad185c37cbbea2e438603b355"
+      "output": "samples/howe-sound/pixel-art.gpt.webp",
+      "sha": "a1adc631085976662b3c8afea38a0068a7ec2104",
+      "raw_output": "samples/howe-sound/pixel-art.gpt.png",
+      "source_png_sha": "84fd47854c2e294ad185c37cbbea2e438603b355",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 575766
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "patchwork-embroidery",
       "status": "completed",
-      "output": "samples/howe-sound/patchwork-embroidery.gpt.png",
-      "sha": "1a4c95fb81a374898f491ac3a1de90399f239936"
+      "output": "samples/howe-sound/patchwork-embroidery.gpt.webp",
+      "sha": "a0e15cc10014b24e216674ff75c994f25302447a",
+      "raw_output": "samples/howe-sound/patchwork-embroidery.gpt.png",
+      "source_png_sha": "1a4c95fb81a374898f491ac3a1de90399f239936",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1005684
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "ink-rubbing",
       "status": "completed",
-      "output": "samples/howe-sound/ink-rubbing.gpt.png",
-      "sha": "f0560eadeb71eef2f092c9d7a97a28f0edde92bc"
+      "output": "samples/howe-sound/ink-rubbing.gpt.webp",
+      "sha": "b9495c81f20aa4eab488361481beec5a3c7ddd07",
+      "raw_output": "samples/howe-sound/ink-rubbing.gpt.png",
+      "source_png_sha": "f0560eadeb71eef2f092c9d7a97a28f0edde92bc",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 842634
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "paper-collage-lines",
       "status": "completed",
-      "output": "samples/howe-sound/paper-collage-lines.gpt.png",
-      "sha": "a3ca507a180574e44d906c57534c8edcc3623678"
+      "output": "samples/howe-sound/paper-collage-lines.gpt.webp",
+      "sha": "351fe5cdf2e874fda340c491ecff67393d43caca",
+      "raw_output": "samples/howe-sound/paper-collage-lines.gpt.png",
+      "source_png_sha": "a3ca507a180574e44d906c57534c8edcc3623678",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 725462
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "white-model",
       "status": "completed",
-      "output": "samples/howe-sound/white-model.gpt.png",
-      "sha": "23b343c47e1d678d1d9cac48e301816b8c5c878c"
+      "output": "samples/howe-sound/white-model.gpt.webp",
+      "sha": "d0f9662ecb10eedf3da6f5381be2b4603eed9c49",
+      "raw_output": "samples/howe-sound/white-model.gpt.png",
+      "source_png_sha": "23b343c47e1d678d1d9cac48e301816b8c5c878c",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 151780
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "paper-carving",
       "status": "completed",
-      "output": "samples/howe-sound/paper-carving.gpt.png",
-      "sha": "50dac2e9ebb31771c80a43d2db0a4cf1c756021e"
+      "output": "samples/howe-sound/paper-carving.gpt.webp",
+      "sha": "374061b1c7c624c67e34b56947da296c01b07be9",
+      "raw_output": "samples/howe-sound/paper-carving.gpt.png",
+      "source_png_sha": "50dac2e9ebb31771c80a43d2db0a4cf1c756021e",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 689432
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "bento-box",
       "status": "completed",
-      "output": "samples/howe-sound/bento-box.gpt.png",
-      "sha": "7a7e37b1a815f9781ad2c40370e0fb012cbf5430"
+      "output": "samples/howe-sound/bento-box.gpt.webp",
+      "sha": "b494ca77ca634ab7b3184f62300e45544430ce29",
+      "raw_output": "samples/howe-sound/bento-box.gpt.png",
+      "source_png_sha": "7a7e37b1a815f9781ad2c40370e0fb012cbf5430",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 735084
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "perler-beads",
       "status": "completed",
-      "output": "samples/howe-sound/perler-beads.gpt.png",
-      "sha": "6026d232e98cfa8e703dfc5a61f7eb4ed4c8b0f4"
+      "output": "samples/howe-sound/perler-beads.gpt.webp",
+      "sha": "58e2719536764cd083c960d8b1a12acf3638f4b3",
+      "raw_output": "samples/howe-sound/perler-beads.gpt.png",
+      "source_png_sha": "6026d232e98cfa8e703dfc5a61f7eb4ed4c8b0f4",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 236234
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "soft-focus",
       "status": "completed",
-      "output": "samples/howe-sound/soft-focus.gpt.png",
-      "sha": "b223873a590183f3f97eeea0a0086140aea382d8"
+      "output": "samples/howe-sound/soft-focus.gpt.webp",
+      "sha": "91c0d16fb2c301803b3d2173f29c4edc7f594e0c",
+      "raw_output": "samples/howe-sound/soft-focus.gpt.png",
+      "source_png_sha": "b223873a590183f3f97eeea0a0086140aea382d8",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 55874
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "colored-paper-collage",
       "status": "completed",
-      "output": "samples/howe-sound/colored-paper-collage.gpt.png",
-      "sha": "a065745447df8c98a9d03cd894c6b3924042fded"
+      "output": "samples/howe-sound/colored-paper-collage.gpt.webp",
+      "sha": "9a68cd16576141aeb45021dba245669fab9dde56",
+      "raw_output": "samples/howe-sound/colored-paper-collage.gpt.png",
+      "source_png_sha": "a065745447df8c98a9d03cd894c6b3924042fded",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 221430
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "lingering-afterglow",
       "status": "completed",
-      "output": "samples/howe-sound/lingering-afterglow.gpt.png",
-      "sha": "a90e53195239274cf019e7074cec8befd750c224"
+      "output": "samples/howe-sound/lingering-afterglow.gpt.webp",
+      "sha": "51f78b4fb5e6fe2bbcdd96e17227f80483b83824",
+      "raw_output": "samples/howe-sound/lingering-afterglow.gpt.png",
+      "source_png_sha": "a90e53195239274cf019e7074cec8befd750c224",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 343162
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "photocopier-print",
       "status": "completed",
-      "output": "samples/howe-sound/photocopier-print.gpt.png",
-      "sha": "0211e9932db4daedccfbee70af377ecd563b2f66"
+      "output": "samples/howe-sound/photocopier-print.gpt.webp",
+      "sha": "b09070ed615a97c0d9566fe44740faf584e8965a",
+      "raw_output": "samples/howe-sound/photocopier-print.gpt.png",
+      "source_png_sha": "0211e9932db4daedccfbee70af377ecd563b2f66",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 473492
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "food-poster",
       "status": "completed",
-      "output": "samples/howe-sound/food-poster.gpt.png",
-      "sha": "ddbe43eedfc02c439e5b3b4e02fb8c11a1364414"
+      "output": "samples/howe-sound/food-poster.gpt.webp",
+      "sha": "2f183835fd98002b951c09125ddfea72c48f55a1",
+      "raw_output": "samples/howe-sound/food-poster.gpt.png",
+      "source_png_sha": "ddbe43eedfc02c439e5b3b4e02fb8c11a1364414",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 539636
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "porcelain-collage",
       "status": "completed",
-      "output": "samples/howe-sound/porcelain-collage.gpt.png",
-      "sha": "7d0b074b00caa55323eacf4cfe0db2da6a86f536"
+      "output": "samples/howe-sound/porcelain-collage.gpt.webp",
+      "sha": "58490640884d0c22129a61a2e29822b1b96c66f5",
+      "raw_output": "samples/howe-sound/porcelain-collage.gpt.png",
+      "source_png_sha": "7d0b074b00caa55323eacf4cfe0db2da6a86f536",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 341046
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "black-line-drawing",
       "status": "completed",
-      "output": "samples/howe-sound/black-line-drawing.gpt.png",
-      "sha": "9668c5bff6fc03548e0cb90bf33576ca008d4c4f"
+      "output": "samples/howe-sound/black-line-drawing.gpt.webp",
+      "sha": "473c81b97870976fa467b9d12b0ea6b481681a58",
+      "raw_output": "samples/howe-sound/black-line-drawing.gpt.png",
+      "source_png_sha": "9668c5bff6fc03548e0cb90bf33576ca008d4c4f",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 368944
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "geometric-poster",
       "status": "completed",
-      "output": "samples/howe-sound/geometric-poster.gpt.png",
-      "sha": "430fce48e01d71c21ed64b16e53f71b0ac39e8ec"
+      "output": "samples/howe-sound/geometric-poster.gpt.webp",
+      "sha": "cc7550ce71945b507e1258d33019461e1ae5f558",
+      "raw_output": "samples/howe-sound/geometric-poster.gpt.png",
+      "source_png_sha": "430fce48e01d71c21ed64b16e53f71b0ac39e8ec",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 317774
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "passport-ticket",
       "status": "completed",
-      "output": "samples/howe-sound/passport-ticket.gpt.png",
-      "sha": "aa1cf62ecda8f47fca93ba5929bd4149992396d1"
+      "output": "samples/howe-sound/passport-ticket.gpt.webp",
+      "sha": "38009464a6fa579f69d737b489400fa2f3266bd8",
+      "raw_output": "samples/howe-sound/passport-ticket.gpt.png",
+      "source_png_sha": "aa1cf62ecda8f47fca93ba5929bd4149992396d1",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 1044792
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "paper-cut-collage",
       "status": "completed",
-      "output": "samples/howe-sound/paper-cut-collage.gpt.png",
-      "sha": "4d85837e9a90d9f644f740d989838f303c95fc03"
+      "output": "samples/howe-sound/paper-cut-collage.gpt.webp",
+      "sha": "8d26857ec1d1bfb1827e75a2093a489d1bc60943",
+      "raw_output": "samples/howe-sound/paper-cut-collage.gpt.png",
+      "source_png_sha": "4d85837e9a90d9f644f740d989838f303c95fc03",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 477354
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "hand-drawn-feel",
       "status": "completed",
-      "output": "samples/howe-sound/hand-drawn-feel.gpt.png",
-      "sha": "bc357120751ad84f9d184182372b7ee2a96eda0b"
+      "output": "samples/howe-sound/hand-drawn-feel.gpt.webp",
+      "sha": "be707e5c38aab39abde99bf7063dd48cee86991d",
+      "raw_output": "samples/howe-sound/hand-drawn-feel.gpt.png",
+      "source_png_sha": "bc357120751ad84f9d184182372b7ee2a96eda0b",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 377862
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "dot-matrix",
       "status": "completed",
-      "output": "samples/howe-sound/dot-matrix.gpt.png",
-      "sha": "6c0d593468badf47b74a0b43c2a393189fb1890d"
+      "output": "samples/howe-sound/dot-matrix.gpt.webp",
+      "sha": "a50e2e1113c869c871dfea60ed7eb3e510c5cba2",
+      "raw_output": "samples/howe-sound/dot-matrix.gpt.png",
+      "source_png_sha": "6c0d593468badf47b74a0b43c2a393189fb1890d",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 681692
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "spot-illustration",
       "status": "completed",
-      "output": "samples/howe-sound/spot-illustration.gpt.png",
-      "sha": "c512f225945971f81587f5c8e94d8dfc7c809c8d"
+      "output": "samples/howe-sound/spot-illustration.gpt.webp",
+      "sha": "461e60a7ee0fda0b87c659a946fe04e4e5b2b167",
+      "raw_output": "samples/howe-sound/spot-illustration.gpt.png",
+      "source_png_sha": "c512f225945971f81587f5c8e94d8dfc7c809c8d",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 76652
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "wool-felt",
       "status": "completed",
-      "output": "samples/howe-sound/wool-felt.gpt.png",
-      "sha": "68fcdf3d0fc3fcde16ace3035d103c0978fc4063"
+      "output": "samples/howe-sound/wool-felt.gpt.webp",
+      "sha": "50f73892ef0a2708013d853f3e25dd6fb3db2cb3",
+      "raw_output": "samples/howe-sound/wool-felt.gpt.png",
+      "source_png_sha": "68fcdf3d0fc3fcde16ace3035d103c0978fc4063",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 235438
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "typography-device",
       "status": "completed",
-      "output": "samples/howe-sound/typography-device.gpt.png",
-      "sha": "9ee670ddf9e0a3566ecb712558abe2dcb498dc39"
+      "output": "samples/howe-sound/typography-device.gpt.webp",
+      "sha": "244263d4b8bcd153279055690aa1f79a2ea53d26",
+      "raw_output": "samples/howe-sound/typography-device.gpt.png",
+      "source_png_sha": "9ee670ddf9e0a3566ecb712558abe2dcb498dc39",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 95848
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "comparison-poster",
       "status": "completed",
-      "output": "samples/howe-sound/comparison-poster.gpt.png",
-      "sha": "8e259e11983e5f1b215397605792494f71c4f0b5"
+      "output": "samples/howe-sound/comparison-poster.gpt.webp",
+      "sha": "a4b7ea236357dd5bceaf4a7d4bbb47ffb9a93720",
+      "raw_output": "samples/howe-sound/comparison-poster.gpt.png",
+      "source_png_sha": "8e259e11983e5f1b215397605792494f71c4f0b5",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 167806
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "split-poster",
       "status": "completed",
-      "output": "samples/howe-sound/split-poster.gpt.png",
-      "sha": "9c19e7a046fe0275dee6f0d084785425a22eb326"
+      "output": "samples/howe-sound/split-poster.gpt.webp",
+      "sha": "886d2f7deba3fa6868e7f77003b009ade17aafc7",
+      "raw_output": "samples/howe-sound/split-poster.gpt.png",
+      "source_png_sha": "9c19e7a046fe0275dee6f0d084785425a22eb326",
+      "width": 1354,
+      "height": 1161,
+      "bytes": 574232
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "blueprint-poster",
       "status": "completed",
-      "output": "samples/howe-sound/blueprint-poster.gpt.png",
-      "sha": "a2e00936ef403f65a84469b78847859a3e1d891f"
+      "output": "samples/howe-sound/blueprint-poster.gpt.webp",
+      "sha": "e7cc284a524a07e796f282b1bcba1ba7fe51c8e8",
+      "raw_output": "samples/howe-sound/blueprint-poster.gpt.png",
+      "source_png_sha": "a2e00936ef403f65a84469b78847859a3e1d891f",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 305044
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "brand-packaging",
       "status": "completed",
-      "output": "samples/howe-sound/brand-packaging.gpt.png",
-      "sha": "42d08781600c7692736718a32cce9d857e61f0aa"
+      "output": "samples/howe-sound/brand-packaging.gpt.webp",
+      "sha": "493115c5794e1ffe42ffe0e0a5f77de489d8b684",
+      "raw_output": "samples/howe-sound/brand-packaging.gpt.png",
+      "source_png_sha": "42d08781600c7692736718a32cce9d857e61f0aa",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 380890
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "cinematic-portraits",
       "status": "completed",
-      "output": "samples/howe-sound/cinematic-portraits.gpt.png",
-      "sha": "74a4e4dbf90b0434008166c1036a0cb52ac5d83f"
+      "output": "samples/howe-sound/cinematic-portraits.gpt.webp",
+      "sha": "7746dc24344e112bd4e90bcaf2f3ca88a62573d8",
+      "raw_output": "samples/howe-sound/cinematic-portraits.gpt.png",
+      "source_png_sha": "74a4e4dbf90b0434008166c1036a0cb52ac5d83f",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 118816
     },
     {
       "sample": "book-fair",
@@ -2060,5 +2375,7 @@
       "prompt_slug": "cinematic-portraits",
       "status": "in_progress"
     }
-  ]
+  ],
+  "encoding": "WebP quality 95, method 6, no resizing",
+  "raw_png_commit": "80430d9f14dd32cba2f99f41b47f14806907f4b8"
 }

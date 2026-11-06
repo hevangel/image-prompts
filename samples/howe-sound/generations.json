@@ -560,7 +560,7 @@
     },
     {
       "prompt_slug": "frosted-glass",
-      "output": "frosted-glass.gpt.png",
+      "output": "frosted-glass.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:15.661Z",
       "tokens_used": null,
@@ -573,11 +573,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "3753124dfce797474743d0038436cc65d2873fb8",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "46d2a7da186df2d01749c8842aba509d5672365d",
+      "bytes": 386578,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "notebook-hand-drawn",
-      "output": "notebook-hand-drawn.gpt.png",
+      "output": "notebook-hand-drawn.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:56.469Z",
       "tokens_used": null,
@@ -590,7 +595,12 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "bae0ba7c407bf4248fda56410bae74c8718ff502",
+      "bytes": 758460,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-hatching-comic",
@@ -662,7 +672,7 @@
     },
     {
       "prompt_slug": "black-white-drawing",
-      "output": "black-white-drawing.gpt.png",
+      "output": "black-white-drawing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:26:32.968Z",
       "tokens_used": null,
@@ -675,11 +685,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "120a79170d7d1f6a75db05e7469c9d70b955ae3b",
+      "bytes": 275478,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-hatching-comic",
-      "output": "vintage-hatching-comic.gpt.png",
+      "output": "vintage-hatching-comic.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:38.307Z",
       "tokens_used": null,
@@ -692,11 +707,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "8174885da3900b840aa84acbc5af730307811215",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "7c9900248229d32634e158141b1d00dfb13c660b",
+      "bytes": 909808,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "reflection-protagonist",
-      "output": "reflection-protagonist.gpt.png",
+      "output": "reflection-protagonist.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:39.999Z",
       "tokens_used": null,
@@ -709,11 +729,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "f99b1bd3af7e256a6d1342209233e54ad352908b",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "5fd2708e58ea07bd3fc0ec947b3a68e651c0e711",
+      "bytes": 740470,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "european-travel-film",
-      "output": "european-travel-film.gpt.png",
+      "output": "european-travel-film.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:41.751Z",
       "tokens_used": null,
@@ -726,11 +751,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "86ecef4e4fa9b7d81280736e5caa608d00903b49",
+      "bytes": 548078,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "blue-red-risograph",
-      "output": "blue-red-risograph.gpt.png",
+      "output": "blue-red-risograph.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:36:45.252Z",
       "tokens_used": null,
@@ -743,11 +773,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "e8ca53757b181e649c711ac38223aa4dc77174ff",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "0a03c2554a9754b98cceaca6ae2ed9f40866f510",
+      "bytes": 807970,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "fresh-illustration",
-      "output": "fresh-illustration.gpt.png",
+      "output": "fresh-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:37:04.683Z",
       "tokens_used": null,
@@ -760,11 +795,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "2a7cf06a4c1fcb4239ad78eb23bcede1da6b1f7b",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "72cdb47d8abde04d787f53494ad358797dd11906",
+      "bytes": 104180,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "neon-thick-impasto",
-      "output": "neon-thick-impasto.gpt.png",
+      "output": "neon-thick-impasto.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:37:34.949Z",
       "tokens_used": null,
@@ -777,11 +817,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "871f6ea728d68f4a6c5ba40c07b796b6fea87084",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "65db861443925579404e158064e17390011dfd28",
+      "bytes": 884904,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "impasto-oil-painting",
-      "output": "impasto-oil-painting.gpt.png",
+      "output": "impasto-oil-painting.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:38:21.576Z",
       "tokens_used": null,
@@ -794,11 +839,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "06546276197b320042aa92967f6fcc98e52c0534",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "96aaa3636b0fc7782669704f19b3af61d46cef10",
+      "bytes": 817806,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "color-block-breakout",
-      "output": "color-block-breakout.gpt.png",
+      "output": "color-block-breakout.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:38:42.658Z",
       "tokens_used": null,
@@ -811,11 +861,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a1b59872e11e358717b2c546836520bd677a18a2",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "79b1149f00ff5bffb4f82d133843eaaaf883ec6e",
+      "bytes": 373562,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "flat-silhouette",
-      "output": "flat-silhouette.gpt.png",
+      "output": "flat-silhouette.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:39:11.094Z",
       "tokens_used": null,
@@ -828,11 +883,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "6d2b3c597311016275fdae8662cbdb9bb650ad4a",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "eb4944a5ba4392f9d47d88280e554ed62a15f891",
+      "bytes": 440222,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "bright-illustration",
-      "output": "bright-illustration.gpt.png",
+      "output": "bright-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:39:36.704Z",
       "tokens_used": null,
@@ -845,11 +905,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "98d0fe93ac4a613e975d327a2b94a5646be43575",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "2392686d6f0a28f4888bfca9149cf64cec6913c6",
+      "bytes": 449522,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "small-illustration",
-      "output": "small-illustration.gpt.png",
+      "output": "small-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:40:01.248Z",
       "tokens_used": null,
@@ -862,11 +927,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "3d3c48a7305dfdf7c5c0f6b6388dd72a1e85477d",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "62988763bd5673f3c434937d32adc0c422c79586",
+      "bytes": 703178,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "woven-tapestry",
-      "output": "woven-tapestry.gpt.png",
+      "output": "woven-tapestry.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:40:31.393Z",
       "tokens_used": null,
@@ -879,11 +949,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "31f0457a6d84208219a564b562c3d91c2895e13a",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "df1baa7b194d4f82d7f8d3444b2593bc4c10c096",
+      "bytes": 944090,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "blueprint-cyanotype",
-      "output": "blueprint-cyanotype.gpt.png",
+      "output": "blueprint-cyanotype.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:40:49.675Z",
       "tokens_used": null,
@@ -896,11 +971,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "861b141d36fcb87bd635c2bf140650af3989161a",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "1b9ba8a2036b1bcf00dd4a0df216e2ec94227ffc",
+      "bytes": 821784,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "rough-brushed-lines",
-      "output": "rough-brushed-lines.gpt.png",
+      "output": "rough-brushed-lines.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:41:09.279Z",
       "tokens_used": null,
@@ -913,11 +993,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "62da40de1b6eb2673237095a5d5d5a05b680e124",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "4db9c05192d4ab66c2c640f99825157db8f92015",
+      "bytes": 311890,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "out-of-frame",
-      "output": "out-of-frame.gpt.png",
+      "output": "out-of-frame.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:41:33.995Z",
       "tokens_used": null,
@@ -930,11 +1015,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "27762b24e10a327125593ffc47735694239c388b",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "001cc0f87687524a4a2ce943f591fedeeace9b33",
+      "bytes": 478956,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "mediterranean-poster",
-      "output": "mediterranean-poster.gpt.png",
+      "output": "mediterranean-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:41:57.812Z",
       "tokens_used": null,
@@ -947,11 +1037,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "5cf7093488d6ab9d3921cb6493aafba29f24d289",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "93e232d9dcc4a93783355f7ff1cce267feb01baf",
+      "bytes": 724396,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "retro-film",
-      "output": "retro-film.gpt.png",
+      "output": "retro-film.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:42:22.916Z",
       "tokens_used": null,
@@ -964,11 +1059,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "21e0f75570a4754de07af33f4fc01f992e749cf2",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "555f1fe2ab2bab5f83220a0fc2fd6c28fc53a2d0",
+      "bytes": 1060070,
+      "width": 1024,
+      "height": 1536,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-cut",
-      "output": "paper-cut.gpt.png",
+      "output": "paper-cut.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:42:47.888Z",
       "tokens_used": null,
@@ -981,11 +1081,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "143866f2da19cba1402af979f9af6bc0b78bddc6",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "21fdddee6ea4df46ddbe6643bc8ec439dbd23823",
+      "bytes": 550546,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "clean-illustration",
-      "output": "clean-illustration.gpt.png",
+      "output": "clean-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:43:08.446Z",
       "tokens_used": null,
@@ -998,11 +1103,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "774e6bfd179183178a99786ad9857dc0e4b5f568",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "c8908ae1c78da13af9f72e5955cc6fdb57bcb2ae",
+      "bytes": 236488,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "dynamic-field-print",
-      "output": "dynamic-field-print.gpt.png",
+      "output": "dynamic-field-print.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:43:39.430Z",
       "tokens_used": null,
@@ -1015,11 +1125,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "781644fe1eb01506110d4b3aa684185828ddc69d",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "d313163becfffc35628000f44fea4eac2561427d",
+      "bytes": 903414,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "woodcut-print",
-      "output": "woodcut-print.gpt.png",
+      "output": "woodcut-print.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:44:01.871Z",
       "tokens_used": null,
@@ -1032,11 +1147,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "7f2082e18299196b9d7414acdfcd6db7ee02bba1",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "41ffd075565c97dec8038a0908f8327304e51a5c",
+      "bytes": 820706,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "one-line-contour",
-      "output": "one-line-contour.gpt.png",
+      "output": "one-line-contour.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:44:21.927Z",
       "tokens_used": null,
@@ -1049,11 +1169,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "3ff28f862f00b9a32c9c22edd620f693a8fdcc25",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "9965475c10548af1e757f15c3ec4b6b12c9013ef",
+      "bytes": 248880,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "ink-starved-geometry",
-      "output": "ink-starved-geometry.gpt.png",
+      "output": "ink-starved-geometry.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:44:45.330Z",
       "tokens_used": null,
@@ -1066,11 +1191,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "d2d8ba8e02eeaa898fc2a22c9d91baf265ee424c",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "cc31fdd11310d104227db38e68b6faff47bafbf9",
+      "bytes": 917552,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "asymmetric-enlargement",
-      "output": "asymmetric-enlargement.gpt.png",
+      "output": "asymmetric-enlargement.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:45:14.536Z",
       "tokens_used": null,
@@ -1083,11 +1213,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "bbac5b334d4c58a5df541f0cece775eb8f49b87f",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "d676739d2a5d08fa07e1fb69e3d936e752fc92a2",
+      "bytes": 201512,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "fine-line-poster",
-      "output": "fine-line-poster.gpt.png",
+      "output": "fine-line-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:45:40.323Z",
       "tokens_used": null,
@@ -1100,11 +1235,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "e202cc7b905dde978d22f6382b68dd499f3ee641",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "bf5195a4c3d6fc938de6a83974c6a84c4fd34cfa",
+      "bytes": 206948,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-lines",
-      "output": "vintage-lines.gpt.png",
+      "output": "vintage-lines.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:46:02.503Z",
       "tokens_used": null,
@@ -1117,11 +1257,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "c13afdfa0eb5732b58d666dd7e8438b04e4bc664",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "fe425e8f60526a8705260411e92bd4eb7249dc55",
+      "bytes": 784806,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "storytelling-collage",
-      "output": "storytelling-collage.gpt.png",
+      "output": "storytelling-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:46:25.858Z",
       "tokens_used": null,
@@ -1134,11 +1279,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "6580215f69f8fb43a159627c35028474a79e4889",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "f5b6f022576148be41c43df5cc74bdee04d2090a",
+      "bytes": 547330,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "pixel-art",
-      "output": "pixel-art.gpt.png",
+      "output": "pixel-art.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:46:51.514Z",
       "tokens_used": null,
@@ -1151,11 +1301,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "84fd47854c2e294ad185c37cbbea2e438603b355",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "a1adc631085976662b3c8afea38a0068a7ec2104",
+      "bytes": 575766,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "patchwork-embroidery",
-      "output": "patchwork-embroidery.gpt.png",
+      "output": "patchwork-embroidery.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:47:21.058Z",
       "tokens_used": null,
@@ -1168,11 +1323,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "1a4c95fb81a374898f491ac3a1de90399f239936",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "a0e15cc10014b24e216674ff75c994f25302447a",
+      "bytes": 1005684,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "ink-rubbing",
-      "output": "ink-rubbing.gpt.png",
+      "output": "ink-rubbing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:47:42.477Z",
       "tokens_used": null,
@@ -1185,11 +1345,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "f0560eadeb71eef2f092c9d7a97a28f0edde92bc",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "b9495c81f20aa4eab488361481beec5a3c7ddd07",
+      "bytes": 842634,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-collage-lines",
-      "output": "paper-collage-lines.gpt.png",
+      "output": "paper-collage-lines.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:48:17.796Z",
       "tokens_used": null,
@@ -1202,11 +1367,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a3ca507a180574e44d906c57534c8edcc3623678",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "351fe5cdf2e874fda340c491ecff67393d43caca",
+      "bytes": 725462,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "white-model",
-      "output": "white-model.gpt.png",
+      "output": "white-model.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:48:40.313Z",
       "tokens_used": null,
@@ -1219,11 +1389,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "23b343c47e1d678d1d9cac48e301816b8c5c878c",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "d0f9662ecb10eedf3da6f5381be2b4603eed9c49",
+      "bytes": 151780,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-carving",
-      "output": "paper-carving.gpt.png",
+      "output": "paper-carving.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:49:01.363Z",
       "tokens_used": null,
@@ -1236,11 +1411,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "50dac2e9ebb31771c80a43d2db0a4cf1c756021e",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "374061b1c7c624c67e34b56947da296c01b07be9",
+      "bytes": 689432,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "bento-box",
-      "output": "bento-box.gpt.png",
+      "output": "bento-box.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:49:32.565Z",
       "tokens_used": null,
@@ -1253,11 +1433,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "7a7e37b1a815f9781ad2c40370e0fb012cbf5430",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "b494ca77ca634ab7b3184f62300e45544430ce29",
+      "bytes": 735084,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "perler-beads",
-      "output": "perler-beads.gpt.png",
+      "output": "perler-beads.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:49:55.558Z",
       "tokens_used": null,
@@ -1270,11 +1455,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "6026d232e98cfa8e703dfc5a61f7eb4ed4c8b0f4",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "58e2719536764cd083c960d8b1a12acf3638f4b3",
+      "bytes": 236234,
+      "width": 1536,
+      "height": 1024,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "soft-focus",
-      "output": "soft-focus.gpt.png",
+      "output": "soft-focus.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:50:14.758Z",
       "tokens_used": null,
@@ -1287,11 +1477,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "b223873a590183f3f97eeea0a0086140aea382d8",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "91c0d16fb2c301803b3d2173f29c4edc7f594e0c",
+      "bytes": 55874,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "lingering-afterglow",
-      "output": "lingering-afterglow.gpt.png",
+      "output": "lingering-afterglow.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:50:32.380Z",
       "tokens_used": null,
@@ -1304,11 +1499,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a90e53195239274cf019e7074cec8befd750c224",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "51f78b4fb5e6fe2bbcdd96e17227f80483b83824",
+      "bytes": 343162,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "colored-paper-collage",
-      "output": "colored-paper-collage.gpt.png",
+      "output": "colored-paper-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:50:54.600Z",
       "tokens_used": null,
@@ -1321,11 +1521,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a065745447df8c98a9d03cd894c6b3924042fded",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "9a68cd16576141aeb45021dba245669fab9dde56",
+      "bytes": 221430,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "photocopier-print",
-      "output": "photocopier-print.gpt.png",
+      "output": "photocopier-print.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:51:19.388Z",
       "tokens_used": null,
@@ -1338,11 +1543,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "0211e9932db4daedccfbee70af377ecd563b2f66",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "b09070ed615a97c0d9566fe44740faf584e8965a",
+      "bytes": 473492,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "porcelain-collage",
-      "output": "porcelain-collage.gpt.png",
+      "output": "porcelain-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:52:01.346Z",
       "tokens_used": null,
@@ -1355,11 +1565,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "7d0b074b00caa55323eacf4cfe0db2da6a86f536",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "58490640884d0c22129a61a2e29822b1b96c66f5",
+      "bytes": 341046,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "food-poster",
-      "output": "food-poster.gpt.png",
+      "output": "food-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:52:25.059Z",
       "tokens_used": null,
@@ -1372,11 +1587,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "ddbe43eedfc02c439e5b3b4e02fb8c11a1364414",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "2f183835fd98002b951c09125ddfea72c48f55a1",
+      "bytes": 539636,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "geometric-poster",
-      "output": "geometric-poster.gpt.png",
+      "output": "geometric-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:52:50.561Z",
       "tokens_used": null,
@@ -1389,11 +1609,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "430fce48e01d71c21ed64b16e53f71b0ac39e8ec",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "cc7550ce71945b507e1258d33019461e1ae5f558",
+      "bytes": 317774,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "passport-ticket",
-      "output": "passport-ticket.gpt.png",
+      "output": "passport-ticket.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:53:34.827Z",
       "tokens_used": null,
@@ -1406,11 +1631,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "aa1cf62ecda8f47fca93ba5929bd4149992396d1",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "38009464a6fa579f69d737b489400fa2f3266bd8",
+      "bytes": 1044792,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "black-line-drawing",
-      "output": "black-line-drawing.gpt.png",
+      "output": "black-line-drawing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:53:52.266Z",
       "tokens_used": null,
@@ -1423,11 +1653,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "9668c5bff6fc03548e0cb90bf33576ca008d4c4f",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "473c81b97870976fa467b9d12b0ea6b481681a58",
+      "bytes": 368944,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-cut-collage",
-      "output": "paper-cut-collage.gpt.png",
+      "output": "paper-cut-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:54:18.829Z",
       "tokens_used": null,
@@ -1440,11 +1675,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "4d85837e9a90d9f644f740d989838f303c95fc03",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "8d26857ec1d1bfb1827e75a2093a489d1bc60943",
+      "bytes": 477354,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "hand-drawn-feel",
-      "output": "hand-drawn-feel.gpt.png",
+      "output": "hand-drawn-feel.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:54:37.213Z",
       "tokens_used": null,
@@ -1457,11 +1697,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "bc357120751ad84f9d184182372b7ee2a96eda0b",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "be707e5c38aab39abde99bf7063dd48cee86991d",
+      "bytes": 377862,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "dot-matrix",
-      "output": "dot-matrix.gpt.png",
+      "output": "dot-matrix.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:55:06.789Z",
       "tokens_used": null,
@@ -1474,11 +1719,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "6c0d593468badf47b74a0b43c2a393189fb1890d",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "a50e2e1113c869c871dfea60ed7eb3e510c5cba2",
+      "bytes": 681692,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "spot-illustration",
-      "output": "spot-illustration.gpt.png",
+      "output": "spot-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:55:25.105Z",
       "tokens_used": null,
@@ -1491,11 +1741,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "c512f225945971f81587f5c8e94d8dfc7c809c8d",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "461e60a7ee0fda0b87c659a946fe04e4e5b2b167",
+      "bytes": 76652,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "wool-felt",
-      "output": "wool-felt.gpt.png",
+      "output": "wool-felt.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:55:45.982Z",
       "tokens_used": null,
@@ -1508,11 +1763,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "68fcdf3d0fc3fcde16ace3035d103c0978fc4063",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "50f73892ef0a2708013d853f3e25dd6fb3db2cb3",
+      "bytes": 235438,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "typography-device",
-      "output": "typography-device.gpt.png",
+      "output": "typography-device.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:56:10.043Z",
       "tokens_used": null,
@@ -1525,11 +1785,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "9ee670ddf9e0a3566ecb712558abe2dcb498dc39",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "244263d4b8bcd153279055690aa1f79a2ea53d26",
+      "bytes": 95848,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "comparison-poster",
-      "output": "comparison-poster.gpt.png",
+      "output": "comparison-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:56:26.417Z",
       "tokens_used": null,
@@ -1542,11 +1807,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "8e259e11983e5f1b215397605792494f71c4f0b5",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "a4b7ea236357dd5bceaf4a7d4bbb47ffb9a93720",
+      "bytes": 167806,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "split-poster",
-      "output": "split-poster.gpt.png",
+      "output": "split-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:56:49.390Z",
       "tokens_used": null,
@@ -1559,11 +1829,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "9c19e7a046fe0275dee6f0d084785425a22eb326",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "886d2f7deba3fa6868e7f77003b009ade17aafc7",
+      "bytes": 574232,
+      "width": 1354,
+      "height": 1161,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "brand-packaging",
-      "output": "brand-packaging.gpt.png",
+      "output": "brand-packaging.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:57:16.948Z",
       "tokens_used": null,
@@ -1576,11 +1851,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "42d08781600c7692736718a32cce9d857e61f0aa",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "493115c5794e1ffe42ffe0e0a5f77de489d8b684",
+      "bytes": 380890,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "cinematic-portraits",
-      "output": "cinematic-portraits.gpt.png",
+      "output": "cinematic-portraits.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:57:39.027Z",
       "tokens_used": null,
@@ -1593,11 +1873,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "74a4e4dbf90b0434008166c1036a0cb52ac5d83f",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "7746dc24344e112bd4e90bcaf2f3ca88a62573d8",
+      "bytes": 118816,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "blueprint-poster",
-      "output": "blueprint-poster.gpt.png",
+      "output": "blueprint-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:58:04.158Z",
       "tokens_used": null,
@@ -1610,11 +1895,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a2e00936ef403f65a84469b78847859a3e1d891f",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "e7cc284a524a07e796f282b1bcba1ba7fe51c8e8",
+      "bytes": 305044,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "white-space-illustration",
-      "output": "white-space-illustration.gpt.png",
+      "output": "white-space-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:58:04.560Z",
       "tokens_used": null,
@@ -1627,11 +1917,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "7471b4f1ed9be40f875e8aa04f594b4392b783a2",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "a48b6a7cd3996e36edc32ca7905c2ae132555b6d",
+      "bytes": 622936,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "japanese-hand-drawn",
-      "output": "japanese-hand-drawn.gpt.png",
+      "output": "japanese-hand-drawn.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:58:06.281Z",
       "tokens_used": null,
@@ -1644,11 +1939,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "b361b563a00cf7a95184d324b28890b15246ffdf",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "55bdecec180c284e7f0ed9d17d9549ca50d5cf9d",
+      "bytes": 750278,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "abstract-gouache",
-      "output": "abstract-gouache.gpt.png",
+      "output": "abstract-gouache.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:58:07.919Z",
       "tokens_used": null,
@@ -1661,11 +1961,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "8e6ca606d42a8cef72352f39e853744859266bb4",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "b792c781e60dc76226a61a40050b903c3b6fa5e6",
+      "bytes": 119890,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "translucent-tracing-paper",
-      "output": "translucent-tracing-paper.gpt.png",
+      "output": "translucent-tracing-paper.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:58:09.368Z",
       "tokens_used": null,
@@ -1678,11 +1983,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "42080bbd1272f8ac7c25e87df3eb36868a886249",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "dd3d1737f59e9319b421de6a9870f98d9713cda1",
+      "bytes": 315430,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "japanese-retro-manga",
-      "output": "japanese-retro-manga.gpt.png",
+      "output": "japanese-retro-manga.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:58:11.809Z",
       "tokens_used": null,
@@ -1695,7 +2005,12 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "671c18e9ad594edfa94a783fde771437851ee76b",
       "review_status": "unreviewed",
-      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable."
+      "notes": "Uncurated GPT comparison from the archived structural summary with full-frame override. Original provider outputs retained; model version, seed and token usage are unavailable.",
+      "sha": "783e4231639d49a5ae187a8d4aeea817755a94de",
+      "bytes": 634426,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "white-space-illustration",
