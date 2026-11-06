@@ -62,6 +62,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame 1950s–60s European vintage comic treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hatched treatment only, as a standalone full image): bold black ink outlines, fine parallel hatching and cross-hatching, teal-cyan skies and cool shadows against warm vermilion red, orange, golden ochre, cream and sun-yellow, flat printed colors with risograph grain, composition and subjects preserved, no added title text."
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-06T09:11:17-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame minimalist flat-vector transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration treatment only, as a standalone full image): book-fair table reduced to ultra-fine outlines and flat color blocks on a muted light ground, subject with generous negative space, no added title text.",
+      "output": "minimalist-simplification.webp",
+      "prompt_slug": "minimalist-simplification",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

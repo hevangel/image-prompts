@@ -697,6 +697,15 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "review_status": "unreviewed",
       "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed."
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-06T09:11:17-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame minimalist flat-vector transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration treatment only, as a standalone full image): fjord, ridgelines and evergreens reduced to ultra-fine outlines and flat blue/green color blocks on a muted cream ground, subject with generous negative space, no added title text.",
+      "output": "minimalist-simplification.webp",
+      "prompt_slug": "minimalist-simplification",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
