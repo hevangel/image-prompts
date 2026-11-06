@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "bright-illustration",
+  "output": "bright-illustration.gpt.png",
+  "sha": "0859a557bc1a719d71fe395f58384fcb1f87616f",
+  "generated_at": "2026-11-06T19:07:52.205Z",
+  "prompt": "Style: bright-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork does not copy or trace the photo: it first interprets the photo's essential meaning, atmosphere, symbolism and narrative, then extracts only the most recognizable subjects, silhouettes, structures and flow, removing most background so the scene becomes a memorable visual symbol that stands on its own. The visual language is abstract architectural illustration, geometric collage and playful modernism — simplified architectural silhouettes, organic geometric shapes, flat planar color blocks, delicate linework and subtly irregular handmade edges — with Gestalt-style simplification, generous negative space and a single dominant visual anchor, placed asymmetrically as the photo's flow dictates. Color is taken from the photo's brightest, freshest, most vibrant signature colors (never an average), raised in brightness and purity with restraint — clear sky blue, turquoise, fresh green, warm yellow, coral, soft peach — against abundant warm white or ivory, for a sunny, airy, quietly premium feel. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "84601dc378e3663e07f547ae9605b23202ac51a0",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
