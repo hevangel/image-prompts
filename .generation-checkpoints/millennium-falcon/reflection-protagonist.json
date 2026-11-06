@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "reflection-protagonist",
+  "output": "reflection-protagonist.gpt.png",
+  "sha": "06206867788104aac6f14304245526ffe2b36bdf",
+  "generated_at": "2026-11-06T19:00:04.683Z",
+  "prompt": "Style: reflection-protagonist. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — transformation.** A dreamy, naive, hand-drawn abstract painting in a Miró-like manner: irregular shapes, soft and defocused edges, gentle glow, and visible screen-print/grain texture, while keeping the scene's recognizable features, characters, and composition. - **Reflection rule.** Light, highlights, and especially existing wet/reflected surfaces (notably rainy streetlights) are emphasized and enlarged into the main visual subject, not treated as background. - **Colors.** Muted Morandi tones drawn from the source image, with complementary color accents; no fixed palette is imposed — colors follow the source. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "16efb06f4387f0df964de98454400615ea65415e",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
