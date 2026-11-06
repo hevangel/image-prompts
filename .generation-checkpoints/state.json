@@ -1723,6 +1723,248 @@
       "quality_issues": [],
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
       "source_review": "contact-sheet reviewed"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "reflection-protagonist",
+      "output": "reflection-protagonist.gpt.png",
+      "sha": "06206867788104aac6f14304245526ffe2b36bdf",
+      "generated_at": "2026-11-06T19:00:04.683Z",
+      "prompt": "Style: reflection-protagonist. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — transformation.** A dreamy, naive, hand-drawn abstract painting in a Miró-like manner: irregular shapes, soft and defocused edges, gentle glow, and visible screen-print/grain texture, while keeping the scene's recognizable features, characters, and composition. - **Reflection rule.** Light, highlights, and especially existing wet/reflected surfaces (notably rainy streetlights) are emphasized and enlarged into the main visual subject, not treated as background. - **Colors.** Muted Morandi tones drawn from the source image, with complementary color accents; no fixed palette is imposed — colors follow the source. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "16efb06f4387f0df964de98454400615ea65415e",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "vintage-hatching-comic",
+      "output": "vintage-hatching-comic.gpt.png",
+      "sha": "6127b1281382f22c46b970e36a6ff8cac0873786",
+      "generated_at": "2026-11-06T19:00:51.674Z",
+      "prompt": "Style: vintage-hatching-comic. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — transformation.** The exact same scene redrawn as a richly detailed 1950s–1960s European vintage comic and storybook illustration, combining pen-and-ink engraving and woodcut-inspired linework with a hand-printed, nostalgic feel, keeping framing, positions, proportions, poses, perspective, horizon and scene structure. - **Line treatment.** Bold, confident black ink outlines with exceptionally fine parallel hatching and cross-hatching for shadows, depth and texture; dense lines in dark areas, lighter spacing in highlights, directional strokes following buildings, roads, clothing, foliage, clouds and architectural surfaces. - **Colors.** Saturated teal-cyan skies and cool shadows contrasted with warm vermilion red, orange, golden ochre, cream and sun-yellow; olive and emerald greens for vegetation; flat printed colors with subtle risograph grain and vintage ink texture. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "ff0aafa3527c301e907c70e95e9bcbd65b62d274",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "neon-thick-impasto",
+      "output": "neon-thick-impasto.gpt.png",
+      "sha": "d11f4e9f6839f5f92c92df840cacdcdefacefbbc",
+      "generated_at": "2026-11-06T19:01:26.754Z",
+      "prompt": "Style: neon-thick-impasto. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **Top panel.** The original photograph preserved faithfully, with only subtle exposure, contrast and white-balance correction; nothing stylized, retouched, added, removed, replaced or rearranged. - **Bottom panel — fidelity.** The same crop as the top panel, keeping the same scene, composition, perspective, subject positions, object sizes and spatial relationships. - **Bottom panel — medium.** Repainted as richly textured thick impasto acrylic/oil painting: visible palette-knife marks, broad flat-brush strokes, layered paint ridges, tactile canvas grain and occasional paint drips, with paint blocks appearing to protrude from the canvas. Skies carry swirling, flowing brush marks, buildings become thick blocks of color, and ground reflections read as paint pulled downward with a brush. - **Bottom panel — color.** An expressive, highly saturated neon-leaning palette — magenta, hot pink, orange, electric blue, teal and violet, with restrained yellow highlights — with color placement following the original photograph. Sky, buildings and sea reflections render like neon lights, bright with a slight outward glow, set against deep blue and deep purple shadows so the bright colors stand out, as if the painting were faintly glowing. Softer traditional oil-painting tones are avoided. Readable in-scene signage counts as part of the scene and is preserved. - **Best subjects.** Recommended especially for sunset, night-scene and reflection photos, where the contrast is strongest. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "ba86c86ab17f925ab0486f7a2383b50cf013dfa9",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "japanese-hand-drawn",
+      "output": "japanese-hand-drawn.gpt.png",
+      "sha": "adaaef699071504655dfbeff15fe959fec8ca26d",
+      "generated_at": "2026-11-06T19:02:03.231Z",
+      "prompt": "Style: japanese-hand-drawn. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **Illustration — simplification.** The scene is reduced to its main subject, action or defining feature — a look, a pose, a building outline, a distinctive small corner — and roughly 70% of the frame is left blank, on a lightly textured paper-like ground. - **Illustration — linework.** Japanese minimalist manga editorial design with expressive hand-drawn ink: strokes vary in thickness, uneven, with dry-brush and broken passages as if drawn stroke by stroke, plus solid black blocks and manga halftone (screentone) dots that give the subject volume. - **Illustration — color.** Black-and-white ink lines recombined with one or two of the source photo's most representative colors (e.g. blue-green for street dance, sky blue for extreme cycling, clay-orange for tennis). The prompt ends with a self-check against those rules. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "6ba6bed8690eb8b9129726675c01752ec69b84af",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "abstract-gouache",
+      "output": "abstract-gouache.gpt.png",
+      "sha": "e7efbcd03bc4d3c1980ad0bb5e0d6f90a0be94df",
+      "generated_at": "2026-11-06T19:02:24.285Z",
+      "prompt": "Style: abstract-gouache. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — selection.** An entirely new, highly abstract visual translation using the same photo as the sole visual source. Do not trace the scene, reconstruct the complete scene, or apply a conventional illustration filter. Identify the most recognizable subject, gesture, relationship, silhouette, structure, direction, or memory point, and select one defining feature — adapted by subject type (portraits: head contours, hairstyle direction, shoulder lines, profiles; actions: gesture direction, movement, balance; relationships: number, relative positions, contact points, interactions; architecture: rooflines, arches, towers, steps, proportions; landscapes: mountain contours, tree silhouettes, coastlines, horizons, water flow; animals: ears, head shapes, tails, wings, postures; everyday objects: outlines, handles, curves, structural features). - **artwork — composition.** The motif is centered or slightly off-center and occupies roughly 25–40% of the artwork's visual area, surrounded by generous clean negative space; it is not enlarged to fill the artwork. The background is warm ivory, soft off-white, or pale beige, with no prominent texture. - **Palette.** 3–5 muted colors chosen independently for each photo, based on its recognizable subject colors, light–dark contrasts, and emotional atmosphere, reinterpreted as soft modernist gouache tones. Never a fixed palette, never colors reused from another photo. - **Painted aesthetic.** Minimal hand-painted gouache with subtle paper-collage qualities — flat, matte, soft, slightly translucent color shapes, gently irregular edges, delicate hand-painted marks, subtle pigment variation, and minimal overlapping brushstrokes. Avoid strong grain, realistic paper fibers, heavy oil-paint textures, complex gradients, volumetric shadows, embossing, sculptural 3D paper layers, detailed outlines, and photographic textures. - **Abstraction limits.** The result must remain highly abstract — not a complete character sketch, cartoon, architectural line drawing, realistic watercolor, complex collage, or decorative pattern. - **Intended contrast.** Richly detailed reality above versus quiet, minimalist abstraction below. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "fdf04c399d4d0b235147a34b542caf0887629cb3",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "european-travel-film",
+      "output": "european-travel-film.gpt.png",
+      "sha": "d754a47e5e8ab2a6dea6a1d102b3a368ba303a95",
+      "generated_at": "2026-11-06T19:02:44.330Z",
+      "prompt": "Style: european-travel-film. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — grading only, no re-rendering.** The same photograph, viewpoint, framing and scene as the foundation, re-graded with a Dazz analog-film feel and Lightroom-style colour grading toward a European vintage travel-editorial look. Grading adapts per photo: gently reduce excessive saturation; muted steel-blue/gray-blue skies where appropriate; authentic stone, brick, wood and metal colours preserved; greenery subdued without losing detail; realistic water reflections, warm sunset tones, natural skin colours and recognisable colours of vibrant subjects retained; no single orange-brown, golden or blue palette imposed on all images. Highlights and shadows refined with gentle cinematic contrast, detail and dimensionality retained, overly digital sharpness softened, subtle realistic fine film grain added. No exaggerated light leaks, scratches, timestamps, heavy filters, artificial colour casts or excessive vintage effects. All buildings, structures, people, animals, terrain, roads, waterways, sky composition, object counts, scales, positions, perspective and meaningful details are preserved in both halves; no invented clouds, weather changes, new light sources, replaced backgrounds or reconstructed scenery. - **Final check.** Strict equal 50/50 split, original on top, composition and subjects as consistent as possible, naturally graded vintage-film travel-editorial interpretation below, one refined poster per input photo. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "4b95df88a36be233703ff8b488daab4e85c9ace8",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "japanese-retro-manga",
+      "output": "japanese-retro-manga.gpt.png",
+      "sha": "c55b7a03d14924c673172f9e2e73664817f7fb2a",
+      "generated_at": "2026-11-06T19:03:09.129Z",
+      "prompt": "Style: japanese-retro-manga. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — selection.** Pick the photo's most recognizable subject or gesture; remove most unnecessary background and clutter. - **artwork — style.** Redraw it as a large retro comic advertisement illustration: thick irregular black ink outlines, solid black shadows, white highlights, selective hatching, and simplified flat color. - **Palette.** A mainly white background with black outlines and shadows, plus one main accent color taken from the photo (a second photo-derived accent only if needed), combined with black-and-white contrast — a retro feel without becoming too old or complicated. Subjects sometimes cover letters and letters sometimes emerge behind subjects, with offset shadows for depth and movement. - **Texture.** Restrained halftone dots, ink grain, hatching, and slight print misregistration. - **Checklist.** Layout accuracy, photo fidelity, the huge headline, subject–headline overlap, a recognizable illustration, and clean white space. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "712fc13045eda07af3e7648bcf8e1cd63682528b",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "black-white-drawing",
+      "output": "black-white-drawing.gpt.png",
+      "sha": "380a15e1a6c809198ad40df58bd4da072b6ac3f1",
+      "generated_at": "2026-11-06T19:03:45.711Z",
+      "prompt": "Style: black-white-drawing. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — medium and color.** A playful, minimalist hand-inked black-and-white illustration using only pure white for background and negative space and near-black for bold outlines and solid shapes. - **artwork — line quality.** Broad, blunt, irregular marker- or loaded-brush strokes with visible hand-drawn wobble, pressure variation, imperfect curves and organic closed contours; thin, smooth, vector-clean lines are excluded. - **artwork — figures.** People are simplified into expressive characters with large irregular rounded heads, small dot or curved eyes, simple ring-shaped noses, friendly expressions, mitten-like hands and chunky limbs, while keeping recognizable hairstyles, glasses, accessories, poses, actions and interactions; non-human subjects get the same playful simplification. - **artwork — reduction.** The primary subject, visual story, important objects and relationships are kept, but roughly 70–90% of unnecessary background detail is removed; the composition stays flat and graphic with generous clean white negative space and bold black silhouettes. A small dense irregular dot pattern may be used on at most one garment or textile area, and is omitted if none suits. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "1cc7f4bc600d9f8e707a0b78617f39e0849d4349",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "color-block-breakout",
+      "output": "color-block-breakout.gpt.png",
+      "sha": "4f554b03861f2206f619a13c034d5ababf3a794e",
+      "generated_at": "2026-11-06T19:04:08.468Z",
+      "prompt": "Style: color-block-breakout. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — selection.** Analyze only the current photo (never combine photos or reuse subjects, colors or design elements from earlier images). Pick its strongest subject, silhouette, gesture and relationship; compress 2–5 memorable cues into one dominant motif plus at most one supporting element. Remove roughly 85–90% of secondary background, objects, texture and clutter. - **artwork — style.** Bold simplified silhouettes, a few flat shapes, selective contours, and paper-white negative space — recognizable at phone size. About 65–75% of the lower panel stays clean warm-white paper, with generous margins and a visible paper gap at the midpoint. - **Palette.** At most two ink colors, both drawn only from the current photo's subject or defining cues, plus warm-white paper. The lighter, quieter ink is used for the painted field; the darker, stronger ink for the focal subject. Colors stay mostly flat and matte — no black outlines, no accent colors, no complex gradients, no realistic shading, no noticeable third color. - **The breakout.** One compact, roughly rectangular painted field (about 20–25% of the lower panel, with soft irregular handmade edges — not a frame or cutout) holds most of the motif. Exactly one meaningful, source-derived part — flowing hair, an extended hand, a wing, a leg, a branch, an instrument, an architectural contour — extends clearly beyond one selected edge as one continuous, readable silhouette. That single extension is the poster's main surprise. - **Avoid list.** Side-by-side layouts, extra panels, tracing the whole photo, a monochrome filter, invented gestures, distorted anatomy, multiple competing extensions, floating decorative fragments, and any lower-panel element touching or crossing into the upper photo. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "2e421d4486dfd745f7eb2aa56867cba1feeffe0c",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "fresh-illustration",
+      "output": "fresh-illustration.gpt.png",
+      "sha": "7e0c09353304c7a86c8f18e5da1224bc62edf396",
+      "generated_at": "2026-11-06T19:04:33.138Z",
+      "prompt": "Style: fresh-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe surroundings may be extended to fill 3:4 but never stretched, distorted, repainted or rearranged. - **artwork — selection.** Do not redraw the whole scene. First find the photo's 3 visual memory points: (1) the main subject, (2) its key action / pose / relationship, (3) the most recognizable environmental cue or silhouette. Only those are reinterpreted as a clean hand-drawn 2D cartoon illustration. - **artwork — reduction.** Remove 70–85% of secondary visual information; keep 50–75% of the half as negative space. The focus stays concentrated; the environment is not recreated. - **artwork — style.** Refined editorial cartoon — explicitly not a childish picture-book or toy-cute look. Clean black outlines with slight hand-drawn line-weight variation, flat soft pastel color fields, only minimal cel shading. Subjects may be simplified but keep their recognizable identity, pose and expression; textures are simplified into clean shapes. Fully 2D — no photorealism, no 3D, no collage. - **artwork — palette.** The photo's 2–5 most memorable key colors, reorganized into a soft, low-saturation pastel palette (light sky blue, soft green, warm skin tones, gentle pink, cream, off-white, pale beige, light yellow…). Bright, fresh and calm, never harsh; the negative space stays clean and airy. - **artwork — must preserve.** The main subject's identity, the number of people and their main interactions, the main pose/action, and the key building / object / landscape silhouette. Clothing, poses and faces must not be redesigned. The final check repeats the numbers: 50/50 halves, strict 3:4, 70–85% removed, 50–75% negative space, palette from the photo's own key colors. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "c016dd2b63af35749f719000a269156381753f16",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "white-space-illustration",
+      "output": "white-space-illustration.gpt.png",
+      "sha": "b664262652d428822b92ae662cf69dacd12b6e8f",
+      "generated_at": "2026-11-06T19:04:57.407Z",
+      "prompt": "Style: white-space-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — reduction.** Complex backgrounds are stripped away; only the meaning worth preserving is kept — a small protagonist rendered as a conceptual line illustration, with expansive quiet negative space around it. - **artwork — medium and color.** Restrained light gray-blue line work on old-notebook-style paper, with a paper texture; the illustration keeps the feeling of the scene rather than its detail. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "59142cd42e30c5cf56c41bfd0ac453fd1fda560e",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "frosted-glass",
+      "output": "frosted-glass.gpt.png",
+      "sha": "7840a2092a5e6bbcb3fe68be3105acb13e8535e5",
+      "generated_at": "2026-11-06T19:05:23.688Z",
+      "prompt": "Style: frosted-glass. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets the photo's most recognizable subjects as a minimalist abstract composition with layered frosted-glass aesthetics — translucent frosted panes, selective (never uniform) blur and haze, restrained guide lines, on an ivory background. The palette is drawn from the photo and brightened into vivid, gentle translucent \"healing\" colors with warm sunlight accents; muted or dirty tones, cartoons and plastic textures are explicitly excluded. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "90db8b375e976cba9232340f0e7142c45ec75648",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "notebook-hand-drawn",
+      "output": "notebook-hand-drawn.gpt.png",
+      "sha": "7044c79c0c3351ba1af1801711992afbec2a7fcd",
+      "generated_at": "2026-11-06T19:05:54.785Z",
+      "prompt": "Style: notebook-hand-drawn. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is a complete reinterpretation: 100% illustration, 0% photography, in a delicate botanical-ink style drawn with a fine black fineliner and controlled parallel and cross-hatching. It first picks out the photo's most recognizable subjects and relationships, keeps their defining features in restrained linework, and removes clutter — some areas intricate, others minimal or entirely blank for deliberate negative space. Color is strictly rationed: two dominant colors extracted from the photo plus one derived complementary accent, black ink, and warm-white paper — nothing else. The color goes on as large, flat, irregular abstract blocks (broad-marker organic shapes) laid behind and around the subject as an independent layer; blocks may cross the ink lines or disappear behind the subject, with intentional imperfections and a few small dots for rhythm, like a handmade screen-print or sketchbook page. The background is dramatically simplified — a few essential contours plus generous warm-white negative space — on heavyweight warm-white notebook paper with subtle fibers and grain. Explicitly excluded: photorealism, digital-painting and 3D looks, smooth gradients, watercolor bleeding, colored outlines, busy backgrounds, full-coverage coloring, perfect geometry, generic floral decoration, arbitrary colors, and dense all-over linework. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "b4de5cc5299d31cc88cf3d851b96a04569e89445",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "blue-red-risograph",
+      "output": "blue-red-risograph.gpt.png",
+      "sha": "15e33d102fb92b9bb201f0dc293290cf191202da",
+      "generated_at": "2026-11-06T19:06:18.771Z",
+      "prompt": "Style: blue-red-risograph. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is a two-color Risograph editorial illustration. It starts by finding the photo's three strongest visual memory points, then removes roughly 60–75% of background and detail and recomposes what remains as a minimalist illustration — bold geometric shapes, flat ink areas, open contours, expressive negative space — corresponding to the photo without tracing it. Only two inks are allowed: deep ultramarine blue and warm coral red on ivory paper with a subtle fiber texture; where they overlap, a darker tone appears on its own. The print character is essential: uneven ink coverage, visible grain, halftone texture, slight registration offsets between the two colors, rough edges and handmade imperfections. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "c015181ed5422f7fc85a1abe7811d979afe5b6a3",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "translucent-tracing-paper",
+      "output": "translucent-tracing-paper.gpt.png",
+      "sha": "f3036d851fbc34c3432cb747637a412d2938979e",
+      "generated_at": "2026-11-06T19:06:44.320Z",
+      "prompt": "Style: translucent-tracing-paper. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — simplification.** Only 2–5 essential visual memory cues are kept; about 75–90% of the secondary background is removed, and about 55–70% of the lower panel stays visually quiet, with a compact focal grouping and generous negative space. - **artwork — paper layering.** The subject is rendered in about 3–5 thin, semi-transparent, matte, softly milky tracing-paper layers with fine fibers, at three clarity levels: one gesture through a single layer; principal forms softened through two overlapping layers; secondary forms partly obscured under more layers. Softness comes from translucency and layered occlusion, not blur. - **artwork — color and light.** Colors are derived independently per photograph from its own palette over a clean off-white or very lightly source-tinted background, avoiding yellowing, sepia or aged-paper tones. Lighting follows the source, with broad soft light through the sheets and restrained translucent luminosity. - **What it avoids.** Realistic rendering, dense outlines, polygonal facets, watercolor blooms, heavy grain, glossy plastic, acrylic, frosted glass, thick cardboard, origami and paper-cut looks. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "8a9e011678b50dbb53c0dca475089e213c15c8d4",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "impasto-oil-painting",
+      "output": "impasto-oil-painting.gpt.png",
+      "sha": "7b2b9aa6718e3afe5e878483662b198eb5677d25",
+      "generated_at": "2026-11-06T19:07:10.392Z",
+      "prompt": "Style: impasto-oil-painting. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is an extraction and reconstruction, not a repaint of the whole scene: find the photo's 2–5 most important elements, choose the single strongest subject or silhouette as the focus, and remove or drastically simplify 70–90% of backgrounds, clutter and minor detail. The recomposed scene keeps roughly half to three-quarters of its area visually quiet — clean white or warm off-white — with secondary elements reduced to a few suggestive shapes and color fields. The medium is expressive minimal impasto oil painting: thick sculptural brushstrokes, heavily layered pigment, palette-knife texture, visible paint ridges and tactile buildup, applied most thickly to the most important forms and left loose or untouched elsewhere — never uniform texture everywhere. Color comes from the photo's own dominant colors, intensified into rich, vivid, saturated accents; muddy, dusty, pastel or low-saturation schemes are rejected, and neutrals only support. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "500bd0af474673ac7ac08515240fba3163ae6778",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "small-illustration",
+      "output": "small-illustration.gpt.png",
+      "sha": "54aceb4672cc332efc14384348e0501008e4e1ff",
+      "generated_at": "2026-11-06T19:07:29.931Z",
+      "prompt": "Style: small-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts only the most recognizable subjects, contours, poses and narrative relationships and reinterprets them as a small-scale editorial spot illustration, aggressively eliminating secondary detail and background. Its defining principle: an exceptionally small illustration surrounded by an enormous amount of untouched paper — the drawing occupies only a small portion of its half, placed by the subject's natural direction and weight, with no background, panel, border or frame, and the paper itself as an active compositional element; when in doubt, remove more. People, buildings, animals, plants, objects and landscapes may be boldly generalized, cropped, omitted or recombined, but the correspondence with the photo above must read at a glance. The drawing uses restrained gestural strokes in rough, dry media — wax crayon, oil pastel, coarse graphite, China marker — a few powerful strokes, simplified shapes, broken contours, scuffs, incomplete coverage, exposed paper and slight misalignment: tactile, handmade, slightly imperfect. Color is strictly three elements: warm gray-white paper, charcoal black carrying the structure, contours and main visual weight, and rust red / brick red used only as a sparse selective accent at a few visual jump-points — distributed by the picture's rhythm, not matched to objects' real colors. Excluded: complete scene reconstruction, filled backgrounds, photorealistic redrawing, polished vector looks, multicolored rendering, complex shadows, cartoon or 3D feel, oversized headlines, templated poster feel. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "027ac6ca06460314b843fbbf981954cfdf9a8da0",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "bright-illustration",
+      "output": "bright-illustration.gpt.png",
+      "sha": "0859a557bc1a719d71fe395f58384fcb1f87616f",
+      "generated_at": "2026-11-06T19:07:52.205Z",
+      "prompt": "Style: bright-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork does not copy or trace the photo: it first interprets the photo's essential meaning, atmosphere, symbolism and narrative, then extracts only the most recognizable subjects, silhouettes, structures and flow, removing most background so the scene becomes a memorable visual symbol that stands on its own. The visual language is abstract architectural illustration, geometric collage and playful modernism — simplified architectural silhouettes, organic geometric shapes, flat planar color blocks, delicate linework and subtly irregular handmade edges — with Gestalt-style simplification, generous negative space and a single dominant visual anchor, placed asymmetrically as the photo's flow dictates. Color is taken from the photo's brightest, freshest, most vibrant signature colors (never an average), raised in brightness and purity with restraint — clear sky blue, turquoise, fresh green, warm yellow, coral, soft peach — against abundant warm white or ivory, for a sunny, airy, quietly premium feel. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "84601dc378e3663e07f547ae9605b23202ac51a0",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "blueprint-cyanotype",
+      "output": "blueprint-cyanotype.gpt.png",
+      "sha": "16e78bb0515e96364cfbc567130c8b1183a2d602",
+      "generated_at": "2026-11-06T19:08:17.434Z",
+      "prompt": "Style: blueprint-cyanotype. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets the photo's actual content as a handmade cyanotype print on visibly textured flat paper: deep Prussian blue as the exposed-paper ground, and the main subject — plus only those environmental elements genuinely belonging to the scene — appearing in luminous pale ivory, as if exposed by light. The method is editing, reduction, extraction, simplification and reconstruction: keep the strongest structures, most recognizable silhouettes, essential gestures and spatial relationships, with generous negative space. A strict exclusion defines this prompt: no fixed botanical template — never add decorative ferns, wildflowers, branches, grasses, leaves, botanical borders or plant silhouettes to fill space; plants appear only if genuinely present in the original, and nothing may be invented. The cyanotype character must be physical: paper fibers, subtly imperfect contact-print edges, nuanced blue variation, localized uneven exposure, faint chemical processing marks — not a digital illustration or a simple blue filter. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "a8e0305ab8ca5c0bf8278ae41c999c6e1cfdf53a",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "flat-silhouette",
+      "output": "flat-silhouette.gpt.png",
+      "sha": "0343f5b0284b89c2faae953dd67aca2f0e66652d",
+      "generated_at": "2026-11-06T19:08:41.152Z",
+      "prompt": "Style: flat-silhouette. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork — \"Flat Silhouette Still Life on a Dark Ground\" — keeps only the essential subject and a few closely related elements, rendered as solid, outline-free, detail-free silhouettes that overlap into one compact layered cluster on a continuous dark background, with generous dark negative space (especially above) and the opposite side left open. Depth comes only from overlap and subtle tonal differences: no perspective, gradients, realistic lighting or cast shadows. The palette is drawn from the photo's own emotional colors — its darkest color deepened (with a trace of hue kept) becomes the ground; the rest are desaturated into dusty pastel-gray blocks; and exactly one silhouette is elevated to a bright warm off-white as the single focal point. Everything carries a delicate dry-gouache powdery grain, matte and velvety, with soft slightly irregular hand-cut edges. Excluded: complete scene replication, visible outlines, equally bright shapes with no focal point, candy colors, pure black, 3D rendering, cartoon aesthetics, and any distress or aging effects. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "3f6802307d8cf637f20363b0ae48bb277c8f64ad",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "woodcut-print",
+      "output": "woodcut-print.gpt.png",
+      "sha": "7d59d48d5885dfdd3a72712e1adb1246c1cea728",
+      "generated_at": "2026-11-06T19:09:05.814Z",
+      "prompt": "Style: woodcut-print. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts only the most recognizable subjects, silhouettes, poses, objects and narrative connections and reinterprets them as a limited-color woodcut / linocut impression floating on warm paper — rebuilt through hand-carved language: visible carving marks, uneven line thickness, hesitant cuts, rough edges, abrupt turns, small breaks and gaps, irregular negative space, slight misregistration, worn areas, dry texture, incomplete printing, missing ink, coarse grain. Complex backgrounds and clutter are removed; the composition keeps one strong visual anchor, generous negative space, and incomplete edges that dissolve into broken ink and exposed paper rather than forming a rectangular frame. Color is drawn from the photo's most recognizable, emotionally meaningful colors, reinterpreted in a fresh, soft, bright limited palette — cream white, ivory, pale pink, mist green, light blue, soft yellow, pale orange, mint, gentle coral, light ochre, muted teal — low-to-medium saturation, high brightness, matte physical inks in separate slightly translucent layers; dark, muddy or heavy vintage schemes are avoided. Excluded: generic filters, full-background replication, polished vector, clean digital outlines, glossy rendering, cartoon styling, 3D, heavy grunge, cheap retro, formulaic travel-poster styling. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "aa124adcfa016194d6b0eeba57dd64c689867dcd",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "paper-cut",
+      "output": "paper-cut.gpt.png",
+      "sha": "ff6e08b57e417c953544574da2a9e2a5d5ec7aa8",
+      "generated_at": "2026-11-06T19:09:32.383Z",
+      "prompt": "Style: paper-cut. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets it as a modern geometric cut-paper editorial illustration with bold flat vector art and mid-century character design — not a cartoonization, trace or full recreation. It keeps one primary subject plus at most one or two meaningful supporting elements, removes unnecessary backgrounds and details, and rebuilds the scene from large bold flat geometric shapes, irregular polygons, curves and slightly imperfect hand-cut silhouettes on a uniform warm cream/ivory paper background, the illustration isolated at roughly a third to two-thirds of the panel's width with generous negative space. Faces are simplified to minimal geometric details with visible eyes; anatomy, gestures, pose and key accessories stay recognizable; no chibi proportions or generic cartoon styling. Color: 4–7 representative colors from the photo in a vibrant retro palette with strong warm–cool contrast — saturated clean color blocks, no realistic shading, gradients or heavy black outlines. Texture is extremely subtle: fine stipple grain, halftone dots, delicate Risograph ink texture. Excluded: photorealistic illustration, 3D, anime, watercolor, automatic vector tracing, complex scenes, thick outlines, realistic shadows, excessive grain, unnecessary props. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "b596fec30d4f735997d0dfc3c88dceb8bfd9fe84",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+      "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
     }
   ],
   "specs": [
@@ -7000,12 +7242,227 @@
     "source_reviewed_outputs": 64,
     "updated_at": "2026-11-06T18:37:57.442Z"
   },
-  "interruptions": [
+  "failures": [
     {
       "sample": "millennium-falcon",
-      "observed_generated_lower_bound": 54,
-      "status": "discarded",
-      "reason": "Session interruption lost unfinished batch metadata; uploaded orphan blobs cannot be associated with styles reliably."
+      "slug": "minimalist-simplification",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID fc557685-2252-4883-83fe-43c9432f7ff3.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "woven-tapestry",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76290}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "rough-brushed-lines",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76290}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "retro-film",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76290}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "out-of-frame",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76290}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "mediterranean-poster",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76289}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "one-line-contour",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76289}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "clean-illustration",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76289}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "dynamic-field-print",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76289}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "ink-starved-geometry",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76289}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "asymmetric-enlargement",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76288}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "fine-line-poster",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76288}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "vintage-lines",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76288}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "storytelling-collage",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76288}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "pixel-art",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76287}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "patchwork-embroidery",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76287}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "ink-rubbing",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76287}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "paper-collage-lines",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76287}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "white-model",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76286}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "paper-carving",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76286}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "bento-box",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76286}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "perler-beads",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76285}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "soft-focus",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76286}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "colored-paper-collage",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76285}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "lingering-afterglow",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76285}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "photocopier-print",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76285}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "food-poster",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76284}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "porcelain-collage",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76284}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "black-line-drawing",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76284}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "geometric-poster",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76284}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "passport-ticket",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76284}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "paper-cut-collage",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76283}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "hand-drawn-feel",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76283}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "dot-matrix",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76282}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "spot-illustration",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76283}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "wool-felt",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76282}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "typography-device",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76283}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "comparison-poster",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068460,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76281}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "split-poster",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76281}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "blueprint-poster",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76281}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "brand-packaging",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76281}}\")"
+    },
+    {
+      "sample": "millennium-falcon",
+      "slug": "cinematic-portraits",
+      "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1794068461,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":76281}}\")"
     }
-  ]
+  ],
+  "counts": {
+    "success": 150,
+    "remaining": 234,
+    "quotaRejected": 41,
+    "safetyRejected": 1,
+    "animationExcluded": 6
+  },
+  "usage_limit": {
+    "resets_at": "2026-11-07T16:21:01Z"
+  },
+  "note": "Resume from per-image checkpoints on this branch; do not regenerate existing sample/style pairs."
 }
