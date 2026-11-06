@@ -62,7 +62,7 @@ for ledger_path in Path("samples").glob("*/generations.json"):
     if not generations:
         continue
     items = [("ORIGINAL", ledger.get("input", "input.jpg"))] + [
-        (g["prompt_slug"], g["output"]) for g in sorted(generations, key=lambda g: g["prompt_slug"])
+        ((("GPT" if g["model"].startswith("ChatGPT") else g["model"].split()[0]) + ": " + g["prompt_slug"]), g["output"]) for g in sorted(generations, key=lambda g: (g["prompt_slug"], g["model"]))
     ]
     tile_w, tile_h, columns = 220, 190, 8
     rows = (len(items) + columns - 1) // columns
@@ -73,5 +73,5 @@ for ledger_path in Path("samples").glob("*/generations.json"):
             thumbnail = ImageOps.contain(image.convert("RGB"), (tile_w - 8, tile_h - 32))
         x, y = index % columns * tile_w, index // columns * tile_h
         sheet.paste(thumbnail, (x + (tile_w - thumbnail.width) // 2, y + 4))
-        draw.text((x + 4, y + tile_h - 26), label[:27], fill="black", font=font)
+        draw.text((x + 4, y + tile_h - 26), label[:32], fill="black", font=font)
     sheet.save(Path("runs") / f"gpt-2026-11-06-{ledger_path.parent.name}.jpg", quality=80, optimize=True)

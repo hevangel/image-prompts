@@ -267,6 +267,7 @@ function renderGenGrid() {
         <div class="meta">from “${esc(r.sample.title)}”</div>
         ${modelName ? `<div class="meta">Model: ${esc(modelName)}</div>` : ""}
         ${when ? `<div class="meta">${esc(when)}</div>` : ""}
+        ${r.gen && r.gen.quality_issues && r.gen.quality_issues.length ? `<div class="meta">Observed: ${esc(r.gen.quality_issues.join(", ").replace(/_/g, " "))}</div>` : ""}
         ${r.gen && r.gen.tokens_used != null ? `<div class="meta">Tokens: ${esc(r.gen.tokens_used)}</div>` : ""}
       </div>`;
     card.querySelector(".p-link").addEventListener("click", () => { showTab("prompts"); openDetail(r.slug); });

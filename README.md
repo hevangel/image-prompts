@@ -81,3 +81,7 @@ The book-fair ledger omitted 56 existing images. Their original records were
 restored from commit `37e2167a37357224876ff328000e3938c4d6fc64` after confirming
 that each current image blob matches that historical commit. The two Grok
 outputs retain their existing attribution.
+
+The two historical Muse book-fair images were also restored under `.muse.webp`
+filenames, using their original image blobs, so the two existing Grok samples
+can be compared directly with Muse and GPT on the same input photo.
