@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "translucent-tracing-paper",
+  "output": "translucent-tracing-paper.gpt.png",
+  "sha": "f3036d851fbc34c3432cb747637a412d2938979e",
+  "generated_at": "2026-11-06T19:06:44.320Z",
+  "prompt": "Style: translucent-tracing-paper. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — simplification.** Only 2–5 essential visual memory cues are kept; about 75–90% of the secondary background is removed, and about 55–70% of the lower panel stays visually quiet, with a compact focal grouping and generous negative space. - **artwork — paper layering.** The subject is rendered in about 3–5 thin, semi-transparent, matte, softly milky tracing-paper layers with fine fibers, at three clarity levels: one gesture through a single layer; principal forms softened through two overlapping layers; secondary forms partly obscured under more layers. Softness comes from translucency and layered occlusion, not blur. - **artwork — color and light.** Colors are derived independently per photograph from its own palette over a clean off-white or very lightly source-tinted background, avoiding yellowing, sepia or aged-paper tones. Lighting follows the source, with broad soft light through the sheets and restrained translucent luminosity. - **What it avoids.** Realistic rendering, dense outlines, polygonal facets, watercolor blooms, heavy grain, glossy plastic, acrylic, frosted glass, thick cardboard, origami and paper-cut looks. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "8a9e011678b50dbb53c0dca475089e213c15c8d4",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
