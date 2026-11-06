@@ -2195,3 +2195,12 @@ If an interrupted experiment did not retain its image or exact timestamp,
 record `status: discarded`, `output: null`, `generated_at: null`,
 `current: false`, `comparison: false`, and an explicit reason instead of
 inventing a file path or timestamp.
+
+When a manifest-listed legacy output lacks a current ledger entry, record its
+provider as `Unknown (legacy output)` with an unavailable generation timestamp.
+Do not infer a provider from other images, a filename, or surrounding entries.
+
+Never overlap generation batches from different source photos. Withhold all
+image results until every request for one fixed source has completed; progress
+updates during a batch must be text-only. Review the resulting contact sheet
+before admitting any output as a valid source-photo comparison.

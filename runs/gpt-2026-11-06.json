@@ -5,7 +5,7 @@
   "prompt_basis": "Repository structural summaries, adapted to full-frame artwork; exact prompt_text is in each generations.json.",
   "started_from_commit": "5b10686bd9cd8471b5529754bad050f43bac4571",
   "expected_still_outputs": 378,
-  "registered_outputs": 7,
+  "registered_outputs": 35,
   "skipped_animation_jobs": 6,
   "jobs": [
     {
@@ -18,225 +18,281 @@
       "sample": "howe-sound",
       "prompt_slug": "vintage-hatching-comic",
       "status": "completed",
-      "output": "samples/howe-sound/vintage-hatching-comic.gpt.webp",
-      "sha": "7c9900248229d32634e158141b1d00dfb13c660b",
-      "raw_output": "samples/howe-sound/vintage-hatching-comic.gpt.png",
-      "source_png_sha": "8174885da3900b840aa84acbc5af730307811215",
-      "width": 1448,
-      "height": 1086,
-      "bytes": 909808
+      "output": "samples/howe-sound/vintage-hatching-comic.gpt.png",
+      "sha": "8174885da3900b840aa84acbc5af730307811215",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "reflection-protagonist",
       "status": "completed",
-      "output": "samples/howe-sound/reflection-protagonist.gpt.webp",
-      "sha": "5fd2708e58ea07bd3fc0ec947b3a68e651c0e711",
-      "raw_output": "samples/howe-sound/reflection-protagonist.gpt.png",
-      "source_png_sha": "f99b1bd3af7e256a6d1342209233e54ad352908b",
-      "width": 1448,
-      "height": 1086,
-      "bytes": 740470
+      "output": "samples/howe-sound/reflection-protagonist.gpt.png",
+      "sha": "f99b1bd3af7e256a6d1342209233e54ad352908b",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "european-travel-film",
       "status": "completed",
-      "output": "samples/howe-sound/european-travel-film.gpt.webp",
-      "sha": "86ecef4e4fa9b7d81280736e5caa608d00903b49",
-      "raw_output": "samples/howe-sound/european-travel-film.gpt.png",
-      "source_png_sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85",
-      "width": 1448,
-      "height": 1086,
-      "bytes": 548078
+      "output": "samples/howe-sound/european-travel-film.gpt.png",
+      "sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "black-white-drawing",
       "status": "completed",
-      "output": "samples/howe-sound/black-white-drawing.gpt.webp",
-      "sha": "120a79170d7d1f6a75db05e7469c9d70b955ae3b",
-      "raw_output": "samples/howe-sound/black-white-drawing.gpt.png",
-      "source_png_sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe",
-      "width": 1448,
-      "height": 1086,
-      "bytes": 275478
+      "output": "samples/howe-sound/black-white-drawing.gpt.png",
+      "sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "white-space-illustration",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/white-space-illustration.gpt.png",
+      "sha": "6a597d8a7c9c37b9d4795fb65b9f7d7a6b280b41",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "translucent-tracing-paper",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/translucent-tracing-paper.gpt.png",
+      "sha": "379e621a891580ff9845bc061e134e550ba93c45",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "japanese-hand-drawn",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/japanese-hand-drawn.gpt.png",
+      "sha": "4c9a2f6c645ca6d5f9a4f66942d1e08f12b786de",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "neon-thick-impasto",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/neon-thick-impasto.gpt.png",
+      "sha": "76aaac8e398587d62a9cf53ebc30964373f71618",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "abstract-gouache",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/abstract-gouache.gpt.png",
+      "sha": "df6384bcab53a90f5ed45af47d3789ed662b1ae4",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "japanese-retro-manga",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/japanese-retro-manga.gpt.png",
+      "sha": "56aef5a2631bad1c1b866475d0213eebf02a3e22",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "color-block-breakout",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/color-block-breakout.gpt.png",
+      "sha": "1cb59f6b36d8c972cc7d720e23ef2f3997ef3d99",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "fresh-illustration",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/fresh-illustration.gpt.png",
+      "sha": "a8040ea520e000f43c261ab0fe8cb9d1f4c26e9b",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "frosted-glass",
       "status": "completed",
-      "output": "samples/howe-sound/frosted-glass.gpt.webp",
-      "sha": "46d2a7da186df2d01749c8842aba509d5672365d",
-      "raw_output": "samples/howe-sound/frosted-glass.gpt.png",
-      "source_png_sha": "3753124dfce797474743d0038436cc65d2873fb8",
-      "width": 1448,
-      "height": 1086,
-      "bytes": 386578
+      "output": "samples/howe-sound/frosted-glass.gpt.png",
+      "sha": "3753124dfce797474743d0038436cc65d2873fb8",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "notebook-hand-drawn",
       "status": "completed",
-      "output": "samples/howe-sound/notebook-hand-drawn.gpt.webp",
-      "sha": "bae0ba7c407bf4248fda56410bae74c8718ff502",
-      "raw_output": "samples/howe-sound/notebook-hand-drawn.gpt.png",
-      "source_png_sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5",
-      "width": 1086,
-      "height": 1448,
-      "bytes": 758460
+      "output": "samples/howe-sound/notebook-hand-drawn.gpt.png",
+      "sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "blue-red-risograph",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/blue-red-risograph.gpt.png",
+      "sha": "a3f9ac825f6da46a9998be28ee19e19d0ad81a03",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "impasto-oil-painting",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/impasto-oil-painting.gpt.png",
+      "sha": "afc6307cf23fb65ae56dfce0fd763620aa90f045",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "flat-silhouette",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/flat-silhouette.gpt.png",
+      "sha": "9fe8917c59eeda8e40ba1ab5e4eba1f0256e9ff1",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "bright-illustration",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/bright-illustration.gpt.png",
+      "sha": "b7505533970a91aee02d1b8ce26fc7df172d2835",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "small-illustration",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/small-illustration.gpt.png",
+      "sha": "7f0324e734ff703e2faebab44a8c30930a4b2396",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "blueprint-cyanotype",
       "status": "completed",
-      "output": "samples/howe-sound/blueprint-cyanotype.gpt.webp",
-      "sha": "98e77561cf00fe71957a638afa1491d26e5c4585",
-      "raw_output": "samples/howe-sound/blueprint-cyanotype.gpt.png",
-      "source_png_sha": "ab437b5184da62668b036527cffcb7ec4c358641",
-      "width": 1086,
-      "height": 1448,
-      "bytes": 664778
+      "output": "samples/howe-sound/blueprint-cyanotype.gpt.png",
+      "sha": "ab437b5184da62668b036527cffcb7ec4c358641",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "woven-tapestry",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/woven-tapestry.gpt.png",
+      "sha": "c1f401d172410c0f5d8d4097d136e79f642711d3",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "rough-brushed-lines",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/rough-brushed-lines.gpt.png",
+      "sha": "077ec50a557efba14dc93b5f190fb0bf9165ae98",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "woodcut-print",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/woodcut-print.gpt.png",
+      "sha": "a693aacbd83d983bde3608d68b1cd2866ab6293f",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "paper-cut",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/paper-cut.gpt.png",
+      "sha": "a8afee6265412904e0b3ab3891b566abd058384c",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "retro-film",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/retro-film.gpt.png",
+      "sha": "0bb62153ab47676d22cd6cf976327e4a74868257",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "out-of-frame",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/out-of-frame.gpt.png",
+      "sha": "c4634fbbd8ee55aa8d6c2cce8baa7558894f1a25",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "mediterranean-poster",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/mediterranean-poster.gpt.png",
+      "sha": "49d6d39a74c40091804943508d27e6930bd13982",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "one-line-contour",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/one-line-contour.gpt.png",
+      "sha": "438f08db58f0fa74d10e04211b805e4e18d4e6a7",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "clean-illustration",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/clean-illustration.gpt.png",
+      "sha": "69f344d59e1e04a350220bd24184ef49d836e745",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "dynamic-field-print",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/dynamic-field-print.gpt.png",
+      "sha": "57d5c704052d01122bab73a8ddda26a2f9c6ac0a",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "ink-starved-geometry",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/ink-starved-geometry.gpt.png",
+      "sha": "458a0a12269508cd9e30a7f1d307eda835bd25aa",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "asymmetric-enlargement",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/asymmetric-enlargement.gpt.png",
+      "sha": "727dfb3e63610882807fe92be387dea2fb01840b",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "fine-line-poster",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/fine-line-poster.gpt.png",
+      "sha": "9faf382812e8b1c42531b89f3ee610517945a9ef",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "vintage-lines",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/vintage-lines.gpt.png",
+      "sha": "e6d2352ca3596e8c5627f2c6f3dac3ac04024b38",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "storytelling-collage",
-      "status": "regenerating"
+      "status": "completed",
+      "output": "samples/howe-sound/storytelling-collage.gpt.png",
+      "sha": "b28b6ca66a2dbb5b60a3e2fa30199e6754dbc707",
+      "source_review": "pending"
     },
     {
       "sample": "howe-sound",
@@ -1996,6 +2052,8 @@
     },
     "notes": "Other queued result metadata was not retained when tasks were cancelled. These counts are observed lower bounds, not published comparison outputs."
   },
-  "encoding": "WebP quality 95, method 6, no resizing",
-  "raw_png_commit": "4c80e54bf62f325222a07a7d640908d7b562829b"
+  "legacy_metadata_repairs": {
+    "sample": "book-fair",
+    "unattributed_outputs": 56
+  }
 }

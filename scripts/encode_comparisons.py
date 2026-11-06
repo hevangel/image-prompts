@@ -47,7 +47,8 @@ for report in Path("runs").glob("gpt-*.json"):
             job["sha"] = row["sha"]
             job["bytes"] = row["bytes"]
     run["encoding"] = "WebP quality 95, method 6, no resizing"
-    run["raw_png_commit"] = os.environ.get("GITHUB_SHA")
+    if converted:
+        run["raw_png_commit"] = os.environ.get("GITHUB_SHA")
     report.write_text(json.dumps(run, ensure_ascii=False, indent=2) + "\n")
 print(f"Encoded {len(converted)} GPT images")
 
@@ -73,4 +74,4 @@ for ledger_path in Path("samples").glob("*/generations.json"):
         x, y = index % columns * tile_w, index // columns * tile_h
         sheet.paste(thumbnail, (x + (tile_w - thumbnail.width) // 2, y + 4))
         draw.text((x + 4, y + tile_h - 26), label[:27], fill="black", font=font)
-    sheet.save(Path("runs") / f"gpt-2026-11-06-{ledger_path.parent.name}.jpg", quality=88)
+    sheet.save(Path("runs") / f"gpt-2026-11-06-{ledger_path.parent.name}.jpg", quality=80, optimize=True)
