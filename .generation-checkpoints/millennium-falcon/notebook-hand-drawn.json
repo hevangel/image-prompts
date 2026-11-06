@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "notebook-hand-drawn",
+  "output": "notebook-hand-drawn.gpt.png",
+  "sha": "7044c79c0c3351ba1af1801711992afbec2a7fcd",
+  "generated_at": "2026-11-06T19:05:54.785Z",
+  "prompt": "Style: notebook-hand-drawn. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is a complete reinterpretation: 100% illustration, 0% photography, in a delicate botanical-ink style drawn with a fine black fineliner and controlled parallel and cross-hatching. It first picks out the photo's most recognizable subjects and relationships, keeps their defining features in restrained linework, and removes clutter — some areas intricate, others minimal or entirely blank for deliberate negative space. Color is strictly rationed: two dominant colors extracted from the photo plus one derived complementary accent, black ink, and warm-white paper — nothing else. The color goes on as large, flat, irregular abstract blocks (broad-marker organic shapes) laid behind and around the subject as an independent layer; blocks may cross the ink lines or disappear behind the subject, with intentional imperfections and a few small dots for rhythm, like a handmade screen-print or sketchbook page. The background is dramatically simplified — a few essential contours plus generous warm-white negative space — on heavyweight warm-white notebook paper with subtle fibers and grain. Explicitly excluded: photorealism, digital-painting and 3D looks, smooth gradients, watercolor bleeding, colored outlines, busy backgrounds, full-coverage coloring, perfect geometry, generic floral decoration, arbitrary colors, and dense all-over linework. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "b4de5cc5299d31cc88cf3d851b96a04569e89445",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
