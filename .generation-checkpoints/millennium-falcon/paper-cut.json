@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "paper-cut",
+  "output": "paper-cut.gpt.png",
+  "sha": "ff6e08b57e417c953544574da2a9e2a5d5ec7aa8",
+  "generated_at": "2026-11-06T19:09:32.383Z",
+  "prompt": "Style: paper-cut. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets it as a modern geometric cut-paper editorial illustration with bold flat vector art and mid-century character design — not a cartoonization, trace or full recreation. It keeps one primary subject plus at most one or two meaningful supporting elements, removes unnecessary backgrounds and details, and rebuilds the scene from large bold flat geometric shapes, irregular polygons, curves and slightly imperfect hand-cut silhouettes on a uniform warm cream/ivory paper background, the illustration isolated at roughly a third to two-thirds of the panel's width with generous negative space. Faces are simplified to minimal geometric details with visible eyes; anatomy, gestures, pose and key accessories stay recognizable; no chibi proportions or generic cartoon styling. Color: 4–7 representative colors from the photo in a vibrant retro palette with strong warm–cool contrast — saturated clean color blocks, no realistic shading, gradients or heavy black outlines. Texture is extremely subtle: fine stipple grain, halftone dots, delicate Risograph ink texture. Excluded: photorealistic illustration, 3D, anime, watercolor, automatic vector tracing, complex scenes, thick outlines, realistic shadows, excessive grain, unnecessary props. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "b596fec30d4f735997d0dfc3c88dceb8bfd9fe84",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
