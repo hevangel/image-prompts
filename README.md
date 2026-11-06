@@ -45,3 +45,20 @@ person or an AI assistant to extend the collection without breaking the site.
 
 Prompts belong to their original creators; each entry links to its source post.
 Sample outputs are generated locally from our own photos using those prompts.
+
+## Comparing image models
+
+Additional model outputs use `<style-slug>.gpt.png` (or another provider suffix)
+and are recorded in `generations.json` with `current: false` and
+`comparison: true`. The gallery displays these beside the canonical output,
+including in prompt detail and model filters. `current` retains its existing
+meaning: exactly one canonical generation per prompt. Failed attempts are kept
+with `comparison: false` and a reason in `notes`.
+
+GPT outputs in this run use the repository's structural prompt summaries with
+a full-frame override, not the creator's unarchived verbatim prompt. Each
+ledger record includes the exact `prompt_text` sent. Model version, seed and
+token usage are not exposed by the ChatGPT image tool, so no specific API model
+version or token usage is claimed. These are qualitative comparisons; the
+historical Muse prompts and settings may differ. The GIF prompt requires an
+animation generator and is excluded from the still-image run.

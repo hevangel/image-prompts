@@ -163,6 +163,7 @@
 <script>
 const REPO = "https://github.com/hevangel/image-prompts/blob/main/";
 let MANIFEST = null;
+const COMPARISONS = {}; // sample slug -> additional model generations
 const GEN = {};   // sample slug -> { promptSlug: generation record (current) }
 let selectedInput = "all";
 let currentDetailText = "";
@@ -204,19 +205,25 @@ function renderInputList() {
     b.addEventListener("click", () => { selectedInput = slug; renderInputList(); renderGenGrid(); });
     el.appendChild(b);
   };
-  const total = MANIFEST.samples.reduce((n, s) => n + Object.keys(s.outputs).length, 0);
+  const total = MANIFEST.samples.reduce((n, s) => n + sampleRows(s).length, 0);
   mk("all", "All original photos", null, total);
-  for (const s of MANIFEST.samples) mk(s.slug, s.title, s.input, Object.keys(s.outputs).length);
+  for (const s of MANIFEST.samples) mk(s.slug, s.title, s.input, sampleRows(s).length);
+}
+
+function sampleRows(s) {
+  const rows = Object.entries(s.outputs).map(([slug, path]) => ({ sample: s, slug, path, gen: generationFor(s.slug, slug) }));
+  for (const g of COMPARISONS[s.slug] || []) {
+    const path = s.input.slice(0, s.input.lastIndexOf("/") + 1) + g.output;
+    if (!rows.some(r => r.path === path)) rows.push({ sample: s, slug: g.prompt_slug, path, gen: g });
+  }
+  return rows;
 }
 
 function allGenerations() {
   const rows = [];
   for (const s of MANIFEST.samples) {
     if (selectedInput !== "all" && s.slug !== selectedInput) continue;
-    for (const [slug, path] of Object.entries(s.outputs)) {
-      const g = generationFor(s.slug, slug);
-      rows.push({ sample: s, slug, path, gen: g });
-    }
+    rows.push(...sampleRows(s));
   }
   return rows;
 }
@@ -356,11 +363,12 @@ async function openDetail(slug) {
   box.innerHTML = "";
   let any = false;
   for (const s of MANIFEST.samples) {
-    const keys = Object.keys(s.outputs).filter(k => k === slug || k.startsWith(slug + "-")).sort();
-    for (const k of keys) {
-      const out = s.outputs[k];
+    const rows = sampleRows(s).filter(r => baseSlug(r.slug) === slug);
+    for (const row of rows) {
+      const k = row.slug;
+      const out = row.path;
       any = true;
-      const g = generationFor(s.slug, k);
+      const g = row.gen;
       const div = document.createElement("div");
       div.className = "sample-pair";
       div.innerHTML = `
@@ -403,12 +411,14 @@ async function loadGenerations() {
   const models = new Set();
   await Promise.all(MANIFEST.samples.map(async s => {
     GEN[s.slug] = {};
+    COMPARISONS[s.slug] = [];
     if (!s.generations_file) return;
     try {
       const r = await fetch(s.generations_file);
       const data = await r.json();
       for (const g of data.generations || []) {
         if (g.current) GEN[s.slug][g.prompt_slug] = g;
+        if (g.comparison && g.output) COMPARISONS[s.slug].push(g);
         if (g.model) models.add(g.model);
       }
     } catch (err) { console.error("generations load failed", s.slug, err); }
