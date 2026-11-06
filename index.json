@@ -2,6 +2,29 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Minimalist Simplification",
+      "name_original": "細節極簡化",
+      "prompt_file": "reference/minimalist-simplification/prompt.md",
+      "reference_image": "reference/minimalist-simplification/post-01.jpg",
+      "reference_images": [
+        "reference/minimalist-simplification/post-01.jpg",
+        "reference/minimalist-simplification/post-02.jpg",
+        "reference/minimalist-simplification/post-03.jpg",
+        "reference/minimalist-simplification/post-04.jpg",
+        "reference/minimalist-simplification/post-05.jpg",
+        "reference/minimalist-simplification/post-06.jpg",
+        "reference/minimalist-simplification/post-07.jpg",
+        "reference/minimalist-simplification/post-08.jpg",
+        "reference/minimalist-simplification/post-09.jpg",
+        "reference/minimalist-simplification/post-10.jpg",
+        "reference/minimalist-simplification/post-11.jpg"
+      ],
+      "slug": "minimalist-simplification",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0AKh6bQZLq97P3sotX8NahNieMsPo5oD9sjHJMW94NA7nYvfSMYMdzQbgx7DSKCrXl&id=61580979040009",
+      "summary": "Turns a photo into a minimalist flat-vector comparison poster: the photo preserved on top; below, the same scene reduced to ultra-fine outlines, flowing simplified lines and flat color blocks in at most four colors on a muted light ground, with generous negative space and no text. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "ChatGPT GIF Animation",
       "name_original": "GIF 動畫",
       "prompt_file": "reference/gif-animation/prompt.md",
@@ -1455,7 +1478,8 @@
         "black-white-drawing": "samples/howe-sound/black-white-drawing.webp",
         "european-travel-film": "samples/howe-sound/european-travel-film.webp",
         "reflection-protagonist": "samples/howe-sound/reflection-protagonist.webp",
-        "vintage-hatching-comic": "samples/howe-sound/vintage-hatching-comic.webp"
+        "vintage-hatching-comic": "samples/howe-sound/vintage-hatching-comic.webp",
+        "minimalist-simplification": "samples/howe-sound/minimalist-simplification.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1524,7 +1548,8 @@
         "black-white-drawing": "samples/book-fair/black-white-drawing.webp",
         "european-travel-film": "samples/book-fair/european-travel-film.webp",
         "reflection-protagonist": "samples/book-fair/reflection-protagonist.webp",
-        "vintage-hatching-comic": "samples/book-fair/vintage-hatching-comic.webp"
+        "vintage-hatching-comic": "samples/book-fair/vintage-hatching-comic.webp",
+        "minimalist-simplification": "samples/book-fair/minimalist-simplification.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1593,7 +1618,8 @@
         "black-white-drawing": "samples/millennium-falcon/black-white-drawing.webp",
         "european-travel-film": "samples/millennium-falcon/european-travel-film.webp",
         "reflection-protagonist": "samples/millennium-falcon/reflection-protagonist.webp",
-        "vintage-hatching-comic": "samples/millennium-falcon/vintage-hatching-comic.webp"
+        "vintage-hatching-comic": "samples/millennium-falcon/vintage-hatching-comic.webp",
+        "minimalist-simplification": "samples/millennium-falcon/minimalist-simplification.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1662,7 +1688,8 @@
         "black-white-drawing": "samples/concert-stage/black-white-drawing.webp",
         "european-travel-film": "samples/concert-stage/european-travel-film.webp",
         "reflection-protagonist": "samples/concert-stage/reflection-protagonist.webp",
-        "vintage-hatching-comic": "samples/concert-stage/vintage-hatching-comic.webp"
+        "vintage-hatching-comic": "samples/concert-stage/vintage-hatching-comic.webp",
+        "minimalist-simplification": "samples/concert-stage/minimalist-simplification.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1731,7 +1758,8 @@
         "black-white-drawing": "samples/taco-truck-dog/black-white-drawing.webp",
         "european-travel-film": "samples/taco-truck-dog/european-travel-film.webp",
         "reflection-protagonist": "samples/taco-truck-dog/reflection-protagonist.webp",
-        "vintage-hatching-comic": "samples/taco-truck-dog/vintage-hatching-comic.webp"
+        "vintage-hatching-comic": "samples/taco-truck-dog/vintage-hatching-comic.webp",
+        "minimalist-simplification": "samples/taco-truck-dog/minimalist-simplification.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

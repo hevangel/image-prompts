@@ -2056,6 +2056,89 @@ by set ID / reel ID before counting a post as new.
   sets. No new entry was filed, and no reel frames
   were downloaded.
 
+### minimalist-simplification — Emerson post (fetched 2026-11-06 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Minimalist Simplification · 細節極簡化 —
+  simplifying a photo's details to the extreme,
+  photo set posted **Nov 6, 2026, 4:00 AM PST**,
+  the first post newer than the Nov 5 gif-animation
+  entry. Caught by the daily-update routine. No
+  coined style name appears in the post or comments
+  — the style is named by its descriptive phrase,
+  細節極簡化; "Lazy Day" is the companion reel's
+  music-track title, not the style name.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0AKh6bQZLq97P3sotX8NahNieMsPo5oD9sjHJMW94NA7nYvfSMYMdzQbgx7DSKCrXl&id=61580979040009
+  — set ID `pcb.122160902565032634`; 71 likes,
+  2 comments, 9 shares as displayed Nov 6, 2026.
+  The full prompt appears identically in two places:
+  at the end of the post text (after "prompt：") and
+  in the author's own first comment (Nov 6, 4:00 AM),
+  which also invites readers to try it, share results
+  in the comments, and links a support page
+  (portaly.cc/Emersonpost). The only other comment
+  (Lücy Yen, 4:22 AM) is praise, no prompt.
+  `reference/minimalist-simplification/prompt.md`
+  keeps a structural summary plus an English
+  translation of the introduction. Example photos
+  credited to Pexels in the post.
+- **Companion reel:** https://www.facebook.com/reel/1139679271791181
+  (0:24, music "Lazy Day" by LouLink; 40 reactions,
+  3 comments, 2 shares as displayed Nov 6, 2026) —
+  frame-checked by sampled seeks: all 11 set photos
+  appear, ~2s each, in slightly shuffled order (the
+  lake appears before the airplane, and the lanterns
+  appear last among the set photos) — then a
+  **set-external example** at ~0:22–0:24: an aerial
+  view of a large red/orange oval sports stadium with
+  a green pitch, surrounded by city buildings (photo
+  top, minimalist illustration bottom). Noted here,
+  not downloaded — it exists only as reel frames.
+- **Images:** the set holds exactly **11** photos
+  (viewer cycle: photo 11 → Next → photo 1,
+  verified), all downloaded at 941×1672 (three at
+  941×1671 — the highest rendition the viewer serves
+  for this set) and saved as
+  `reference/minimalist-simplification/post-01.jpg`
+  … `post-11.jpg`. Every poster is a comparison
+  poster: original photo on top, minimalist
+  illustration below. Set order (fbids):
+  122160901149032634, 122160901191032634,
+  122160900705032634, 122160900495032634,
+  122160899505032634, 122160899409032634,
+  122160899373032634, 122160900717032634,
+  122160900201032634, 122160899961032634,
+  122160899715032634. Subjects, in set order:
+  1 colorful canal houses and boat (Camogli/Burano),
+  2 rainy city street through a rain-speckled
+  windshield, white car, 3 young woman with long
+  dark wavy hair in a pink blouse, profile view,
+  4 grain silos painted with colorful cartoon faces,
+  5 airplane on the tarmac at sunset, passengers
+  with luggage, 6 surfer riding a big turquoise
+  barrel wave, 7 lake at twilight with mountains and
+  a tree-covered point, 8 red paper lanterns strung
+  across a building courtyard, 9 white passenger
+  ferry approaching a pier on turquoise water,
+  10 aerial view of workers drying fish on racks,
+  11 green chameleon close-up on a branch.
+- **Samples:** 5 — one full-frame output per scene/
+  object sample (howe-sound, book-fair,
+  millennium-falcon, concert-stage, taco-truck-dog),
+  generated 2026-11-06 with Muse Image (Meta) and
+  registered in each sample's `generations.json`
+  (exactly one current entry per prompt slug) and in
+  the sample's outputs map in `index.json`. The
+  catalog now stands at **65 prompts, 633 reference
+  images**, with 316 total sample outputs across the
+  six sample inputs.
+- **Not new, confirmed again this run:** the Nov 5,
+  2:57 AM "Beautyful Day" reel
+  (facebook.com/reel/2141458706449895) is the
+  companion reel of the already-archived Nov 5
+  GIF-animation set, already recorded in that
+  entry — not a new post, not re-filed.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
@@ -2204,3 +2287,7 @@ Never overlap generation batches from different source photos. Withhold all
 image results until every request for one fixed source has completed; progress
 updates during a batch must be text-only. Review the resulting contact sheet
 before admitting any output as a valid source-photo comparison.
+
+Before treating legacy model metadata as unknown, inspect historical ledgers.
+Restore an old record only when its output file's Git blob SHA still matches
+the current image; record the source commit and verification hash.

@@ -77,7 +77,7 @@ The run report in `runs/gpt-2026-11-06.json` records output dimensions,
 image hashes, and the commit containing the original generator PNG files.
 Contact sheets in `runs/` support a quick visual review of each sample.
 
-The original book-fair ledger omitted 56 manifest-listed images. Those legacy
-outputs are explicitly labeled `Unknown (legacy output)`; their provider and
-generation time are not inferred. The two recorded Grok outputs remain labeled
-Grok Imagine.
+The book-fair ledger omitted 56 existing images. Their original records were
+restored from commit `37e2167a37357224876ff328000e3938c4d6fc64` after confirming
+that each current image blob matches that historical commit. The two Grok
+outputs retain their existing attribution.
