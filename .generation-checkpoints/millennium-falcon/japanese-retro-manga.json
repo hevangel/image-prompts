@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "japanese-retro-manga",
+  "output": "japanese-retro-manga.gpt.png",
+  "sha": "c55b7a03d14924c673172f9e2e73664817f7fb2a",
+  "generated_at": "2026-11-06T19:03:09.129Z",
+  "prompt": "Style: japanese-retro-manga. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — selection.** Pick the photo's most recognizable subject or gesture; remove most unnecessary background and clutter. - **artwork — style.** Redraw it as a large retro comic advertisement illustration: thick irregular black ink outlines, solid black shadows, white highlights, selective hatching, and simplified flat color. - **Palette.** A mainly white background with black outlines and shadows, plus one main accent color taken from the photo (a second photo-derived accent only if needed), combined with black-and-white contrast — a retro feel without becoming too old or complicated. Subjects sometimes cover letters and letters sometimes emerge behind subjects, with offset shadows for depth and movement. - **Texture.** Restrained halftone dots, ink grain, hatching, and slight print misregistration. - **Checklist.** Layout accuracy, photo fidelity, the huge headline, subject–headline overlap, a recognizable illustration, and clean white space. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "712fc13045eda07af3e7648bcf8e1cd63682528b",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
