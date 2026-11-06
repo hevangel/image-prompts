@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "japanese-hand-drawn",
+  "output": "japanese-hand-drawn.gpt.png",
+  "sha": "adaaef699071504655dfbeff15fe959fec8ca26d",
+  "generated_at": "2026-11-06T19:02:03.231Z",
+  "prompt": "Style: japanese-hand-drawn. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **Illustration — simplification.** The scene is reduced to its main subject, action or defining feature — a look, a pose, a building outline, a distinctive small corner — and roughly 70% of the frame is left blank, on a lightly textured paper-like ground. - **Illustration — linework.** Japanese minimalist manga editorial design with expressive hand-drawn ink: strokes vary in thickness, uneven, with dry-brush and broken passages as if drawn stroke by stroke, plus solid black blocks and manga halftone (screentone) dots that give the subject volume. - **Illustration — color.** Black-and-white ink lines recombined with one or two of the source photo's most representative colors (e.g. blue-green for street dance, sky blue for extreme cycling, clay-orange for tennis). The prompt ends with a self-check against those rules. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "6ba6bed8690eb8b9129726675c01752ec69b84af",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
