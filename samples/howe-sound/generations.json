@@ -560,7 +560,7 @@
     },
     {
       "prompt_slug": "frosted-glass",
-      "output": "frosted-glass.gpt.png",
+      "output": "frosted-glass.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:15.661Z",
       "tokens_used": null,
@@ -570,11 +570,16 @@
       "prompt_source": "repository structural summary with full-frame override",
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "review_status": "unreviewed",
-      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed."
+      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed.",
+      "sha": "46d2a7da186df2d01749c8842aba509d5672365d",
+      "bytes": 386578,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "notebook-hand-drawn",
-      "output": "notebook-hand-drawn.gpt.png",
+      "output": "notebook-hand-drawn.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:56.469Z",
       "tokens_used": null,
@@ -584,7 +589,12 @@
       "prompt_source": "repository structural summary with full-frame override",
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "review_status": "unreviewed",
-      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed."
+      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed.",
+      "sha": "bae0ba7c407bf4248fda56410bae74c8718ff502",
+      "bytes": 758460,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-hatching-comic",
@@ -644,7 +654,7 @@
     },
     {
       "prompt_slug": "black-white-drawing",
-      "output": "black-white-drawing.gpt.png",
+      "output": "black-white-drawing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:26:32.968Z",
       "tokens_used": null,
@@ -654,11 +664,16 @@
       "prompt_source": "repository structural summary with full-frame override",
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "review_status": "unreviewed",
-      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed."
+      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed.",
+      "sha": "120a79170d7d1f6a75db05e7469c9d70b955ae3b",
+      "bytes": 275478,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-hatching-comic",
-      "output": "vintage-hatching-comic.gpt.png",
+      "output": "vintage-hatching-comic.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:38.307Z",
       "tokens_used": null,
@@ -668,11 +683,16 @@
       "prompt_source": "repository structural summary with full-frame override",
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "review_status": "unreviewed",
-      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed."
+      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed.",
+      "sha": "7c9900248229d32634e158141b1d00dfb13c660b",
+      "bytes": 909808,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "reflection-protagonist",
-      "output": "reflection-protagonist.gpt.png",
+      "output": "reflection-protagonist.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:39.999Z",
       "tokens_used": null,
@@ -682,11 +702,16 @@
       "prompt_source": "repository structural summary with full-frame override",
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "review_status": "unreviewed",
-      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed."
+      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed.",
+      "sha": "5fd2708e58ea07bd3fc0ec947b3a68e651c0e711",
+      "bytes": 740470,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "european-travel-film",
-      "output": "european-travel-film.gpt.png",
+      "output": "european-travel-film.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:41.751Z",
       "tokens_used": null,
@@ -696,7 +721,12 @@
       "prompt_source": "repository structural summary with full-frame override",
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "review_status": "unreviewed",
-      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed."
+      "notes": "Additional GPT comparison output. Canonical output retained. Exact model version, seed and token count are not exposed.",
+      "sha": "86ecef4e4fa9b7d81280736e5caa608d00903b49",
+      "bytes": 548078,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     }
   ],
   "input": "input.jpg"
