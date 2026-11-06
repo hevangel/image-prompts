@@ -5,7 +5,7 @@
   "prompt_basis": "Repository structural summaries, adapted to full-frame artwork; exact prompt_text is in each generations.json.",
   "started_from_commit": "5b10686bd9cd8471b5529754bad050f43bac4571",
   "expected_still_outputs": 384,
-  "registered_outputs": 96,
+  "registered_outputs": 128,
   "skipped_animation_jobs": 6,
   "jobs": [
     {
@@ -941,7 +941,16 @@
     {
       "sample": "book-fair",
       "prompt_slug": "minimalist-simplification",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/minimalist-simplification.gpt.webp",
+      "sha": "7dfde4cff1301421833631765c655f09eba565de",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/minimalist-simplification.gpt.png",
+      "source_png_sha": "a9acc3fc27c455b30f28542d2ad6a645f801613c",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 264186
     },
     {
       "sample": "book-fair",
@@ -1400,157 +1409,436 @@
     {
       "sample": "book-fair",
       "prompt_slug": "fine-line-poster",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/fine-line-poster.gpt.webp",
+      "sha": "0764152d01544483720526b8af8676211b0ef269",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/fine-line-poster.gpt.png",
+      "source_png_sha": "c8b938c6d350f60d211a4e8c22117a5368f5bda8",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 273082
     },
     {
       "sample": "book-fair",
       "prompt_slug": "vintage-lines",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/vintage-lines.gpt.webp",
+      "sha": "93009059265cb11c2993428dc816c3eb66079035",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/vintage-lines.gpt.png",
+      "source_png_sha": "3b457a422f5fcee6f555c21b4c3feed83af4428a",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 783212
     },
     {
       "sample": "book-fair",
       "prompt_slug": "storytelling-collage",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/storytelling-collage.gpt.webp",
+      "sha": "39bb5d3d299f903c067b92f835cecf1ec3c4cd25",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/storytelling-collage.gpt.png",
+      "source_png_sha": "2b5d916453f7a785a0bc0a081ed05cc36d86501a",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 320508
     },
     {
       "sample": "book-fair",
       "prompt_slug": "pixel-art",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/pixel-art.gpt.webp",
+      "sha": "52025c5e68c8cf27a3e327d8607b382d4e3b9749",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/pixel-art.gpt.png",
+      "source_png_sha": "bfaf1212c2b42778b0e23755939a907a11a1d293",
+      "width": 1672,
+      "height": 941,
+      "bytes": 358794
     },
     {
       "sample": "book-fair",
       "prompt_slug": "patchwork-embroidery",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/patchwork-embroidery.gpt.webp",
+      "sha": "390607786f33831bdc78eccfe9ce9dd77dfe17b0",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/patchwork-embroidery.gpt.png",
+      "source_png_sha": "e534c5b85eb6f0deb0233cf1a7d83a5438c07754",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 890736
     },
     {
       "sample": "book-fair",
       "prompt_slug": "ink-rubbing",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/ink-rubbing.gpt.webp",
+      "sha": "131644201943e7ccf1a2091e17948377d850ac75",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/ink-rubbing.gpt.png",
+      "source_png_sha": "bf21855167ec4fd8077b8918744bf4a27726fea4",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 805928
     },
     {
       "sample": "book-fair",
       "prompt_slug": "paper-collage-lines",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/paper-collage-lines.gpt.webp",
+      "sha": "5f5999ec07b98eaa4e175317b8061562bf8ccf69",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/paper-collage-lines.gpt.png",
+      "source_png_sha": "9fdeb214d4c9780895d5cd2d798f644cf643ed6e",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 312008
     },
     {
       "sample": "book-fair",
       "prompt_slug": "white-model",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/white-model.gpt.webp",
+      "sha": "f64cce5f3c8eb5e7753c0bdd4fe57ddaea5424d4",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/white-model.gpt.png",
+      "source_png_sha": "53f93e480bbbf03629ca8c4a791a8db5f6326e6d",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 96958
     },
     {
       "sample": "book-fair",
       "prompt_slug": "paper-carving",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/paper-carving.gpt.webp",
+      "sha": "048056e941405e1a459f96ef9a3e14c1d8062a3b",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/paper-carving.gpt.png",
+      "source_png_sha": "7b521a5c769988437e60d7a9f4aceecac7d6472a",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 537766
     },
     {
       "sample": "book-fair",
       "prompt_slug": "bento-box",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/bento-box.gpt.webp",
+      "sha": "2beb769dccba820e6f59dab8f6be13bf03bf7ac0",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/bento-box.gpt.png",
+      "source_png_sha": "1f2673bf1b229b02de9a2bdeac85ecfe181a79da",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 633554
     },
     {
       "sample": "book-fair",
       "prompt_slug": "perler-beads",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/perler-beads.gpt.webp",
+      "sha": "cd10f8d3000ddd7d07d1a7ae0de56cb4facd151a",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/perler-beads.gpt.png",
+      "source_png_sha": "f338d86a56a60bfd22d75a6adb7b04ab15270f01",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 622626
     },
     {
       "sample": "book-fair",
       "prompt_slug": "soft-focus",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/soft-focus.gpt.webp",
+      "sha": "64cb93d840afca816ebd4ea83bb458ce9043235f",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/soft-focus.gpt.png",
+      "source_png_sha": "abd3670d52953c885ff73902883520dbb2f0c7f1",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 88064
     },
     {
       "sample": "book-fair",
       "prompt_slug": "colored-paper-collage",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/colored-paper-collage.gpt.webp",
+      "sha": "c25193224a7af09bfd0c489e3ee1bf034d47e779",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/colored-paper-collage.gpt.png",
+      "source_png_sha": "5a56ba1e477f735de744cf488fc8daa3657a431c",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 457122
     },
     {
       "sample": "book-fair",
       "prompt_slug": "lingering-afterglow",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/lingering-afterglow.gpt.webp",
+      "sha": "2dd103b205f30904464da756ad36245dbeaa19f3",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/lingering-afterglow.gpt.png",
+      "source_png_sha": "256fb5615c9268448f1ae416a84bcbeb4d890d4f",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 500960
     },
     {
       "sample": "book-fair",
       "prompt_slug": "photocopier-print",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/photocopier-print.gpt.webp",
+      "sha": "df1da26020b6fc1fded7e3d43c978ccc8f48afe5",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/photocopier-print.gpt.png",
+      "source_png_sha": "8d41ce5bfb4a8ecbc65ea2a306e99586a11aea0d",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 602830
     },
     {
       "sample": "book-fair",
       "prompt_slug": "food-poster",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/food-poster.gpt.webp",
+      "sha": "fd350a1bc6b46c763c937e31008b147629466ce6",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/food-poster.gpt.png",
+      "source_png_sha": "4e2175212b397fc5c0946383a9101e5c5948931a",
+      "width": 941,
+      "height": 1672,
+      "bytes": 382386
     },
     {
       "sample": "book-fair",
       "prompt_slug": "porcelain-collage",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/porcelain-collage.gpt.webp",
+      "sha": "1a22e8949ff24b45583dfb3e5958caf215d5d433",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/porcelain-collage.gpt.png",
+      "source_png_sha": "3f589496829bfca7211127152b05a0636bc8ae5c",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 401666
     },
     {
       "sample": "book-fair",
       "prompt_slug": "black-line-drawing",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/black-line-drawing.gpt.webp",
+      "sha": "f13e96e6eb48792807fa42766878d8dcd1954449",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/black-line-drawing.gpt.png",
+      "source_png_sha": "4f93b19b20fd4c2f7d69ff93448483d41429bc26",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 801644
     },
     {
       "sample": "book-fair",
       "prompt_slug": "geometric-poster",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/geometric-poster.gpt.webp",
+      "sha": "4c1c085e5cb8a1f4b7ebe2b23974ee35c7e9e9a0",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/geometric-poster.gpt.png",
+      "source_png_sha": "694fe0b02d62c37b2d785c7420d1eedffdd413a1",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 143634
     },
     {
       "sample": "book-fair",
       "prompt_slug": "passport-ticket",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/passport-ticket.gpt.webp",
+      "sha": "e1fc1c90d369d5718f78d6fb1de9d852ccf373ca",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/passport-ticket.gpt.png",
+      "source_png_sha": "fe1827b2da7388b51182f85844cbdb0e0147f75c",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 781038
     },
     {
       "sample": "book-fair",
       "prompt_slug": "paper-cut-collage",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/paper-cut-collage.gpt.webp",
+      "sha": "97602cb847683ba6c827da5ad95b274eed38334b",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/paper-cut-collage.gpt.png",
+      "source_png_sha": "e3cdae3e8bc0ef7fd5d98a65e34ab82ddb87af16",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 615826
     },
     {
       "sample": "book-fair",
       "prompt_slug": "hand-drawn-feel",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/hand-drawn-feel.gpt.webp",
+      "sha": "cbd2c9f032ae6a67f44e0f255edde200ef2a99e8",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/hand-drawn-feel.gpt.png",
+      "source_png_sha": "d75ca9d24a6e0a9b11f126a3302e2f9a227730ab",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 601246
     },
     {
       "sample": "book-fair",
       "prompt_slug": "dot-matrix",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/dot-matrix.gpt.webp",
+      "sha": "0c5cccb144cbab19f881fd335cef3d553faa6df0",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/dot-matrix.gpt.png",
+      "source_png_sha": "8ac23e618d8751d8d2d28b60a4a6a8789ed2411c",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 669816
     },
     {
       "sample": "book-fair",
       "prompt_slug": "spot-illustration",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/spot-illustration.gpt.webp",
+      "sha": "5ce947498fa9e3b4e75829ae45a33fe40c033ea1",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/spot-illustration.gpt.png",
+      "source_png_sha": "8800ca1dace35e781f5b519450c4db599057ee6a",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 329394
     },
     {
       "sample": "book-fair",
       "prompt_slug": "wool-felt",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/wool-felt.gpt.webp",
+      "sha": "3e43cbfb2ab686dc93164d36082230097bb8f7c8",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/wool-felt.gpt.png",
+      "source_png_sha": "1a79c640375696f38ed71ea2139d0f090f92e959",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 196738
     },
     {
       "sample": "book-fair",
       "prompt_slug": "typography-device",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/typography-device.gpt.webp",
+      "sha": "c59ecdd2073f3dff5e1beb5f12a27104ec5ebd50",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/typography-device.gpt.png",
+      "source_png_sha": "86ad4801475f2674996952600f11ac50834c09d5",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 111914
     },
     {
       "sample": "book-fair",
       "prompt_slug": "comparison-poster",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/comparison-poster.gpt.webp",
+      "sha": "07071ea0e285057d48064990a4657ab1ed86852a",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/comparison-poster.gpt.png",
+      "source_png_sha": "2d7beadac78a56bd7177b08181bfa1c27cda5d33",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 435516
     },
     {
       "sample": "book-fair",
       "prompt_slug": "split-poster",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/split-poster.gpt.webp",
+      "sha": "720c39f08393d93e9a547a4d833dccf955758f2d",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/split-poster.gpt.png",
+      "source_png_sha": "ffc9b743b5e04b6050c88ef3b22b266689800923",
+      "width": 1354,
+      "height": 1161,
+      "bytes": 746718
     },
     {
       "sample": "book-fair",
       "prompt_slug": "blueprint-poster",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/blueprint-poster.gpt.webp",
+      "sha": "00cd215f9700b0d39b566624a517294665c836b9",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/blueprint-poster.gpt.png",
+      "source_png_sha": "1c4f4be7ad2e6a5deece78624f1ed77b0791a82f",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 395756
     },
     {
       "sample": "book-fair",
       "prompt_slug": "brand-packaging",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/brand-packaging.gpt.webp",
+      "sha": "080e5d5c78e8acb4925bc3c14357ae57edb9604a",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/brand-packaging.gpt.png",
+      "source_png_sha": "013ac1b9d1171859d7b194cc7ae633c7b624dbda",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 534732
     },
     {
       "sample": "book-fair",
       "prompt_slug": "cinematic-portraits",
-      "status": "awaiting_isolated_generation"
+      "status": "completed",
+      "output": "samples/book-fair/cinematic-portraits.gpt.webp",
+      "sha": "da7115b47e51a891c30dc094d57170f5775939f1",
+      "source_review": "unreviewed",
+      "quality_issues": [],
+      "raw_output": "samples/book-fair/cinematic-portraits.gpt.png",
+      "source_png_sha": "3f216f02ac49c0fa7655c2d68aaf2f6ec592b3b3",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 439220
     },
     {
       "sample": "millennium-falcon",
@@ -2877,7 +3165,7 @@
     "verification": "Current output blob hashes match the historical commit."
   },
   "encoding": "WebP quality 95, method 6, no resizing",
-  "raw_png_commit": "15b4eec2f0cffac1b9daacbd54375f98f266e967",
+  "raw_png_commit": "9264eb3188b438fa891f6d277947896bcae00d93",
   "source_reviewed_outputs": 64,
-  "updated_at": "2026-11-06T18:09:42.492Z"
+  "updated_at": "2026-11-06T18:37:57.442Z"
 }
