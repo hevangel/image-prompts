@@ -85,3 +85,29 @@ outputs retain their existing attribution.
 The two historical Muse book-fair images were also restored under `.muse.webp`
 filenames, using their original image blobs, so the two existing Grok samples
 can be compared directly with Muse and GPT on the same input photo.
+
+## GPT run status — 2026-11-06
+
+This run is paused at the image service's Plus usage limit: **150 of 384**
+still-image comparisons are saved. The service reported a reset at
+**2026-11-07 16:21 UTC**. The remaining **234** sample/style pairs are listed
+in `runs/gpt-2026-11-06.json`; none are presented as completed.
+
+| Sample | GPT images saved | Still styles targeted |
+| --- | ---: | ---: |
+| Howe Sound | 64 | 64 |
+| Book fair | 64 | 64 |
+| Millennium Falcon | 22 | 64 |
+| Concert stage | 0 | 64 |
+| Taco truck dog | 0 | 64 |
+| Jensen Huang | 0 | 64 |
+
+The Millennium Falcon minimalist-simplification attempt was separately rejected
+by the image service's output safety check and returned no image. The other
+41 attempted-but-unfinished Millennium Falcon jobs hit the usage limit; the
+remaining three samples have not been attempted in the checkpointed run.
+
+New results are committed individually on `gpt-generation-checkpoints` before
+batch processing, so resuming can skip every completed sample/style pair. Raw
+PNG provenance and visual-review findings are recorded with the run. Earlier
+interrupted or incorrect-reference experiments are excluded from comparisons.

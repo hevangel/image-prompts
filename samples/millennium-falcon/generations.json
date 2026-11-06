@@ -572,7 +572,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "06206867788104aac6f14304245526ffe2b36bdf",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "857a34ccfb2a9c1f9a48bf53cb495b536d6ee6e6",
       "bytes": 801226,
@@ -594,7 +594,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "6127b1281382f22c46b970e36a6ff8cac0873786",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "e14adc1ced7af361707c8200cb01e42ae68d8da8",
       "bytes": 1133106,
@@ -616,7 +616,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "d11f4e9f6839f5f92c92df840cacdcdefacefbbc",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "9d040a78db824b3940105bd79651f69b05269ef2",
       "bytes": 964738,
@@ -638,7 +638,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "adaaef699071504655dfbeff15fe959fec8ca26d",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "9da24d791fabd74a903e69bfcb8b28413ccfe2a5",
       "bytes": 703404,
@@ -660,7 +660,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "e7efbcd03bc4d3c1980ad0bb5e0d6f90a0be94df",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "678e800d1eaf1173e95e832d9d79711dd0c4fb06",
       "bytes": 142548,
@@ -682,7 +682,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "d754a47e5e8ab2a6dea6a1d102b3a368ba303a95",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "f11d92f398687e483cc2d76f805805380ebd60ce",
       "bytes": 415010,
@@ -704,8 +704,10 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "c55b7a03d14924c673172f9e2e73664817f7fb2a",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
-      "quality_issues": [],
+      "review_status": "source_reviewed",
+      "quality_issues": [
+        "added_text"
+      ],
       "sha": "2622606a10bcb663c652f0fd09098266855f0233",
       "bytes": 732296,
       "width": 1536,
@@ -726,7 +728,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "380a15e1a6c809198ad40df58bd4da072b6ac3f1",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "d0ec9ad242b2afed02910ec5220db3e270e09576",
       "bytes": 253380,
@@ -748,7 +750,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "4f554b03861f2206f619a13c034d5ababf3a794e",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "4eb130ec044ba16a52a5bbd8be5e8e419220d272",
       "bytes": 171136,
@@ -770,7 +772,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "7e0c09353304c7a86c8f18e5da1224bc62edf396",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "bce39df8ecb3a050e921c86f7c076a875524fa71",
       "bytes": 227866,
@@ -792,7 +794,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "b664262652d428822b92ae662cf69dacd12b6e8f",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "11c00a2c88c8a522894546264166d1d627735e48",
       "bytes": 613550,
@@ -814,7 +816,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "7840a2092a5e6bbcb3fe68be3105acb13e8535e5",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "55dce3acbe0bbe768766b3829565cd021a68b8d8",
       "bytes": 190966,
@@ -836,7 +838,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "7044c79c0c3351ba1af1801711992afbec2a7fcd",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "3eb90613cc8dcb659d5c1b9002c6bb5caf0f2f30",
       "bytes": 843236,
@@ -858,7 +860,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "15e33d102fb92b9bb201f0dc293290cf191202da",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "0e68399d13e585fcc1bd784f282a428a75275cc1",
       "bytes": 844058,
@@ -880,7 +882,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "f3036d851fbc34c3432cb747637a412d2938979e",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "a4d2545023ab71f466c72c76b2d35a001b0292e6",
       "bytes": 269176,
@@ -902,7 +904,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "7b2b9aa6718e3afe5e878483662b198eb5677d25",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "795923f6872dc848f87038132be1054b1bb919c1",
       "bytes": 824290,
@@ -924,7 +926,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "54aceb4672cc332efc14384348e0501008e4e1ff",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "8e4c05bebfe7aca8b598d150717cfd8b9e479b62",
       "bytes": 510950,
@@ -946,7 +948,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "0859a557bc1a719d71fe395f58384fcb1f87616f",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "ace5a8b592e80c574efaeb6d96698ea1b0cf8c1b",
       "bytes": 390388,
@@ -968,7 +970,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "16e78bb0515e96364cfbc567130c8b1183a2d602",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "0a199d35ea25bca431c7a52a1da363f189b39b05",
       "bytes": 708290,
@@ -990,7 +992,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "0343f5b0284b89c2faae953dd67aca2f0e66652d",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "39221f89074b93bdf9e93e601ddb18b2579bd380",
       "bytes": 243374,
@@ -1012,7 +1014,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "7d59d48d5885dfdd3a72712e1adb1246c1cea728",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "a53db146ac629fb224786a7ec60c8a3369a2a3ca",
       "bytes": 733438,
@@ -1034,7 +1036,7 @@
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
       "source_png_sha": "ff6e08b57e417c953544574da2a9e2a5d5ec7aa8",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint",
-      "review_status": "unreviewed",
+      "review_status": "source_reviewed",
       "quality_issues": [],
       "sha": "b50d3f497b8e3297d8a7c8ee79ba154f9c53a4e0",
       "bytes": 509850,
@@ -1052,7 +1054,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "rejected_by_image_service",
-      "notes": "Image tool rejected the generated output via its safety system. No image returned."
+      "notes": "Image tool rejected the generated output via its safety system. No image returned. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: minimalist-simplification. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is the transformation. The halves are separated only by a hairline or minimal gap; no frames. - **artwork — transformation.** A minimalist flat-vector fashion-editorial illustration of the same subject: identity, pose, proportions, recognizable features, essential objects, and spatial relationships preserved; clutter removed; ultra-fine consistent outlines, flowing simplified lines, clean flat color blocks, minimal 1–2-tone shadows, no gradients or realistic textures, one uniform solid background. The subject takes ~55–65% of the lower panel with generous negative space, matching the original's position, orientation, and scale. - **Colors.** Each photo gets its own palette, analyzed from its subject, pose, key features, mood, and signature colors: 60–70% dominant color, 15–25% contrasting accent, an optional detail color under 5%, plus a separate muted light background; at most four main illustration colors. - **Method.** Preferably generate the illustration separately and composite it with the untouched original via Python PIL, disclosing possible differences in the top image if that isn't possible. The output is one finished poster per photo, plus a brief subject analysis and HEX palette outside the poster; revisions change only the requested element. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "8966e80df17d338599eeb98ee5f7a1883500ebd7",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "woven-tapestry",
@@ -1064,7 +1069,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: woven-tapestry. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork — named \"Visual Memory Extraction × Minimal Jacquard Tapestry\" — is not a trace, a full redraw or a mechanical textile filter. It first extracts the photo's 2–5 strongest visual memory points (main subject, recognizable contours, poses, relationships, a few key objects, structure, light), removes roughly 70–90% of background, decoration and secondary information, and rearranges what remains into a cleaner composition with clear hierarchy and real negative space — where the quiet areas belong to the woven composition itself (large simplified low-detail woven fields), never an external frame or fabric margin. Every retained element is genuinely reconstructed through jacquard tapestry logic: visible warp and weft, interlaced yarn texture, woven color blocks, thread-level irregularity and natural stair-stepping along curves — no smooth photographic detail surviving under a fabric overlay. The palette is about 6–8 yarn colors extracted from the photo, refined and unified. Excluded: studio backgrounds, fabric borders, selvedges, loose threads, textile-sample presentation, pixel art, digital mosaic, smooth gradients, paper texture, hand-drawn lines, and desaturated or muddy palettes. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "0c50ed09a6597951de24d69f628744f1b052dbd4",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "rough-brushed-lines",
@@ -1076,7 +1084,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: rough-brushed-lines. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is a minimalist single-color line-art poster on a pure black background with an authentic handmade, imperfect print feel — dry brush, worn broad-tip markers, distressed screen printing, underground street prints. Its color rule is strict: analyze the photo and select exactly one recognizable signature color — a distinctive chromatic hue, not the largest-area color and not a neutral; if the photo is very low saturation, take its clearest subtle hue with at most a minimal lift. One dominant subject is kept and 70–90% of background and secondary detail eliminated, but the subject is never deformed: realistic proportions and physically plausible structure are mandatory, and all reinterpretation comes from simplifying contours, enlarging, cropping and recomposing. The subject is drawn large (about 65–80% of the artwork) as a hollow contour in the accent color, mostly black inside, with authentically irregular dry-marker strokes — variable width and pressure, feathered edges, broken pigment, skipped strokes, slight bleeding. Its closing principle, in paraphrase: the photograph chooses the color; the brush strokes reinterpret the photograph. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "711049b71dbf37be49ee3d9aacd045eb0e063e2d",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "retro-film",
@@ -1088,7 +1099,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: retro-film. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets the most recognizable subjects, silhouettes, poses and structures as a bold experimental CMYK halftone editorial poster: simplify and artistically reorganize the essential elements rather than filtering or redrawing the whole scene, keeping clear visual recognition. Subject and background are built from visible, regularly arranged circular CMYK halftone dots, angled screening rows, authentic print rosettes and subtle cyan/magenta registration offsets, with near-black shadows and cream highlights for strong contrast. Color fields run vibrant hot yellow → orange → red — a clean, contemporary, high-energy editorial aesthetic, not a faded vintage look. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "a5ada3281eb3cdaa94c3c5e58fdc18b1518141a9",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "out-of-frame",
@@ -1100,7 +1114,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: out-of-frame. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe shared two-zone template applies (3:4; zones strictly 1:1; top = original photo preserved with slight high-end grading for an art-magazine/exhibition feel). The BOTTOM zone extracts only the most recognizable subject, contours, structure, pose and narrative and re-judges it artistically — no copying the original scene, keeping all objects, or redrawing item by item; most background and irrelevant detail is actively deleted; full re-direction rights (delete, recombine, crop, scale changes, white space). Composition = framed color-field logic （框景式色場邏輯）: within a large area of paper white space, ONE irregular rectangular hand-made color-field carrier zone, like a second canvas on white paper. The color field must NOT cover the whole frame — large white margins on all sides; its edges carry light water-brush marks, bleeding （暈染）, broken edges and irregular brush strokes. The subject is organized mostly INSIDE the color field, but a few key contours, branches/leaves, lines, speckles or local elements may naturally CROSS OUT of the field's boundary, forming the \"break the frame\" （越界） composition that names the style. Small-scale subject + super-large white space; placement free per the subject's own direction, proportion and visual center. Style: generalized hand-drawn reconstruction — simple color blocks, few drawn lines, light detailing, moderate abstraction; no realistic redraw. Color: 2–4 of the photo's most vital, most memorable colors, re-mixed brighter, purer and de-grayed; the paper ground stays ivory, warm white or light paper color. Exclusions: object-by-object copying, keeping too much background, filled frames, stiff composition, information pile-up, over-hard edges, templated treatment. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "301213798b2d7804bf5ecd7a8964a93293146a8b",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "mediterranean-poster",
@@ -1112,7 +1129,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: mediterranean-poster. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets the same photo as a mid-century Mediterranean travel poster / vintage travel advertisement illustration: keep the most recognizable elements but significantly reduce photographic detail, simplifying into clear, clean, rhythmic large flat color areas. The palette is highly saturated — cobalt and Mediterranean blue, cream white, ivory, forest and olive green, yellow ochre, terracotta orange-red — reconfigured to the photo's own color relationships rather than forcing colors that don't belong. Large environmental surfaces become bold negative-space color fields; clouds become large soft graphic cream-white forms with a few delicate curved lines; distant scenery gets atmospheric perspective through layered flat-color bands. People and objects are simplified silhouettes with limited shading and minimal linework, while the photo's important structural lines — roads, railings, horizons, sightlines, coastlines, mountain contours — are preserved as strong leading lines. Texture is a refined vintage lithograph / screen-print grain: extremely subtle paper grain, slight ink irregularities, gentle registration imperfections — kept bright, clean and fresh, never dirty, damaged, heavily distressed or overly faded. The mood is the romantic, sunny, relaxed nostalgia of 1930s–1960s European travel posters, while remaining immediately recognizable as the same place and story. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "287a7e8983f16d46bd1b5c189bdc20cf75f66a80",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "one-line-contour",
@@ -1124,7 +1144,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: one-line-contour. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork does not trace or fully redraw the photo: it first identifies the 2–5 strongest visual memory points, removes roughly 70–90% of background, textures, decoration and secondary detail, and reconstructs what remains as a minimal continuous contour illustration / one-line editorial drawing in a mid-century vernacular line style. The drawing prioritizes the outer contour in extremely economical, flowing, natural black or dark-charcoal fine lines with a handmade quality: if one line can explain a structure, no second stroke is added; contours connect and flow; some areas stay open, broken or intentionally omitted. No realistic shading, 3D lighting, skin texture, detailed hair or clothing wrinkles; faces are reduced to the minimum lines for pose and identity; proportions may feel slightly naïve and gently awkward, but identity, pose and relationships must stay recognizable — narrative relationships (contact, eye direction, embraces, shared gestures) matter more than visual detail. Color is an extremely limited spot system: the black linework plus exactly ONE muted accent color from the photo (muted coral, dusty pink, sage green, ochre, soft blue), applied only to a few selected closed areas or large shapes, on clean white or very pale warm-white paper with generous negative space — the subject occupies about half the panel and the linework floats. Any Picasso-like influence appears only as economy of line, never imitation or Cubist distortion. Its closing requirement, in paraphrase: the artwork must be recognizable as the upper photo using only a few contour lines and one selective spot color — a visual memory extracted from the photograph, not a standard line-art filter. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "727fe6461d849f02234892fce2cb46b47ce20811",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "clean-illustration",
@@ -1136,7 +1159,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: clean-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork redraws the photo's most memorable protagonist as a simple illustration — only the most important contours, shapes, actions and representative features kept (for food: the plate, main dish, main sides, key colors; for a person: pose, clothing outline, main action; for a building: exterior, windows, roof, most distinctive structure) — in simple color blocks, geometric shapes and clean lines, neither realistic nor cartoon. The ground is rice-white, cream, or a very pale color drawn from the photo, with generous blank space and a quiet, quality feel. Colors are the photo's most beautiful, lively colors reorganized — brightness slightly raised, warm, fresh and comfortable, never over-saturated, fluorescent or candy-cheap. The reference feel is travel magazine, independent publication, art-exhibition poster, high-quality brand visual. A first-use tip: pick photos whose subject reads at a glance. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "b46d6eb475d3c39d4ee82e65241c30191cac3fae",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "dynamic-field-print",
@@ -1148,7 +1174,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: dynamic-field-print. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets the most recognizable subject, silhouette, pose and narrative relationship as a surreal, minimalist printmaking composition: a restrained visual anchor at small scale in vast negative space, where the photo's movement, direction, light/shadow or spatial relationship becomes ONE dynamic field — falling, rising, flowing, radiating, or rippling — built from fine lines, broken trajectories, rough halftone and grain-density variation, densest at the core and dissolving into blank space; effects are never stacked. Color is strict: ONE signature color extracted from the photo, plus warm white / ivory / natural paper, plus a little black — two to three colors total — with tonal variation achieved through halftone density, ink layering and exposed paper, not gradients. Texture is screen-print / Risograph tactility: coarse grain, paper fibers, uneven ink, slight misregistration; no CGI, 3D or smooth digital look. Excluded: complex scenes, multiple focal points, excess decoration, ordinary gradients, commercial or template-like design. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "b64d179b6d800eff606a24d8c8788b124cd442c5",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "ink-starved-geometry",
@@ -1160,7 +1189,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: ink-starved-geometry. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts the most recognizable subject, silhouette, posture and narrative relationship, understands its core meaning, cultural attributes or emotional relationship first, and reconstructs it as a graphic composition combining folk-culture catalog, antique rubbing print and modern graphic design: ONE core visual motif plus very few narrative auxiliary forms — no one-by-one translation of elements, no generic traditional patterns — using silhouette, negative space, partial enlargement, shape merging and symbolic transformation. Color: the photo's most distinctive, lively colors reorganized into a clean restrained paper-print palette — a bright light paper ground, one dark color as the skeleton, one or two theme colors from the photo — never muddy fake aging, stereotyped folk palettes or chaotic multicolor. Texture is a hybrid of woodblock rubbing, dry-brush screen print and vintage catalog materiality: broken ink （缺墨）, abrasion, exposed paper and uneven ink density mainly INSIDE the graphic forms, while geometric boundaries, key contours and the layout stay crisp — rough material against rigorous order. Excluded: collage-like assembly, arbitrary traditional symbols, evenly distributed layouts, realistic illustration and template design. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "c24384cd8058ace114e4e4c3ecd74a0c8088e2e8",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "asymmetric-enlargement",
@@ -1172,7 +1204,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: asymmetric-enlargement. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork — an \"Editorial Character Poster\" — does not cartoonize, trace or redraw the whole photo: it identifies the 2–5 strongest visual memory points, removes roughly 70–90% of unimportant detail, and rebuilds on a warm off-white ground in an extremely flat poster language — large color areas, minimal contours, no texture. Figures keep their recognizable pose, clothing, movement and colors, but proportions may be deliberately altered (heads slightly smaller, limbs and height lengthened) for a relaxed, witty editorial feel; faces are reduced to minimal marks suggesting direction and expression. The defining rule is the asymmetric enlargement: in every artwork, exactly ONE important visual element — a subject, object or major color area — is enlarged by about +35–60% relative to everything else, clearly breaking the photo's original proportions without distorting the subject itself; all other elements keep their relative proportions and must not be enlarged, or the effect is destroyed. The enlargement serves the subject's movement, direction, posture and narrative; with no person present, the most recognizable object, vehicle, building or color area is enlarged instead. Color: 3–5 dominant colors extracted and reorganized, flat and even — no gradients, realistic light/shadow, reflections or complex color. Overall: quiet, stylish, design-led modern editorial poster with narrative warmth and a little humor. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "1c3737e5df81053c3152f70a5e34396949b0b399",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "fine-line-poster",
@@ -1184,7 +1219,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: fine-line-poster. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork rebuilds the photo from its 2–5 strongest visual memory points, removing roughly 70–90% of secondary information, in deliberately fragile fine lines instead of complete outlines: lines independent rather than continuous, with natural breaks, pauses, fading and reconstructed passages, never fully closed; ink density uneven, warmer and darker at emotionally important places, with a subtle natural bleeding as water media soaks into paper. Color is extremely restrained — the photo's most natural, quiet inherent colors, significantly desaturated and softened toward low contrast (pale blue-gray, soft beige-brown, muted pale green, faint ochre, weak ink black, warm white): the memory of the color, not its saturation. The main subject occupies only about 10–25% of the artwork, surrounded by roughly 60–80% near-blank warm-white or very pale ivory ground, with a few thin broken spatial cues (horizon, ground line, road edge, shoreline, railing, door frame) so the subject does not float. Faces keep only minimal cues of direction and expression. Depth comes from line density, spacing, whitespace and color concentration: no shading, 3D light, paper grain or decorative texture. The final character is quiet and poetic, like a memory quietly set down. Excluded: over-completing the drawing, heavy outlines, perfect vector geometry, cartoon aesthetics, even line weights, realistic shading, background clutter, mechanical vector tracing. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "a401e34bd3d5e0f50a19d20c5856932c4758a844",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "vintage-lines",
@@ -1196,7 +1234,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: vintage-lines. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts the photo's most recognizable subject, silhouette, structure, pose and narrative relationships and reconstructs them as a mid-century vernacular graphic illustration + schematic line drawing + two-color spot printing. It does not completely trace or replicate the photograph: diagrammatic abstraction compresses complex objects into a small number of clear geometric shapes, functional contours and essential structural elements — like an illustration from an old instruction manual, a vintage advertising card, a technical label or vernacular printed material — immediately recognizable, yet more direct, humorous and symbolic than the realistic object. If a structure can be explained with a single line, no unnecessary strokes are used: direct black pen outlines with rectangles, circles, diamonds, straight lines and simple flat planes, over black linework plus two main colors from the photo. People, animals and everyday objects may have slightly exaggerated proportions; machines, buildings and complex structures are simplified into clear boxes, openings, panels and silhouette relationships. Perspective is flat, schematic and diagrammatic rather than realistically lit or spatially deep. The composition is reorganized around the photo's most important narrative relationship — one clear primary subject plus only a few supporting objects, guide lines, directional relationships or structural symbols — with close attention to visual hierarchy, geometric order, scale contrast, positive and negative space and intentional whitespace. The result may feel slightly naïve, awkward, imperfect or handmade in a vernacular way, but never cluttered: every visual element must exist to explain what is happening rather than serve as decoration. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "2166a2f810b1e7dce857b0e5517546c7df732d1a",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "storytelling-collage",
@@ -1208,7 +1249,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: storytelling-collage. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts only the most recognizable subjects, silhouettes, structures, poses and narrative relationships — no object-by-object copying — and rebuilds them as an abstract architectural illustration / geometric collage / playful modernism / contemporary editorial illustration via Gestalt reduction: only the shapes, contours, lines and symbols needed for instant recognition, actively reorganized (possibly enlarged, cropped, staggered). There is one clear core visual anchor, relatively small, on a generous warm-white ground (warm white, off-white, or very pale sky blue / mint green); it may sit off-center, touch an edge or be partly cropped, with recomposition explicitly allowed and breathing room around it. Colors: the photo's own colors distilled to a few bright, fresh accents (sky blue, aqua blue-green, fresh green, warm yellow, coral, peach pink) with clarity preserved — muddy or Morandi tones, dark brown, gray-weakened pastels, fluorescent colors, childish candy colors and oversaturating filters are banned. Excluded: copying the whole photo, retaining clutter or complex backgrounds, over-realistic or 3D rendering, harsh commercial design and cheap templates. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "61f9f396ac2e6afd626d98f083d92de0dabcea3c",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "pixel-art",
@@ -1220,7 +1264,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: pixel-art. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork rebuilds the photo as atmospheric pixel art: a low-resolution pixel language with a limited palette, soft color blocks, clear silhouettes, pixel dithering and subtle grain — a nostalgic game world / retro RPG environment rather than a pixel filter. There is high negative space with a small subject and wide expanses of sky, air, mist or water, in a pastel retro palette (misty blue, pale cyan, mint green, creamy yellow, warm beige, soft pink), low-contrast and dreamlike. Excluded: a standard pixel filter, a generic game screenshot, mechanical 8-bit blocks, photorealistic 3D, cartoon/anime excess, and busy complete scenes. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "0c435b76ade3fd8219e01e010ce6b77207067142",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "patchwork-embroidery",
@@ -1232,7 +1279,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: patchwork-embroidery. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts only the most recognizable contours, pose, hairstyle, clothing, props and narrative relationships and rebuilds them as a stitched embroidery collage — patchwork construction, appliqué embroidery, hand-stitched poster — that unmistakably looks made of fabric and thread, never a refined illustration or digital painting: large fabric patches with bold visible stitching, enlarged backstitch / chain stitch / running stitch / cross-stitch language, stitches thick, sparse and legible from a distance; frayed edges, exposed loose threads, uneven cloth borders, stitched seams; a few buttons, miniature fabric labels or stitched tags allowed if they never compete with the subject. There is generous negative space on a warm white / ivory / cream / pale linen ground, with the subject relatively small and possibly off-center, edge-touching or partly cropped. The palette is limited to 2–3 main colors plus dark gray/black stitching and the warm neutral fabric ground; excess photo colors are discarded; low saturation; warm and handmade. The mood is rustic, handmade, vintage, comforting, quiet, collectible. Excluded: refined illustration, detailed digital painting, storybook style, smooth gradients, polished vector, excessive lace or detail, invisible stitches or fabric texture, thin stitching, weak embroidery, complete scene reproduction, full-frame composition, an oversized subject, saturated multicolor, 3D, commercial template, AI plastic texture. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "7a75fdac010aefd8caa8744f2e5c200ca517b727",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "ink-rubbing",
@@ -1244,7 +1294,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: ink-rubbing. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts only the most recognizable subject, contours, structure, pose and narrative relationships and reconstructs them as an ancient Chinese artifact ink rubbing / archaeological rubbing — never a whole-photo copy, an ordinary black-and-white filter or a traced line drawing: the subject is compressed to core forms like stone carvings, shallow reliefs or ancient ornament and reinterpreted through rubbing-transfer logic so the source photo stays instantly recognizable. The model is explicitly given authority to redirect the composition — rescue even poor photos by subtraction, rearrangement, cropping, scale changes and whitespace; the subject may be incomplete, off-center, edge-touching, floating or partly missing, kept small against an exceptionally large expanse of deliberate whitespace. The image is built from ink marks, blank areas and losses rather than complete outlines — contours may break, disappear or vary; black areas show missing ink, dry-brush white gaps, grain, erosion, fissures and weathering from a time-worn artifact surface, while key structure stays accurate. The palette is warm white / off-white / natural paper plus deep ink black / gray-black, with almost no conventional color or gradients; moderate paper fibers and old rubbing-paper grain, avoiding excessive yellowing and cheap artificial aging — mottled ink-transfer tonal layers, not a noise filter. Excluded: whole-photo copying, excess background, ordinary black-and-white line art, vector outlines, noise filters, filling the frame, and template-based artificial aging. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "4d8f629d59a6bf56f26f9c0818dc9d11829b6e36",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "paper-collage-lines",
@@ -1256,7 +1309,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: paper-collage-lines. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe model may redirect the composition (subtraction, rearrangement, cropping, scale changes) to rescue poor photos. The subject stays small against large white space. Color: the photo's 2–4 most identifiable colors, moderately brightened. Excluded: smooth vectors, 3D, commercial templates, cheap scrapbook styling. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "54734347219dd039daca73f60de9b84e66430108",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "white-model",
@@ -1268,7 +1324,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: white-model. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork interprets the subject's most essential identity, structure, proportions and spatial character and reconstructs it as a small-scale conceptual model / sculptural form study — massing, cutting, layering, cantilevering, recesses, projections, solid-void relationships — pure, condensed, immediately recognizable. The subject sits small in extremely generous negative space. The palette is near-monochromatic white / ivory / charcoal (value over hue), with the background chosen per the photo's atmosphere (pure black, deep charcoal, or extremely pale near-white) and ONE tiny accent of the photo's signature color only when symbolically important. Lighting is restrained and precise. The feel is an architectural massing study / conceptual form study — never a photorealistic 3D or commercial product render. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "79611d933d27f36df9e9f34eba8784a33e804995",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "paper-carving",
@@ -1280,7 +1339,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: paper-carving. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts the most recognizable contours, structure, spatial relationships and narrative features and reconstructs them as layered paper cut art / 3D papercraft diorama / architectural relief — never copying photo details: multi-layer paper pieces, cut contours, hollowed structures, spatial layering, precise edges, subtle inter-layer shadows, with a light paper / architectural-model quality rather than a real 3D rendering. There is a single visual center, large negative space, and a restrained, balanced composition. Colors are the photo's brightest, freshest, most alive hues. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "e4f92e3690ced033227dc4ba8c0ed7c2467bf1a2",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "bento-box",
@@ -1292,7 +1354,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: bento-box. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts the most recognizable subject, contours, structure, pose and narrative relationships and reconstructs them as \"Bento-fication\" （飯盒化） convenience-store deli packaging — not copying object-by-object, but understanding the core visual relationships and performing ingredient semantic mapping + material substitution on people, buildings, plants, sky, water and objects (rice, vegetables, egg, fruit, nori, cheese, sauce, jelly, fish roe, herbs), so the first glance still recognizes the original scene's soul and the second reveals everything is food. Everything must live inside one clear transparent konbini deli box / bento tray / compartmented container, keeping the original's key compositional hierarchy while re-direction is allowed (removing irrelevant background, cropping, adjusting proportions, rearranging, modularizing ingredients, container zoning). The viewpoint is top-view product / packaged-food photography: real transparent-box material, food grains, cut surfaces, moistness, freshness, natural light — a real product on a premium convenience-store shelf, with a clear package and generous whitespace, not a crowded platter. Color: the photo's most recognizable vivid colors converted to natural food colors, bright, fresh and appetizing (green → vegetables/herbs, yellow → egg/corn/fruit, warm red → tomato/roe/sauce, cold colors via jelly/packaging/tray liner); avoiding gray, greasy, dirty colors and a cheap food-ad feel. A small product-label system may be added (product name, short phrases, price, weight, barcode, storage info, micro-notes; any language, no fixed fields), styled like real Japanese konbini / premium food packaging, naturally integrated. The core principle: not drawing the photo AS food, but keeping the original scene's visual soul and re-directing it once with ingredients, a container and product packaging. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "2189f7a8adffefb8c48006a7d8dc8c53a87c557c",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "perler-beads",
@@ -1304,7 +1369,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: perler-beads. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe LEFT panel is the original photo completely preserved and unmodified: no redrawing, retouching, filters, recoloring, additions/removals or stretching; proportional scaling with natural whitespace, never cropping the key subject, no AI outpainting. The RIGHT panel redesigns the same photo as a Fuse Bead / Perler Bead minimal editorial poster — explicitly not plain pixel art, a pixel filter or a mosaic: the core subject, contour, proportions, pose, viewpoint, main structure, spatial relations, mood and representative colors are analyzed first; the subject's recognizable contour, proportions, pose, direction, signature features and core colors are preserved, simplifying only detail beads cannot render. The subject is built from hundreds of identical cylindrical plastic beads in a regular grid, each with a center hole, fine gaps, and matte low-reflectance plastic; optionally one ring of off-white beads forms a clean outline. The background is a clean warm low-saturation cream/ivory matte surface with generous negative space, lit like studio still-life product photography of a real finished bead piece (soft light from upper left, slight floating shadow for thickness). A COLOR CARD below the subject auto-extracts 3–5 actually-used representative colors — same-size flat solid blocks, evenly spaced, no gradient, 3D, outline or shadow. Excluded: modifying the left photo, ordinary pixel art / mosaic / LEGO / glass beads / cross-stitch / embroidery / knitting / felt / paper carving, a right-side original background, rainbow palettes, invented colors, gradient cards, cartoonization, identity or pose changes. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "9578b5fcb1694da25a3a2c0755d9f5eb3a189e17",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "soft-focus",
@@ -1316,7 +1384,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: soft-focus. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts the photo's most recognizable subject, contours, pose and narrative relationships but does NOT depict the original completely — it translates them into a small-scale abstract light-and-shadow graphic: only the most memorable contours, directions, movements or spatial relationships, re-expressed through soft-focus projection, blurred silhouettes, translucent color blocks and partial afterimages/ghosting, so it still corresponds to the photo above but feels like a memory left by light, not a redrawing. The composition is an extremely small subject plus extremely large negative space; the focus may be off-center, edge-touching, suspended or partly cropped, positioned by the subject's momentum; the rest is deliberately low-information and quiet — negative space as a true compositional element, with size contrast, distance relations, blurred edges and asymmetric balance for airiness, distance and poetry (\"weak subject, strong atmosphere\" editorial order); the artwork is never filled. Light and shadow are hazy, soft and indeterminate — soft diffusion, bloom, halation, blurred edge transitions; some contours relatively clear, others dissipating, bleaching or melting into the background, like a projection through frosted glass, thin mist, curtains or strong light; uniform blur and crisp realistic outlines are avoided. Color: the photo's 2–4 most emotionally valuable color relationships extracted and re-modulated (not mechanically copied); brightness raised, stimulation lowered, a slight powdery-mist quality kept; one large soft composite color as an airy base with a cold or warm color seeping in like light (pairings derived from the photo, e.g. powder-mist blue + creamy warm white, pale cyan-green + apricot yellow, soft pink + pale violet, light sand + mist blue); colors are sun-bleached — translucent, soft, quiet; fixed blue casts, dirty gray, dark brown, clashing colors, fluorescent colors and cheap gradients are avoided. Overall: an emotional minimalist poster like an art magazine / cultural brand / exhibition visual, keeping the subject's core visual soul rather than a complete replica. Excluded: realistic illustration, filled backgrounds, complex detail, hard-edged gradients, commercial-ad feel, templated poster feel, cheap filter look. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "af6e3ba254078d43929187fae460f0a53c3b8a7f",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "colored-paper-collage",
@@ -1328,7 +1399,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: colored-paper-collage. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe top zone is the original photo filling full width, faithfully preserving the main people/animals/objects, poses, actions, spatial relations, scene, natural light and main color atmosphere, with only extremely subtle natural color adjustment; natural proportions, no stretching or redesigning of main subjects; small unimportant edges may be cropped, and if cropping would remove a main subject, a little environment background may be extended naturally — but never creating, replacing or modifying key people, objects, scenes or actions not in the original. The bottom zone is a geometric colored-paper abstraction (cut colored-paper collage look) from the same photo only: not redrawing the whole photo or copying every object/detail, but identifying the most worth-keeping recognizable information — core subject, most recognizable contour, pose/direction, interactions and main occlusion relations, a few environment elements that represent the scene — deleting secondary background, clutter and decoration, and keeping the core subject's approximate position, direction, pose, movement and interactions so top and bottom correspond at first glance (not pixel-perfect). The subject may shrink moderately with generous negative space (contemporary art book / independent publication / design journal editorial feel). Figures, objects and space are built from a limited number of polygons, simplified curves and flat color blocks — not over-simplified into generic icons or symbols; structure and depth come from adjacent flat color blocks of differing shape and value. No gradients, thick black outlines, 3D shadows, realistic materials, 3D modeling, cartoon faces, plastic feel, clashing neon, random doodles or glitch art. Color: about 5–6 of the photo's most representative colors extracted into a coordinated, slightly desaturated system; the bottom background is warm off-white / ivory / pale beige; the darkest color is reserved for a few key focal points; one main accent color echoes the photo; the core subject's signature colors are never changed. Edges are clean and sharp; a very subtle print grain inside a few blocks and very slight misregistration at a few edges are allowed for physical print texture — not rough paper, vintage dirt, heavy grain or glitch. Overall: a page from a contemporary art book / independent publication / high-end design journal — restrained, quiet, gentle, clean, ordered, lots of whitespace. Core principle: do not make the photo more complex and do not just redraw it — organize a complex photo into fewer, simpler geometric color blocks while staying instantly recognizable. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "74d035ef375f092064bb9b5d0fa2ba01792e058a",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "lingering-afterglow",
@@ -1340,7 +1414,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: lingering-afterglow. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe prompt asks for each uploaded photo to become its own independent high-end design poster, never splicing photos, on a 3:4 canvas in two zones strictly 1:1 at 50% each. The top zone preserves the original photo faithfully with only slight high-end grading; the environment may extend naturally to fit the frame, but the subject is never stretched, distorted or changed. The bottom zone extracts only the most recognizable subject, contour, structure, pose and narrative relationships — not copying the photo — and rebuilds the emotion, relationships, direction and visual metaphors most worth keeping as a minimalist-whitespace conceptual illustration vignette. Most background and secondary detail is deleted; a very small graphic subject sits in very large negative space, placed center-low or off-side, possibly incomplete or partially cropped; white space is the main compositional element (air, distance, loneliness, time, pause, psychological space). The visual language is extremely low-information hand-drawn thin lines with slight handwritten pauses/irregularity, simple silhouettes, a few trajectories and symbolic graphics; no realistic volume. Color: a warm gray-beige / natural aged-paper base plus a single low-saturation cool monochrome drawing system taken from the photo's temperature (indigo, blue-violet or gray-violet), layered by value and density only — quiet, literary, restrained; no rich multicolor, strong clashes or digital gradients. Excluded: complete scene replication, filled frames, complex backgrounds, realistic depiction, cartoon or 3D feel, vivid multicolor, commercial-illustration feel, templated poster effect. The overall aim is poetry-collection / private-manuscript / psychological-archive quality with lingering resonance. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "2d31d5343719bcc5b7d88c7fad71fc43a1390663",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "photocopier-print",
@@ -1352,7 +1429,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: photocopier-print. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe prompt asks for each uploaded photo to become its own independent high-end design poster, never splicing photos, on a 3:4 canvas in two zones of exactly equal height. The top zone preserves the original photo faithfully with only fine, restrained high-end grading; the environment may extend naturally and the subject is never stretched, distorted or changed. The bottom zone extracts only the most recognizable subject, contour, structure, pose and narrative relations and reconstructs them as a two-spot-color, misregistration- flavored hand-drawn illustration / Risograph-style editorial illustration. The whole photo is not redrawn; most background and secondary information is actively deleted. The artwork gets independent art direction — bold deletion, rearrangement, cropping, scaling, repositioning and white space; the subject may be off-center, edge-touching, floating or partially cropped; one clear visual focus; deletion is prioritized over filling. A small, stamp-like subject sits in a very large amount of white space — white space is a compositional element equal to the subject (positive/negative shapes, density contrast, directionality, asymmetric balance); the whole artwork stays quiet and open with lingering resonance. The two-spot-color system is strict: one color carries color areas, mass and partial shadow; the other carries contours, structure and emphasis; the two most expressive color relationships are chosen from the photo rather than the objects' real colors. Color blocks may be incomplete; contours and color areas may detach; slight registration offset, uneven ink density, ink breaks, grain, and paper ink-absorption/fiber texture are kept for a real paper Risograph/silkscreen feel. Core principle: don't draw the photo again — understand it, delete most of it, then direct it into a more convincing work. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "02fb4ead6c73d923c127a51e86f4024b71e6a6ac",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "food-poster",
@@ -1364,7 +1444,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: food-poster. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe template's fill-in variables are: Brand [品牌名稱], Food [食物／飲品], Headline [2–4 Chinese characters], Physical Interaction [纏繞 winding / 斷裂 breaking / 滴流 dripping / 剝離 peeling], Accent Color [顏色], Product Name [產品名稱], Price [價格]. The output is a 9:16 premium editorial food poster in which real food physically interacts with oversized Chinese characters and directly changes their structure. Background: warm cream or ivory. Headline: heavy, strongly geometric black Chinese type. The food must be realistic, natural, with true photographic texture. Overall: abundant white space, asymmetric composition, grid-breaking editorial layout fusing premium European F&B branding with contemporary Chinese magazine design. The food must not merely sit in front of or behind the characters — food and characters are objects in one real physical space, and the chosen interaction must clearly alter strokes, structure or material behavior: winding → strands wrap around, pass through and pull specific strokes tight, with slight believable tension deformation at contact points; breaking → the food cracks along a clear force direction and the characters fracture, displace and structurally offset along the same axis; dripping → real liquid / sauce / honey / cheese / drink flows down the strokes under gravity, gradually covering or replacing parts of the geometric strokes; peeling → the character surface has real thickness and is physically lifted to reveal a different food layer beneath, the lifted part remaining attached and curling naturally. Only one primary physical mechanism per poster; every local deformation must follow real contact, weight, tension, gravity, viscosity or fracture logic; strokes untouched by the food stay clean, sharp, geometric and highly readable. Random liquefaction, purely decorative overlap, generic 3D type effects and over-digital distortion are avoided. Layout: strong scale contrast, asymmetry, large negative space; a little meaningful small information is allowed (ingredients, opening hours, address) but no traditional menu layout. Headline in heavy black; product name and price may pair with high-contrast Song type or italic serif. Color stays minimal: cream ground, black type, the food's natural colors, and one accent color. The result must read instantly even at thumbnail size — food and the giant headline first, then how the food truly changes the characters — and must reproduce the specified Chinese characters exactly: no wrong, mutated or meaningless characters, with high recognizability and legibility. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "6e01ba54bfac04c07ba10b5efb2e916b9a027932",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "porcelain-collage",
@@ -1376,7 +1459,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: porcelain-collage. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe prompt asks for each uploaded photo to become its own independent high-end design poster, never splicing photos, on a 3:4 canvas in two zones strictly 1:1. The top zone preserves the original photo faithfully with only slight high-end grading; the environment may extend naturally but the subject is never stretched, distorted or changed. The bottom zone does not redraw the photo: it first understands the original's meaning, emotion, symbolism, cultural associations, psychological tension and deeper metaphors, and from the subject relationships, actions, distances, directions, colors and accidental details distills the most memorable, poetic visual moment, rebuilding only that from Chinese porcelain shards of varied sizes and irregular shapes — deleting irrelevant detail and keeping only contours, structure, movement and visual memory points. The shards must show real glaze surfaces, ceramic-body fracture edges, cracks, chipped corners and hints of traditional pattern; glazes are chosen flexibly per the photo's temperament (blue-and-white, celadon, famille-rose, monochrome glazes, underglaze red), with pattern only as a local hint, never upstaging the subject. Gaps, misalignment and incompleteness between shards are allowed — breaking and re-aggregating is itself part of the narrative. The composition is a small-scale seal-like subject with large white space, placed freely by the subject's direction, proportion and visual center (off-center, edge-touching, floating, partly cropped); the frame is never filled; the subject may show only its most crucial part; the blank actively joins the positive/negative shapes, distance, pauses and spatial relations so the shards' gathering and gaps create breathing room, lingering resonance and psychological tension. Color: the most vivid, memorable colors of the photo above, translated into porcelain glaze and pattern colors — never a mechanically fixed blue-and-white blue; clear, bright, real glaze luster without excess opulence; refined photo-derived colors balanced by large areas of warm porcelain white or a very pale ground. Overall: not a porcelain-shard version of the photo but a re-creation after understanding it — porcelain shards as the medium expressing the original's spirit through breakage, loss, reassembly, white space and cultural memory; poetic, restrained, contemporary, Eastern, psychologically tense, collectible. Excluded: object-by-object replication, filled frames, heaped traditional pattern, antique-display feel, cheap \"national-trend\" feel, 3D plastic feel, templated collage. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "a3cefd8dbee1c2c3a661279e2d6d2270925f5efd",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "black-line-drawing",
@@ -1388,7 +1474,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: black-line-drawing. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nAnother member of the two-zone template family: each uploaded photo becomes its own independent high-end design poster, never spliced, on a 3:4 canvas in two zones strictly 1:1. The top zone preserves the original photo faithfully with only slight high-end grading. The bottom zone does not redraw the photo — it distills only the most touching, story-worthy fragment and shrinks it into a very small whitespace illustration drawn in black hand-drawn lines with a light watercolor wash, on a xuan-paper-textured ground. The palette is essentially rice-paper white + black, with a single accent of light ice-blue sampled from the photo above. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "2b3dd791fea543cf5f22a3f3556a605d77e4336d",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "geometric-poster",
@@ -1400,7 +1489,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: geometric-poster. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe prompt asks for a high-end minimalist design poster from the uploaded photo, 3:4 vertical. The PHOTO BLOCK preserves the original image — subject form, proportions, realistic texture, natural light, original colors, overall atmosphere — with only subtle professional color correction for a contemporary-art-photography finish; if the frame must be extended, only sky/ground/surroundings extend naturally; the subject is never distorted or altered. The GRAPHIC BLOCK reinterprets the subject's most recognizable contours and spatial structure as a simplified abstract composition using only clean geometric shapes, flat color blocks, thin lines and ample negative space — no realistic illustration, no intricate detail; the result should feel abstract yet instantly recognizable, in tones extracted from the original photo. Excluded: templated layout, low-quality commercial design, cartoon style, 3D render feel, over-decoration, gradient effects, neon effects, overly complex illustration, distortion of the subject. Parameters to fill in: 1. background color (default beige or ivory white, or specify another), 2. year (e.g. 2026), 4. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "e88991b87e7c0f6550e03b698a6d0668a99325db",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "passport-ticket",
@@ -1412,7 +1504,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: passport-ticket. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe prompt specifies that the single uploaded image is the ONLY visual source. The output is one vertical before/after design in two stacked panels strictly 50/50, meeting at the midpoint with no gap, border or divider. The TOP panel is the original image kept pixel-faithful: no redrawing, retouching, recoloring, or cropping of important content. The BOTTOM panel condenses the photo's place, culture and memory into one small refined hand-drawn iconic illustration on warm ivory/cream old paper (paper fiber, print grain, faded ink), with colors extracted from the photo and desaturated into vintage pastels, thin vintage ticket borders, and small serif / typewriter / postmark type, with lots of white space and a flat front-facing editorial feel. The model auto-adds the country, city, destination code, mini flag, local flower, cultural symbols and landmarks, plus micro boarding-pass details (DESTINATION, CITY, GATE 01, SEAT A12, CLASS EXPLORER, DATE 2026) and a slightly worn passport stamp that may fuse local architecture, scenery and totems. The result is explicitly a collectible graphic souvenir, not a usable document. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "8ee70d08a5338172f52e536947fbc9f95251ff95",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "paper-cut-collage",
@@ -1424,7 +1519,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: paper-cut-collage. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe top zone and the 3:4 / strict 1:1 format follow the shared two-zone template (original photo preserved above with slight grading). Shapes are cut paper with hand-cut edges, paper grain and layering. Colors: 2–4 colors extracted from the photo, reorganized into soft bright pastel color fields. The model is explicitly granted re-direction rights. Excluded: full scene conversion, complex backgrounds, realistic perspective, gradients, heavy shadows, filled frames, cartoon / 3D / template feel. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "af607c9884316f8f8e0b9583c4859fcce9d73e57",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "hand-drawn-feel",
@@ -1436,7 +1534,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: hand-drawn-feel. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nEach uploaded photo becomes its own independent high-end design poster, no multi-photo collage, 3:4 vertical, two zones strictly 1:1. The TOP zone preserves the original photo — subject identity, structure, pose, real texture, natural light and color atmosphere — with only slight high-end grading for an art-magazine/exhibition feel; the environment may extend naturally, but the subject is never stretched, distorted or altered. The BOTTOM zone extracts only the most recognizable subject, contours, structure, pose and narrative and rebuilds them as a naïve hand-drawn mixed-media picture-book illustration: loose, broken, slightly shaky, irregular hand-drawn lines with natural, charming imperfections; color built from flat fills, gouache-like broad strokes, translucent layering, crayon/pastel grain and a little collage-like material — natural, relaxed, childlike, gentle, handmade picture-book quality; no rigorous realism, no precise perspective, not every object painted in full. The composition follows \"large negative space above + small-scale narrative subject in the middle + one comprehensive color-field base below\" （空—主體—基座）: the subject shrinks to a carefully placed focal point amid deliberate white space; the single broad base block becomes sea, ground, grass, mountain, tabletop, shadow field or environmental support per the photo's meaning, laid in with wide horizontal strokes, light/dark layering, local show-through white and irregular brush marks. The model is expressly granted re-direction rights — delete, recombine, crop, rescale, use white space; the subject may sit off-center, at an edge, suspended or partly cropped, but the whole stays quiet, relaxed and balanced. Color: 2–4 of the photo's most recognizable, emotionally valuable colors unified into a softer picture-book palette (saturation may drop, brightness rise; small vivid accents allowed; no dirty gray, no cheap high saturation). Excluded: object-by-object redraw, filled frames, complex backgrounds, realistic modeling, heavy oil-paint feel, cartoon-template feel, 3D feel, over-decoration. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "7da28bd34a683f13df40c0f6c2d9dffc4205f8bc",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "dot-matrix",
@@ -1448,7 +1549,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: dot-matrix. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe shared two-zone template applies (each photo its own independent high-end design poster, 3:4, zones strictly 1:1; top = original photo preserved with slight high-end grading only). It does not copy the photo wholesale or redraw object by object; it actively deletes most background and detail, keeping only the structure, movement and visual memory points that best represent the original, rebuilt through bitmap rasterization, dithering, typographic halftone and character-based imaging so the correspondence with the photo above reads at a glance. The bottom image itself must be BUILT from characters, symbols, dot matrices, halftone dots and low-resolution raster units — not continuous color blocks: dark areas are denser characters/dots, light areas sparser arrangements plus white space, with clear hierarchy, rhythm and order (from afar a strong simple overall image; up close it is made of characters and dots). Full re-direction rights: the subject need not be complete or centered; it may be off-center, edge-hugging or partly cropped — \"small-scale subject + huge negative space\"; white space is a deliberate compositional language. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "d032ce110ee91f208d971b9dbee2276577e9d032",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "spot-illustration",
@@ -1460,7 +1564,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: spot-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe shared two-zone template applies (3:4; zones strictly 50/50; top = original photo fully preserved with only slight, restrained high-end grading for an art-magazine / indie-publication / contemporary- exhibition feel). The BOTTOM zone analyzes the photo's most memorable core theme, subject relationships, compositional movement, action features and visual memory points, and re-refines them into a Spot Illustration （小型留白圖形插畫 — small white-space graphic illustration) of restrained size. It does not copy every object or redraw the whole scene; it actively deletes irrelevant detail, keeping only the contours, actions, proportions, poses and identifying features that best represent the original theme, generalized into one small independent graphic subject recognizable at a glance. Composition = \"center small graphic + large negative space\" single-point visual logic: the subject occupies only a small proportion of the bottom zone, centered or slightly off-center, surrounded by lots of clean white space that is itself a compositional element. Illustration language: minimalist, hand-warm sticker-like spot graphic — black hand-drawn line work + white or pale solid shapes + a few simple geometric shapes; contours clear but slightly, naturally irregular. For any subject only its most representative \"soul features\" are extracted; no realism, no complex perspective, never a full cartoon illustration. Color = \"achromatic-led + single accent\": ground white, rice-white or light warm white; core = black or deep-gray hand-drawn lines; then ONE single color extracted from the photo above, converted into a high-brightness, low-to-mid-saturation pale tint used only as a tiny-area, single-point accent — pale ice-blue / sky-blue preferred, but it may flexibly become pale pink, pale green, pale yellow, pale purple or another soft color of the same character per the photo; never spread evenly over the frame. Strict exclusions: object-by-object redraw, full scene redraw, complex backgrounds, filled frames, multiple subjects side by side, even color distribution, multiple vivid colors, cartoon-element pile-ups, over-cuteness, cheap sticker feel, stock-illustration feel, templated poster feel. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "bd70e3756539a49408f6f8238a478f74d8835f4a",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "wool-felt",
@@ -1472,7 +1579,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: wool-felt. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe shared two-zone template applies (each photo its own independent high-end design poster, 3:4, zones strictly 1:1; top = original photo preserved with slight high-end grading only). The BOTTOM zone prioritizes a picture-book minimalist freehand （極簡寫意） over a realistic wool-felt reconstruction: first understand the photo's most memorable subject, structure, emotion and narrative relationships, then re-generalize them into an extremely simple, poetic picture-book composition converted into a handmade wool-felt illustration. It actively deletes ~60–70% of background detail, duplicate objects and visual clutter, keeping only the key elements that carry the original's identity and spirit; everything else is simplified into soft, symbolic shapes — never an object-by-object copy. Composition keeps the small-scale subject + large white space relation: the illustration occupies only ~20–25% of the zone, centered or slightly off-center in pure white space, never filling the frame; flat 2.5D composition; only minimal ground/support relations; no miniature landscapes, complete 3D scenes or realistic 3D models. Craft: all elements show real high-grade needle-felt work — felt-fiber texture, soft fuzzy edges, matte finish, natural handmade imperfections; subjects generalized into rounded, soft, symbolic wool-felt shapes. Color: the photo's brightest, freshest, most vital colors extracted and re-mixed (not an average sampling), with overall brightness and color purity raised and lots of pure warm white as breathing space. Overall: minimalist picture-book composition + real wool-felt craft + fresh healing colors + small-scale subject + large artistic white space. Excluded: object-by-object conversion, realistic wool-felt scenes, complex backgrounds, miniature-model feel, realistic 3D feel, filled frames, grayness/haze, aged looks, heavy Morandi muting, dark-brown filters, fluorescent colors, cheap candy or cartoon feel, templated poster feel. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "bf2d33609e17640cdb4f2540888da3fd88a1c462",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "typography-device",
@@ -1484,7 +1594,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: typography-device. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe shared two-zone template applies (each photo its own independent high-end design poster, 3:4, zones strictly 1:1; top = original photo preserved with slight high-end grading only). The BOTTOM zone extracts only the most recognizable subject, contours, structure, momentum （走勢） and narrative relationships — no wholesale copy; irrelevant detail deleted; the visual memory points recomposed into a small-volume, center-isolated typographic-graphic device （小體量、 中心孤立式的字體圖形裝置）. The subject may be further geometrized, modularized and symbolized: any subject translated into lines, frames, columns, blocks, color fields and a few structural nodes forming a visual landmark; the correspondence with the photo above must read at a glance. Composition: \"small-scale seal/stamp-like key visual + large negative space\" — the subject occupies only a small area of the bottom zone, placed freely (centered-offset, suspended, near the central axis, or partly cropped), surrounded by clean white space so it reads like a visual device exhibited in a space; white space itself participates in the composition. Color: a high-saturation FUNCTIONAL color-division system on a limited palette — bright orange = main structure and type skeleton; clear cyan-blue = information hierarchy and auxiliary blocks; high-brightness yellow = local highlights and edge emphasis; a little magenta/bright pink = visual jump-points; restrained black = anchors the visual center. Slight brightness/saturation adjustment per the photo's color temperature is allowed, but the color-role relationships must stay clear. Background: pure warm white or very pale near-white. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "89cfde4ac44e15be38b05949c9afb2af9cd067f9",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "comparison-poster",
@@ -1496,7 +1609,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: comparison-poster. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe TOP keeps the original photo with its real feel — people, food, buildings, objects unchanged; only slight brightness/color/texture cleanup for a magazine feel; background may extend naturally to fill the frame, but the subject is never stretched or altered. The BOTTOM redraws only the most memorable subject as a simple illustration, keeping only the most important contours, shapes, actions and signature features (for food: plate, main dish, main garnish, most obvious colors; for people: pose, clothing outline, main action; for buildings: exterior, windows, roof, signature structure) — simple color blocks, geometric shapes and clean lines; not too realistic, not cartoon characters. The background is off-white, cream white or a very pale color taken from the photo, with generous white space. Colors are the photo's prettiest, most vital colors reorganized, brightness slightly raised for warmth and freshness — never over-saturated, no fluorescent colors, no cheap candy feel. Reference points: travel magazines, indie publications, art-exhibition posters, quality brand visuals. The top must read as the original photo and the bottom must be recognizable at a glance as the same subject, simpler and cleaner — explicitly not a cartoon-filter version. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "fed68c794256043ba4240da175d7e716c1968d48",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "split-poster",
@@ -1508,7 +1624,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: split-poster. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nEach uploaded photo becomes its own independent high-end design poster, no multi-photo collage. The format is **7:6 LANDSCAPE with LEFT/RIGHT side-by-side zones of strictly equal width (1:1, 50% each), explicitly never a top/bottom layout**; the seam is a clean straight vertical line with no overlap, shadow, gradient, frame or decorative divider, and both zones are complete rectangles of equal height. The LEFT zone preserves the original photo in full — identity features, structure, pose, proportions, real texture, natural light, original color atmosphere — with only slight professional high-end grading toward an art-magazine / indie-publication / exhibition feel; the environment may extend naturally to fit the 7:6 frame, but the subject is never stretched, distorted, redrawn or replaced. The RIGHT zone is a naïve folk narrative illustration reinterpreting the left photo: extract the most recognizable subject, contours, structure, pose and narrative relationships and recompose them in flat, primitive, symbolic forms; delete secondary detail; keep only the visual cues that preserve identity and story so the subject reads at a glance, with a clumsy, humorous, lived-in folk feel; moderate compression and generalization allowed, exaggerating the most recognizable features without strict perspective. Drawing: fully flat 2D with visible crayon / oil-pastel / colored-pencil / charcoal dry-media grain rubbed on paper — fiber, smudge, layering, broken strokes, show-through to the paper base; dark areas unevenly filled; contours keep slight hand-drawn wobble; no realistic light/shadow, 3D volume, gloss or smooth vector finish. Color: a concise bright limited palette sampled from the photo's most vivid, memorable, identity-bearing colors; warm white / rice white / natural paper as the illustration base; deep black, charcoal and dark-gray silhouettes carry structure; small spot colors sampled from the original placed on clothing, sky, plants, food, building details, signs, vehicles or story focal points; vivid and clean but not over-saturated; strong light-dark contrast with small color jumps; avoid grayness, murk, Morandi muting, fluorescent colors, cheap candy colors and over-powdery pastels. Composition: a clear narrative center and visual weight via positive/negative shapes, size rhythm and white space; the subject may sit off-center, be partly cropped or enlarged, or form a loose triangle with a few auxiliary elements; generous warm-white breathing room in the right zone. Exclusions: children's-cartoon feel, cute-sticker feel, chibi figures, photoreal painting, complete tracing of the photo, smooth vector feel, complex perspective, refined facial features, over-fine detail, 3D rendering, e-commerce illustration, infographic style, templated posters. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "308923a1b639a52e7de007098858ede272b79cef",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "blueprint-poster",
@@ -1520,7 +1639,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: blueprint-poster. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nFrom the uploaded photo, create a high-end minimalist architectural exhibition poster in 3:4 vertical format. The PHOTO section preserves the original — form, proportions, realistic texture, natural light and shadow, original colors, perspective and atmosphere — with only subtle professional color correction toward a refined contemporary architectural-photography and exhibition-poster look; any extension is limited to sky, ground or surrounding environment, done naturally; never distort, move or alter the subject. The GRAPHIC section reinterprets the same scene's most recognizable structures as an architectural drawing — fine drafting lines, semi-transparent flat color planes, axes, openings, paths, tiny numbering and a large amount of negative space; extremely restrained scale marks, drawing numbers or elevation notations are allowed, but it must not look like a real construction drawing and must not carry too many annotations; abstract yet immediately recognizable, with building mass, roads, windows and terrain transitions corresponding clearly to the photo. Colors are extracted only from the original image. Background: a light neutral color set by variable (default beige or ivory), with generous margins and a balanced central composition. Exclusions: realistic illustration in the graphic section, overly complex detail, cartoon line art, 3D-model-like rendering, template-like layouts, low-quality commercial design, cartoon styling, 3D rendering, excessive decoration, gradient and neon effects, overly complex illustration, and any distortion of the subject. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "808bc7f4a985fa0e6e9dcc19916d028027b5f8f2",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "brand-packaging",
@@ -1532,7 +1654,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: brand-packaging. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nEach uploaded photo becomes its own independent premium design poster, output separately, no collages; vertical 3:4 with two zones of exactly 50% each. The TOP zone preserves the original photo — subject identity, structure, proportions, pose, real texture, natural light and original color mood — with only subtle high-end editorial grading; sky, ground and surroundings may extend naturally; the subject is never stretched or redesigned. The BOTTOM zone analyzes the photo's most recognizable subject, silhouette, pose, structure, colors, materials, mood and story and rebuilds them as a complete brand packaging and visual-identity system — traits abstracted into line illustrations, symbols, motifs, patterns and color blocks, never the photo printed directly on every package. The system auto-selects 5–8 carriers suited to the theme (paper bag, box, gift box, envelope, label, hang tag, ticket, card, sticker, wrapping paper, booklet), with 1–2 hero packages and the rest arranged as a modular studio presentation board with aligned edges, scale contrast and generous white space. Palette: soft, airy, slightly desaturated — powder/mist/sky blues as the base with ivory, cream, light beige, soft gray-green and architectural neutrals, plus a little dusty rose as accent; carriers may rebalance proportions but stay in one color system. Materials: realistic premium matte/textured paper and card with embossing, die-cutting and folding under soft natural light; no plastic feel, harsh reflections or exaggerated 3D. Exclusions: fixed product combos, repeated templates, ordinary brand mockups, e-commerce display feel, pasting the original photo onto all products, cheap plastic feel, glossy glowing 3D renders, packages that all look identical, random mockup piles. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "47f842d93f6ed2c73af89d202dee592527cde510",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     },
     {
       "prompt_slug": "cinematic-portraits",
@@ -1544,7 +1669,10 @@
       "comparison": false,
       "run_id": "gpt-2026-11-06",
       "status": "blocked_usage_limit",
-      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z."
+      "notes": "Image tool returned usage_limit_reached for the Plus plan. No image returned; reset reported as 2026-11-07T16:21:01Z. Exact failure timestamp was not retained; generated_at is null.",
+      "prompt_text": "Style: cinematic-portraits. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nWhat follows is a structural summary. Shared setup: all six prompts are written for **Google AI Studio with the Nano Banana model**, and each begins by directing the model to use the uploader's own uploaded photo as the protagonist — an identity-preserving restyle of your own portrait, not a poster treatment of an arbitrary photo. 1. **圖1 — All-white minimalist studio portrait （影樓人像照）:** frontal seated portrait on a pure-white studio ground; all-white outfit; elegant pose, hand on chin, holding a DSLR; soft window light falling on the wall. 2. 3. **圖3 — Black-and-white studio portrait （黑白工作室肖像照）:** subject standing with back to camera, head slightly bowed, side profile partly visible; one clean horizontal beam of side light across the wall; high-contrast B&W with soft gradations and light film grain; specified like a camera shot (full-frame, 85mm, f/1.8, ISO 200, 1/125s), medium waist-up framing. 4. **圖4 — Profile portrait （側臉肖像照）:** side view at a slightly low angle, head raised, eyes closed; deep-blue background and black blazer; a warm spotlight from upper right lays an orange glow on face and neck against cool blue shadow; 85mm shallow-depth portrait-lens look. 5. **圖5 — Side-gaze portrait （側身凝視）:** cinematic B&W studio portrait in profile, head bowed, one hand in a dark jacket pocket; sharp side light sculpting cheekbones, jawline and shoulders; generous negative space; the same camera-style specification as 圖3 (85mm, f/1.8, ISO 200, 1/125s), soft film grain. 6. **圖6 — Half-turn light-and-shadow （半回身光影， brand-image composition):** B&W studio portrait, body half-turned toward camera, chin lifted toward a single key light, eyes gently closed; strong-contrast minimalist composition aimed at brand/fashion advertising use; camera-style specification as in 圖3/圖5. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+      "prompt_sha": "d875f55373cdd4012fe2b752e86b199793b90ee9",
+      "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
     }
   ],
   "input": "input.jpg"
