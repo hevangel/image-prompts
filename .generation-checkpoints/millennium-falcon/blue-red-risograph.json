@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "blue-red-risograph",
+  "output": "blue-red-risograph.gpt.png",
+  "sha": "15e33d102fb92b9bb201f0dc293290cf191202da",
+  "generated_at": "2026-11-06T19:06:18.771Z",
+  "prompt": "Style: blue-red-risograph. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is a two-color Risograph editorial illustration. It starts by finding the photo's three strongest visual memory points, then removes roughly 60–75% of background and detail and recomposes what remains as a minimalist illustration — bold geometric shapes, flat ink areas, open contours, expressive negative space — corresponding to the photo without tracing it. Only two inks are allowed: deep ultramarine blue and warm coral red on ivory paper with a subtle fiber texture; where they overlap, a darker tone appears on its own. The print character is essential: uneven ink coverage, visible grain, halftone texture, slight registration offsets between the two colors, rough edges and handmade imperfections. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "c015181ed5422f7fc85a1abe7811d979afe5b6a3",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
