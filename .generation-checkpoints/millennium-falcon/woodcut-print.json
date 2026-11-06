@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "woodcut-print",
+  "output": "woodcut-print.gpt.png",
+  "sha": "7d59d48d5885dfdd3a72712e1adb1246c1cea728",
+  "generated_at": "2026-11-06T19:09:05.814Z",
+  "prompt": "Style: woodcut-print. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork extracts only the most recognizable subjects, silhouettes, poses, objects and narrative connections and reinterprets them as a limited-color woodcut / linocut impression floating on warm paper — rebuilt through hand-carved language: visible carving marks, uneven line thickness, hesitant cuts, rough edges, abrupt turns, small breaks and gaps, irregular negative space, slight misregistration, worn areas, dry texture, incomplete printing, missing ink, coarse grain. Complex backgrounds and clutter are removed; the composition keeps one strong visual anchor, generous negative space, and incomplete edges that dissolve into broken ink and exposed paper rather than forming a rectangular frame. Color is drawn from the photo's most recognizable, emotionally meaningful colors, reinterpreted in a fresh, soft, bright limited palette — cream white, ivory, pale pink, mist green, light blue, soft yellow, pale orange, mint, gentle coral, light ochre, muted teal — low-to-medium saturation, high brightness, matte physical inks in separate slightly translucent layers; dark, muddy or heavy vintage schemes are avoided. Excluded: generic filters, full-background replication, polished vector, clean digital outlines, glossy rendering, cartoon styling, 3D, heavy grunge, cheap retro, formulaic travel-poster styling. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "aa124adcfa016194d6b0eeba57dd64c689867dcd",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
