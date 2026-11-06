@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "white-space-illustration",
+  "output": "white-space-illustration.gpt.png",
+  "sha": "b664262652d428822b92ae662cf69dacd12b6e8f",
+  "generated_at": "2026-11-06T19:04:57.407Z",
+  "prompt": "Style: white-space-illustration. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — reduction.** Complex backgrounds are stripped away; only the meaning worth preserving is kept — a small protagonist rendered as a conceptual line illustration, with expansive quiet negative space around it. - **artwork — medium and color.** Restrained light gray-blue line work on old-notebook-style paper, with a paper texture; the illustration keeps the feeling of the scene rather than its detail. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "59142cd42e30c5cf56c41bfd0ac453fd1fda560e",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
