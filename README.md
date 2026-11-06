@@ -48,7 +48,7 @@ Sample outputs are generated locally from our own photos using those prompts.
 
 ## Comparing image models
 
-Additional model outputs use `<style-slug>.gpt.png` (or another provider suffix)
+Additional model outputs use `<style-slug>.gpt.webp` (or another provider suffix)
 and are recorded in `generations.json` with `current: false` and
 `comparison: true`. The gallery displays these beside the canonical output,
 including in prompt detail and model filters. `current` retains its existing
@@ -62,3 +62,26 @@ token usage are not exposed by the ChatGPT image tool, so no specific API model
 version or token usage is claimed. These are qualitative comparisons; the
 historical Muse prompts and settings may differ. The GIF prompt requires an
 animation generator and is excluded from the still-image run.
+
+Comparison images are encoded as WebP quality 95 without resizing. This is a
+high-quality lossy encoding, not pixel-identical preservation of the PNG output.
+
+These are qualitative, uncurated model comparisons. Some first-pass outputs may
+ignore the full-frame override or add typography; retain and inspect those
+instruction-following failures rather than interpreting every image as a
+validated rendition. Ledger `review_status` distinguishes unreviewed outputs
+from explicitly rejected attempts. The original Muse/Grok prompts and settings
+may differ; use `prompt_text` when comparing adherence.
+
+The run report in `runs/gpt-2026-11-06.json` records output dimensions,
+image hashes, and the commit containing the original generator PNG files.
+Contact sheets in `runs/` support a quick visual review of each sample.
+
+The book-fair ledger omitted 56 existing images. Their original records were
+restored from commit `37e2167a37357224876ff328000e3938c4d6fc64` after confirming
+that each current image blob matches that historical commit. The two Grok
+outputs retain their existing attribution.
+
+The two historical Muse book-fair images were also restored under `.muse.webp`
+filenames, using their original image blobs, so the two existing Grok samples
+can be compared directly with Muse and GPT on the same input photo.
