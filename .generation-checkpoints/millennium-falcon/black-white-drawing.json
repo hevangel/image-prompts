@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "black-white-drawing",
+  "output": "black-white-drawing.gpt.png",
+  "sha": "380a15e1a6c809198ad40df58bd4da072b6ac3f1",
+  "generated_at": "2026-11-06T19:03:45.711Z",
+  "prompt": "Style: black-white-drawing. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\n- **artwork — medium and color.** A playful, minimalist hand-inked black-and-white illustration using only pure white for background and negative space and near-black for bold outlines and solid shapes. - **artwork — line quality.** Broad, blunt, irregular marker- or loaded-brush strokes with visible hand-drawn wobble, pressure variation, imperfect curves and organic closed contours; thin, smooth, vector-clean lines are excluded. - **artwork — figures.** People are simplified into expressive characters with large irregular rounded heads, small dot or curved eyes, simple ring-shaped noses, friendly expressions, mitten-like hands and chunky limbs, while keeping recognizable hairstyles, glasses, accessories, poses, actions and interactions; non-human subjects get the same playful simplification. - **artwork — reduction.** The primary subject, visual story, important objects and relationships are kept, but roughly 70–90% of unnecessary background detail is removed; the composition stays flat and graphic with generous clean white negative space and bold black silhouettes. A small dense irregular dot pattern may be used on at most one garment or textile area, and is omitted if none suits. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "1cc7f4bc600d9f8e707a0b78617f39e0849d4349",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
