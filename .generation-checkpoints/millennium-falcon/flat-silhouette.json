@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "flat-silhouette",
+  "output": "flat-silhouette.gpt.png",
+  "sha": "0343f5b0284b89c2faae953dd67aca2f0e66652d",
+  "generated_at": "2026-11-06T19:08:41.152Z",
+  "prompt": "Style: flat-silhouette. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork — \"Flat Silhouette Still Life on a Dark Ground\" — keeps only the essential subject and a few closely related elements, rendered as solid, outline-free, detail-free silhouettes that overlap into one compact layered cluster on a continuous dark background, with generous dark negative space (especially above) and the opposite side left open. Depth comes only from overlap and subtle tonal differences: no perspective, gradients, realistic lighting or cast shadows. The palette is drawn from the photo's own emotional colors — its darkest color deepened (with a trace of hue kept) becomes the ground; the rest are desaturated into dusty pastel-gray blocks; and exactly one silhouette is elevated to a bright warm off-white as the single focal point. Everything carries a delicate dry-gouache powdery grain, matte and velvety, with soft slightly irregular hand-cut edges. Excluded: complete scene replication, visible outlines, equally bright shapes with no focal point, candy colors, pure black, 3D rendering, cartoon aesthetics, and any distress or aging effects. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "3f6802307d8cf637f20363b0ae48bb277c8f64ad",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
