@@ -216,7 +216,8 @@ function sampleRows(s) {
     const path = s.input.slice(0, s.input.lastIndexOf("/") + 1) + g.output;
     if (!rows.some(r => r.path === path)) rows.push({ sample: s, slug: g.prompt_slug, path, gen: g });
   }
-  return rows;
+  const order = new Map(MANIFEST.prompts.map((p, i) => [p.slug, i]));
+  return rows.sort((a, b) => ((order.get(baseSlug(a.slug)) ?? 100000) - (order.get(baseSlug(b.slug)) ?? 100000)) || a.slug.localeCompare(b.slug));
 }
 
 function allGenerations() {

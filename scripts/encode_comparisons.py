@@ -23,7 +23,10 @@ for ledger_path in Path("samples").glob("*/generations.json"):
     ledger = json.loads(ledger_path.read_text())
     changed = False
     for generation in ledger.get("generations", []):
-        key = str(ledger_path.parent / generation.get("output", ""))
+        filename = generation.get("output")
+        if not filename:
+            continue
+        key = str(ledger_path.parent / filename)
         if key in converted:
             generation.update(converted[key])
             generation["encoding"] = "WebP quality 95, method 6, no resizing"
