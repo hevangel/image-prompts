@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "impasto-oil-painting",
+  "output": "impasto-oil-painting.gpt.png",
+  "sha": "7b2b9aa6718e3afe5e878483662b198eb5677d25",
+  "generated_at": "2026-11-06T19:07:10.392Z",
+  "prompt": "Style: impasto-oil-painting. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork is an extraction and reconstruction, not a repaint of the whole scene: find the photo's 2–5 most important elements, choose the single strongest subject or silhouette as the focus, and remove or drastically simplify 70–90% of backgrounds, clutter and minor detail. The recomposed scene keeps roughly half to three-quarters of its area visually quiet — clean white or warm off-white — with secondary elements reduced to a few suggestive shapes and color fields. The medium is expressive minimal impasto oil painting: thick sculptural brushstrokes, heavily layered pigment, palette-knife texture, visible paint ridges and tactile buildup, applied most thickly to the most important forms and left loose or untouched elsewhere — never uniform texture everywhere. Color comes from the photo's own dominant colors, intensified into rich, vivid, saturated accents; muddy, dusty, pastel or low-saturation schemes are rejected, and neutrals only support. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "500bd0af474673ac7ac08515240fba3163ae6778",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
