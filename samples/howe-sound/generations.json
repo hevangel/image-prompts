@@ -560,7 +560,7 @@
     },
     {
       "prompt_slug": "frosted-glass",
-      "output": "frosted-glass.gpt.png",
+      "output": "frosted-glass.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:15.661Z",
       "tokens_used": null,
@@ -573,11 +573,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "3753124dfce797474743d0038436cc65d2873fb8",
       "review_status": "unreviewed",
-      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed."
+      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed.",
+      "sha": "46d2a7da186df2d01749c8842aba509d5672365d",
+      "bytes": 386578,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "notebook-hand-drawn",
-      "output": "notebook-hand-drawn.gpt.png",
+      "output": "notebook-hand-drawn.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:56.469Z",
       "tokens_used": null,
@@ -590,11 +595,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5",
       "review_status": "unreviewed",
-      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed."
+      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed.",
+      "sha": "bae0ba7c407bf4248fda56410bae74c8718ff502",
+      "bytes": 758460,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "black-white-drawing",
-      "output": "black-white-drawing.gpt.png",
+      "output": "black-white-drawing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:26:32.968Z",
       "tokens_used": null,
@@ -607,11 +617,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe",
       "review_status": "unreviewed",
-      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed."
+      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed.",
+      "sha": "120a79170d7d1f6a75db05e7469c9d70b955ae3b",
+      "bytes": 275478,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-hatching-comic",
-      "output": "vintage-hatching-comic.gpt.png",
+      "output": "vintage-hatching-comic.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:38.307Z",
       "tokens_used": null,
@@ -624,11 +639,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "8174885da3900b840aa84acbc5af730307811215",
       "review_status": "unreviewed",
-      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed."
+      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed.",
+      "sha": "7c9900248229d32634e158141b1d00dfb13c660b",
+      "bytes": 909808,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "reflection-protagonist",
-      "output": "reflection-protagonist.gpt.png",
+      "output": "reflection-protagonist.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:39.999Z",
       "tokens_used": null,
@@ -641,11 +661,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "f99b1bd3af7e256a6d1342209233e54ad352908b",
       "review_status": "unreviewed",
-      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed."
+      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed.",
+      "sha": "5fd2708e58ea07bd3fc0ec947b3a68e651c0e711",
+      "bytes": 740470,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "european-travel-film",
-      "output": "european-travel-film.gpt.png",
+      "output": "european-travel-film.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:41.751Z",
       "tokens_used": null,
@@ -658,11 +683,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85",
       "review_status": "unreviewed",
-      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed."
+      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed.",
+      "sha": "86ecef4e4fa9b7d81280736e5caa608d00903b49",
+      "bytes": 548078,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "blueprint-cyanotype",
-      "output": "blueprint-cyanotype.gpt.png",
+      "output": "blueprint-cyanotype.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:06:29.223Z",
       "tokens_used": null,
@@ -676,7 +706,12 @@
       "source_png_sha": "ab437b5184da62668b036527cffcb7ec4c358641",
       "review_status": "unreviewed",
       "reference_method": "single-source batch; image results withheld until all generation calls finished",
-      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed."
+      "notes": "Source-isolated comparison. Model version, seed and token counts are not exposed.",
+      "sha": "98e77561cf00fe71957a638afa1491d26e5c4585",
+      "bytes": 664778,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-hatching-comic",

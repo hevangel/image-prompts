@@ -18,29 +18,49 @@
       "sample": "howe-sound",
       "prompt_slug": "vintage-hatching-comic",
       "status": "completed",
-      "output": "samples/howe-sound/vintage-hatching-comic.gpt.png",
-      "sha": "8174885da3900b840aa84acbc5af730307811215"
+      "output": "samples/howe-sound/vintage-hatching-comic.gpt.webp",
+      "sha": "7c9900248229d32634e158141b1d00dfb13c660b",
+      "raw_output": "samples/howe-sound/vintage-hatching-comic.gpt.png",
+      "source_png_sha": "8174885da3900b840aa84acbc5af730307811215",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 909808
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "reflection-protagonist",
       "status": "completed",
-      "output": "samples/howe-sound/reflection-protagonist.gpt.png",
-      "sha": "f99b1bd3af7e256a6d1342209233e54ad352908b"
+      "output": "samples/howe-sound/reflection-protagonist.gpt.webp",
+      "sha": "5fd2708e58ea07bd3fc0ec947b3a68e651c0e711",
+      "raw_output": "samples/howe-sound/reflection-protagonist.gpt.png",
+      "source_png_sha": "f99b1bd3af7e256a6d1342209233e54ad352908b",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 740470
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "european-travel-film",
       "status": "completed",
-      "output": "samples/howe-sound/european-travel-film.gpt.png",
-      "sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85"
+      "output": "samples/howe-sound/european-travel-film.gpt.webp",
+      "sha": "86ecef4e4fa9b7d81280736e5caa608d00903b49",
+      "raw_output": "samples/howe-sound/european-travel-film.gpt.png",
+      "source_png_sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 548078
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "black-white-drawing",
       "status": "completed",
-      "output": "samples/howe-sound/black-white-drawing.gpt.png",
-      "sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe"
+      "output": "samples/howe-sound/black-white-drawing.gpt.webp",
+      "sha": "120a79170d7d1f6a75db05e7469c9d70b955ae3b",
+      "raw_output": "samples/howe-sound/black-white-drawing.gpt.png",
+      "source_png_sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 275478
     },
     {
       "sample": "howe-sound",
@@ -86,15 +106,25 @@
       "sample": "howe-sound",
       "prompt_slug": "frosted-glass",
       "status": "completed",
-      "output": "samples/howe-sound/frosted-glass.gpt.png",
-      "sha": "3753124dfce797474743d0038436cc65d2873fb8"
+      "output": "samples/howe-sound/frosted-glass.gpt.webp",
+      "sha": "46d2a7da186df2d01749c8842aba509d5672365d",
+      "raw_output": "samples/howe-sound/frosted-glass.gpt.png",
+      "source_png_sha": "3753124dfce797474743d0038436cc65d2873fb8",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 386578
     },
     {
       "sample": "howe-sound",
       "prompt_slug": "notebook-hand-drawn",
       "status": "completed",
-      "output": "samples/howe-sound/notebook-hand-drawn.gpt.png",
-      "sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5"
+      "output": "samples/howe-sound/notebook-hand-drawn.gpt.webp",
+      "sha": "bae0ba7c407bf4248fda56410bae74c8718ff502",
+      "raw_output": "samples/howe-sound/notebook-hand-drawn.gpt.png",
+      "source_png_sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 758460
     },
     {
       "sample": "howe-sound",
@@ -125,8 +155,13 @@
       "sample": "howe-sound",
       "prompt_slug": "blueprint-cyanotype",
       "status": "completed",
-      "output": "samples/howe-sound/blueprint-cyanotype.gpt.png",
-      "sha": "ab437b5184da62668b036527cffcb7ec4c358641"
+      "output": "samples/howe-sound/blueprint-cyanotype.gpt.webp",
+      "sha": "98e77561cf00fe71957a638afa1491d26e5c4585",
+      "raw_output": "samples/howe-sound/blueprint-cyanotype.gpt.png",
+      "source_png_sha": "ab437b5184da62668b036527cffcb7ec4c358641",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 664778
     },
     {
       "sample": "howe-sound",
@@ -1960,5 +1995,7 @@
       "jensen-huang": 62
     },
     "notes": "Other queued result metadata was not retained when tasks were cancelled. These counts are observed lower bounds, not published comparison outputs."
-  }
+  },
+  "encoding": "WebP quality 95, method 6, no resizing",
+  "raw_png_commit": "4c80e54bf62f325222a07a7d640908d7b562829b"
 }
