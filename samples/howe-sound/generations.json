@@ -1925,7 +1925,7 @@
     },
     {
       "prompt_slug": "frosted-glass",
-      "output": "frosted-glass.gpt.png",
+      "output": "frosted-glass.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:15.661Z",
       "tokens_used": null,
@@ -1937,11 +1937,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "3753124dfce797474743d0038436cc65d2873fb8",
       "reference_method": "individually attached original source",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "46d2a7da186df2d01749c8842aba509d5672365d",
+      "bytes": 386578,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "notebook-hand-drawn",
-      "output": "notebook-hand-drawn.gpt.png",
+      "output": "notebook-hand-drawn.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:22:56.469Z",
       "tokens_used": null,
@@ -1953,11 +1958,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "25b2c96ac17fa4e97d0752e842336a77fbe3dcd5",
       "reference_method": "individually attached original source",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "bae0ba7c407bf4248fda56410bae74c8718ff502",
+      "bytes": 758460,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "black-white-drawing",
-      "output": "black-white-drawing.gpt.png",
+      "output": "black-white-drawing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:26:32.968Z",
       "tokens_used": null,
@@ -1969,11 +1979,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "654efa7e7cfc276a74ec58bc525becefdf7131fe",
       "reference_method": "individually attached original source",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "120a79170d7d1f6a75db05e7469c9d70b955ae3b",
+      "bytes": 275478,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-hatching-comic",
-      "output": "vintage-hatching-comic.gpt.png",
+      "output": "vintage-hatching-comic.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:38.307Z",
       "tokens_used": null,
@@ -1985,11 +2000,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "8174885da3900b840aa84acbc5af730307811215",
       "reference_method": "individually attached original source",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "7c9900248229d32634e158141b1d00dfb13c660b",
+      "bytes": 909808,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "reflection-protagonist",
-      "output": "reflection-protagonist.gpt.png",
+      "output": "reflection-protagonist.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:39.999Z",
       "tokens_used": null,
@@ -2001,11 +2021,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "f99b1bd3af7e256a6d1342209233e54ad352908b",
       "reference_method": "individually attached original source",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "5fd2708e58ea07bd3fc0ec947b3a68e651c0e711",
+      "bytes": 740470,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "european-travel-film",
-      "output": "european-travel-film.gpt.png",
+      "output": "european-travel-film.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T16:33:41.751Z",
       "tokens_used": null,
@@ -2017,11 +2042,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "d18330fb32f23d7b1f4171a52e5ad2cbeb1ded85",
       "reference_method": "individually attached original source",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "86ecef4e4fa9b7d81280736e5caa608d00903b49",
+      "bytes": 548078,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "blueprint-cyanotype",
-      "output": "blueprint-cyanotype.gpt.png",
+      "output": "blueprint-cyanotype.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:06:29.223Z",
       "tokens_used": null,
@@ -2033,11 +2063,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "ab437b5184da62668b036527cffcb7ec4c358641",
       "reference_method": "single-source batch; image results withheld until all generation calls finished",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "98e77561cf00fe71957a638afa1491d26e5c4585",
+      "bytes": 664778,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "white-space-illustration",
-      "output": "white-space-illustration.gpt.png",
+      "output": "white-space-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:10:16.914Z",
       "tokens_used": null,
@@ -2049,11 +2084,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "6a597d8a7c9c37b9d4795fb65b9f7d7a6b280b41",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "15eb8d5ee78bd1ce225f7d25468adb45db04e166",
+      "bytes": 525124,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "translucent-tracing-paper",
-      "output": "translucent-tracing-paper.gpt.png",
+      "output": "translucent-tracing-paper.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:09:53.351Z",
       "tokens_used": null,
@@ -2065,11 +2105,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "379e621a891580ff9845bc061e134e550ba93c45",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "5d1c72ceb0aa912023afb7c6e0faec3d6989b5dd",
+      "bytes": 305406,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "japanese-hand-drawn",
-      "output": "japanese-hand-drawn.gpt.png",
+      "output": "japanese-hand-drawn.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:10:38.704Z",
       "tokens_used": null,
@@ -2081,11 +2126,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "4c9a2f6c645ca6d5f9a4f66942d1e08f12b786de",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "2a2d34c6c424e44bb5bbf99e857119efebe9d06f",
+      "bytes": 559856,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "neon-thick-impasto",
-      "output": "neon-thick-impasto.gpt.png",
+      "output": "neon-thick-impasto.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:09:30.163Z",
       "tokens_used": null,
@@ -2097,11 +2147,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "76aaac8e398587d62a9cf53ebc30964373f71618",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "6a85ad9a6e45565366164b360a638346b322fbcb",
+      "bytes": 863790,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "abstract-gouache",
-      "output": "abstract-gouache.gpt.png",
+      "output": "abstract-gouache.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:10:57.490Z",
       "tokens_used": null,
@@ -2113,11 +2168,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "df6384bcab53a90f5ed45af47d3789ed662b1ae4",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "e83cb9719526ba2dcd0cd5cff507ca37e40d7b5a",
+      "bytes": 109996,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "japanese-retro-manga",
-      "output": "japanese-retro-manga.gpt.png",
+      "output": "japanese-retro-manga.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:11:16.572Z",
       "tokens_used": null,
@@ -2129,11 +2189,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "56aef5a2631bad1c1b866475d0213eebf02a3e22",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "73426d0e624bb4d48bd0572c271a04ab21b180bd",
+      "bytes": 631548,
+      "width": 1536,
+      "height": 1024,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "color-block-breakout",
-      "output": "color-block-breakout.gpt.png",
+      "output": "color-block-breakout.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:11:37.521Z",
       "tokens_used": null,
@@ -2145,11 +2210,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "1cb59f6b36d8c972cc7d720e23ef2f3997ef3d99",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "5b0f7ff54e8fde94817afae1125832f3d4cfa3da",
+      "bytes": 125834,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "fresh-illustration",
-      "output": "fresh-illustration.gpt.png",
+      "output": "fresh-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:11:56.041Z",
       "tokens_used": null,
@@ -2161,11 +2231,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a8040ea520e000f43c261ab0fe8cb9d1f4c26e9b",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "174c7125c090b1c700311b10de850181b2e67d1d",
+      "bytes": 128490,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "blue-red-risograph",
-      "output": "blue-red-risograph.gpt.png",
+      "output": "blue-red-risograph.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:12:25.608Z",
       "tokens_used": null,
@@ -2177,11 +2252,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a3f9ac825f6da46a9998be28ee19e19d0ad81a03",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "068bdd7ff236729a80047ca3791817bee8e50343",
+      "bytes": 785054,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "impasto-oil-painting",
-      "output": "impasto-oil-painting.gpt.png",
+      "output": "impasto-oil-painting.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:12:57.183Z",
       "tokens_used": null,
@@ -2193,11 +2273,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "afc6307cf23fb65ae56dfce0fd763620aa90f045",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "999abca357f562837e823d669a141573a7c6ba50",
+      "bytes": 572864,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "flat-silhouette",
-      "output": "flat-silhouette.gpt.png",
+      "output": "flat-silhouette.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:13:18.703Z",
       "tokens_used": null,
@@ -2209,11 +2294,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "9fe8917c59eeda8e40ba1ab5e4eba1f0256e9ff1",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "dde7cc7d9f7a4a46eb5c19ec043ea4e847bb31ba",
+      "bytes": 180602,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "bright-illustration",
-      "output": "bright-illustration.gpt.png",
+      "output": "bright-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:13:43.069Z",
       "tokens_used": null,
@@ -2225,11 +2315,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "b7505533970a91aee02d1b8ce26fc7df172d2835",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "80d3a5951792eb2cbf17210a3222d9f1d11d3a7d",
+      "bytes": 268498,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "small-illustration",
-      "output": "small-illustration.gpt.png",
+      "output": "small-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:14:04.843Z",
       "tokens_used": null,
@@ -2241,11 +2336,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "7f0324e734ff703e2faebab44a8c30930a4b2396",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "d798fa3ce649fae3c64017da6d5f740cd748d8cf",
+      "bytes": 481546,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "woven-tapestry",
-      "output": "woven-tapestry.gpt.png",
+      "output": "woven-tapestry.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:14:33.339Z",
       "tokens_used": null,
@@ -2257,11 +2357,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "c1f401d172410c0f5d8d4097d136e79f642711d3",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "2cbf2bf5cf8ffb9cfe32e1fe0a84a905c00727df",
+      "bytes": 886426,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "rough-brushed-lines",
-      "output": "rough-brushed-lines.gpt.png",
+      "output": "rough-brushed-lines.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:14:52.098Z",
       "tokens_used": null,
@@ -2273,11 +2378,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "077ec50a557efba14dc93b5f190fb0bf9165ae98",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "fc079482fe6dc8badbb8a527eae034bcb1b92c49",
+      "bytes": 249510,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "woodcut-print",
-      "output": "woodcut-print.gpt.png",
+      "output": "woodcut-print.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:15:21.133Z",
       "tokens_used": null,
@@ -2289,11 +2399,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a693aacbd83d983bde3608d68b1cd2866ab6293f",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "01ce3f0b871d5e3e415083d9830b33787f2c6c61",
+      "bytes": 735078,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-cut",
-      "output": "paper-cut.gpt.png",
+      "output": "paper-cut.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:15:44.566Z",
       "tokens_used": null,
@@ -2305,11 +2420,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "a8afee6265412904e0b3ab3891b566abd058384c",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "f0a6bc7dd9cda9d6912e92be77d82e965cc6d6f6",
+      "bytes": 558608,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "retro-film",
-      "output": "retro-film.gpt.png",
+      "output": "retro-film.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:16:05.136Z",
       "tokens_used": null,
@@ -2321,11 +2441,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "0bb62153ab47676d22cd6cf976327e4a74868257",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "fe1394731109466a8ddb2f846306a09dc7b808f3",
+      "bytes": 1181568,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "out-of-frame",
-      "output": "out-of-frame.gpt.png",
+      "output": "out-of-frame.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:16:28.706Z",
       "tokens_used": null,
@@ -2337,11 +2462,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "c4634fbbd8ee55aa8d6c2cce8baa7558894f1a25",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "79080fe57b961cb732ead34bb83c2786e7f56d82",
+      "bytes": 333480,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "mediterranean-poster",
-      "output": "mediterranean-poster.gpt.png",
+      "output": "mediterranean-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:16:49.922Z",
       "tokens_used": null,
@@ -2353,11 +2483,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "49d6d39a74c40091804943508d27e6930bd13982",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "e6ebec31e4dc1d0493ebb7ed0b93e787ed5f0427",
+      "bytes": 543450,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "one-line-contour",
-      "output": "one-line-contour.gpt.png",
+      "output": "one-line-contour.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:17:07.913Z",
       "tokens_used": null,
@@ -2369,11 +2504,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "438f08db58f0fa74d10e04211b805e4e18d4e6a7",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "76d44da9f07c2e3a8972355bdf3eaef5b02bb642",
+      "bytes": 95716,
+      "width": 1536,
+      "height": 1024,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "clean-illustration",
-      "output": "clean-illustration.gpt.png",
+      "output": "clean-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:17:37.060Z",
       "tokens_used": null,
@@ -2385,11 +2525,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "69f344d59e1e04a350220bd24184ef49d836e745",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "c8381986f90047fccf63740a703950b7a8410d00",
+      "bytes": 169802,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "dynamic-field-print",
-      "output": "dynamic-field-print.gpt.png",
+      "output": "dynamic-field-print.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:18:02.537Z",
       "tokens_used": null,
@@ -2401,11 +2546,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "57d5c704052d01122bab73a8ddda26a2f9c6ac0a",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "72b2b622f947bf229c358941104fd5f046841b4a",
+      "bytes": 945406,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "ink-starved-geometry",
-      "output": "ink-starved-geometry.gpt.png",
+      "output": "ink-starved-geometry.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:18:28.052Z",
       "tokens_used": null,
@@ -2417,11 +2567,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "458a0a12269508cd9e30a7f1d307eda835bd25aa",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "8d428fdcf9bfe68c43ce6776d53496c0747b2d42",
+      "bytes": 799054,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "asymmetric-enlargement",
-      "output": "asymmetric-enlargement.gpt.png",
+      "output": "asymmetric-enlargement.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:18:50.656Z",
       "tokens_used": null,
@@ -2433,11 +2588,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "727dfb3e63610882807fe92be387dea2fb01840b",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "93cf1242cb8a2ceb66d9dd0b500d047176d9f49d",
+      "bytes": 84544,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "fine-line-poster",
-      "output": "fine-line-poster.gpt.png",
+      "output": "fine-line-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:19:14.031Z",
       "tokens_used": null,
@@ -2449,11 +2609,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "9faf382812e8b1c42531b89f3ee610517945a9ef",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "1be376dc8ed4c3ca27cd611cccc86ec8de762cbc",
+      "bytes": 132268,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "vintage-lines",
-      "output": "vintage-lines.gpt.png",
+      "output": "vintage-lines.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:19:40.975Z",
       "tokens_used": null,
@@ -2465,11 +2630,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "e6d2352ca3596e8c5627f2c6f3dac3ac04024b38",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "74d5309128e8684df58cdbfcc55df41d2d45874c",
+      "bytes": 854630,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "storytelling-collage",
-      "output": "storytelling-collage.gpt.png",
+      "output": "storytelling-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:20:04.089Z",
       "tokens_used": null,
@@ -2481,11 +2651,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "b28b6ca66a2dbb5b60a3e2fa30199e6754dbc707",
       "reference_method": "isolated single-source batch; results withheld until all calls completed",
-      "review_status": "source_checked"
+      "review_status": "source_checked",
+      "sha": "b0bd70f65cb32881b02951b1d87862ec0afab55a",
+      "bytes": 249272,
+      "width": 1536,
+      "height": 1024,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "pixel-art",
-      "output": "pixel-art.gpt.png",
+      "output": "pixel-art.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:27:28.737Z",
       "tokens_used": null,
@@ -2497,11 +2672,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "814fddd6f6cd8f2079aa18512ff8336df3119a45",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "54487909fd144be728d222311c09553199bb20b5",
+      "bytes": 291786,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "patchwork-embroidery",
-      "output": "patchwork-embroidery.gpt.png",
+      "output": "patchwork-embroidery.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:27:57.265Z",
       "tokens_used": null,
@@ -2513,11 +2693,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "ce92bc40d378cea86efd78e580883b32cdb35433",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "6a10add8bcafb407b86a23fb27b5776867f5697a",
+      "bytes": 917456,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "ink-rubbing",
-      "output": "ink-rubbing.gpt.png",
+      "output": "ink-rubbing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:29:37.119Z",
       "tokens_used": null,
@@ -2529,11 +2714,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "2d5661ddae85d978e8e4d3d91076ce5775683e6f",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "0f0ff29b66fe37e9cc5c57bd63e5da5899fa9f86",
+      "bytes": 736710,
+      "width": 1536,
+      "height": 1024,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-collage-lines",
-      "output": "paper-collage-lines.gpt.png",
+      "output": "paper-collage-lines.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:28:20.417Z",
       "tokens_used": null,
@@ -2545,11 +2735,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "93b9bf410e27f7c8780f40ed05409ac9903f6954",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "490e9125a42291e026d3e069df0ce856edb37e26",
+      "bytes": 480480,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "white-model",
-      "output": "white-model.gpt.png",
+      "output": "white-model.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:28:40.519Z",
       "tokens_used": null,
@@ -2561,11 +2756,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "f85239d2a1ed36efb97dffbf02e56c44e0120e40",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "a31f1643f4140affa0a691cd6f080eefafebacc2",
+      "bytes": 54348,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-carving",
-      "output": "paper-carving.gpt.png",
+      "output": "paper-carving.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:29:10.506Z",
       "tokens_used": null,
@@ -2577,11 +2777,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "0be73b689383a255ea685c7c270b04cee082aae5",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "99d37e2cd0d0a1338d916148e12e21fe40e6f5eb",
+      "bytes": 448702,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "bento-box",
-      "output": "bento-box.gpt.png",
+      "output": "bento-box.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:30:05.539Z",
       "tokens_used": null,
@@ -2593,11 +2798,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "c224c09142492378a76e56ee8f33b936bd1f9867",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "9b5826fdd0e81fff9ad540cfa355d14e9a3876cc",
+      "bytes": 696192,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "perler-beads",
-      "output": "perler-beads.gpt.png",
+      "output": "perler-beads.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:30:27.776Z",
       "tokens_used": null,
@@ -2609,11 +2819,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "f1b748df70863cba66199d066ad7cd90dafb3fb9",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "3e7625493dce215f4c61483a1926467ffe6919aa",
+      "bytes": 751974,
+      "width": 1536,
+      "height": 1024,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "soft-focus",
-      "output": "soft-focus.gpt.png",
+      "output": "soft-focus.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:30:52.843Z",
       "tokens_used": null,
@@ -2625,11 +2840,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "16ba8be27a0c21583e922138e9ca8f2e83d8208e",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "0b897636459bd3c3effb4a1b6ce43827b96b9d55",
+      "bytes": 44462,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "colored-paper-collage",
-      "output": "colored-paper-collage.gpt.png",
+      "output": "colored-paper-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:31:15.642Z",
       "tokens_used": null,
@@ -2641,11 +2861,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "df0c451e760abbb7580c25f4851e71a6053930ab",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "d4ddb277fb6274a5f7caaa41975522493e7233d6",
+      "bytes": 457948,
+      "width": 1199,
+      "height": 1312,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "lingering-afterglow",
-      "output": "lingering-afterglow.gpt.png",
+      "output": "lingering-afterglow.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:31:38.103Z",
       "tokens_used": null,
@@ -2657,11 +2882,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "216a2790401393ff6dd076816710ebabf9dbb2f2",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "091282c865733f948063d3cdc465b81e76b5a9b6",
+      "bytes": 428012,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "photocopier-print",
-      "output": "photocopier-print.gpt.png",
+      "output": "photocopier-print.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:32:04.184Z",
       "tokens_used": null,
@@ -2673,11 +2903,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "b5f11f1d443ad249281f9682e90458d0f2c40abc",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "e7a29736408f9fd955fea1a88e387114c3e2fafd",
+      "bytes": 590456,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "food-poster",
-      "output": "food-poster.gpt.png",
+      "output": "food-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:32:32.517Z",
       "tokens_used": null,
@@ -2689,11 +2924,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "91c83ea9912f2e11f9d0c7aca2fa38a9f70ea622",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "e4f685f9015a88123ac37c50aaf0c6ac11f1424a",
+      "bytes": 317566,
+      "width": 941,
+      "height": 1672,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "porcelain-collage",
-      "output": "porcelain-collage.gpt.png",
+      "output": "porcelain-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:32:56.714Z",
       "tokens_used": null,
@@ -2705,11 +2945,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "c252c6a88128e2fa34cae7271c98599fad5af539",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "c0503204321aa3762398b85183f4f755d6e2db5c",
+      "bytes": 199534,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "black-line-drawing",
-      "output": "black-line-drawing.gpt.png",
+      "output": "black-line-drawing.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:33:20.561Z",
       "tokens_used": null,
@@ -2721,11 +2966,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "3d1cb61a412d66657b76d55c38a2bc6c46e967fd",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "9b43a575d6ae9a985d43fc7f8e7aa4f9f1c92aba",
+      "bytes": 441488,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "geometric-poster",
-      "output": "geometric-poster.gpt.png",
+      "output": "geometric-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:33:47.051Z",
       "tokens_used": null,
@@ -2737,11 +2987,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "b3c1dafd1a9ac544697a8b77303da86ff2579a31",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "87de44984abf609cf0e61a32cbdf004e53b4a8df",
+      "bytes": 62946,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "passport-ticket",
-      "output": "passport-ticket.gpt.png",
+      "output": "passport-ticket.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:34:14.847Z",
       "tokens_used": null,
@@ -2753,11 +3008,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "79d0e4acedbc08b507602679f90cdc3d7ecf28b2",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "25d68f66baafa5bfe62fe05a52660a2a94fc4a08",
+      "bytes": 582158,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "paper-cut-collage",
-      "output": "paper-cut-collage.gpt.png",
+      "output": "paper-cut-collage.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:34:38.739Z",
       "tokens_used": null,
@@ -2769,11 +3029,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "d2bd22f53f45efef9127c93ef23f2c720e717337",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "d8806694e62842aabcc24a0e26b8fe507741de88",
+      "bytes": 560622,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "hand-drawn-feel",
-      "output": "hand-drawn-feel.gpt.png",
+      "output": "hand-drawn-feel.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:35:06.388Z",
       "tokens_used": null,
@@ -2785,11 +3050,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "6c3c65c5e2daca1ca7d93a4ac14a36b1895788d4",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "108a7c1eeacb8ca14631198b5434f52b2732ab80",
+      "bytes": 594936,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "dot-matrix",
-      "output": "dot-matrix.gpt.png",
+      "output": "dot-matrix.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:35:29.842Z",
       "tokens_used": null,
@@ -2801,11 +3071,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "772f40da1c46d7210151180380079cc1d1af9823",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "7e2413453b624c7b563b82b1c1df353efc09bebe",
+      "bytes": 364952,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "spot-illustration",
-      "output": "spot-illustration.gpt.png",
+      "output": "spot-illustration.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:35:50.849Z",
       "tokens_used": null,
@@ -2817,11 +3092,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "08d97c113f415c8001b510b015dbd86a823d8652",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "cad63c737856e6a180eca09cf15c703e67a33bb3",
+      "bytes": 196242,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "wool-felt",
-      "output": "wool-felt.gpt.png",
+      "output": "wool-felt.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:36:13.886Z",
       "tokens_used": null,
@@ -2833,11 +3113,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "445eba5719fb3e40546f60bfbeccf2956ef11c31",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "ad501b51c5a87efb0948725a5341700c0f431823",
+      "bytes": 292128,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "typography-device",
-      "output": "typography-device.gpt.png",
+      "output": "typography-device.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:36:42.319Z",
       "tokens_used": null,
@@ -2849,11 +3134,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "8716902ae7fffeaaeee86c2cc9e3d7c66a46cd71",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "af616cf3d884e79fd618731d0a67a6168dea7d6c",
+      "bytes": 277040,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "comparison-poster",
-      "output": "comparison-poster.gpt.png",
+      "output": "comparison-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:37:04.837Z",
       "tokens_used": null,
@@ -2865,11 +3155,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "77fab800cdff8830e91ffe9068780cbd4a25633e",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "cf962bd2bddd288a2ce351c04689a27c40c2441b",
+      "bytes": 390196,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "split-poster",
-      "output": "split-poster.gpt.png",
+      "output": "split-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:37:31.730Z",
       "tokens_used": null,
@@ -2881,11 +3176,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "de5f01143f7d88097273c8f392340223a7e04170",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "35fae2bd883a4345fa4395d51f58e00009d5fc8f",
+      "bytes": 594612,
+      "width": 1354,
+      "height": 1161,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "blueprint-poster",
-      "output": "blueprint-poster.gpt.png",
+      "output": "blueprint-poster.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:37:57.897Z",
       "tokens_used": null,
@@ -2897,11 +3197,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "7dc46a448f1ed64698ae4f571cfd641eb686e09a",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "da4b4c2ea0a8a22aabd14b5741fb6193b975c9af",
+      "bytes": 327344,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "brand-packaging",
-      "output": "brand-packaging.gpt.png",
+      "output": "brand-packaging.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:38:28.763Z",
       "tokens_used": null,
@@ -2913,11 +3218,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "90137770bf9e153ab3665be9236d9124c701e4ad",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "eeaa0b8976e2a147b0ae15357e103223ef068335",
+      "bytes": 495168,
+      "width": 1086,
+      "height": 1448,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "cinematic-portraits",
-      "output": "cinematic-portraits.gpt.png",
+      "output": "cinematic-portraits.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:38:46.611Z",
       "tokens_used": null,
@@ -2929,11 +3239,16 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "0c1ac1139ad31960cf86b25930498988fe71df65",
       "reference_method": "isolated single-source batch; image results withheld until all calls completed",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "caede3e723389d5b19ed9b3eb91f743467cb0235",
+      "bytes": 380752,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     },
     {
       "prompt_slug": "minimalist-simplification",
-      "output": "minimalist-simplification.gpt.png",
+      "output": "minimalist-simplification.gpt.webp",
       "model": "ChatGPT Images (image_gen; version undisclosed)",
       "generated_at": "2026-11-06T17:41:44.263Z",
       "tokens_used": null,
@@ -2945,7 +3260,12 @@
       "input_sha": "bcbfa575d59f3174dbd791fe988895b64fe09a33",
       "source_png_sha": "9a3a09a2f697d3761bea2823eb8f7db3adc1204b",
       "reference_method": "individually attached original source",
-      "review_status": "unreviewed"
+      "review_status": "unreviewed",
+      "sha": "5a87f7dde821dd07f4fa9bd5454e2a22df82a050",
+      "bytes": 75672,
+      "width": 1448,
+      "height": 1086,
+      "encoding": "WebP quality 95, method 6, no resizing"
     }
   ],
   "input": "input.jpg"
