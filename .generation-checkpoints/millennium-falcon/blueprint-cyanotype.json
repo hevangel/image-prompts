@@ -1,0 +1,11 @@
+{
+  "sample": "millennium-falcon",
+  "slug": "blueprint-cyanotype",
+  "output": "blueprint-cyanotype.gpt.png",
+  "sha": "16e78bb0515e96364cfbc567130c8b1183a2d602",
+  "generated_at": "2026-11-06T19:08:17.434Z",
+  "prompt": "Style: blueprint-cyanotype. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nThe artwork reinterprets the photo's actual content as a handmade cyanotype print on visibly textured flat paper: deep Prussian blue as the exposed-paper ground, and the main subject — plus only those environmental elements genuinely belonging to the scene — appearing in luminous pale ivory, as if exposed by light. The method is editing, reduction, extraction, simplification and reconstruction: keep the strongest structures, most recognizable silhouettes, essential gestures and spatial relationships, with generous negative space. A strict exclusion defines this prompt: no fixed botanical template — never add decorative ferns, wildflowers, branches, grasses, leaves, botanical borders or plant silhouettes to fill space; plants appear only if genuinely present in the original, and nothing may be invented. The cyanotype character must be physical: paper fibers, subtly imperfect contact-print edges, nuanced blue variation, localized uneven exposure, faint chemical processing marks — not a digital illustration or a simple blue filter. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
+  "prompt_sha": "a8e0305ab8ca5c0bf8278ae41c999c6e1cfdf53a",
+  "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497",
+  "reference_method": "isolated single-source batch; image results withheld until all calls completed; per-image Git checkpoint"
+}
