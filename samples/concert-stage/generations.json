@@ -557,6 +557,15 @@
       "output": "minimalist-simplification.webp",
       "prompt_slug": "minimalist-simplification",
       "tokens_used": null
+    },
+    {
+      "prompt_slug": "cracked-palette-knife",
+      "output": "cracked-palette-knife.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-07T09:08:57-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame cracked palette-knife oil painting (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the painted transformation only, as a standalone full image): concert-stage scene repainted with visible knife marks, thick impasto and a fine craquelure crack pattern across the whole surface, bright warm colors, no added title text."
     }
   ],
   "input": "input.jpg"

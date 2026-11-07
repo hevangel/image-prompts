@@ -2139,6 +2139,81 @@ by set ID / reel ID before counting a post as new.
   GIF-animation set, already recorded in that
   entry — not a new post, not re-filed.
 
+### cracked-palette-knife — Emerson post (fetched 2026-11-07 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Cracked Palette-Knife Oil Painting · 有裂紋感的油畫 —
+  photo set posted **Nov 7, 2026** (the author's prompt comment
+  is timestamped Nov 7, 2026, 2:54 AM), the first post newer than
+  the Nov 6 minimalist-simplification entry. Caught by the
+  daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0Yz345kS5bjdf1eBZUQ6HFXKPa393HEaB7JzhazpEt9kRzFhnh8RtfHY4mZgN6uJHl&id=61580979040009
+  — set ID `pcb.122161139085032634`; **64 likes / 3 comments /
+  9 shares** (as displayed Nov 7, 2026). The full prompt appears
+  identically in the post caption and in the author's first
+  comment; `reference/cracked-palette-knife/prompt.md` keeps a
+  structural summary plus an English translation of the
+  introduction. Example photos credited to Pexels in the post.
+- **Companion reel:** https://www.facebook.com/reel/4544373369171786
+  (0:18, music "Atmospheric Prelude · SigmaMusicArt"; author's
+  prompt comment Nov 7, 2026, 5:01 AM; 49 likes, 2 comments,
+  3 shares) — same caption, same prompt in its author comment;
+  frame-checked by sampled seeks: frames matched set photos 1
+  (aquarium), 3 (Times Square) and 5 (solar panels) —
+  **no set-external example**; the reel cycles the set's 9 posters
+  at ~2 seconds each.
+- **Images:** exactly **9** (viewer cycle: stepping Next from
+  photo 9 returned to photo 1), all 941×1672 (three at 941×1671 —
+  the highest rendition the viewer serves for this set), saved as
+  `reference/cracked-palette-knife/post-01.jpg` …
+  `post-09.jpg`. Every poster is a comparison layout: original
+  photo on top, cracked palette-knife oil-painting version below.
+  No title text is visible on the archived posters (the prompt
+  asks for one, but the examples carry none). Subjects, in set
+  order: 1 woman with a backpack before a huge aquarium tank
+  (rays and fish in shafts of light), 2 sunlit alley ending in a
+  large colorful cat mural, 3 busy Times Square / Radio City
+  street with crowds and a yellow truck, 4 desert river canyon
+  with red-rock walls and snow-capped mountains, 5 solar-panel
+  farm with wind turbines, 6 night city skyline dominated by One
+  World Trade Center, 7 turquoise mountain lake (Blue Moon Valley,
+  Lijiang) with a boardwalk, 8 snow-covered glacier with a dark
+  meltwater stream, 9 black-and-white portrait of a young woman
+  in profile looking upward. Set order (fbids):
+  122161095801032634, 122161096461032634, 122161095291032634,
+  122161095279032634, 122161096317032634, 122161096035032634,
+  122161095825032634, 122161095243032634, 122161095717032634.
+- **Fetch note:** the browser reported the 9 viewer-resolution CDN
+  URLs in set order and they were downloaded promptly (signed
+  URLs expire); all 9 verified at 941×1672/1671 with distinct
+  contents matching the reported set order (spot-checked: aquarium
+  #1 and B&W portrait #9 render as comparison posters, photo
+  above, cracked oil painting below). The catalog now stands at
+  **66 prompts, 642 reference images**, with 5 new sample outputs
+  for this entry (321 total sample outputs across the six sample
+  inputs).
+- **Filed as its OWN entry**, not folded into
+  `impasto-oil-painting`: that entry is also thick impasto, but
+  in a vivid saturated palette as a standalone poster treatment,
+  while this style is a comparison poster whose defining feature
+  is the aged-paint craquelure crack pattern covering the whole
+  painted surface, with the prompt's own title/frame/footer
+  instructions.
+- **Skipped the same morning, per the set-only rule:** the Nov 6,
+  7:56 PM thick-impasto reel
+  (https://www.facebook.com/reel/1104869662175365, 92 likes,
+  2 comments, 15 shares) is a **repost of the already-archived
+  Oct 17 `impasto-oil-painting` set** (`pcb.122157436305032634`,
+  same 9 posters — "In Between", "Quiet Corners", "Golden
+  Horizon", "Horizon", "Passage", "Stillness", "Open Terrain",
+  "Passing Light", "Fetch") — its author's second comment links
+  back to that Oct 17 set, and sampled reel frames show only
+  that set's posters plus title cards. No new set to file.
+  The Nov 4 evening Minimal Abstract Gouache reel
+  (https://www.facebook.com/reel/1127275719883796) **still has no
+  companion photo set** (feed adjacency and Photos-tab grid
+  re-checked Nov 7) — it remains skipped under the set-only rule.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

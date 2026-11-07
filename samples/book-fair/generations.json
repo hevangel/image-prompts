@@ -2266,7 +2266,9 @@
       "prompt_sha": null,
       "input_sha": "b4e6174f7f943222a426a261d66c1ff351aee6db",
       "review_status": "source_reviewed",
-      "quality_issues": ["text_artifacts"],
+      "quality_issues": [
+        "text_artifacts"
+      ],
       "sha": "b0e108abb2a12390f4cec1ff5c2d842ba4344f1b",
       "bytes": 565392,
       "width": 1600,
@@ -2286,7 +2288,9 @@
       "prompt_sha": null,
       "input_sha": "b4e6174f7f943222a426a261d66c1ff351aee6db",
       "review_status": "source_reviewed",
-      "quality_issues": ["text_artifacts"],
+      "quality_issues": [
+        "text_artifacts"
+      ],
       "sha": "8a12a5cd30e074900b2c93e4176123d031a2e730",
       "bytes": 550504,
       "width": 1600,
@@ -2306,7 +2310,9 @@
       "prompt_sha": null,
       "input_sha": "b4e6174f7f943222a426a261d66c1ff351aee6db",
       "review_status": "source_reviewed",
-      "quality_issues": ["source_scene_not_preserved"],
+      "quality_issues": [
+        "source_scene_not_preserved"
+      ],
       "sha": "907e26e63c7f2ad91d5c6ca3131509b3eb255401",
       "bytes": 68418,
       "width": 1600,
@@ -2353,6 +2359,15 @@
       "height": 1200,
       "encoding": "Original WebP from supplied archive; no resizing or re-encoding",
       "notes": "Full-frame flat-silhouette rendering reduces the book fair to a bold geometric arrangement without embedding the original photo. Exact prompt text, generation timestamp, and model version were not included in the archive."
+    },
+    {
+      "prompt_slug": "cracked-palette-knife",
+      "output": "cracked-palette-knife.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-07T09:08:57-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame cracked palette-knife oil painting (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the painted transformation only, as a standalone full image): book-fair scene repainted with visible knife marks, thick impasto and a fine craquelure crack pattern across the whole surface, bright warm colors, no added title text."
     }
   ],
   "input": "input.jpg"

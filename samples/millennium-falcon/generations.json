@@ -1673,6 +1673,15 @@
       "prompt_text": "Style: cinematic-portraits. Transform the supplied ORIGINAL photograph of a LEGO Millennium Falcon model on a white cabinet, minifigures, a display plaque and nearby autumn foliage. Render only a single full-frame artwork using this style treatment:\n\nWhat follows is a structural summary. Shared setup: all six prompts are written for **Google AI Studio with the Nano Banana model**, and each begins by directing the model to use the uploader's own uploaded photo as the protagonist — an identity-preserving restyle of your own portrait, not a poster treatment of an arbitrary photo. 1. **圖1 — All-white minimalist studio portrait （影樓人像照）:** frontal seated portrait on a pure-white studio ground; all-white outfit; elegant pose, hand on chin, holding a DSLR; soft window light falling on the wall. 2. 3. **圖3 — Black-and-white studio portrait （黑白工作室肖像照）:** subject standing with back to camera, head slightly bowed, side profile partly visible; one clean horizontal beam of side light across the wall; high-contrast B&W with soft gradations and light film grain; specified like a camera shot (full-frame, 85mm, f/1.8, ISO 200, 1/125s), medium waist-up framing. 4. **圖4 — Profile portrait （側臉肖像照）:** side view at a slightly low angle, head raised, eyes closed; deep-blue background and black blazer; a warm spotlight from upper right lays an orange glow on face and neck against cool blue shadow; 85mm shallow-depth portrait-lens look. 5. **圖5 — Side-gaze portrait （側身凝視）:** cinematic B&W studio portrait in profile, head bowed, one hand in a dark jacket pocket; sharp side light sculpting cheekbones, jawline and shoulders; generous negative space; the same camera-style specification as 圖3 (85mm, f/1.8, ISO 200, 1/125s), soft film grain. 6. **圖6 — Half-turn light-and-shadow （半回身光影， brand-image composition):** B&W studio portrait, body half-turned toward camera, chin lifted toward a single key light, eyes gently closed; strong-contrast minimalist composition aimed at brand/fashion advertising use; camera-style specification as in 圖3/圖5. \n\nPreserve the original scene's subject relationships. Every part of the canvas must belong to the transformed artwork. No original photo panel, no before/after comparison, no split, no text.",
       "prompt_sha": "d875f55373cdd4012fe2b752e86b199793b90ee9",
       "input_sha": "d8238a2e486bbc60452fbdaf10c023f85f911497"
+    },
+    {
+      "prompt_slug": "cracked-palette-knife",
+      "output": "cracked-palette-knife.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-07T09:08:57-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame cracked palette-knife oil painting (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the painted transformation only, as a standalone full image): Millennium Falcon scene repainted with visible knife marks, thick impasto and a fine craquelure crack pattern across the whole surface, bright warm colors, no added title text."
     }
   ],
   "input": "input.jpg"
