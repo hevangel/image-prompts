@@ -101,6 +101,9 @@
   <section class="tab-panel active" id="tab-samples" role="tabpanel" aria-labelledby="tabbtn-samples">
     <div class="filters">
       <input type="search" id="sample-keyword" placeholder="Filter generated images by keyword — prompt, photo, notes…" aria-label="Keyword filter for generated images">
+      <select id="sample-prompt" aria-label="Filter by prompt">
+        <option value="">All prompts</option>
+      </select>
       <select id="sample-model" aria-label="Filter by image model">
         <option value="">All models</option>
       </select>
@@ -176,6 +179,9 @@ function promptName(slug) {
   if (!p) return slug;
   return base === slug ? p.name : `${p.name} #${slug.slice(base.length + 1)}`;
 }
+function modelDisplayName(model) {
+  return model === "ChatGPT Images (image_gen; version undisclosed)" ? "ChatGPT Images" : model;
+}
 function esc(s) { return String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c])); }
 
 /* ---------- tabs ---------- */
@@ -231,6 +237,7 @@ function allGenerations() {
 
 function renderGenGrid() {
   const kw = document.getElementById("sample-keyword").value.trim().toLowerCase();
+  const prompt = document.getElementById("sample-prompt").value;
   const model = document.getElementById("sample-model").value;
   const grid = document.getElementById("gen-grid");
   grid.innerHTML = "";
@@ -242,6 +249,7 @@ function renderGenGrid() {
     const hay = [promptName(r.slug), p ? p.name_original : "", r.slug, r.sample.title, r.sample.slug,
                  modelName, r.gen ? r.gen.notes : ""].join(" ").toLowerCase();
     if (kw && !hay.includes(kw)) continue;
+    if (prompt && baseSlug(r.slug) !== prompt) continue;
     if (model && modelName !== model) continue;
     // The input (original) photo is always the first picture of its sample.
     if (!inputsShown.has(r.sample.slug)) {
@@ -265,7 +273,7 @@ function renderGenGrid() {
       <div class="body">
         <div class="p"><button type="button" class="p-link" title="Open the prompt page for ${esc(promptName(r.slug))}">${esc(promptName(r.slug))}${p && p.name_original ? ` · ${esc(p.name_original)}` : ""}</button></div>
         <div class="meta">from “${esc(r.sample.title)}”</div>
-        ${modelName ? `<div class="meta">Model: ${esc(modelName)}</div>` : ""}
+        ${modelName ? `<div class="meta">Model: ${esc(modelDisplayName(modelName))}</div>` : ""}
         ${when ? `<div class="meta">${esc(when)}</div>` : ""}
         ${r.gen && r.gen.quality_issues && r.gen.quality_issues.length ? `<div class="meta">Observed: ${esc(r.gen.quality_issues.join(", ").replace(/_/g, " "))}</div>` : ""}
         ${r.gen && r.gen.tokens_used != null ? `<div class="meta">Tokens: ${esc(r.gen.tokens_used)}</div>` : ""}
@@ -276,6 +284,7 @@ function renderGenGrid() {
   document.getElementById("gen-empty").hidden = shown > 0;
 }
 document.getElementById("sample-keyword").addEventListener("input", renderGenGrid);
+document.getElementById("sample-prompt").addEventListener("change", renderGenGrid);
 document.getElementById("sample-model").addEventListener("change", renderGenGrid);
 
 /* ---------- prompts tab: catalog ---------- */
@@ -376,7 +385,7 @@ async function openDetail(slug) {
       div.innerHTML = `
         <div class="in-row">
           <img src="${esc(s.input)}" alt="Input — ${esc(s.title)}">
-          <span class="meta">Original — ${esc(s.title)}${k !== slug ? `<br>Recipe ${esc(k.slice(slug.length + 1))} of ${esc(p.name)}` : ""}${g ? `<br>Model: ${esc(g.model)}${g.generated_at ? " · " + esc(new Date(g.generated_at).toLocaleString()) : ""}` : ""}</span>
+          <span class="meta">Original — ${esc(s.title)}${k !== slug ? `<br>Recipe ${esc(k.slice(slug.length + 1))} of ${esc(p.name)}` : ""}${g ? `<br>Model: ${esc(modelDisplayName(g.model))}${g.generated_at ? " · " + esc(new Date(g.generated_at).toLocaleString()) : ""}` : ""}</span>
         </div>
         <a href="${esc(out)}" target="_blank" rel="noopener"><img class="out" src="${esc(out)}" alt="Generated with ${esc(p.name)} — ${esc(s.title)}" loading="lazy"></a>`;
       box.appendChild(div);
@@ -428,8 +437,15 @@ async function loadGenerations() {
   const sel = document.getElementById("sample-model");
   for (const m of [...models].sort()) {
     const o = document.createElement("option");
-    o.value = m; o.textContent = m;
+    o.value = m; o.textContent = modelDisplayName(m);
     sel.appendChild(o);
+  }
+  const promptSel = document.getElementById("sample-prompt");
+  for (const p of MANIFEST.prompts) {
+    const o = document.createElement("option");
+    o.value = p.slug;
+    o.textContent = p.name;
+    promptSel.appendChild(o);
   }
 }
 
