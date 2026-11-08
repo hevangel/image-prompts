@@ -566,6 +566,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame cracked palette-knife oil painting (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the painted transformation only, as a standalone full image): taco truck and dog repainted with visible knife marks, thick impasto and a fine craquelure crack pattern across the whole surface, bright warm colors, no added title text."
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-08T08:57:00-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame handmade paper-cut fairy-tale treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the paper-cut treatment only, as a standalone full image): the red taco truck and black dog rebuilt as layered matte paper-cut shapes with irregular hand-cut edges and soft shadows, in reds, black and yellow from the photo, floating in generous clean off-white negative space, no added title text.",
+      "output": "paper-cut-fairytale.webp",
+      "prompt_slug": "paper-cut-fairytale",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

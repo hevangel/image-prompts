@@ -2,6 +2,29 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Paper-Cut Fairy Tale",
+      "name_original": "AI 手工剪紙童話風",
+      "prompt_file": "reference/paper-cut-fairytale/prompt.md",
+      "reference_image": "reference/paper-cut-fairytale/post-01.jpg",
+      "reference_images": [
+        "reference/paper-cut-fairytale/post-01.jpg",
+        "reference/paper-cut-fairytale/post-02.jpg",
+        "reference/paper-cut-fairytale/post-03.jpg",
+        "reference/paper-cut-fairytale/post-04.jpg",
+        "reference/paper-cut-fairytale/post-05.jpg",
+        "reference/paper-cut-fairytale/post-06.jpg",
+        "reference/paper-cut-fairytale/post-07.jpg",
+        "reference/paper-cut-fairytale/post-08.jpg",
+        "reference/paper-cut-fairytale/post-09.jpg",
+        "reference/paper-cut-fairytale/post-10.jpg",
+        "reference/paper-cut-fairytale/post-11.jpg"
+      ],
+      "slug": "paper-cut-fairytale",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02JLGjt3DkCnPGkeg21MiGaxNyHGXZkNAsZpCk7Rj3QUiCr3u7xxpXttLbDrmVr96wl&id=61580979040009",
+      "summary": "Turns a photo into a handmade paper-cut fairy-tale comparison poster: the photo preserved on top; below, its 3–5 most distinctive elements rebuilt as small layered paper-cut shapes with irregular hand-cut edges and soft shadows, floating in about 70% clean white negative space, in 2–4 colors from the photo, with a children's-storybook feel. The source post shows 11 examples; all 11 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Minimalist Simplification",
       "name_original": "細節極簡化",
       "prompt_file": "reference/minimalist-simplification/prompt.md",
@@ -1501,7 +1524,8 @@
         "reflection-protagonist": "samples/howe-sound/reflection-protagonist.webp",
         "vintage-hatching-comic": "samples/howe-sound/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/howe-sound/minimalist-simplification.webp",
-        "cracked-palette-knife": "samples/howe-sound/cracked-palette-knife.webp"
+        "cracked-palette-knife": "samples/howe-sound/cracked-palette-knife.webp",
+        "paper-cut-fairytale": "samples/howe-sound/paper-cut-fairytale.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1572,7 +1596,8 @@
         "reflection-protagonist": "samples/book-fair/reflection-protagonist.webp",
         "vintage-hatching-comic": "samples/book-fair/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/book-fair/minimalist-simplification.webp",
-        "cracked-palette-knife": "samples/book-fair/cracked-palette-knife.webp"
+        "cracked-palette-knife": "samples/book-fair/cracked-palette-knife.webp",
+        "paper-cut-fairytale": "samples/book-fair/paper-cut-fairytale.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1643,7 +1668,8 @@
         "reflection-protagonist": "samples/millennium-falcon/reflection-protagonist.webp",
         "vintage-hatching-comic": "samples/millennium-falcon/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/millennium-falcon/minimalist-simplification.webp",
-        "cracked-palette-knife": "samples/millennium-falcon/cracked-palette-knife.webp"
+        "cracked-palette-knife": "samples/millennium-falcon/cracked-palette-knife.webp",
+        "paper-cut-fairytale": "samples/millennium-falcon/paper-cut-fairytale.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1714,7 +1740,8 @@
         "reflection-protagonist": "samples/concert-stage/reflection-protagonist.webp",
         "vintage-hatching-comic": "samples/concert-stage/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/concert-stage/minimalist-simplification.webp",
-        "cracked-palette-knife": "samples/concert-stage/cracked-palette-knife.webp"
+        "cracked-palette-knife": "samples/concert-stage/cracked-palette-knife.webp",
+        "paper-cut-fairytale": "samples/concert-stage/paper-cut-fairytale.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1785,7 +1812,8 @@
         "reflection-protagonist": "samples/taco-truck-dog/reflection-protagonist.webp",
         "vintage-hatching-comic": "samples/taco-truck-dog/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/taco-truck-dog/minimalist-simplification.webp",
-        "cracked-palette-knife": "samples/taco-truck-dog/cracked-palette-knife.webp"
+        "cracked-palette-knife": "samples/taco-truck-dog/cracked-palette-knife.webp",
+        "paper-cut-fairytale": "samples/taco-truck-dog/paper-cut-fairytale.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

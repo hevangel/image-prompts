@@ -2214,6 +2214,75 @@ by set ID / reel ID before counting a post as new.
   companion photo set** (feed adjacency and Photos-tab grid
   re-checked Nov 7) — it remains skipped under the set-only rule.
 
+### paper-cut-fairytale — Emerson post (fetched 2026-11-08 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Paper-Cut Fairy Tale · AI 手工剪紙童話風
+  ("Photography × Paper Folk Story"), photo set posted **Nov 8,
+  2026** (the author's prompt comment is timestamped Nov 8, 2026,
+  1:21 AM), the first post newer than the Nov 7
+  cracked-palette-knife entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02JLGjt3DkCnPGkeg21MiGaxNyHGXZkNAsZpCk7Rj3QUiCr3u7xxpXttLbDrmVr96wl&id=61580979040009
+  — set ID `pcb.122161279155032634`; **110 likes / 7 comments /
+  13 shares** (as displayed Nov 8, 2026). The full prompt appears
+  identically in the post caption and in the author's first
+  comment; `reference/paper-cut-fairytale/prompt.md` keeps a
+  structural summary plus an English translation of the
+  introduction. Example photos credited to Pexels in the post.
+- **Companion reel:** https://www.facebook.com/reel/2158401081427003
+  (0:22, music "Soft Deskline · Demeter Lounge"; author's
+  prompt comment Nov 8, 2026, 5:38 AM; 61 likes, 1 comment,
+  5 shares) — same caption, same prompt in its author comment;
+  frame-checked by sampled seeks: frames matched set photos 11
+  (lighthouse), 6 (city street), 3 (Notre-Dame), 7 (snowy
+  riverside town), 9 (snow-covered canal) and 5 (electricity
+  pylons) — **no set-external example**.
+- **Images:** exactly **11** (viewer cycle: stepping Next from
+  photo 11 returned to photo 1), all 1086×1448 (the highest
+  rendition the viewer serves for this set), saved as
+  `reference/paper-cut-fairytale/post-01.jpg` …
+  `post-11.jpg`. Every poster is a comparison layout: original
+  photo on top, handmade paper-cut illustration below, with
+  about 70% clean negative space in the lower half. No title
+  text is visible on the archived posters. Subjects, in set
+  order: 1 bare leafless tree in snow (black-and-white photo),
+  2 man leaning on a red VW Beetle, 3 Notre-Dame Cathedral
+  on the Seine with autumn trees, 4 children and goats before
+  a makeshift shack with laundry hanging, 5 electricity pylons
+  in a field under a blue sky, 6 busy city street with yellow
+  taxis, 7 snowy riverside town with swans/herons wading,
+  8 traditional Japanese street of wooden machiya houses,
+  9 snow-covered canal with a small bridge and red flowering
+  bushes, 10 spice market stall, 11 lighthouse on a rocky
+  point with a stone causeway. Set order (photo-page fbids):
+  122161277937032634, 122161277973032634, 122161277637032634,
+  122161278453032634, 122161277583032634, 122161278225032634,
+  122161277661032634, 122161277907032634, 122161278165032634,
+  122161278249032634, 122161277613032634. (Each CDN file's
+  internal numeric ID differs by a few digits from its
+  photo-page fbid; the downloaded files were verified at
+  1086×1448 with distinct contents matching the reported set
+  order — spot-checked: tree #1 and lighthouse #11 render as
+  comparison posters, photo above, paper-cut below.)
+- **Fetch note:** the browser reported the 11 viewer-resolution
+  CDN URLs in set order and they were downloaded promptly
+  (signed URLs expire). The catalog now stands at **67 prompts,
+  653 reference images**, with 5 new sample outputs for this
+  entry (326 total sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into
+  `paper-cut` (Oct 11): that entry is a high-saturation flat
+  paper-cut treatment filling the frame, while this style is a
+  comparison poster whose lower half is a small paper-cut of
+  only the 3–5 most distinctive elements floating in about 70%
+  clean negative space, with a children's-storybook feel. It is
+  likewise distinct from `paper-carving` (layered relief) and
+  `paper-collage-lines` (collage plus hand-drawn lines).
+- **Still skipped under the set-only rule:** the Nov 4
+  "Minimal Abstract Gouache" reel
+  (https://www.facebook.com/reel/1127275719883796) **still has
+  no companion photo set** (timeline adjacency and Photos-tab
+  re-checked Nov 8) — it remains unfiled.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
