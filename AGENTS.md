@@ -2283,6 +2283,98 @@ by set ID / reel ID before counting a post as new.
   no companion photo set** (timeline adjacency and Photos-tab
   re-checked Nov 8) — it remains unfiled.
 
+### rice-paper-ink — Emerson post (fetched 2026-11-09 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Rice Paper Ink Wash · 宣紙水墨風 ("Photography ×
+  Traditional Chinese Ink Wash"), photo set posted **Nov 9,
+  2026** (the author's prompt comment is timestamped Nov 9,
+  2026, 5:16 AM), the first post newer than the Nov 8
+  paper-cut-fairytale entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0223PPHntmngmPL4ms2df2xShSHub53xbsVJiebTqUDcYQ7yeigxpxsDuYGCh3km5nl&id=61580979040009
+  — set ID `pcb.122161418115032634`; **53 likes / 6 comments /
+  7 shares** (as displayed Nov 9, 2026). The full prompt appears
+  identically in the post caption and in the author's first
+  comment; `reference/rice-paper-ink/prompt.md` keeps a
+  structural summary plus an English translation of the
+  introduction. Example photos credited to Pexels in the post.
+- **Companion reel:** https://www.facebook.com/reel/997591810068582
+  (0:19; author's prompt comment Nov 9, 2026, 8:42 AM; 9 likes,
+  3 comments, 1 share) — same caption, same prompt in its author
+  comment; frame-checked by sampled seeks at 0, 2, 3, 4, 5, 7,
+  9, 10, 13, 15, 17, 18 and 19 seconds: all 10 set photos
+  appear, each for ~2 seconds with a slow zoom/pan, in shuffled
+  order (THE SEA, THE PIANO, THE OFFICE, THE RIVER, THE LAKE,
+  THE CAMERA, SPACE LAB, THE MUSIC, LE GRIZZLI, HOI AN) —
+  **no set-external example**.
+- **Images:** exactly **10** (viewer cycle: stepping Next from
+  photo 10 returned to photo 1), all 1086×1448 (the highest
+  rendition the viewer serves for this set), saved as
+  `reference/rice-paper-ink/post-01.jpg` …
+  `post-10.jpg`. Every poster is a comparison layout: original
+  color photo on top (labeled "ORIGINAL"), traditional Chinese
+  ink-wash reinterpretation below (labeled "REIMAGINED") on
+  aged, lightly yellowed rice paper, with a short English title
+  centered at the very bottom and, on most posters, a small red
+  seal stamp at the bottom right. Subjects with their printed
+  titles, in set order: 1 "THE SEA" (woman with flowing red
+  fabric on a stormy beach), 2 "THE LAKE" (person with an
+  umbrella by a rainy lake), 3 "SPACE LAB" (hexagonal-mirror
+  telescope in a cleanroom), 4 "THE PIANO" (hands playing piano
+  keys), 5 "THE OFFICE" (woman with binders by grey lockers),
+  6 "THE RIVER" (rowboat with a conical-hatted poler),
+  7 "HOI AN" (old-town street café with red lanterns),
+  8 "LE GRIZZLI" (Paris café with a striped awning),
+  9 "THE CAMERA" (cameraman with a Sony video camera),
+  10 "THE MUSIC" (hands playing a light-blue acoustic guitar).
+  Set order (photo-page fbids): 122161416951032634,
+  122161417047032634, 122161417479032634, 122161432671032634,
+  122161432725032634, 122161432743032634, 122161417509032634,
+  122161417551032634, 122161433199032634, 122161416969032634.
+  (Each CDN file's internal numeric ID differs by a few digits
+  from its photo-page fbid; the downloaded files were verified
+  at 1086×1448 with distinct contents matching the reported set
+  order — spot-checked: "THE SEA" #1 and "THE CAMERA" #9 render
+  as comparison posters, photo above, ink wash below.)
+- **Fetch note:** the browser reported the 10 viewer-resolution
+  CDN URLs in set order and they were downloaded promptly
+  (signed URLs expire). The catalog now stands at **68 prompts,
+  663 reference images**, with 5 new sample outputs for this
+  entry (331 total sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into `ink-rubbing`
+  (Sep 29) or `ink-starved-geometry` (Oct 8): those are
+  standalone posters with no comparison layout, while this
+  style is a comparison poster whose lower half is a
+  traditional Chinese ink wash on aged rice paper, essentially
+  monochrome with exactly one vermilion-red accent borrowed
+  from the original. It is likewise distinct from
+  `black-white-drawing` (monochrome drawing, no rice paper, no
+  red accent).
+- **Seal discrepancy, noted:** the prompt forbids seals, yet
+  most archived posters carry a small red seal stamp at the
+  bottom right (all but #9 "THE CAMERA"; #5 and #6 are cropped
+  below the fold in the viewer, so theirs is unconfirmed). A
+  commenter asked whether the prompt always leaves red
+  unprocessed; the author replied at 7:00 AM on Nov 9 that the
+  vermilion red is intentional, but that the small seal had not
+  been handled — and the post was updated. Photos 4, 5, 6 and 9
+  show a later "2h" timestamp in the viewer while the others
+  show "4h", consistent with that update; the seal is still
+  visible on most posters, so the update did not remove it.
+- **Sample note:** the concert-stage sample was regenerated
+  once — the first attempt added a small red seal stamp, which
+  the source prompt forbids; the replacement is seal-free.
+- **Still skipped under the set-only rule:** the Nov 4
+  "Minimal Abstract Gouache" reel
+  (https://www.facebook.com/reel/1127275719883796) **still has
+  no companion photo set** (timeline adjacency and Photos-tab
+  re-checked Nov 9 — the post directly below it is the Nov 4
+  morning line-art reel followed by that style's photo set, the
+  post directly above it is the Nov 5 GIF-animation set; a few
+  gouache-style before/after images deeper in the Photos grid
+  are older, low-engagement standalone photos, not a Nov 4 set)
+  — it remains unfiled.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

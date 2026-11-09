@@ -2377,6 +2377,15 @@
       "output": "paper-cut-fairytale.webp",
       "prompt_slug": "paper-cut-fairytale",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-09T09:16:14-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame traditional Chinese ink-wash transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the ink-wash treatment only, as a standalone full image): stacks of books and an open book repainted in graded black ink washes on aged, lightly yellowed rice paper, reduced to a few large ink masses with large areas of unpainted paper left as negative space, with the red 'YOUNG ADULT' sign as the single vermilion accent, no added title text.",
+      "output": "rice-paper-ink.webp",
+      "prompt_slug": "rice-paper-ink",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

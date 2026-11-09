@@ -575,6 +575,15 @@
       "output": "paper-cut-fairytale.webp",
       "prompt_slug": "paper-cut-fairytale",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-09T09:18:08-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame traditional Chinese ink-wash transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the ink-wash treatment only, as a standalone full image): three singers with microphones on an orange stage repainted in graded black ink washes on aged, lightly yellowed rice paper, reduced to a few large ink masses with large areas of unpainted paper left as negative space, with a small red flowering branch as the vermilion accent, no added title text. Regenerated once: the first attempt added a small red seal stamp, which the source prompt forbids.",
+      "output": "rice-paper-ink.webp",
+      "prompt_slug": "rice-paper-ink",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

@@ -2,6 +2,28 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Rice Paper Ink Wash",
+      "name_original": "宣紙水墨風",
+      "prompt_file": "reference/rice-paper-ink/prompt.md",
+      "reference_image": "reference/rice-paper-ink/post-01.jpg",
+      "reference_images": [
+        "reference/rice-paper-ink/post-01.jpg",
+        "reference/rice-paper-ink/post-02.jpg",
+        "reference/rice-paper-ink/post-03.jpg",
+        "reference/rice-paper-ink/post-04.jpg",
+        "reference/rice-paper-ink/post-05.jpg",
+        "reference/rice-paper-ink/post-06.jpg",
+        "reference/rice-paper-ink/post-07.jpg",
+        "reference/rice-paper-ink/post-08.jpg",
+        "reference/rice-paper-ink/post-09.jpg",
+        "reference/rice-paper-ink/post-10.jpg"
+      ],
+      "slug": "rice-paper-ink",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0223PPHntmngmPL4ms2df2xShSHub53xbsVJiebTqUDcYQ7yeigxpxsDuYGCh3km5nl&id=61580979040009",
+      "summary": "Turns a photo into a traditional Chinese ink-wash comparison poster: the photo preserved on top; below, the same scene repainted in graded black ink on aged, lightly yellowed rice paper, reduced to a few large ink masses with generous negative space and exactly one vermilion-red accent borrowed from the original. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Paper-Cut Fairy Tale",
       "name_original": "AI 手工剪紙童話風",
       "prompt_file": "reference/paper-cut-fairytale/prompt.md",
@@ -1525,7 +1547,8 @@
         "vintage-hatching-comic": "samples/howe-sound/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/howe-sound/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/howe-sound/cracked-palette-knife.webp",
-        "paper-cut-fairytale": "samples/howe-sound/paper-cut-fairytale.webp"
+        "paper-cut-fairytale": "samples/howe-sound/paper-cut-fairytale.webp",
+        "rice-paper-ink": "samples/howe-sound/rice-paper-ink.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1597,7 +1620,8 @@
         "vintage-hatching-comic": "samples/book-fair/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/book-fair/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/book-fair/cracked-palette-knife.webp",
-        "paper-cut-fairytale": "samples/book-fair/paper-cut-fairytale.webp"
+        "paper-cut-fairytale": "samples/book-fair/paper-cut-fairytale.webp",
+        "rice-paper-ink": "samples/book-fair/rice-paper-ink.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1669,7 +1693,8 @@
         "vintage-hatching-comic": "samples/millennium-falcon/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/millennium-falcon/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/millennium-falcon/cracked-palette-knife.webp",
-        "paper-cut-fairytale": "samples/millennium-falcon/paper-cut-fairytale.webp"
+        "paper-cut-fairytale": "samples/millennium-falcon/paper-cut-fairytale.webp",
+        "rice-paper-ink": "samples/millennium-falcon/rice-paper-ink.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1741,7 +1766,8 @@
         "vintage-hatching-comic": "samples/concert-stage/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/concert-stage/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/concert-stage/cracked-palette-knife.webp",
-        "paper-cut-fairytale": "samples/concert-stage/paper-cut-fairytale.webp"
+        "paper-cut-fairytale": "samples/concert-stage/paper-cut-fairytale.webp",
+        "rice-paper-ink": "samples/concert-stage/rice-paper-ink.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1813,7 +1839,8 @@
         "vintage-hatching-comic": "samples/taco-truck-dog/vintage-hatching-comic.webp",
         "minimalist-simplification": "samples/taco-truck-dog/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/taco-truck-dog/cracked-palette-knife.webp",
-        "paper-cut-fairytale": "samples/taco-truck-dog/paper-cut-fairytale.webp"
+        "paper-cut-fairytale": "samples/taco-truck-dog/paper-cut-fairytale.webp",
+        "rice-paper-ink": "samples/taco-truck-dog/rice-paper-ink.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
