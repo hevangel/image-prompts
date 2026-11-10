@@ -2,6 +2,28 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Abstract Watercolor × Bold Risograph",
+      "name_original": "水彩暈染 × 復古印刷",
+      "prompt_file": "reference/watercolor-risograph/prompt.md",
+      "reference_image": "reference/watercolor-risograph/post-01.jpg",
+      "reference_images": [
+        "reference/watercolor-risograph/post-01.jpg",
+        "reference/watercolor-risograph/post-02.jpg",
+        "reference/watercolor-risograph/post-03.jpg",
+        "reference/watercolor-risograph/post-04.jpg",
+        "reference/watercolor-risograph/post-05.jpg",
+        "reference/watercolor-risograph/post-06.jpg",
+        "reference/watercolor-risograph/post-07.jpg",
+        "reference/watercolor-risograph/post-08.jpg",
+        "reference/watercolor-risograph/post-09.jpg",
+        "reference/watercolor-risograph/post-10.jpg"
+      ],
+      "slug": "watercolor-risograph",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0jpsQ1eknWYNQA9mUggEE5GH1vFrRMibTQJG5FdfbEgjFy9RD3eS4BxZGqrs53xhzl&id=61580979040009",
+      "summary": "Turns a photo into an abstract watercolor × bold risograph comparison poster: the photo preserved on top; below, the same scene rebuilt from 2–5 oversized watercolor washes in 2–4 intensified colors drawn from the photo, with visible halftone dots, ink grain and slight misregistration on a pure white ground, 55–75% unprinted. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Rice Paper Ink Wash",
       "name_original": "宣紙水墨風",
       "prompt_file": "reference/rice-paper-ink/prompt.md",
@@ -1548,7 +1570,8 @@
         "minimalist-simplification": "samples/howe-sound/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/howe-sound/cracked-palette-knife.webp",
         "paper-cut-fairytale": "samples/howe-sound/paper-cut-fairytale.webp",
-        "rice-paper-ink": "samples/howe-sound/rice-paper-ink.webp"
+        "rice-paper-ink": "samples/howe-sound/rice-paper-ink.webp",
+        "watercolor-risograph": "samples/howe-sound/watercolor-risograph.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1621,7 +1644,8 @@
         "minimalist-simplification": "samples/book-fair/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/book-fair/cracked-palette-knife.webp",
         "paper-cut-fairytale": "samples/book-fair/paper-cut-fairytale.webp",
-        "rice-paper-ink": "samples/book-fair/rice-paper-ink.webp"
+        "rice-paper-ink": "samples/book-fair/rice-paper-ink.webp",
+        "watercolor-risograph": "samples/book-fair/watercolor-risograph.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1694,7 +1718,8 @@
         "minimalist-simplification": "samples/millennium-falcon/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/millennium-falcon/cracked-palette-knife.webp",
         "paper-cut-fairytale": "samples/millennium-falcon/paper-cut-fairytale.webp",
-        "rice-paper-ink": "samples/millennium-falcon/rice-paper-ink.webp"
+        "rice-paper-ink": "samples/millennium-falcon/rice-paper-ink.webp",
+        "watercolor-risograph": "samples/millennium-falcon/watercolor-risograph.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1767,7 +1792,8 @@
         "minimalist-simplification": "samples/concert-stage/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/concert-stage/cracked-palette-knife.webp",
         "paper-cut-fairytale": "samples/concert-stage/paper-cut-fairytale.webp",
-        "rice-paper-ink": "samples/concert-stage/rice-paper-ink.webp"
+        "rice-paper-ink": "samples/concert-stage/rice-paper-ink.webp",
+        "watercolor-risograph": "samples/concert-stage/watercolor-risograph.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1840,7 +1866,8 @@
         "minimalist-simplification": "samples/taco-truck-dog/minimalist-simplification.webp",
         "cracked-palette-knife": "samples/taco-truck-dog/cracked-palette-knife.webp",
         "paper-cut-fairytale": "samples/taco-truck-dog/paper-cut-fairytale.webp",
-        "rice-paper-ink": "samples/taco-truck-dog/rice-paper-ink.webp"
+        "rice-paper-ink": "samples/taco-truck-dog/rice-paper-ink.webp",
+        "watercolor-risograph": "samples/taco-truck-dog/watercolor-risograph.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"

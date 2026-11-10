@@ -2375,6 +2375,80 @@ by set ID / reel ID before counting a post as new.
   are older, low-engagement standalone photos, not a Nov 4 set)
   — it remains unfiled.
 
+### watercolor-risograph — Emerson post (fetched 2026-11-10 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Abstract Watercolor × Bold Risograph · 水彩暈染 × 復古印刷
+  (the prompt's English header is "ABSTRACT WATERCOLOR × BOLD
+  RISOGRAPH EDITORIAL V3.0"), photo set posted **Nov 10, 2026,
+  7:04 AM** (marked AI content), the first post newer than the Nov 9
+  rice-paper-ink entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0jpsQ1eknWYNQA9mUggEE5GH1vFrRMibTQJG5FdfbEgjFy9RD3eS4BxZGqrs53xhzl&id=61580979040009
+  — set ID `pcb.122161605801032634`; **37 reactions / 1 comment /
+  4 shares** (as displayed Nov 10, 2026, ~8:55 AM). The full prompt
+  appears identically in the post caption and in the author's first
+  comment (Nov 10, 2026, 7:05 AM), which opens by asking readers to
+  save the post and share finished work in the comments, gives usage
+  steps (open ChatGPT; upload a photo; copy the full English prompt
+  and paste it in), and links to more of the creator's AI photo work;
+  `reference/watercolor-risograph/prompt.md` keeps a structural
+  summary plus an English translation of the introduction. Example
+  photos credited to Pexels in the post.
+- **Companion reel:** https://www.facebook.com/reel/1427722302852848
+  (0:20; posted Nov 10, 2026, 7:14 AM; music "Just Go With The Flow ·
+  NEZZARA"; 20 reactions, 2 comments, 3 shares) — frame-checked by
+  watching it through more than once and sampling seeks at ~2–19s:
+  9 of the 10 set photos appear directly (#1 tree, #2 rainy street,
+  #4 makeup, #5 food alley, #6 sunset over the sea, #7 Tokyo
+  crossing, #8 Paris café street, #9 highway, #10 skier), each shown
+  full-frame as the diptych poster. #3 (city bridge cyclist) was not
+  directly captured in ~15 sampled frames — its slot, if it has one,
+  is a brief window around 6–7s, so it is unconfirmed whether it
+  appears briefly or is omitted from the reel. **No set-external
+  example** in any frame seen.
+- **Images:** exactly **10** (viewer cycle: stepping Next from photo
+  10 returned to photo 1, verified twice), all 1086×1448 (the highest
+  rendition the viewer serves for this set), saved as
+  `reference/watercolor-risograph/post-01.jpg` …
+  `post-10.jpg`. Every poster is a vertical 3:4 diptych: the original
+  photograph on top, the watercolor/risograph version below, on a
+  plain white background. None of the 10 posters has a printed title
+  or any text/label on it — the prompt forbids text (only in-scene
+  signage inside the original photographs). Subjects, in set order:
+  1 lone tree in a field at sunset, 2 couple under an umbrella on a
+  wet neon-lit street at night, 3 cyclist on a bridge over a river,
+  4 woman in a yellow blazer applying makeup, 5 diners in a
+  lantern-lit night food alley, 6 sun setting over a calm sea,
+  7 crowded Tokyo street crossing, 8 tree-lined Paris street with
+  café terraces, 9 multi-lane highway with a green overpass,
+  10 skier/snowboarder with an orange smoke flare. Set order
+  (photo-page fbids): 122161602513032634, 122161603233032634,
+  122161603845032634, 122161602915032634, 122161603599032634,
+  122161603359032634, 122161603929032634, 122161602609032634,
+  122161602585032634, 122161603173032634.
+- **Fetch note:** the browser reported the 10 viewer-resolution CDN
+  URLs in set order and they were downloaded promptly (signed URLs
+  expire). The downloaded files were verified at 1086×1448 with
+  distinct contents matching the reported set order — spot-checked:
+  "tree at sunset" #1 and "skier with orange smoke" #10 render as
+  diptych posters, photo above, watercolor version below. The catalog
+  now stands at **69 prompts, 673 reference images**, with 5 new
+  sample outputs for this entry (336 total sample outputs across the
+  six sample inputs).
+- **Filed as its OWN entry**, not folded into `blue-red-risograph`
+  (Oct 20, two-color risograph with print-misregistration feel,
+  standalone posters, no watercolor, no comparison layout) or
+  `rice-paper-ink` (Nov 9, monochrome ink wash on aged, yellowed
+  rice paper with exactly one vermilion accent — this style
+  explicitly forbids aged/yellowed paper and uses 2–4 intensified
+  colors drawn from the photo): this style is a comparison poster
+  whose lower half is a colorful abstract watercolor with bold
+  risograph grain and halftone on pure white, with no poster titles.
+- **Sample note:** the book-fair sample was regenerated once — the
+  first attempt dissolved the scene into unrecognizable watercolor
+  blobs; the replacement keeps the round pink table, book stacks,
+  red cloud sign and yellow price sign recognizable.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

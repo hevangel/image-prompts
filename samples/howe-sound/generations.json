@@ -3385,6 +3385,15 @@
       "output": "rice-paper-ink.webp",
       "prompt_slug": "rice-paper-ink",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-10T09:12:00-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame abstract watercolor × bold risograph transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the watercolor/risograph treatment only, as a standalone full image): fjord, ridgelines and fir trees rebuilt in blue and teal watercolor washes with visible halftone dots and ink grain, on a pure white ground with generous negative space, no added title text.",
+      "output": "watercolor-risograph.webp",
+      "prompt_slug": "watercolor-risograph",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

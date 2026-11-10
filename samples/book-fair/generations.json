@@ -2386,6 +2386,15 @@
       "output": "rice-paper-ink.webp",
       "prompt_slug": "rice-paper-ink",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-10T09:12:00-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame abstract watercolor × bold risograph transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the watercolor/risograph treatment only, as a standalone full image): round table with pink tablecloth and stacks of colorful books, red cloud-shaped sign on a pole and yellow price sign kept as plain colored shapes with no lettering, in pink, teal, yellow and red washes with halftone dots, no added title text. Regenerated once — the first attempt dissolved the scene into unrecognizable blobs.",
+      "output": "watercolor-risograph.webp",
+      "prompt_slug": "watercolor-risograph",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
