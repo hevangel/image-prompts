@@ -593,6 +593,15 @@
       "output": "watercolor-risograph.webp",
       "prompt_slug": "watercolor-risograph",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-11T09:15:32-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame naïve risograph transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the risograph treatment only, as a standalone full image): three men singing on a stage with microphones rebuilt in crayon colour blocks with wobbly outlines, misregistration and ink grain on a cream ground, no added title text.",
+      "output": "naive-risograph.webp",
+      "prompt_slug": "naive-risograph",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
