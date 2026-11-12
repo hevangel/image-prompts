@@ -1718,6 +1718,15 @@
       "output": "naive-risograph.webp",
       "prompt_slug": "naive-risograph",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-12T09:07:27-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame vintage geometric illustration transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the geometric-illustration treatment only, as a standalone full image): LEGO Millennium Falcon model on a desk rebuilt as geometric shapes in muted retro colours on warm ivory paper, with paper grain and slight misregistration, no added title text.",
+      "output": "poetry-of-moments.webp",
+      "prompt_slug": "poetry-of-moments",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

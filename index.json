@@ -2,6 +2,26 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Poetry of Moments",
+      "prompt_file": "reference/poetry-of-moments/prompt.md",
+      "reference_image": "reference/poetry-of-moments/post-01.jpg",
+      "reference_images": [
+        "reference/poetry-of-moments/post-01.jpg",
+        "reference/poetry-of-moments/post-02.jpg",
+        "reference/poetry-of-moments/post-03.jpg",
+        "reference/poetry-of-moments/post-04.jpg",
+        "reference/poetry-of-moments/post-05.jpg",
+        "reference/poetry-of-moments/post-06.jpg",
+        "reference/poetry-of-moments/post-07.jpg",
+        "reference/poetry-of-moments/post-08.jpg",
+        "reference/poetry-of-moments/post-09.jpg"
+      ],
+      "slug": "poetry-of-moments",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02PMRocXYQSBy6KG1BDDcxVZGWWgZXwpz6EkRHnD2AWafg21cp2ZZk77zJeCVDPQdwl&id=61580979040009",
+      "summary": "Turns a photo into a 'Poetry of Moments' vintage geometric illustration comparison poster: the photo preserved on top; below, the same scene redrawn as a minimalist geometric illustration in 3-5 muted retro colours with circles, arcs and soft shapes on warm ivory paper, with a single serif English title. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Original Photography × Abstract Naïve Risograph Editorial",
       "name_original": "稚拙手繪 × 抽象色塊 × 復古孔版印刷",
       "prompt_file": "reference/naive-risograph/prompt.md",
@@ -1594,7 +1614,8 @@
         "paper-cut-fairytale": "samples/howe-sound/paper-cut-fairytale.webp",
         "rice-paper-ink": "samples/howe-sound/rice-paper-ink.webp",
         "watercolor-risograph": "samples/howe-sound/watercolor-risograph.webp",
-        "naive-risograph": "samples/howe-sound/naive-risograph.webp"
+        "naive-risograph": "samples/howe-sound/naive-risograph.webp",
+        "poetry-of-moments": "samples/howe-sound/poetry-of-moments.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1669,7 +1690,8 @@
         "paper-cut-fairytale": "samples/book-fair/paper-cut-fairytale.webp",
         "rice-paper-ink": "samples/book-fair/rice-paper-ink.webp",
         "watercolor-risograph": "samples/book-fair/watercolor-risograph.webp",
-        "naive-risograph": "samples/book-fair/naive-risograph.webp"
+        "naive-risograph": "samples/book-fair/naive-risograph.webp",
+        "poetry-of-moments": "samples/book-fair/poetry-of-moments.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1744,7 +1766,8 @@
         "paper-cut-fairytale": "samples/millennium-falcon/paper-cut-fairytale.webp",
         "rice-paper-ink": "samples/millennium-falcon/rice-paper-ink.webp",
         "watercolor-risograph": "samples/millennium-falcon/watercolor-risograph.webp",
-        "naive-risograph": "samples/millennium-falcon/naive-risograph.webp"
+        "naive-risograph": "samples/millennium-falcon/naive-risograph.webp",
+        "poetry-of-moments": "samples/millennium-falcon/poetry-of-moments.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1819,7 +1842,8 @@
         "paper-cut-fairytale": "samples/concert-stage/paper-cut-fairytale.webp",
         "rice-paper-ink": "samples/concert-stage/rice-paper-ink.webp",
         "watercolor-risograph": "samples/concert-stage/watercolor-risograph.webp",
-        "naive-risograph": "samples/concert-stage/naive-risograph.webp"
+        "naive-risograph": "samples/concert-stage/naive-risograph.webp",
+        "poetry-of-moments": "samples/concert-stage/poetry-of-moments.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1894,7 +1918,8 @@
         "paper-cut-fairytale": "samples/taco-truck-dog/paper-cut-fairytale.webp",
         "rice-paper-ink": "samples/taco-truck-dog/rice-paper-ink.webp",
         "watercolor-risograph": "samples/taco-truck-dog/watercolor-risograph.webp",
-        "naive-risograph": "samples/taco-truck-dog/naive-risograph.webp"
+        "naive-risograph": "samples/taco-truck-dog/naive-risograph.webp",
+        "poetry-of-moments": "samples/taco-truck-dog/poetry-of-moments.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
