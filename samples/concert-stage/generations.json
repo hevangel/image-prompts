@@ -611,6 +611,15 @@
       "output": "poetry-of-moments.webp",
       "prompt_slug": "poetry-of-moments",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-13T09:16:11-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame expressive Cubist transformation in Picasso's modernist language (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the Cubist treatment only, as a standalone full image): three men singing on a stage with microphones rebuilt as large structural masses with bold colour blocking and strong black hand-painted contours in red/orange/blue, matte pigments, no added title text.",
+      "output": "picasso-cubist.webp",
+      "prompt_slug": "picasso-cubist",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

@@ -2,6 +2,26 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Picasso Cubist",
+      "prompt_file": "reference/picasso-cubist/prompt.md",
+      "reference_image": "reference/picasso-cubist/post-01.jpg",
+      "reference_images": [
+        "reference/picasso-cubist/post-01.jpg",
+        "reference/picasso-cubist/post-02.jpg",
+        "reference/picasso-cubist/post-03.jpg",
+        "reference/picasso-cubist/post-04.jpg",
+        "reference/picasso-cubist/post-05.jpg",
+        "reference/picasso-cubist/post-06.jpg",
+        "reference/picasso-cubist/post-07.jpg",
+        "reference/picasso-cubist/post-08.jpg",
+        "reference/picasso-cubist/post-09.jpg"
+      ],
+      "slug": "picasso-cubist",
+      "source_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02xdVuMWcVM8EndfuuwqfN9QzyHFrzTraGfyad7h9a2qnUgmiTtUB4LUGoYPqNKiizl&id=61580979040009",
+      "summary": "Turns a photo into an 'Original Photography × Expressive Cubist Modern Art' comparison poster: the photo preserved on top; below, the same scene redrawn as a hand-painted Cubist artwork in Picasso's expressive modernist language — 5–12 large structural masses, bold colour blocking, strong black contours, matte pigments — with no poster title. The source post shows 9 examples; all 9 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Poetry of Moments",
       "prompt_file": "reference/poetry-of-moments/prompt.md",
       "reference_image": "reference/poetry-of-moments/post-01.jpg",
@@ -1615,7 +1635,8 @@
         "rice-paper-ink": "samples/howe-sound/rice-paper-ink.webp",
         "watercolor-risograph": "samples/howe-sound/watercolor-risograph.webp",
         "naive-risograph": "samples/howe-sound/naive-risograph.webp",
-        "poetry-of-moments": "samples/howe-sound/poetry-of-moments.webp"
+        "poetry-of-moments": "samples/howe-sound/poetry-of-moments.webp",
+        "picasso-cubist": "samples/howe-sound/picasso-cubist.webp"
       },
       "slug": "howe-sound",
       "title": "Howe Sound, British Columbia"
@@ -1691,7 +1712,8 @@
         "rice-paper-ink": "samples/book-fair/rice-paper-ink.webp",
         "watercolor-risograph": "samples/book-fair/watercolor-risograph.webp",
         "naive-risograph": "samples/book-fair/naive-risograph.webp",
-        "poetry-of-moments": "samples/book-fair/poetry-of-moments.webp"
+        "poetry-of-moments": "samples/book-fair/poetry-of-moments.webp",
+        "picasso-cubist": "samples/book-fair/picasso-cubist.webp"
       },
       "slug": "book-fair",
       "title": "Book Fair — Young Adult Table"
@@ -1767,7 +1789,8 @@
         "rice-paper-ink": "samples/millennium-falcon/rice-paper-ink.webp",
         "watercolor-risograph": "samples/millennium-falcon/watercolor-risograph.webp",
         "naive-risograph": "samples/millennium-falcon/naive-risograph.webp",
-        "poetry-of-moments": "samples/millennium-falcon/poetry-of-moments.webp"
+        "poetry-of-moments": "samples/millennium-falcon/poetry-of-moments.webp",
+        "picasso-cubist": "samples/millennium-falcon/picasso-cubist.webp"
       },
       "slug": "millennium-falcon",
       "title": "LEGO Millennium Falcon"
@@ -1843,7 +1866,8 @@
         "rice-paper-ink": "samples/concert-stage/rice-paper-ink.webp",
         "watercolor-risograph": "samples/concert-stage/watercolor-risograph.webp",
         "naive-risograph": "samples/concert-stage/naive-risograph.webp",
-        "poetry-of-moments": "samples/concert-stage/poetry-of-moments.webp"
+        "poetry-of-moments": "samples/concert-stage/poetry-of-moments.webp",
+        "picasso-cubist": "samples/concert-stage/picasso-cubist.webp"
       },
       "slug": "concert-stage",
       "title": "Concert Stage"
@@ -1919,7 +1943,8 @@
         "rice-paper-ink": "samples/taco-truck-dog/rice-paper-ink.webp",
         "watercolor-risograph": "samples/taco-truck-dog/watercolor-risograph.webp",
         "naive-risograph": "samples/taco-truck-dog/naive-risograph.webp",
-        "poetry-of-moments": "samples/taco-truck-dog/poetry-of-moments.webp"
+        "poetry-of-moments": "samples/taco-truck-dog/poetry-of-moments.webp",
+        "picasso-cubist": "samples/taco-truck-dog/picasso-cubist.webp"
       },
       "slug": "taco-truck-dog",
       "title": "Dog at the Taco Truck"
