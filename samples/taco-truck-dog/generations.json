@@ -620,6 +620,15 @@
       "output": "picasso-cubist.webp",
       "prompt_slug": "picasso-cubist",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-14T09:10:30-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame three-color reduction linocut transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the linocut treatment only, as a standalone full image): black dog and taco truck rebuilt in exactly three inks drawn from the photo — dark, sage green and gold — on white paper, with bold carved shapes, white cut marks and print grain, no added title text.",
+      "output": "three-color-linocut.webp",
+      "prompt_slug": "three-color-linocut",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
