@@ -2494,6 +2494,91 @@ by set ID / reel ID before counting a post as new.
 - **Filed as its OWN entry**, not folded into `woodcut-print` (Sep 12, a limited-colour woodcut on warm paper with printed poster titles) or `blue-red-risograph` (a two-colour print with misregistration on ivory): this style is a 4:5 comparison poster whose lower half rebuilds the scene in exactly three photo-derived inks (dark / midtone / accent) on pure-white archival paper, with carved edges, white cut marks, misregistration and print grain, and a strict no-fourth-ink rule — and it names the city only when confidently identifiable.
 - **Same-morning dedup note:** the Nov 13 evening follower-shoutout post ("最新追蹤者大點名！很高興你們能加入！", https://www.facebook.com/permalink.php?story_fbid=pfbid02Kau9VTbaSmn3ovGbQG8UpuScq2Snf56mYY6ENf6CdGKGEEXrNAmjpWco268trN8vl&id=61580979040009) is a text + single-image post, not a prompt style — its one image is a linocut-style puddle-reflection illustration ("AFTER THE RAIN — SAME CITY DIFFERENT PERSPECTIVE — A SMALL PUDDLE HOLDS ANOTHER WORLD — No. 12"), no prompt is given, and it has no photo set, so it is skipped under the set-only rule, not filed.
 
+### crayon-hand-drawn — Emerson post (fetched 2026-11-15 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Gemini Hand-Drawn · Gemini 手繪風格 — crayon ×
+  colored-pencil hand-drawn comparison poster, photo set posted
+  **Nov 15, 2026** (the author's pinned comment is timestamped
+  Nov 15, 2026, 5:14 AM), the first post newer than the Nov 14
+  three-color-linocut entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0P4HUHdsFdYxyFXYsK5B1Z8dp5PjyF8snix3xxZkgAkydSzMbHeNgb2NzLtDan5JVl&id=61580979040009
+  — set ID `pcb.122162632287032634`; **69 reactions / 2 comments /
+  15 shares** (as displayed Nov 15, 2026, ~8:56 AM; the counts were
+  still rising through the morning, from 51 reactions / 7 shares at
+  ~8:45 AM). Example photos credited to Pexels in the post.
+- **No copyable prompt text exists for this style — a first for the
+  catalog.** The caption says so directly ("這次沒有⋯⋯（請看置頂留
+  言）" — "there isn't one this time… see the pinned comment"),
+  and the pinned comment points to a shared Gemini Gem instead:
+  https://share.gemini.google/tkdT69uaEfU8 — titled "蠟筆繪本風格
+  對比圖生成器" (Crayon Picture-Book Style Comparison Image
+  Generator), published Nov 15, 2026, 5:17 AM (a second share link,
+  https://share.gemini.google/KSzzHsZnJa8c, was also listed on the
+  Gem's share page). The Gem's instruction text is not shown on the
+  share preview (it requires continuing the chat), so the prompt
+  itself is not readable from the post. The pinned comment's
+  3 steps: open the Gemini share link, upload a photo and type "1",
+  and Gemini generates the top-bottom comparison hand-drawn
+  illustration; readers are invited to come back and share finished
+  work in the comments. `reference/crayon-hand-drawn/prompt.md`
+  keeps a structural summary plus an English translation of the
+  introduction.
+- **Companion reel:** https://www.facebook.com/reel/2059524848099927
+  (Nov 15, 2026, 0:14; music "E:um · 이런 여유 너무 좋고";
+  author's prompt comment timestamped Nov 15, 2026, 5:57 AM;
+  41 reactions, 3 comments, 5 shares) — same title and caption as
+  the set; frame-checked: the observed frames show set photos 1
+  (blue alley) and 3 (woman before concrete building) — **no
+  set-external example** was observed.
+- **Images:** exactly **9** (viewer cycle: stepping Next from photo
+  9 returned to photo 1), all 765×1024 (the highest rendition the
+  viewer serves for this set), saved as
+  `reference/crayon-hand-drawn/post-01.jpg` … `post-09.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, labelled "ORIGINAL", and the crayon ×
+  colored-pencil hand-drawn version below, labelled "STYLIZED".
+  Subjects, in set order: 1 blue-painted alley / street with rugs
+  (Chefchaouen-style), 2 snowy landscape with a small red-roofed
+  church, 3 woman crouching before an angular concrete building,
+  4 portrait of a young woman with long dark hair outdoors,
+  5 woman in a red tank top on a tennis / sports court,
+  6 traditional Japanese wooden house / veranda with garden,
+  7 restaurant corridor with Chinese calligraphy ceiling panels,
+  8 snow-capped mountain range, 9 motorcyclist on a red Honda
+  sport bike on a desert / rocky road. Set order (photo-page
+  fbids): 122162630523032634, 122162630229032634,
+  122162630055032634, 122162629581032634, 122162629905032634,
+  122162630823032634, 122162630673032634, 122162629743032634,
+  122162630385032634. (Each CDN file's internal numeric ID differs
+  by a few digits from its photo-page fbid; the downloaded files
+  were verified at 765×1024 with distinct contents matching the
+  reported set order — spot-checked: blue alley #1 and
+  motorcyclist #9 render as comparison posters, photo above
+  labelled ORIGINAL, crayon drawing below labelled STYLIZED.)
+- **Fetch note:** the browser reported the 9 viewer-resolution CDN
+  URLs in set order and they were downloaded promptly (signed URLs
+  expire). The catalog now stands at **74 prompts, 721 reference
+  images**, with 5 new sample outputs for this entry (361 total
+  sample outputs across the six sample inputs).
+- **Filed as its OWN entry**, not folded into `naive-risograph`
+  (Nov 11, clumsy crayon colour blocks too, but a naïve risograph
+  editorial on a cream ground with misregistration and no
+  half-labels), `japanese-hand-drawn` (manga ink with dry-brush and
+  halftone dots), `hand-drawn-feel` (editorial cartoon with clean
+  black outlines and cel shading) or `black-white-drawing`
+  (playful marker/brush illustration in pure black on pure white):
+  this style is a comparison poster whose lower half is a loose
+  childhood crayon and colored-pencil drawing with rough lines,
+  casual colours and visible paper grain, labelled "ORIGINAL" above
+  and "STYLIZED" below — and it is the catalog's first entry whose
+  prompt is delivered as a shared Gemini Gem rather than as
+  copyable text in the caption or comments.
+- **Sample note:** the book-fair and concert-stage samples keep
+  the in-scene signage already in the original photos (book titles
+  and the "YOUNG ADULT" sign; a small sign in the crowd) — no
+  title text was added.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

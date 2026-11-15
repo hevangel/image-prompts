@@ -2431,6 +2431,15 @@
       "output": "three-color-linocut.webp",
       "prompt_slug": "three-color-linocut",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-15T09:03:00-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame crayon × colored-pencil hand-drawn transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hand-drawn treatment only, as a standalone full image, without the ORIGINAL/STYLIZED labels): round pink table, book stacks and the in-scene signage already in the original photo kept recognizable, redrawn with rough crayon lines, loose colors and paper grain.",
+      "output": "crayon-hand-drawn.webp",
+      "prompt_slug": "crayon-hand-drawn",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
