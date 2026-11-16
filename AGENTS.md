@@ -2579,6 +2579,68 @@ by set ID / reel ID before counting a post as new.
   and the "YOUNG ADULT" sign; a small sign in the crowd) — no
   title text was added.
 
+### minimalist-fine-line — Emerson post (fetched 2026-11-16 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Original Photography × Minimalist Fine-Line Illustration
+  · 原始攝影 × 極簡細線插畫, photo set posted **Nov 16, 2026,
+  07:01 AM**, the first post newer than the Nov 15 crayon-hand-drawn
+  entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid09iRW3EjYisn7aw19a7QdPXhXWAmDEP14MYf22tZci357s4BoxxZGxgkunrnSjRval&id=61580979040009
+  — set ID `pcb.122162810613032634`. The full prompt is in the
+  author's first comment, which also gives 3 steps (upload a
+  favourite photo; copy the English prompt into an AI image-editing
+  tool; check the subject outline matches the original) and a tip
+  (prefer a clear main subject; reduce background lines if too
+  complex). Example photos credited to Pexels in the post.
+  `reference/minimalist-fine-line/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/941052982279304
+  (0:20, posted Nov 16, 2026, 07:27 AM) — frame-checked at every
+  second: every frame is one of the 10 set posters (the reel order
+  swaps #4/#5 and #9/#10 relative to the photo viewer's set order) —
+  **no set-external example**.
+- **Images:** exactly **10** (viewer cycle: stepping Next from photo
+  10 returned to photo 1), all 1086×1448 (the highest rendition the
+  viewer serves for this set), saved as
+  `reference/minimalist-fine-line/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, the fine-line illustration below on a warm cream
+  ground, with no printed poster title or text. Subjects, in set
+  order: 1 white church on a grassy hill by the water, 2 green
+  vintage Butterfly sewing machine, 3 tan dog with paws on a ledge,
+  eyes closed in profile, 4 woman in a checkered shirt writing /
+  drawing in a notebook, 5 man playing violin on a train, woman in a
+  red beret listening, 6 dog leaning out of an open window of a cream
+  house, 7 coin-operated binocular viewer by a lake, 8 hands playing
+  a brown ukulele / guitar, 9 "SAVONS SUPERFINS Flower Perfume" soap
+  dispenser and jar on a green shelf with plants, 10 barber scissors
+  / hairdressing tools in a wooden stand. Set order (photo-page
+  fbids): 122162808861032634, 122162809305032634,
+  122162808759032634, 122162809371032634, 122162809545032634,
+  122162809383032634, 122162808813032634, 122162808807032634,
+  122162808933032634, 122162808903032634. (The downloaded files were
+  verified at 1086×1448 with distinct md5s, and a contact sheet
+  confirmed each file's subject matches the reported set order.)
+- **Filed as its OWN entry**, not folded into `fine-line-poster`
+  (Oct 5, fragile broken fine lines, a tiny 10–25% subject in vast
+  warm-white space, and one handwritten phrase per poster),
+  `one-line-contour` (Oct 9, minimal continuous contours with exactly
+  one spot colour and the subject occupying about half the panel),
+  `minimalist-simplification` (Nov 6, flat-vector illustration in up
+  to four colours with the subject at 55–65% of the lower panel) or
+  `comparison-poster` (Aug 31, the family's original entry, whose
+  lower halves are fuller illustrations rather than single-subject
+  line drawings): this one is a photo-top / fine-line-illustration-
+  bottom comparison poster with at least 50% negative space
+  (ideally 55–70%), a compact 25–40% subject drawn in precise thin
+  black/charcoal contours in a Scandinavian editorial /
+  architectural-drafting aesthetic, and up to two restrained accent
+  colours — with no poster titles.
+- **Sample note:** the five sample outputs are full-frame fine-line
+  illustration treatments (per the repo's standing sample rule),
+  not split posters; no title text was added.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
