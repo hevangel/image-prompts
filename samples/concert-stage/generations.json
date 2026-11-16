@@ -451,13 +451,13 @@
       "tokens_used": null
     },
     {
-      "current": true,
-      "generated_at": "2026-10-25T09:10:50-07:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame version of the color-block-breakout treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration treatment only, as a standalone full image): subject simplified into bold silhouettes and flat shapes in at most two inks from the photo on warm-white paper, most of the motif inside one small painted color block, exactly one part of the subject breaking out of the block's edge, no text.",
-      "output": "color-block-breakout.webp",
       "prompt_slug": "color-block-breakout",
-      "tokens_used": null
+      "output": "color-block-breakout.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-10-25T09:10:50-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame version of the color-block-breakout treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the illustration treatment only, as a standalone full image): subject simplified into bold silhouettes and flat shapes in at most two inks from the photo on warm-white paper, most of the motif inside one small painted color block, exactly one part of the subject breaking out of the block's edge, no text."
     },
     {
       "current": true,
@@ -496,58 +496,58 @@
       "tokens_used": null
     },
     {
-      "current": true,
-      "generated_at": "2026-10-30T09:16:10-07:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame translucent tracing-paper treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the tracing-paper treatment only, as a standalone full image): scene reduced to its essential memory cues with most secondary background removed, rendered in thin semi-transparent matte tracing-paper layers with fine fibers, softened by layered occlusion rather than blur, over a clean off-white ground with generous negative space, colors from the photo's own palette, no added title text.",
-      "output": "translucent-tracing-paper.webp",
       "prompt_slug": "translucent-tracing-paper",
-      "tokens_used": null
+      "output": "translucent-tracing-paper.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-10-30T09:16:10-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame translucent tracing-paper treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the tracing-paper treatment only, as a standalone full image): scene reduced to its essential memory cues with most secondary background removed, rendered in thin semi-transparent matte tracing-paper layers with fine fibers, softened by layered occlusion rather than blur, over a clean off-white ground with generous negative space, colors from the photo's own palette, no added title text."
     },
     {
-      "current": true,
-      "generated_at": "2026-10-31T09:13:25-07:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame white-space line illustration treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the line-illustration treatment only, as a standalone full image): complex background stripped away, only the scene's most memorable meaning kept as a small protagonist in restrained light gray-blue conceptual line work on old-notebook-style paper with paper texture, surrounded by expansive quiet negative space, no added title text.",
-      "output": "white-space-illustration.webp",
       "prompt_slug": "white-space-illustration",
-      "tokens_used": null
+      "output": "white-space-illustration.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-10-31T09:13:25-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame white-space line illustration treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the line-illustration treatment only, as a standalone full image): complex background stripped away, only the scene's most memorable meaning kept as a small protagonist in restrained light gray-blue conceptual line work on old-notebook-style paper with paper texture, surrounded by expansive quiet negative space, no added title text."
     },
     {
-      "current": true,
-      "generated_at": "2026-11-01T09:56:49-07:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame black-and-white hand-drawn treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hand-inked illustration treatment only, as a standalone full image): playful minimalist black-ink illustration on pure white, bold irregular marker/brush outlines with hand-drawn wobble, simplified expressive subject, most background detail removed, generous white negative space, no gray tones, no shading, no added title text.",
-      "output": "black-white-drawing.webp",
       "prompt_slug": "black-white-drawing",
-      "tokens_used": null
+      "output": "black-white-drawing.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-01T09:56:49-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame black-and-white hand-drawn treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hand-inked illustration treatment only, as a standalone full image): playful minimalist black-ink illustration on pure white, bold irregular marker/brush outlines with hand-drawn wobble, simplified expressive subject, most background detail removed, generous white negative space, no gray tones, no shading, no added title text."
     },
     {
-      "current": true,
-      "generated_at": "2026-11-02T09:03:48-08:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame European vintage travel-film grading treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the film-grading treatment only, as a standalone full image): gently muted saturation, softened highlights, deepened shadows, subtle fine film grain, vintage travel-editorial feel, composition and subjects preserved, no added title text.",
-      "output": "european-travel-film.webp",
       "prompt_slug": "european-travel-film",
-      "tokens_used": null
+      "output": "european-travel-film.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-02T09:03:48-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame European vintage travel-film grading treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the film-grading treatment only, as a standalone full image): gently muted saturation, softened highlights, deepened shadows, subtle fine film grain, vintage travel-editorial feel, composition and subjects preserved, no added title text."
     },
     {
-      "current": true,
-      "generated_at": "2026-11-03T09:06:00-08:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame dreamy naive hand-drawn abstract treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the abstract treatment only, as a standalone full image): Miró-like irregular shapes, soft defocused edges, gentle glow, screen-print grain, muted Morandi tones from the photo, reflections and highlights enlarged into the main subject, composition and subjects preserved, no added title text.",
-      "output": "reflection-protagonist.webp",
       "prompt_slug": "reflection-protagonist",
-      "tokens_used": null
+      "output": "reflection-protagonist.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-03T09:06:00-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame dreamy naive hand-drawn abstract treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the abstract treatment only, as a standalone full image): Miró-like irregular shapes, soft defocused edges, gentle glow, screen-print grain, muted Morandi tones from the photo, reflections and highlights enlarged into the main subject, composition and subjects preserved, no added title text."
     },
     {
-      "current": true,
-      "generated_at": "2026-11-04T09:00:00-08:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame 1950s–60s European vintage comic treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hatched treatment only, as a standalone full image): bold black ink outlines, fine parallel hatching and cross-hatching, teal-cyan skies and cool shadows against warm vermilion red, orange, golden ochre, cream and sun-yellow, flat printed colors with risograph grain, composition and subjects preserved, no added title text.",
-      "output": "vintage-hatching-comic.webp",
       "prompt_slug": "vintage-hatching-comic",
-      "tokens_used": null
+      "output": "vintage-hatching-comic.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-04T09:00:00-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame 1950s–60s European vintage comic treatment (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the hatched treatment only, as a standalone full image): bold black ink outlines, fine parallel hatching and cross-hatching, teal-cyan skies and cool shadows against warm vermilion red, orange, golden ochre, cream and sun-yellow, flat printed colors with risograph grain, composition and subjects preserved, no added title text."
     },
     {
       "current": true,
@@ -559,13 +559,13 @@
       "tokens_used": null
     },
     {
-      "current": true,
-      "generated_at": "2026-11-07T09:08:57-08:00",
-      "model": "Muse Image (Meta)",
-      "notes": "Full-frame cracked palette-knife oil painting (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the painted transformation only, as a standalone full image): concert-stage scene repainted with visible knife marks, thick impasto and a fine craquelure crack pattern across the whole surface, bright warm colors, no added title text.",
-      "output": "cracked-palette-knife.webp",
       "prompt_slug": "cracked-palette-knife",
-      "tokens_used": null
+      "output": "cracked-palette-knife.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-07T09:08:57-08:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame cracked palette-knife oil painting (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the painted transformation only, as a standalone full image): concert-stage scene repainted with visible knife marks, thick impasto and a fine craquelure crack pattern across the whole surface, bright warm colors, no added title text."
     },
     {
       "current": true,
