@@ -2458,6 +2458,15 @@
       "output": "minimalist-fine-line.webp",
       "prompt_slug": "minimalist-fine-line",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-17T08:19:17-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame Bauhaus geometric-art transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the geometric-art treatment only, as a standalone full image): round book-fair table with its spread of books redrawn in flat geometric shapes — pink circular table, yellow and black book blocks, red sun and triangle accents — on a warm cream ground, with vintage film grain, no added title text.",
+      "output": "retro-geometric-art.webp",
+      "prompt_slug": "retro-geometric-art",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

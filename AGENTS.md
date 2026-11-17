@@ -2641,6 +2641,69 @@ by set ID / reel ID before counting a post as new.
   illustration treatments (per the repo's standing sample rule),
   not split posters; no title text was added.
 
+### retro-geometric-art — Emerson post (fetched 2026-11-17 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Original Photography × Bauhaus Geometric Art
+  · 原始攝影 × 復古幾何藝術, photo set posted **Nov 17, 2026,
+  about 02:39 AM**, the first post newer than the Nov 16
+  minimalist-fine-line entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0o1f64vAThvemBoLgcCsbRNatxu9sS92kJtUreRHEc2tv2tr95RwSFo58mA74ad7El&id=61580979040009
+  — set ID `pcb.122163077913032634`. The full prompt is in the post
+  body (under "✨GPT指令：") and again, in a near-identical shorter
+  form, in the author's first comment, which also gives 3 steps
+  (upload a favourite photo; copy the English prompt into ChatGPT;
+  generate a 3:4 vertical top-bottom comparison poster) and invites
+  readers to share their generated work in the comments. Example
+  photos credited to Pexels in the post.
+  `reference/retro-geometric-art/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/1906781786953564
+  (0:22, posted Nov 17, 2026, about 02:54 AM) — frame-checked at
+  every second: all 10 set posters appear (shuffled order — diver,
+  man, butterfly, chess, aerial, book, drinks, mountains, concert
+  hall, interior) plus **one set-external example**: a fencer poster
+  at ~12–14s (top: a fencer with long hair tied back, white fencing
+  jacket, foil in hand, mask under the arm, dark background with a
+  white pendant lamp; bottom: the same fencer in profile, ponytail
+  visible, with a yellow sun, blue semicircle and black/yellow/cream
+  blocks, foil held horizontally). The reel offers no download, so
+  the fencer poster is noted, not archived as an image.
+- **Images:** exactly **10** (viewer cycle: stepping Next from photo
+  10 returned to photo 1), nine at 1086×1448 and photo 5 at
+  1200×1600 (the highest renditions the viewer serves for this set);
+  photo 10 is landscape, 1448×1086. Saved as
+  `reference/retro-geometric-art/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, the Bauhaus geometric art below, with no printed
+  poster title or text. Subjects, in set order: 1 elderly man in a
+  flat cap sitting on a bench, 2 freediver over a coral reef,
+  3 blue butterfly on white yarrow, 4 woman on aerial silks,
+  5 curved interior hall/atrium, 6 chess pieces (knight centre),
+  7 open book with pages folded into a heart, 8 four colourful
+  cocktails, 9 snowy mountains with solar panels, 10 wavy-roof
+  concert hall at dusk. Set order (photo-page fbids):
+  122163075969032634, 122163076557032634, 122163076485032634,
+  122163075981032634, 122163076743032634, 122163076227032634,
+  122163076239032634, 122163076191032634, 122163076515032634,
+  122163076707032634. (The downloaded files were verified at the
+  sizes above with distinct md5s, and a contact sheet confirmed each
+  file's subject matches the reported set order.)
+- **Filed as its OWN entry**, not folded into `geometric-poster`
+  (Aug 19, a flat geometric reinterpretation paired with the photo as
+  an exhibition poster with a title and year, not a 50/50 Bauhaus
+  comparison with grain) or `minimalist-fine-line` (Nov 16, the same
+  3:4 comparison-poster frame, but a precise thin-contour line drawing
+  of one subject on a cream ground with at least 50% negative space,
+  rather than a bold flat-colour geometric rebuild): this one is a
+  photo-top / Bauhaus-geometric-bottom comparison poster whose lower
+  half rebuilds the scene from circles, triangles and rectangles in
+  two representative colours plus black/white/ivory accents, with
+  vintage film grain and no poster titles.
+- **Sample note:** the five sample outputs are full-frame Bauhaus
+  geometric-art treatments (per the repo's standing sample rule),
+  not split posters; no title text was added.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

@@ -647,6 +647,24 @@
       "output": "minimalist-fine-line.webp",
       "prompt_slug": "minimalist-fine-line",
       "tokens_used": null
+    },
+    {
+      "current": false,
+      "generated_at": "2026-11-17T08:23:44-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "First attempt: the truck's side signage came out as legible block lettering spelling 'BAUHAUS' — added text, against the no-text rule. File deleted after review; retake registered below.",
+      "output": null,
+      "prompt_slug": "retro-geometric-art",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-17T08:25:28-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame Bauhaus geometric-art transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the geometric-art treatment only, as a standalone full image): black dog with red harness and red taco truck (tacos and yellow dinosaur in a sombrero) redrawn in bold flat geometric shapes — circles, triangles and rectangles in red, yellow and black on a warm cream ground — with vintage film grain and abstract geometric truck signage, no letters or words, no added title text.",
+      "output": "retro-geometric-art.webp",
+      "prompt_slug": "retro-geometric-art",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
