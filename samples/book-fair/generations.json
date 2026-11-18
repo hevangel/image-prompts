@@ -2467,6 +2467,15 @@
       "output": "retro-geometric-art.webp",
       "prompt_slug": "retro-geometric-art",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-18T08:27:59-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame deadpan chibi-doodle transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the chibi-doodle treatment only, as a standalone full image): book-fair table redrawn as a fine-line doodle with a tiny deadpan chibi at the lower left; the in-scene “YOUNG ADULT” signage is retained.",
+      "output": "deadpan-chibi-doodle.webp",
+      "prompt_slug": "deadpan-chibi-doodle",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

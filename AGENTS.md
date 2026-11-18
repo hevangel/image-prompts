@@ -2704,6 +2704,91 @@ by set ID / reel ID before counting a post as new.
   geometric-art treatments (per the repo's standing sample rule),
   not split posters; no title text was added.
 
+### deadpan-chibi-doodle — Emerson post (fetched 2026-11-18 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Original Photography × Relaxed Hand-Drawn Chibi
+  Illustration · 厭世手繪風格 · 死魚眼小人 ("world-weary hand-drawn
+  style" / "dead-fish-eye little person"), photo set posted **Nov 18,
+  2026, 04:46 AM**, the first post newer than the Nov 17
+  retro-geometric-art entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0wWrJFQBn4bQZ6wobZhgbQdWq9SjNKDchZmcajgWtEc1A8sVvoTCLnpbotggvwRbpl&id=61580979040009
+  — set ID `pcb.122163252591032634`. The full prompt is in the post
+  body (under "prompt：") and again, in identical form, in the
+  author's first comment (under "GPT指令"), which opens "😑 今天不想營業，
+  但還是要可愛！" ("Not open for business today, but still cute!") and
+  links to the creator's Reels playlist. The post gives 3 steps
+  (pick a favourite photo — selfies and everyday photos all work;
+  upload to ChatGPT; copy the prompt to make a top-bottom comparison
+  hand-drawn poster) and a tip: if the character comes out too lively,
+  ask the AI to make the eyes lazier and the figure smaller. Example
+  photos credited to Pexels in the post.
+  `reference/deadpan-chibi-doodle/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Caption-edit note:** the author edited the caption on the morning
+  of Nov 18. An earlier version recorded at about 08:50 AM was
+  shorter and carried hashtags (#AI繪圖 #照片轉手繪 #死魚眼 #厭世手繪
+  #GPT指令 #Emersonpost #AI創作 #生活照轉換 #療癒插畫 #AI藝術); the
+  version archived here, read at 09:20 AM, is longer and has no
+  hashtags. Both versions share the same opening line ("這種小小的
+  厭世手繪風格，越看越上癮") and the same full prompt.
+- **Companion reel:** https://www.facebook.com/reel/1139236042036977
+  (0:20, posted Nov 18, 2026, about 04:51 AM; music "Happy Food
+  Groove · Bunnyvibes official"; 83 reactions, 3 comments, 12 shares
+  on its page) — frame-checked at 0:00, 0:02, 0:04, ~0:06, 0:07, 0:11
+  and 0:18 plus free-play samples: every frame duplicates a set image,
+  in set order at roughly 1.5 s per poster, with the final yoga poster
+  held to the end. No set-external example. The reel offers no
+  download, so nothing extra was archived from it.
+- **Images:** exactly **10** (viewer cycle: stepping Next from photo
+  10 returned to photo 1), all 1086×1448 (the highest rendition the
+  viewer serves for this set); saved as
+  `reference/deadpan-chibi-doodle/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, a tiny deadpan chibi doodle below on a clean
+  near-white ground, with no printed poster title or text. Subjects,
+  in set order: 1 woman asleep at a café table, 2 delivery man
+  leaning on a wall with a yellow bag, 3 grumpy white cat in a
+  cardboard box, 4 woman on a sofa holding a photo frame, 5 bearded
+  man wrapped in a green blanket gaming on a yellow sofa, 6 corgi
+  lying on a rock by a stream, 7 woman with glasses asleep on a stack
+  of books, 8 woman reading a newspaper on a city street, 9 capybara
+  by a pool, 10 woman in a lavender top doing a yoga warrior pose on
+  a pink mat by a bright window. Set order (photo-page fbids):
+  122163251007032634, 122163251481032634, 122163251247032634,
+  122163251337032634, 122163251547032634, 122163251019032634,
+  122163251787032634, 122163251523032634, 122163251055032634,
+  122163251307032634. (The downloaded files were verified at the
+  sizes above with distinct md5s, and a contact sheet confirmed each
+  file's subject matches the reported set order. Note: the download
+  filenames carry slightly different middle segments from these
+  photo-page fbids — e.g. photo 1's file is
+  `…_122163251037032634_…` vs photo-page fbid 122163251007032634 —
+  the file segments look like CDN image IDs, not the photo-page
+  fbids recorded here.)
+- **Filed as its OWN entry**, not folded into `notebook-hand-drawn`
+  (Oct 22, full-scene sketchbook drawings filling the frame) or
+  `crayon-hand-drawn` (Nov 15, crayon × coloured-pencil full-frame
+  treatment): this one is a comparison poster whose lower half is a
+  tiny 2–3-head-tall hand-drawn chibi with half-lidded "dead fish
+  eyes" and a bored expression, drawn small in 60–75% clean
+  near-white negative space — a deadpan register neither of those
+  has.
+- **Sample note:** the five sample outputs are full-frame deadpan
+  chibi-doodle treatments (per the repo's standing sample rule),
+  not split posters; no title text was added.
+- **Duplicate check (same morning):** the Nov 18 ~3:10 AM reel
+  https://www.facebook.com/reel/1157235173438055 (music "happiness
+  is free · Lana Del Ray", sunset × watercolour) is a new reel for
+  the already-archived Nov 10 `watercolor-risograph` style — its
+  author comment links to the original Nov 10 set
+  `pcb.122161605801032634` ("ABSTRACT WATERCOLOR × BOLD RISOGRAPH
+  EDITORIAL V3.0"), and the Photos tab shows no separate Nov 18
+  watercolour set. Not a new entry; nothing downloaded from it.
+  Feed sequence confirmed three times on Nov 18: A-reel ~04:51,
+  A-set ~04:46, B-reel ~03:10, then the Nov 17 Bauhaus reel — no
+  other Nov 18 post in between.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts
