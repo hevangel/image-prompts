@@ -674,6 +674,15 @@
       "output": "deadpan-chibi-doodle.webp",
       "prompt_slug": "deadpan-chibi-doodle",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-19T08:15:49-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame deadpan chibi-group transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the chibi-doodle treatment only, as a standalone full image): black dog redrawn as a deadpan chibi with half-lidded eyes, the red taco truck as a small doodle behind, on a large cream ground.",
+      "output": "deadpan-chibi-group.webp",
+      "prompt_slug": "deadpan-chibi-group",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

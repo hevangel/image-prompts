@@ -2789,6 +2789,84 @@ by set ID / reel ID before counting a post as new.
   A-set ~04:46, B-reel ~03:10, then the Nov 17 Bauhaus reel — no
   other Nov 18 post in between.
 
+### deadpan-chibi-group — Emerson post (fetched 2026-11-19 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Original Photography × Relaxed Hand-Drawn Chibi
+  Illustration (multi-person) · 厭世手繪風格 · 死魚眼Q版（多人合照）,
+  photo set posted **Nov 19, 2026, 03:37 AM**, the first post newer
+  than the Nov 18 deadpan-chibi-doodle entry. Caught by the
+  daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02RRLxrAzrLnzgZrpW4THKcb9tSVhuasbrtVZAakDGky8Q1Ejwsk45G2HvmA8nk45Jl&id=61580979040009
+  — set ID `pcb.122163402273032634`; entry photo
+  https://www.facebook.com/photo/?fbid=122163399975032634&set=pcb.122163402273032634.
+  The full prompt is in the post body (under "prompt：") and again, in
+  identical form, in the author's first comment ("GPT指令在下方，這次
+  連多人合照也能一起玩！" — "The GPT prompt is below — this time even
+  group photos can join in!"). The post gives 3 steps (upload a
+  multi-person photo; copy the GPT prompt below and paste it into
+  GPT; everyone zones out together) and a tip: check person count,
+  faces and positions afterwards and ask the AI to fine-tune if
+  needed. Example photos credited to Pexels in the post. Observed at
+  fetch time: 135 reactions, 11 comments, 20 shares.
+  `reference/deadpan-chibi-group/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/29227265543598466
+  (0:26, posted Nov 19, 2026, about 03:48 AM; music "Bakery Food ·
+  Bunnyvibes official"; 56 reactions, 6 comments, 12 shares on its
+  page) — frame-checked at about 0, 2, 4, 5, 6, 8, 10, 12, 14, 15, 16,
+  17, 18, 20, 22, 24 and 25 seconds: every frame duplicates a set
+  image, shuffled, about 2 seconds per poster (slow zoom/pan crops
+  the top/bottom in the reel, but the subject is the same). All 13
+  set photos are accounted for. No set-external example. The reel
+  offers no download, so nothing extra was archived from it.
+- **Images:** exactly **13** (viewer cycle: stepping Next from photo
+  13 returned to photo 1; the feed's "+9 remaining items" label
+  suggested 14 — the cycle is authoritative), all 1086×1448 (the
+  highest rendition the viewer serves for this set); saved as
+  `reference/deadpan-chibi-group/post-01.jpg` … `post-13.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, tiny deadpan chibi doodles below on a clean
+  near-white ground, with no printed poster title or text. Subjects,
+  in set order: 1 rooftop group selfie (8 people), 2 couple gaming
+  on a sofa, 3 family breakfast (mother scolding daughter on a
+  laptop), 4 grandfather and young boy brushing teeth, 5 couple on a
+  train/ferry holding overhead straps, 6 couple cooking/serving hot
+  pot, 7 two women making music (hairdryer microphone + guitar),
+  8 couple making a bed, 9 mother and young son waiting at an
+  airport, 10 couple grocery shopping, 11 group of 4 friends taking
+  a café selfie, 12 couple face-to-face on a street, 13 couple on a
+  sofa (woman applying a face mask to the man). Set order
+  (photo-page fbids): 122163399975032634, 122163400665032634,
+  122163400251032634, 122163400851032634, 122163400449032634,
+  122163399987032634, 122163400275032634, 122163400761032634,
+  122163400557032634, 122163399957032634, 122163401115032634,
+  122163400935032634, 122163400173032634. (The downloaded files were
+  verified at 1086×1448 with distinct md5s, and spot-checked images
+  confirmed each file's subject matches the reported set order. Note:
+  as with the Nov 18 deadpan set, the download filenames carry
+  slightly different middle segments from these photo-page fbids —
+  the file segments look like CDN image IDs, not the photo-page
+  fbids recorded here.)
+- **Filed as its OWN entry**, not folded into
+  `deadpan-chibi-doodle` (Nov 18): a new post, a new set, and a
+  materially different prompt — this one auto-detects every person
+  and visible pet in a group photo and preserves subject count,
+  left-to-right order, relative heights and interactions, with
+  60–70% clean negative space (vs 60–75% in the single-person
+  prompt).
+- **Sample note:** the five sample outputs are full-frame deadpan
+  chibi-group treatments (per the repo's standing sample rule),
+  not split posters; no title text was added. The concert-stage
+  sample shows the multi-person aspect best (three chibi
+  performers in order with a doodled crowd).
+- **Not new:** the Nov 18 ~3:10 AM "Sunset × watercolor" reel is a
+  re-share of the already-archived Nov 10 `watercolor-risograph`
+  set (its first comment links to the original Nov 10 post
+  `pcb.122161605801032634`, "ABSTRACT WATERCOLOR × BOLD RISOGRAPH
+  EDITORIAL V3.0") — already recorded in the deadpan-chibi-doodle
+  entry above; nothing downloaded from it.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

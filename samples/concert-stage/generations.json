@@ -665,6 +665,15 @@
       "output": "deadpan-chibi-doodle.webp",
       "prompt_slug": "deadpan-chibi-doodle",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-19T08:15:19-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame deadpan chibi-group transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the chibi-doodle treatment only, as a standalone full image): concert stage redrawn with three tiny deadpan chibi performers in order and a doodled crowd on a cream ground.",
+      "output": "deadpan-chibi-group.webp",
+      "prompt_slug": "deadpan-chibi-group",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
