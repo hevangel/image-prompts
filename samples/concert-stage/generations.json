@@ -674,6 +674,15 @@
       "output": "deadpan-chibi-group.webp",
       "prompt_slug": "deadpan-chibi-group",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-20T08:11:37-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame deadpan film-strip transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the film-strip chibi treatment only, as a standalone full image): concert stage redrawn as a 7-frame film strip — three tiny deadpan chibi performers in the full-colour centre frame, deadpan speakers and microphones fading to grey at the sides.",
+      "output": "deadpan-film-strip.webp",
+      "prompt_slug": "deadpan-film-strip",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

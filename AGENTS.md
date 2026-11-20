@@ -2867,6 +2867,86 @@ by set ID / reel ID before counting a post as new.
   EDITORIAL V3.0") — already recorded in the deadpan-chibi-doodle
   entry above; nothing downloaded from it.
 
+### deadpan-film-strip — Emerson post (fetched 2026-11-20 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Original Photography × Deadpan Chibi Film Strip ·
+  厭世手繪風格 · 死魚眼Q版 · 萬物擬人化 · 復古底片, photo set
+  posted **Nov 20, 2026, about 04:50 AM**, the first post newer
+  than the Nov 19 deadpan-chibi-group entry. Caught by the
+  daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid01HASpE5cz6hyo1JzNXJfW7AiD6nZsmwKvJZLAPibSCCPTsATpAxpAiaumevscCsCl&id=61580979040009
+  — set ID `pcb.122163608379032634`; entry photo
+  https://www.facebook.com/photo/?fbid=122163606453032634&set=pcb.122163608379032634.
+  The full prompt is in the post body (under "✏️ GPT指令") and a
+  shorter condensed variant of the same prompt is in the author's
+  first comment (Fri Nov 20, 2026 at 4:57 AM). The post gives 3
+  steps (upload a favourite photo — a life photo, a group photo, a
+  pet photo, or a scene with interesting objects; copy the prompt
+  below; generate a poster) and a tip: check the most interesting
+  deadpan object afterwards, and ask the AI to fine-tune if the
+  person count, object shapes or film-frame count drift. Example
+  photos credited to Pexels in the post. Observed at fetch time:
+  63 reactions, 1 comment, 3 shares.
+  `reference/deadpan-film-strip/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/1147412760993882
+  (0:16, posted Nov 20, 2026, about 05:50 AM; music "Bunnyvibes
+  official · Pretzel"; 30 reactions, 2 comments, 0 shares at
+  fetch time) — frame-checked across two autoplay passes and
+  paused seeks: it is a slideshow of the set posters, about 2
+  seconds per poster; all 8 set photos are accounted for. No
+  set-external example. The reel offers no download, so nothing
+  extra was archived from it. The reel carries the same caption
+  and prompt as the set post — it is this style's companion reel,
+  not a separate entry (it is a prompt post in its own right but
+  reel-only, so per the set-only rule it is not filed separately).
+- **Images:** exactly **8** (viewer cycle: stepping Next from photo
+  8 returned to photo 1; the feed's "+4 remaining items" label
+  suggested 9 — the cycle is authoritative), three at 1086×1448
+  and five at 864×1152 (the highest rendition the viewer serves
+  for each photo); saved as
+  `reference/deadpan-film-strip/post-01.jpg` … `post-08.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, a single horizontal retro film strip below
+  on a clean near-white ground, with no printed poster title or
+  text. Subjects, in set order: 1 couple at a café window (6-frame
+  strip), 2 woman preparing nigiri/sushi (7 frames), 3 woman
+  holding a corgi before a foggy Golden Gate Bridge (5 frames),
+  4 woman slumped over a table (7 frames), 5 two café workers
+  behind an "Order here" counter (9 frames), 6 man in a suit
+  drinking coffee by a fountain (7 frames), 7 woman with a headset
+  typing on a laptop (7 frames), 8 giant blue-whale kite and a
+  Shin-chan kite over a park (7 frames). Set order
+  (photo-page fbids): 122163606453032634, 122163607299032634,
+  122163605793032634, 122163606333032634, 122163605583032634,
+  122163605505032634, 122163605493032634, 122163605913032634.
+  (The downloaded files were verified at their served sizes with
+  distinct md5s, and spot-checked images confirmed each file's
+  subject matches the reported set order. Note: as with the Nov 18
+  and Nov 19 deadpan sets, the download filenames carry slightly
+  different middle segments from these photo-page fbids — the file
+  segments look like CDN image IDs, not the photo-page fbids
+  recorded here.)
+- **Filed as its OWN entry**, not folded into
+  `deadpan-chibi-group` (Nov 19): a new post, a new set, and a
+  materially different prompt — this one personifies the photo's
+  recognizable objects too, each in its own film-strip frame,
+  with the centre protagonist in full colour fading toward the
+  sides (vs the Nov 19 prompt's free-floating chibi group on a
+  plain ground).
+- **Sample note:** the five sample outputs are full-frame deadpan
+  film-strip treatments (per the repo's standing sample rule),
+  not split posters; no title text was added. The concert-stage
+  sample shows the multi-person aspect best (three chibi
+  performers in the full-colour centre frame, deadpan speakers
+  and microphones fading to grey at the sides).
+- **Feed-gap check:** profile feed order top to bottom — Nov 20
+  reel (companion, above), this photo set, Nov 19 reel
+  (29227265543598466), Nov 19 deadpan-chibi-group set, Nov 18
+  video. No other Nov 20 photo-set prompt post between this set
+  and the Nov 19 deadpan-chibi-group set.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

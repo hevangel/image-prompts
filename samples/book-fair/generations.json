@@ -2485,6 +2485,15 @@
       "output": "deadpan-chibi-group.webp",
       "prompt_slug": "deadpan-chibi-group",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-20T08:11:30-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame deadpan film-strip transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the film-strip chibi treatment only, as a standalone full image): book-fair table redrawn as a 9-frame film strip of tiny deadpan chibi books, centre book in full colour, the rest fading to pale grey.",
+      "output": "deadpan-film-strip.webp",
+      "prompt_slug": "deadpan-film-strip",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
