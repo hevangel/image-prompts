@@ -2947,6 +2947,84 @@ by set ID / reel ID before counting a post as new.
   video. No other Nov 20 photo-set prompt post between this set
   and the Nov 19 deadpan-chibi-group set.
 
+### crayon-little-world — Emerson post (fetched 2026-11-21 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Original Photography × Crayon Little World — Deadpan
+  Chibi Edition · 厭世 Q 版蠟筆小世界, photo set posted **Nov 21,
+  2026** (the author's first comment is timestamped Nov 21, 2026,
+  3:11 AM), the first post newer than the Nov 20 deadpan-film-strip
+  entry. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02viscvtKZWbap5VoTcQZtMFYcVx1ogJbpVSL1F2jDF8eHFMjSYqcQjKGiH8UQoN2hl&id=61580979040009
+  — set ID `pcb.122163913311032634`; entry photo
+  https://www.facebook.com/photo/?fbid=122163910821032634&set=pcb.122163913311032634.
+  The full prompt is in the post body (under "👇 GPT指令") and a
+  shorter condensed variant of the same prompt is in the author's
+  first comment. The post gives 3 steps (upload a photo you like;
+  copy the GPT prompt below and paste it in; wait for generation,
+  and see what the people, pets or scenery in the photo become)
+  and invites readers to post their finished work in the comments.
+  Example photos credited to Pexels in the post. Observed at fetch
+  time: 68 reactions, 4 comments, 10 shares.
+  `reference/crayon-little-world/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** none found — the set is the top post on the
+  profile and nothing sits above it; the post immediately below it
+  is the Nov 20 deadpan-film-strip reel, a different,
+  already-archived style; the Reels tab's top entries are the
+  Nov 20, Nov 19 and Nov 18 reels, with no crayon-style tile. No
+  reel frames to check, so there are no set-external examples.
+- **Images:** exactly **10** (viewer cycle: stepping Next from photo
+  10 returned to photo 1), all 1086×1448 (the highest rendition the
+  viewer serves for this set), saved as
+  `reference/crayon-little-world/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, a crayon illustration below on warm ivory
+  paper, with one short handwritten Traditional Chinese slogan in
+  the bottom half. Subjects with their printed slogans, in set
+  order: 1 woman in light-blue pajamas with a dark-blue pillow
+  balanced on her head ("再撐一下，也許等一下就會比較清醒。"),
+  2 woman in a bathrobe reaching for an alarm clock ("再等一下，
+  應該還能多睡兩分鐘。"), 3 tangled wired earphones and a
+  smartphone ("只是想聽個歌，卻先解開一團人生。"), 4 man with a
+  guinea pig perched on his head ("頭上多了一位不太想下來的小室
+  友。"), 5 tabby cat amid clutter ("在一堆雜物中，我還是坐得很有
+  架式。"), 6 bearded man in snow giving a thumbs-up ("雲還沒散，
+  那就先在這裡站一下吧。"), 7 golden retriever in an Elizabethan
+  cone ("脖子多了一圈，休息的理由也更充分了。"), 8 woman packing
+  two suitcases ("再一下下…我快準備好了…。"), 9 piglets in a muddy
+  pen ("排隊曬一點不太認真的太陽。"), 10 woman crouching on
+  pavement with dropped papers ("才撿起一份，又發現下一份落在地
+  上。"). Set order (photo-page fbids): 122163910821032634,
+  122163910839032634, 122163910881032634, 122163911313032634,
+  122163910917032634, 122163910779032634, 122163910803032634,
+  122163911325032634, 122163911421032634, 122163911619032634.
+  (The downloaded files were verified at 1086×1448 with distinct
+  md5s, and a contact sheet confirmed each file's subject matches
+  the reported set order. Note: as with the Nov 18–20 deadpan sets,
+  the download filenames carry slightly different middle segments
+  from these photo-page fbids — the file segments look like CDN
+  image IDs, not the photo-page fbids recorded here.)
+- **Filed as its OWN entry**, not folded into
+  `deadpan-chibi-doodle` (Nov 18), `deadpan-chibi-group` (Nov 19)
+  or `deadpan-film-strip` (Nov 20): the fourth entry in the deadpan
+  chibi family, and the first to change the drawing medium rather
+  than the cast — one large pale pastel crayon silhouette, thick
+  rough wax-crayon lines, crooked outlines, one enlarged object
+  and a deadpan slogan, instead of a doodle, a group cast or a
+  film strip. It is likewise distinct from `crayon-hand-drawn`
+  (Nov 15, a loose childhood crayon and colored-pencil drawing
+  filling the lower half with "ORIGINAL" / "STYLIZED" labels and
+  no silhouette, no enlarged object, no slogan).
+- **Sample note:** the five sample outputs are full-frame crayon
+  little world treatments (per the repo's standing sample rule),
+  not split posters; no title text was added. The concert-stage
+  sample shows the multi-person aspect best (three deadpan chibi
+  performers with an enlarged red microphone inside a large pale
+  pink silhouette). The catalog now stands at **80 prompts, 782
+  reference images**, with 5 new sample outputs for this entry
+  (391 total sample outputs across the six sample inputs).
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

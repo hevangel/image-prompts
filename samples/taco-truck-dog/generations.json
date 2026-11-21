@@ -692,6 +692,15 @@
       "output": "deadpan-film-strip.webp",
       "prompt_slug": "deadpan-film-strip",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-21T08:09:33-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame crayon little world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the crayon chibi treatment only, as a standalone full image): taco truck and dog redrawn as a large black-crayon dog silhouette holding the red taco truck, a deadpan chibi figure and a sombrero cactus.",
+      "output": "crayon-little-world.webp",
+      "prompt_slug": "crayon-little-world",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

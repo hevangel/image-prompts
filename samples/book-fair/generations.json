@@ -2494,6 +2494,15 @@
       "output": "deadpan-film-strip.webp",
       "prompt_slug": "deadpan-film-strip",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-21T08:09:33-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame crayon little world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the crayon chibi treatment only, as a standalone full image): book fair redrawn as four deadpan chibi figures around a round pink table of book stacks inside a large pale pink silhouette, with an enlarged orange pumpkin book and a blank red cloud sign.",
+      "output": "crayon-little-world.webp",
+      "prompt_slug": "crayon-little-world",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
