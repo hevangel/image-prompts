@@ -2968,12 +2968,12 @@ by set ID / reel ID before counting a post as new.
   time: 68 reactions, 4 comments, 10 shares.
   `reference/crayon-little-world/prompt.md` keeps a structural
   summary plus an English translation of the introduction.
-- **Companion reel:** none found — the set is the top post on the
-  profile and nothing sits above it; the post immediately below it
-  is the Nov 20 deadpan-film-strip reel, a different,
-  already-archived style; the Reels tab's top entries are the
-  Nov 20, Nov 19 and Nov 18 reels, with no crayon-style tile. No
-  reel frames to check, so there are no set-external examples.
+- **Companion reel:** https://www.facebook.com/reel/1299684908984232
+  (0:20, music "M.Sasuke · with you?"), posted the evening of Nov 21,
+  2026 — after the set was archived, so the Nov 21 fetch recorded no
+  reel. Frame-checked 2026-11-22 (daily-update run): all 10 set
+  posters appear exactly once, shuffled in order 1, 2, 8, 10, 4, 3, 6,
+  7, 5, 9; no set-external example, nothing extra to download.
 - **Images:** exactly **10** (viewer cycle: stepping Next from photo
   10 returned to photo 1), all 1086×1448 (the highest rendition the
   viewer serves for this set), saved as
