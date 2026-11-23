@@ -692,6 +692,15 @@
       "output": "crayon-little-world.webp",
       "prompt_slug": "crayon-little-world",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-23T08:18:02-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame retro geometric deadpan chibi transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the geometric chibi treatment only, as a standalone full image): concert stage redrawn as three deadpan chibi performers with microphones on an orange stage inside a large pale silhouette, with small orange geometric confetti.",
+      "output": "retro-geometric-chibi.webp",
+      "prompt_slug": "retro-geometric-chibi",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

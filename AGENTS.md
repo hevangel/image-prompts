@@ -3025,6 +3025,120 @@ by set ID / reel ID before counting a post as new.
   reference images**, with 5 new sample outputs for this entry
   (391 total sample outputs across the six sample inputs).
 
+### retro-geometric-chibi — Emerson post (fetched 2026-11-23 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Crayon Little World V1.3 — Retro Geometric Deadpan
+  Chibi Edition · 復古幾何蠟筆小人 / 厭世 Q 版, photo set posted
+  **Nov 23, 2026** (the author's first comment is timestamped Nov 23,
+  2026, 1:21 AM), the first post newer than the Nov 21
+  crayon-little-world entry. No post dated Nov 22, 2026 exists on the
+  profile — the timeline runs Nov 23 (this set, then the roundup
+  below), Nov 21, Nov 20. Caught by the daily-update routine.
+- **Photo post:** https://www.facebook.com/photo/?fbid=122164177653032634&set=pcb.122164179615032634
+  — set ID `pcb.122164179615032634`; entry photo fbid
+  `122164177653032634`. The full prompt is in the post body (under
+  "完整指令") and a shorter condensed variant of the same prompt is
+  in the author's first comment (under "GPT指令："). The post gives
+  3 steps (open an image-generation AI tool such as ChatGPT; upload a
+  photo to transform; copy the prompt below and paste it to
+  generate), a tip (if the face comes out too normal, emphasise
+  "不對稱的幾何拼貼五官" and "半瞇眼的厭世表情"), and invites
+  readers to post their finished work in the comments. Example photos
+  credited to Pexels in the post. Hashtags: #AI繪圖 #AI照片創作
+  #蠟筆插畫 #幾何拼貼 #厭世小人 #照片變藝術 #EmersonPost. Observed
+  at fetch time: 64 reactions, 9 comments, 13 shares.
+  `reference/retro-geometric-chibi/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/1859087951905675
+  (0:20, audio "TheSoul Music · Cartoon animation"), posted ~1:33 AM
+  Nov 23, 2026. Frame-checked 2026-11-23: all 10 set posters appear
+  exactly once, shuffled in order 1, 5, 2, 10, 4, 6, 3, 8, 7, 9; no
+  set-external example, nothing extra to download. (The pug on a mat
+  is set photo #3, not reel-only.)
+- **Images:** exactly **10** (viewer cycle: stepping Next from photo
+  10 returned to photo 1), all 1086×1448 (the highest rendition the
+  viewer serves for this set), saved as
+  `reference/retro-geometric-chibi/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, a retro geometric crayon chibi illustration
+  below on warm ivory paper, with one short handwritten Traditional
+  Chinese micro-poem in the bottom half. Subjects with their printed
+  slogans, in set order: 1 woman on a video call with a laptop
+  ("隔著螢幕，也能把日常聊得很近。"), 2 three framed vintage
+  black-and-white photos of women ("舊照片裡的人，好像也有點不想努
+  力。"), 3 pug on a colourful striped mat ("躺著發呆，也是一種認真
+  工作。"), 4 young couple on grass at dusk ("並肩看著遠方，好像什
+  麼都不說，也已經很靠近。"), 5 young woman with long curly hair in
+  a black dress by a wooden door ("捲起來的日子，也有自己的節奏。"),
+  6 discarded black leather armchair in tall grass ("被留下的椅子，
+  也只是換個地方發呆。" — the chair itself is given a face, half-closed
+  eyes and a triangular nose, even though the prompt says to avoid
+  facial features on inanimate objects), 7 older woman and young girl
+  knitting together ("一針一線，把平凡的日常織得更暖。"), 8 two
+  young women friends taking a selfie ("不同的我們，也能並肩走很
+  遠。"), 9 rural roadside with a wooden utility pole ("路邊的電線，
+  依然忙著不知道什麼。" — the pole has no face; only its lamp glows),
+  10 lop-eared grey-white rabbit on grass ("抬頭發呆，也是一種重要行
+  程。"). Set order (photo-page fbids): 122164177653032634,
+  122164177119032634, 122164177587032634, 122164177359032634,
+  122164177743032634, 122164177161032634, 122164177419032634,
+  122164177431032634, 122164177179032634, 122164177671032634.
+  (The downloaded files were verified at 1086×1448 with distinct
+  md5s, and a contact sheet confirmed each file's subject matches
+  the reported set order. Note: as with the Nov 18–21 deadpan sets,
+  the download filenames carry slightly different middle segments
+  from these photo-page fbids — the file segments look like CDN
+  image IDs, not the photo-page fbids recorded here.)
+- **Filed as its OWN entry**, not folded into
+  `crayon-little-world` (Nov 21): the fifth entry in the deadpan
+  chibi family and an explicit V1.3 of that style — same split-poster
+  layout, same pale silhouette, same enlarged object and deadpan
+  slogan, but the chibi characters are now built from irregular
+  geometric paper-cut pieces (misaligned half-closed eyes, crooked
+  brows, offset triangular noses) instead of plain crayon strokes.
+  It is likewise distinct from `crayon-hand-drawn` (Nov 15, a loose
+  childhood crayon and colored-pencil drawing filling the lower half
+  with "ORIGINAL" / "STYLIZED" labels and no silhouette, no enlarged
+  object, no slogan).
+- **Sample note:** the five sample outputs are full-frame retro
+  geometric chibi treatments (per the repo's standing sample rule),
+  not split posters; no title text was added. Two first attempts
+  were rejected and deleted (book-fair: a red sign came out with
+  scribbled pseudo-lettering; millennium-falcon: the frame bottom
+  came out as two empty drawer-like panels, one labelled "UM235");
+  both retakes are clean and registered as current, with the failures
+  kept as `current: false` entries in their generations.json. The
+  catalog now stands at **81 prompts, 792 reference images**, with
+  5 new sample outputs for this entry (396 total sample outputs
+  across the six sample inputs).
+
+### Roundup post — 五款照片風格指令懶人包 (noted 2026-11-23, not filed as an entry)
+
+- **Post:** photo set posted **Nov 23, 2026** (~3:21 AM; author's
+  comment timestamped Nov 23, 2026, 3:21 AM), set ID
+  `pcb.122164195839032634`, first photo
+  https://www.facebook.com/photo/?fbid=122164195755032634&set=pcb.122164195839032634.
+  Observed: 98–99 reactions, 1 comment, 18 shares. The post
+  presents the 5 most popular photo-translation styles so far, ranked
+  by views, so readers don't have to search post by post; the #1
+  style is 磨砂玻璃. The full prompt for each style is in that
+  photo's caption, not in the post body; the author's comment links
+  a free downloadable "SKILL 懶人包" (portaly.cc/Emersonpost) for use
+  with ChatGPT.
+- **The 5 styles, in set order, are all already archived** — no new
+  entry was filed for this roundup: (a) 視覺越界 (`out-of-frame`,
+  "AFTER RAIN"), (b) 磨砂玻璃 (`frosted-glass`, "CITY CONTRAST"),
+  (c) 不對稱放大 (`asymmetric-enlargement`, "JUST SHOOT"), (d)
+  復古極簡插畫 (`clean-illustration`, "STREET KITCHEN" No. 09),
+  (e) 安靜線條 — the fifth photo is the **already-archived
+  `fine-line-poster` post-01** (Hualien coastal road meeting the sea,
+  handwritten phrase 「前方是海，再等一下，就出發。」), re-presented
+  under the roundup's label 安靜線條. Verified by exact subject +
+  phrase match against `reference/fine-line-poster/prompt.md`; the
+  caption's prompt text is the fine-line-poster prompt. Do not file
+  安靜線條 as a separate entry.
+
 ### Loop completion survey (2026-10-23, batch 17)
 
 The browser surveyed the rest of the profile to its oldest posts

@@ -1808,6 +1808,24 @@
       "output": "crayon-little-world.webp",
       "prompt_slug": "crayon-little-world",
       "tokens_used": null
+    },
+    {
+      "current": false,
+      "generated_at": "2026-11-23T08:18:12-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "First attempt: the bottom of the frame came out as two empty drawer-like panels, one labelled 'UM235' — added panels and text, against the full-frame/no-text rule. File deleted after review; retake registered below.",
+      "output": null,
+      "prompt_slug": "retro-geometric-chibi",
+      "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-23T08:19:56-08:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame retro geometric deadpan chibi transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the geometric chibi treatment only, as a standalone full image): Millennium Falcon redrawn in grey geometric crayon with tiny deadpan chibi figures aboard and an autumn tree, inside a large pale silhouette.",
+      "output": "retro-geometric-chibi.webp",
+      "prompt_slug": "retro-geometric-chibi",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
