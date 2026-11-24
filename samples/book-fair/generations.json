@@ -2521,6 +2521,15 @@
       "output": "retro-geometric-chibi.webp",
       "prompt_slug": "retro-geometric-chibi",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-24T09:21:00-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame weary newspaper small world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the newspaper-collage chibi treatment only, as a standalone full image): four children at a book-fair table redrawn as torn yellowed-newspaper collage chibis with half-closed eyes on warm off-white paper.",
+      "output": "weary-newspaper-world.webp",
+      "prompt_slug": "weary-newspaper-world",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"

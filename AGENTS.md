@@ -3113,6 +3113,76 @@ by set ID / reel ID before counting a post as new.
   5 new sample outputs for this entry (396 total sample outputs
   across the six sample inputs).
 
+### weary-newspaper-world — Emerson post (fetched 2026-11-24 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Weary Newspaper Small World · 厭世報紙小世界, photo set
+  posted **Nov 24, 2026, 5:18 AM** (the author's first comment is
+  timestamped Nov 24, 2026, 5:18 AM), the first post newer than the
+  Nov 23 retro-geometric-chibi entry. No post dated Nov 22, 2026
+  exists on the profile — the timeline runs Nov 24 (this set, then
+  its companion reel), Nov 23, Nov 21. Caught by the daily-update
+  routine.
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02jQQx4ponGzFvgs7gUzKW2taR6HBqjVmHPSq9N8ozUrsZnR36mh49FTzh3DsgqoYul&id=61580979040009
+  — set ID `pcb.122164506723032634`; entry photo fbid
+  `122164505349032634`. The full prompt is in the post body (under
+  "📌完整GPT指令") and a shorter condensed variant of the same
+  prompt is in the author's first comment (under "📌GPT指令"). The
+  post gives 3 steps (open ChatGPT, upload a photo; copy the full
+  prompt below; send it to generate your weary little paper person)
+  and invites readers to share their finished work in the comments.
+  Example photos credited to Pexels in the post. Hashtags: #照片與AI
+  #AI創意玩法 #AI繪圖 #厭世小世界 #厭世報紙小世界 #復古拼貼
+  #ChatGPT. Observed at fetch time: 51 reactions, 2 comments,
+  8 shares. `reference/weary-newspaper-world/prompt.md` keeps a
+  structural summary plus an English translation of the
+  introduction. The post's only other comment is by a follower
+  sharing their own "HAPPY LITTLE NEWSPAPER CAT" variant prompt —
+  not the author's prompt, not archived.
+- **Companion reel:** https://www.facebook.com/reel/1521615966473233
+  (about 0:17–0:20, audio "hinming · Offline"), posted ~5:32 AM
+  Nov 24, 2026. Frame-checked 2026-11-24: sampled frames show set
+  posters 1, 5, 6, 7, 9 and 10; posters 2, 3, 4 and 8 were not
+  isolated in individual frames but fall between the sampled frames,
+  and the reel's length leaves no room for extra examples beyond the
+  10 posters. No set-external example, nothing extra to download.
+- **Images:** exactly **10** (viewer cycle: stepping Next from photo
+  10 returned to photo 1), all 1086×1448 (the highest rendition the
+  viewer serves for this set), saved as
+  `reference/weary-newspaper-world/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, a yellowed-newspaper-collage chibi illustration
+  below on warm off-white paper, with one short handwritten
+  Traditional Chinese micro-poem in the bottom half. Subjects with
+  their printed slogans, in set order: 1 woman on a phone call by a
+  coastal roadside glass wall ("一通電話，把煩惱說出去，風好像也輕一
+  點。"), 2 man in a video meeting at a desk ("開著會，裝著專心，心
+  早已放空去旅行。"), 3 grey-haired man queuing at a street
+  newsstand ("排隊的時間，不只等一件事，也順便等一下人生，"), 4
+  woman with a black-and-white umbrella ("天氣說變就變，人生也是，
+  還好我有一把傘和一點點耐心。"), 5 woman carrying a crate stacked
+  high with baguettes ("生活像這盤麵包，越扛越高，但還是要向前
+  走。"), 6 bearded man drinking coffee and reading a newspaper
+  ("一杯咖啡，一張報紙，把世界先放一放。"), 7 woman watering
+  potted plants ("澆澆花、噴噴水，它們會長大，我也許會更有耐心
+  吧。"), 8 woman on a train-station bench ("等的不是車，是下一個
+  比較不累的自己。"), 9 old Japanese sake shopfront ("老店還在，人
+  也還在，只是腳步慢了點。" — the chibi half adds a weary
+  shopkeeper boy and a sleeping cat not present in the top photo),
+  10 dark sheep in a grassy field ("不想加班，只想吃草，當一隻慢羊
+  羊。"). Set order (photo-page fbids): 122164505349032634,
+  122164506039032634, 122164505553032634, 122164505343032634,
+  122164505367032634, 122164505541032634, 122164505589032634,
+  122164505775032634, 122164505829032634, 122164505865032634.
+- **Sample note:** the five sample outputs are full-frame weary
+  newspaper collage treatments (per the repo's standing sample
+  rule), not split posters; no title text was added. All five
+  passed frame-check on first attempt (taco-truck-dog keeps the
+  truck's own garbled "TACOSAURUS VANCOUVER" lettering from the
+  input photo). The catalog now stands at **82 prompts, 802
+  reference images**, with 5 new sample outputs for this entry (401
+  total sample outputs across the six sample inputs).
+
 ### Roundup post — 五款照片風格指令懶人包 (noted 2026-11-23, not filed as an entry)
 
 - **Post:** photo set posted **Nov 23, 2026** (~3:21 AM; author's
