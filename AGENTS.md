@@ -3183,6 +3183,63 @@ by set ID / reel ID before counting a post as new.
   reference images**, with 5 new sample outputs for this entry (401
   total sample outputs across the six sample inputs).
 
+### flat-geometric-figures — Emerson post (fetched 2026-11-25 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Flat Geometric Figures · 扁平幾何人物 — photo
+  **⑥ of the Nov 25, 2026 second roundup** ("五款照片生圖懶人包｜
+  第二輯", styles #6–10), the first post newer than the Nov 24
+  weary-newspaper-world entry. Caught by the daily-update routine.
+  The roundup post is the style's only known posting: no
+  individual set or reel for this style was found (the feed above
+  the Nov 24 pair holds only this roundup; the Nov 18–24 daily
+  runs caught no such posting), and the photo caption carries no
+  link to an original post.
+- **Roundup post:** https://www.facebook.com/permalink.php?story_fbid=pfbid04k7VnsVJRdFNgUqrH9iYABk5qqeTmVZ2DPKcjiV1YzcYVshtcAGXcjjwMqRKwmWwl&id=61580979040009
+  — set ID `pcb.122164797153032634`; **87 reactions / 3 comments /
+  16 shares** (as displayed Nov 25, 2026, 9:02 AM; author's first
+  comment timestamped Nov 25, 2026, 3:34 AM, linking a free
+  downloadable SKILL pack at portaly.cc/Emersonpost — not
+  downloaded). The full prompt for this style is in photo ⑥'s
+  caption (fbid `122164797087032634`); the photo caption has no
+  Chinese introduction beyond the title. No companion reel for
+  the roundup post was seen.
+  `reference/flat-geometric-figures/prompt.md` keeps a structural
+  summary plus an English translation of the roundup post's
+  opening line.
+- **Images:** **1** — the roundup's single photo for this style,
+  saved as `reference/flat-geometric-figures/post-01.jpg` at
+  1086×1448 (the highest rendition the viewer serves). Top half:
+  a woman in profile, dark wavy hair, rust-brown knit sweater,
+  looking at a low sun over a sunset cityscape. Bottom half: the
+  same pose as a flat geometric illustration — small head,
+  elongated body, closed crescent eye, faceted rust-orange
+  sweater, a large orange-red sun disc as the oversized prop, and
+  geometric city blocks in cream, black, cobalt blue and
+  red-orange on warm off-white paper with print grain. No title
+  or text in the image. The other four roundup photos were not
+  downloaded (see the roundup note below).
+- **Filed as its OWN entry**, not folded into
+  `retro-geometric-art` (Nov 17): both use flat geometry and a
+  Bauhaus reference, but this style rebuilds one adult character
+  — small head, elongated capsule limbs, mitten hands, one
+  oversized prop — in a FIXED six-colour palette (warm off-white
+  #F3F1EB, near-black #10100F, hot pink #F553D2, warm red #F42726,
+  cobalt #293EA1, emerald #13785D), while retro-geometric-art
+  rebuilds the whole scene from Bauhaus shapes in two colours
+  drawn from the photo, with vintage film grain. Also distinct
+  from `geometric-poster` (exhibition poster with a title and
+  year) and `retro-geometric-chibi` (crayon chibi figures).
+- **Sample note:** the five sample outputs are full-frame flat
+  geometric figures treatments (per the repo's standing sample
+  rule), not split posters; no title text was added. All five
+  passed frame-check on first attempt. The catalog now stands at
+  **83 prompts, 803 reference images**, with 5 new sample outputs
+  for this entry (406 total sample outputs across the six sample
+  inputs).
+
+### Roundup post — 五款照片生圖懶人包｜第二輯 (noted 2026-11-25; one style filed, four repeats)
+
 ### Roundup post — 五款照片風格指令懶人包 (noted 2026-11-23, not filed as an entry)
 
 - **Post:** photo set posted **Nov 23, 2026** (~3:21 AM; author's
@@ -3208,6 +3265,39 @@ by set ID / reel ID before counting a post as new.
   phrase match against `reference/fine-line-poster/prompt.md`; the
   caption's prompt text is the fine-line-poster prompt. Do not file
   安靜線條 as a separate entry.
+
+### Roundup post — 五款照片生圖懶人包｜第二輯 (noted 2026-11-25; one style filed, four repeats)
+
+- **Post:** photo set posted **Nov 25, 2026** (~3:34 AM; author's
+  first comment timestamped Nov 25, 2026, 3:34 AM), set ID
+  `pcb.122164797153032634`, first photo
+  https://www.facebook.com/photo/?fbid=122164797081032634&set=pcb.122164797153032634.
+  Observed: 87 reactions, 3 comments, 16 shares (Nov 25, 2026,
+  9:02 AM). The post presents the #6–10 most-viewed photo
+  transformation styles as a second collection, following the
+  Nov 23 roundup's #1–5; the full prompt for each style is in
+  that photo's caption, not in the post body; the author's first
+  comment links a free downloadable "SKILL 懶人包｜第二輯"
+  (portaly.cc/Emersonpost).
+- **The 5 styles, in set order:** ⑥ 扁平幾何人物 is filed as its
+  OWN entry (`flat-geometric-figures` — see above; its only known
+  posting is this roundup). The other four are re-presentations
+  of already-archived styles — no new entry was filed for them:
+  (a) ⑦ 留白小插畫 is `white-space-illustration` (Oct 31, 2026),
+  a different example (elderly woman with a transparent umbrella
+  on a blue bench in a rainy seaside bus shelter, "Somewhere by
+  the Sea"); (b) ⑧ 明亮色塊插畫 is `bright-illustration`
+  (Oct 16, 2026), a different example (street-puddle reflection,
+  "AFTER THE RAIN" No. 12); (c) ⑨ 墨痕拓印 is `ink-rubbing`
+  (Sep 29, 2026), a different example (woman looking up,
+  「仰望」 "GAZE AT THE SKY"); (d) ⑩ 抽象水粉 is
+  `abstract-gouache` (Oct 27, 2026) — the SAME example (elderly
+  couple with yellow shared bikes), confirmed by the photo
+  caption's link to the original reel
+  (https://www.facebook.com/reel/2370054277063310). Only photo ⑩'s
+  caption links to an original post; photos ⑥–⑨ carry only the
+  style title and the prompt. No companion reel for this roundup
+  post was seen.
 
 ### Loop completion survey (2026-10-23, batch 17)
 

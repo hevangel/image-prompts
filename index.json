@@ -2,6 +2,19 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Flat Geometric Figures — 扁平幾何人物",
+      "name_original": "扁平幾何人物",
+      "prompt_file": "reference/flat-geometric-figures/prompt.md",
+      "reference_image": "reference/flat-geometric-figures/post-01.jpg",
+      "reference_images": [
+        "reference/flat-geometric-figures/post-01.jpg"
+      ],
+      "slug": "flat-geometric-figures",
+      "source_url": "https://www.facebook.com/photo/?fbid=122164797087032634&set=pcb.122164797153032634",
+      "summary": "Flat geometric figures: the photo's main subject becomes one adult character built from oversized asymmetric geometric shapes — small head, elongated capsule limbs, mitten hands, one oversized prop — in a fixed six-colour palette on warm off-white paper, with a crescent-eye cut-paper face. The source is one photo in the Nov 25 second roundup; that single example is archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Weary Newspaper Small World — 厭世報紙小世界",
       "name_original": "厭世報紙小世界",
       "prompt_file": "reference/weary-newspaper-world/prompt.md",
@@ -1813,6 +1826,7 @@
         "dynamic-field-print": "samples/howe-sound/dynamic-field-print.webp",
         "european-travel-film": "samples/howe-sound/european-travel-film.webp",
         "fine-line-poster": "samples/howe-sound/fine-line-poster.webp",
+        "flat-geometric-figures": "samples/howe-sound/flat-geometric-figures.webp",
         "flat-silhouette": "samples/howe-sound/flat-silhouette.webp",
         "fresh-illustration": "samples/howe-sound/fresh-illustration.webp",
         "frosted-glass": "samples/howe-sound/frosted-glass.webp",
@@ -1900,6 +1914,7 @@
         "dynamic-field-print": "samples/book-fair/dynamic-field-print.webp",
         "european-travel-film": "samples/book-fair/european-travel-film.webp",
         "fine-line-poster": "samples/book-fair/fine-line-poster.webp",
+        "flat-geometric-figures": "samples/book-fair/flat-geometric-figures.webp",
         "flat-silhouette": "samples/book-fair/flat-silhouette.webp",
         "fresh-illustration": "samples/book-fair/fresh-illustration.webp",
         "frosted-glass": "samples/book-fair/frosted-glass.webp",
@@ -1987,6 +2002,7 @@
         "dynamic-field-print": "samples/millennium-falcon/dynamic-field-print.webp",
         "european-travel-film": "samples/millennium-falcon/european-travel-film.webp",
         "fine-line-poster": "samples/millennium-falcon/fine-line-poster.webp",
+        "flat-geometric-figures": "samples/millennium-falcon/flat-geometric-figures.webp",
         "flat-silhouette": "samples/millennium-falcon/flat-silhouette.webp",
         "fresh-illustration": "samples/millennium-falcon/fresh-illustration.webp",
         "frosted-glass": "samples/millennium-falcon/frosted-glass.webp",
@@ -2074,6 +2090,7 @@
         "dynamic-field-print": "samples/concert-stage/dynamic-field-print.webp",
         "european-travel-film": "samples/concert-stage/european-travel-film.webp",
         "fine-line-poster": "samples/concert-stage/fine-line-poster.webp",
+        "flat-geometric-figures": "samples/concert-stage/flat-geometric-figures.webp",
         "flat-silhouette": "samples/concert-stage/flat-silhouette.webp",
         "fresh-illustration": "samples/concert-stage/fresh-illustration.webp",
         "frosted-glass": "samples/concert-stage/frosted-glass.webp",
@@ -2161,6 +2178,7 @@
         "dynamic-field-print": "samples/taco-truck-dog/dynamic-field-print.webp",
         "european-travel-film": "samples/taco-truck-dog/european-travel-film.webp",
         "fine-line-poster": "samples/taco-truck-dog/fine-line-poster.webp",
+        "flat-geometric-figures": "samples/taco-truck-dog/flat-geometric-figures.webp",
         "flat-silhouette": "samples/taco-truck-dog/flat-silhouette.webp",
         "fresh-illustration": "samples/taco-truck-dog/fresh-illustration.webp",
         "frosted-glass": "samples/taco-truck-dog/frosted-glass.webp",

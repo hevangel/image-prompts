@@ -710,6 +710,15 @@
       "output": "weary-newspaper-world.webp",
       "prompt_slug": "weary-newspaper-world",
       "tokens_used": null
+    },
+    {
+      "current": true,
+      "generated_at": "2026-11-25T09:08:44-07:00",
+      "model": "Muse Image (Meta)",
+      "notes": "Full-frame flat geometric figures transformation: singer with an oversized red microphone, small head with crescent eyes, mitten hand, six-colour palette, print grain and stippling, no split, no embedded original, no text.",
+      "output": "flat-geometric-figures.webp",
+      "prompt_slug": "flat-geometric-figures",
+      "tokens_used": null
     }
   ],
   "input": "input.jpg"
