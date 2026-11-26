@@ -3238,6 +3238,75 @@ by set ID / reel ID before counting a post as new.
   for this entry (406 total sample outputs across the six sample
   inputs).
 
+### weary-clay-world — Emerson post (fetched 2026-11-26 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Weary Clay World · 厭世的手作黏土小世界, photo set
+  posted **Nov 26, 2026** (author's pinned comment timestamped
+  Nov 26, 2026, 1:51 AM), the first post newer than the Nov 25
+  second-roundup entry. Caught by the daily-update routine. The
+  Nov 26 feed holds only this set and its companion reel, both on
+  this one style — one style, one entry (de-duplicated by set/reel
+  ID before counting).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid0dCTc7m25KYo1LWSNx25aUxWuYqXfcbAVGKmJ2nKJ4DEuqptpUPrv1AETggCc9dNwl&id=61580979040009
+  — set ID `pcb.122164980459032634`; entry photo fbid
+  `122164978827032634`. The full GPT prompt is in the author's
+  pinned comment ("GPT Prompt 放這裡，直接複製就能玩！"); the post
+  invites readers to try it with their own photo and share results
+  in the comments. Example photos credited to Pexels in the post.
+  Observed at fetch time: 145 reactions, 7 comments, 23 shares.
+  `reference/weary-clay-world/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/3209740515888055
+  (0:20, music E:um — "그때의 나는 지금의 나를 좋아할까"),
+  posted ~2:00 AM Nov 26, 2026. Frame-checked 2026-11-26: every
+  frame duplicates one of the 10 set posters (sampled: cinema,
+  snow/cat, puddle child, car polishing, fishing, swans, cable
+  cars, post box; cooking and takeout seen while playing); no
+  set-external example, nothing extra to download.
+- **Images:** exactly **10** (viewer cycle: stepping Next from
+  photo 10 returned to photo 1), all 1086×1448 (the highest
+  rendition the viewer serves for this set), saved as
+  `reference/weary-clay-world/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, a handmade-clay diorama below on warm
+  off-white paper, with one short handwritten Traditional Chinese
+  micro-poem in the clay half. Subjects with their printed
+  micro-poems, in set order: 1 cinema couple with popcorn
+  ("一桶爆米花，裝滿了電影，也裝滿了各自的心情。"), 2 woman
+  cooking with a cabbage ("在切菜的時候，也在整理有點亂的心。"),
+  3 elderly woman with a cat in a snowy village ("天氣很冷，有貓在
+  懷裡，就不算太孤單。"), 4 child in a rain puddle ("下過雨的路，
+  總會照出一個更安靜的自己。"), 5 man polishing a car ("把車子拋
+  得發亮，好像也順便把心情打磨了一下。"), 6 father and son with a
+  huge carp ("一尾大魚，兩代小漁夫，今天又是滿足的一天。"),
+  7 cable cars ("有時候，搭著纜車上山，心情也跟著慢下來。"),
+  8 red Japanese post box with a cat ("有些心事，寫不成信，就交給
+  郵筒吧。"), 9 two swans ("兩隻天鵝對看，大概都在想：今天也就這
+  樣吧。"), 10 man eating takeout at his desk ("工作可以先放一邊，
+  先把這碗吃完，生活才有力氣繼續。").
+- **Filed as its OWN entry**, not folded into
+  `weary-newspaper-world` (Nov 24): same "厭世小世界" family —
+  deadpan chibi figures, half-closed dead-fish eyes, one short
+  Traditional Chinese micro-poem per scene — but a different
+  material: this style rebuilds each scene as a miniature handmade
+  polymer-clay diorama (matte clay skin, oversized round head,
+  short limbs, "fish" eyes of white clay discs with tiny black
+  pupils), while weary-newspaper-world assembles its figures from
+  torn pieces of yellowed old newspaper.
+- **Sample note:** the five sample outputs (full-frame weary clay
+  world treatments, per the repo's standing sample rule, not split
+  posters, no title text) could NOT be generated on 2026-11-26:
+  the image-generation pipeline returned "upstream unavailable"
+  for both the howe-sound and book-fair attempts, so no sample
+  files were produced and none are registered in generations.json
+  or index.json yet. **Samples still to generate:** one
+  `weary-clay-world.webp` per scene sample (howe-sound,
+  book-fair, millennium-falcon, concert-stage, taco-truck-dog).
+  The catalog now stands at **84 prompts, 813 reference images**,
+  with 0 new sample outputs for this entry (406 total sample
+  outputs across the six sample inputs).
+
 ### Roundup post — 五款照片生圖懶人包｜第二輯 (noted 2026-11-25; one style filed, four repeats)
 
 ### Roundup post — 五款照片風格指令懶人包 (noted 2026-11-23, not filed as an entry)

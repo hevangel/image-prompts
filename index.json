@@ -2,6 +2,28 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Weary Clay World — 厭世的手作黏土小世界",
+      "name_original": "厭世的手作黏土小世界",
+      "prompt_file": "reference/weary-clay-world/prompt.md",
+      "reference_image": "reference/weary-clay-world/post-01.jpg",
+      "reference_images": [
+        "reference/weary-clay-world/post-01.jpg",
+        "reference/weary-clay-world/post-02.jpg",
+        "reference/weary-clay-world/post-03.jpg",
+        "reference/weary-clay-world/post-04.jpg",
+        "reference/weary-clay-world/post-05.jpg",
+        "reference/weary-clay-world/post-06.jpg",
+        "reference/weary-clay-world/post-07.jpg",
+        "reference/weary-clay-world/post-08.jpg",
+        "reference/weary-clay-world/post-09.jpg",
+        "reference/weary-clay-world/post-10.jpg"
+      ],
+      "slug": "weary-clay-world",
+      "source_url": "https://www.facebook.com/photo/?fbid=122164978827032634&set=pcb.122164980459032634",
+      "summary": "Weary clay world: the photo's subjects become deadpan chibi figures in a miniature handmade polymer-clay diorama — small body, oversized round head, half-lidded fish eyes of white clay discs, muted colours pulled from the photo — on a warm off-white ground with a short deadpan Traditional Chinese micro-poem. The source post shows 10 examples; all 10 are archived here."
+    },
+    {
+      "author": "Emerson post",
       "name": "Flat Geometric Figures — 扁平幾何人物",
       "name_original": "扁平幾何人物",
       "prompt_file": "reference/flat-geometric-figures/prompt.md",
