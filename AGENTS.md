@@ -3294,18 +3294,16 @@ by set ID / reel ID before counting a post as new.
   short limbs, "fish" eyes of white clay discs with tiny black
   pupils), while weary-newspaper-world assembles its figures from
   torn pieces of yellowed old newspaper.
-- **Sample note:** the five sample outputs (full-frame weary clay
-  world treatments, per the repo's standing sample rule, not split
-  posters, no title text) could NOT be generated on 2026-11-26:
-  the image-generation pipeline returned "upstream unavailable"
-  for both the howe-sound and book-fair attempts, so no sample
-  files were produced and none are registered in generations.json
-  or index.json yet. **Samples still to generate:** one
+- **Samples:** all five sample outputs were generated later the
+  same day (2026-11-26, 09:18 −07:00), once the pipeline was back:
+  full-frame weary clay world treatments (per the repo's standing
+  sample rule, not split posters, no title text), one
   `weary-clay-world.webp` per scene sample (howe-sound,
-  book-fair, millennium-falcon, concert-stage, taco-truck-dog).
-  The catalog now stands at **84 prompts, 813 reference images**,
-  with 0 new sample outputs for this entry (406 total sample
-  outputs across the six sample inputs).
+  book-fair, millennium-falcon, concert-stage, taco-truck-dog),
+  all accepted on the first attempt with no retakes. Registered in
+  each sample's `generations.json` and in `index.json`.
+  The catalog now stands at **84 prompts, 813 reference images,
+  411 sample outputs**.
 
 ### Roundup post — 五款照片生圖懶人包｜第二輯 (noted 2026-11-25; one style filed, four repeats)
 

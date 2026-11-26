@@ -45,14 +45,15 @@ The post's caption, translated: "If you knead everyday life into clay, even worl
 
 ## Samples in this repo
 
-- Sample outputs for this style are **pending** (Nov 26, 2026):
-  the image-generation pipeline was unavailable when this entry
-  was archived, so no outputs have been generated yet. When they
-  are, one full-frame output per sample photo will live in the
-  sample folders — `samples/howe-sound/`, `samples/book-fair/`,
-  `samples/millennium-falcon/`, `samples/concert-stage/` and
-  `samples/taco-truck-dog/` — one output file per folder, named
-  after this style. Note: our sample outputs are generated
-  **full-frame** — the site shows the original separately, on top
-  of the output. Generation details (model, timestamp, tokens)
-  are in each folder's `generations.json`.
+- Sample outputs for this style were generated on **Nov 26, 2026**
+  (09:18 −07:00), once the image-generation pipeline recovered
+  from its morning outage: one full-frame output per sample photo
+  lives in the sample folders — `samples/howe-sound/`,
+  `samples/book-fair/`, `samples/millennium-falcon/`,
+  `samples/concert-stage/` and `samples/taco-truck-dog/` — one
+  output file per folder, named after this style. All five were
+  accepted on the first attempt, with no retakes. Note: our sample
+  outputs are generated **full-frame** — the site shows the
+  original separately, on top of the output. Generation details
+  (model, timestamp, tokens) are in each folder's
+  `generations.json`.

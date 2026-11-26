@@ -1844,6 +1844,15 @@
       "output": "flat-geometric-figures.webp",
       "prompt_slug": "flat-geometric-figures",
       "tokens_used": null
+    },
+    {
+      "prompt_slug": "weary-clay-world",
+      "output": "weary-clay-world.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-26T09:18:09-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame weary clay world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the handmade polymer-clay diorama treatment only, as a standalone full image): the LEGO Millennium Falcon rebuilt as a miniature handmade polymer-clay diorama with deadpan chibi figures with half-lidded fish eyes on a warm off-white ground."
     }
   ],
   "input": "input.jpg"
