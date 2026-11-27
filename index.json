@@ -2,6 +2,28 @@
   "prompts": [
     {
       "author": "Emerson post",
+      "name": "Weary Bread World — 厭世麵包小世界",
+      "name_original": "厭世麵包小世界",
+      "prompt_file": "reference/weary-bread-world/prompt.md",
+      "reference_image": "reference/weary-bread-world/post-01.jpg",
+      "reference_images": [
+        "reference/weary-bread-world/post-01.jpg",
+        "reference/weary-bread-world/post-02.jpg",
+        "reference/weary-bread-world/post-03.jpg",
+        "reference/weary-bread-world/post-04.jpg",
+        "reference/weary-bread-world/post-05.jpg",
+        "reference/weary-bread-world/post-06.jpg",
+        "reference/weary-bread-world/post-07.jpg",
+        "reference/weary-bread-world/post-08.jpg",
+        "reference/weary-bread-world/post-09.jpg",
+        "reference/weary-bread-world/post-10.jpg"
+      ],
+      "slug": "weary-bread-world",
+      "source_url": "https://www.facebook.com/photo/?fbid=122165367843032634&set=pcb.122165375721032634",
+      "summary": "Weary bread world: the photo's subjects become deadpan chibi figures in a miniature handmade baked-dough diorama — small body, oversized round head, half-lidded fish eyes of pale dough discs with sesame pupils, warm golden-tan dough with toasted-brown edges and crust cracks — on a warm off-white flour-dusted ground, with one short handwritten Traditional Chinese micro-poem per scene."
+    },
+    {
+      "author": "Emerson post",
       "name": "Weary Clay World — 厭世的手作黏土小世界",
       "name_original": "厭世的手作黏土小世界",
       "prompt_file": "reference/weary-clay-world/prompt.md",

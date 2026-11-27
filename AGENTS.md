@@ -3305,6 +3305,73 @@ by set ID / reel ID before counting a post as new.
   The catalog now stands at **84 prompts, 813 reference images,
   411 sample outputs**.
 
+### weary-bread-world — Emerson post (fetched 2026-11-27 via signed-in browser)
+
+- **Creator:** Emerson post (same profile as above).
+- **Style:** Weary Bread World · 厭世麵包小世界, photo set
+  posted **Nov 27, 2026** (author's prompt comment timestamped
+  Nov 27, 2026, 8:24 AM), the first post newer than the Nov 26
+  weary-clay-world entry. Caught by the daily-update routine. The
+  Nov 27 feed holds, above the Nov 26 clay pair, only this set,
+  its companion reel and a 1:50 AM follower shout-out (single-image
+  text post, no prompt, not filed) — one style, one entry
+  (de-duplicated by set/reel ID before counting).
+- **Photo post:** https://www.facebook.com/permalink.php?story_fbid=pfbid02x2zmfG8P91k5HGUFWDohyaE1k21nJszCZ8wX3sezGvczqCHUmYofgS7qaaLwAJzbl&id=61580979040009
+  — set ID `pcb.122165375721032634`; entry photo fbid
+  `122165367843032634`. The full GPT prompt is in the author's
+  comment ("厭世麵包小世界｜完整 AI 指令分享！") and also in the
+  post caption. Example photos credited to Pexels in the post.
+  Observed at fetch time: 13 reactions, 1 comment, 3 shares.
+  `reference/weary-bread-world/prompt.md` keeps a structural
+  summary plus an English translation of the introduction.
+- **Companion reel:** https://www.facebook.com/reel/1812959173764472
+  (0:20, music "Seaside Drive – LUV TOWN"), author's comment
+  timestamped Nov 27, 2026 at 8:33 AM. Frame-checked 2026-11-27
+  by scrubbing the full timeline: all 10 set posters were seen
+  (shuffled order); no set-external example, nothing extra to
+  download.
+- **Images:** exactly **10** (viewer cycle: stepping Next from
+  photo 10 returned to photo 1), all 1086×1448 (the highest
+  rendition the viewer serves for this set), saved as
+  `reference/weary-bread-world/post-01.jpg` … `post-10.jpg`.
+  Every poster is a vertical 3:4 comparison poster: the original
+  photograph on top, a handmade baked-dough diorama below on a
+  warm off-white flour-dusted ground, with one short handwritten
+  Traditional Chinese micro-poem in the dough half. Subjects with
+  their printed micro-poems, in set order: 1 three men in a convex
+  road mirror ("同一面鏡子，照見一樣的瘋。"), 2 woman with a camera
+  at a foggy hillside campsite ("拍一點風景，也拍一點放空的自己。"),
+  3 two men clinking cups by a lake at dusk ("一杯熱飲，把忙碌先暫停。"),
+  4 person tying a white sneaker ("綁好鞋帶，再出發吧。"),
+  5 man reclining on rattan chairs ("椅子都在等客人，只有我在等下班。"),
+  6 couple playing harmonica by a lake ("湖邊聊一聊，生活也慢下來了。"),
+  7 couple on a couch with a laptop ("同一個沙發，看見不一樣的日常。"),
+  8 man walking a snowy street ("一步一腳印，把日子走成白色的靜。"),
+  9 fisherman mending a net ("補一張網，也補一點生活的漏洞。"),
+  10 delivery courier on a stair landing ("等下一單，也等一點轉機。").
+  Set order (fbids): 122165367843032634, 122165367615032634,
+  122165367327032634, 122165367111032634, 122165367135032634,
+  122165367159032634, 122165367663032634, 122165367681032634,
+  122165367363032634, 122165367345032634.
+- **Filed as its OWN entry**, not folded into
+  `weary-clay-world` (Nov 26) or `weary-newspaper-world` (Nov 24):
+  same "厭世小世界" family — deadpan chibi figures, half-closed
+  dead-fish eyes, one short Traditional Chinese micro-poem per
+  scene — but a different material: this style rebuilds each scene
+  as a miniature handmade baked-bread-dough diorama (golden-tan
+  dough skin, crust cracks, toasted-brown edges, flour-dusted
+  ground, sesame-pupil eyes, dough-ball nose), while
+  weary-clay-world uses polymer clay and weary-newspaper-world
+  assembles its figures from torn pieces of yellowed old newspaper.
+- **Samples:** PENDING — the image-generation pipeline was
+  unavailable when the five sample outputs were attempted on
+  Nov 27, 2026 (upstream unavailable / 503 after retries), so no
+  samples were generated in this run. To be filed in a repair pass
+  once the pipeline recovers, as with `weary-clay-world` the day
+  before (whose samples were likewise filed later the same day
+  after a morning pipeline outage). The catalog now stands at
+  **85 prompts, 823 reference images, 411 sample outputs**.
+
 ### Roundup post — 五款照片生圖懶人包｜第二輯 (noted 2026-11-25; one style filed, four repeats)
 
 ### Roundup post — 五款照片風格指令懶人包 (noted 2026-11-23, not filed as an entry)
