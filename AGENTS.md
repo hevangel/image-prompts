@@ -3363,17 +3363,22 @@ by set ID / reel ID before counting a post as new.
   ground, sesame-pupil eyes, dough-ball nose), while
   weary-clay-world uses polymer clay and weary-newspaper-world
   assembles its figures from torn pieces of yellowed old newspaper.
-- **Samples:** filed in two parts. The morning run on Nov 27, 2026
-  generated none (upstream unavailable / 503). A same-day repair
-  pass filed **3 of 5** full-frame outputs (howe-sound, book-fair,
-  concert-stage), all accepted on first attempt after a contact-sheet
-  check. Still pending: millennium-falcon (the pipeline declined
-  the generation request; not retried in this pass — a differently
-  worded attempt would be a new request) and taco-truck-dog
-  (upstream unavailable / 503 after retries; retry once the
-  pipeline recovers). Both failed attempts are recorded in their
-  `generations.json` with `output: null`. The catalog now stands at
-  **85 prompts, 823 reference images, 414 sample outputs**.
+- **Samples:** all 5 filed, in three parts. The morning run on
+  Nov 27, 2026 generated none (upstream unavailable / 503). A
+  same-day repair pass filed **3 of 5** full-frame outputs
+  (howe-sound, book-fair, concert-stage), all accepted on first
+  attempt after a contact-sheet check. A follow-up pass the same
+  day, at the user's request to try the pipeline again, filed the
+  last two, both on first attempt and visually checked
+  (full-frame dough dioramas, no split, no embedded original, no
+  text): millennium-falcon — with a generically worded request
+  (subject described as a toy model spaceship, no franchise or
+  ship names) after the first attempt was declined by the
+  pipeline's content check — and taco-truck-dog, on a straight
+  retry once the 503 outage had cleared. The earlier failed
+  attempts remain recorded in their `generations.json` with
+  `output: null`. The catalog now stands at **85 prompts, 823
+  reference images, 416 sample outputs**.
 
 ### Roundup post — 五款照片生圖懶人包｜第二輯 (noted 2026-11-25; one style filed, four repeats)
 

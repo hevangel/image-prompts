@@ -1862,6 +1862,15 @@
       "tokens_used": null,
       "current": false,
       "notes": "Generation attempt on 2026-11-27: the image could not be generated (the pipeline declined the request); no output produced and no file kept. Not retried in this pass — a differently worded attempt would be a new request. Sample still pending."
+    },
+    {
+      "prompt_slug": "weary-bread-world",
+      "output": "weary-bread-world.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-27T14:16:40-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame weary bread world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the handmade baked-bread-dough diorama treatment only, as a standalone full image): the model spaceship on its cabinet redrawn as a miniature handmade baked-bread-dough diorama — saucer-shaped hull, round dish and forked front prongs rebuilt from dough with crust cracks, tiny blisters and toasted-brown edges, tiny deadpan chibi dough figures with half-lidded sesame-seed fish eyes standing on the hull, a dough autumn-leaf tree behind, on a flour-dusted dough cabinet. Filed 2026-11-27 in the follow-up pass with a generically worded request (no franchise or ship names) after the first attempt was declined by the pipeline's content check."
     }
   ],
   "input": "input.jpg"

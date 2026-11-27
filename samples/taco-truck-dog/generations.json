@@ -746,6 +746,15 @@
       "tokens_used": null,
       "current": false,
       "notes": "Generation attempt on 2026-11-27: the image-generation pipeline returned upstream unavailable (503) after retries; no output produced. Sample still pending — retry once the pipeline recovers."
+    },
+    {
+      "prompt_slug": "weary-bread-world",
+      "output": "weary-bread-world.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-27T14:16:40-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame weary bread world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the handmade baked-bread-dough diorama treatment only, as a standalone full image): the black dog and the red taco truck redrawn as a miniature handmade baked-bread-dough diorama — a deadpan chibi dough dog with half-lidded sesame-seed fish eyes, a dough-ball nose and its red harness, tied by a blue dough rope to a yellow dough post, the red dough truck behind it decorated with dough tacos and a green sombrero-wearing dinosaur, no lettering, on a warm off-white flour-dusted ground. Filed 2026-11-27 in the follow-up pass after the morning attempts returned upstream unavailable (503)."
     }
   ],
   "input": "input.jpg"
