@@ -2548,6 +2548,15 @@
       "tokens_used": null,
       "current": true,
       "notes": "Full-frame weary clay world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the handmade polymer-clay diorama treatment only, as a standalone full image): four children at a book-fair table redrawn as deadpan chibi clay figures with half-lidded fish eyes around a clay book table on a warm off-white ground."
+    },
+    {
+      "prompt_slug": "weary-bread-world",
+      "output": "weary-bread-world.webp",
+      "model": "Muse Image (Meta)",
+      "generated_at": "2026-11-27T09:19:41-07:00",
+      "tokens_used": null,
+      "current": true,
+      "notes": "Full-frame weary bread world transformation (per the repo's standing sample rule — the source prompt's split-poster layout is adapted: the handmade baked-bread-dough diorama treatment only, as a standalone full image): four children at a book-fair table redrawn as deadpan chibi dough figures with half-lidded sesame-seed fish eyes around a dough book table on a warm off-white flour-dusted ground."
     }
   ],
   "input": "input.jpg"

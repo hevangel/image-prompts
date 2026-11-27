@@ -3363,14 +3363,17 @@ by set ID / reel ID before counting a post as new.
   ground, sesame-pupil eyes, dough-ball nose), while
   weary-clay-world uses polymer clay and weary-newspaper-world
   assembles its figures from torn pieces of yellowed old newspaper.
-- **Samples:** PENDING — the image-generation pipeline was
-  unavailable when the five sample outputs were attempted on
-  Nov 27, 2026 (upstream unavailable / 503 after retries), so no
-  samples were generated in this run. To be filed in a repair pass
-  once the pipeline recovers, as with `weary-clay-world` the day
-  before (whose samples were likewise filed later the same day
-  after a morning pipeline outage). The catalog now stands at
-  **85 prompts, 823 reference images, 411 sample outputs**.
+- **Samples:** filed in two parts. The morning run on Nov 27, 2026
+  generated none (upstream unavailable / 503). A same-day repair
+  pass filed **3 of 5** full-frame outputs (howe-sound, book-fair,
+  concert-stage), all accepted on first attempt after a contact-sheet
+  check. Still pending: millennium-falcon (the pipeline declined
+  the generation request; not retried in this pass — a differently
+  worded attempt would be a new request) and taco-truck-dog
+  (upstream unavailable / 503 after retries; retry once the
+  pipeline recovers). Both failed attempts are recorded in their
+  `generations.json` with `output: null`. The catalog now stands at
+  **85 prompts, 823 reference images, 414 sample outputs**.
 
 ### Roundup post — 五款照片生圖懶人包｜第二輯 (noted 2026-11-25; one style filed, four repeats)
 
